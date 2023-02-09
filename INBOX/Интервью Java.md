@@ -1,0 +1,7 @@
+- [ ] Memory Leak Java - почитать про это (из видео внутренних классов)
+- [ ] Dimond problem (проблема ромба)
+- [ ] Понятия обратной совместимости
+- [ ] что такое type erasure
+- [ ] memory barriers (java concurrency)
+- [ ] explain closures (замыкание в java и js сравним)
+- [ ] Monitoring solitions (Splunk, ELK, Grafana)

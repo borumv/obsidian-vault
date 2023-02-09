@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "a50cb43b3b6b0a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72fbe166d30362c8",
+        "type": "leaf",
+        "dimension": 33.46379647749511,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "KW/KW/INBOX/English_B1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7cbd8a91952d6fac",
+        "type": "leaf",
+        "dimension": 66.53620352250489,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "KW/KW/INBOX/Dictionary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84fa7ab2d8f14f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "de52ef608bde94c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590e07cecc88429f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f248149c28d0afca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "мод",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "9d9f7470aa9ee338",
+    "type": "split",
+    "children": [
+      {
+        "id": "9924897c05413c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f41a70c2e409bd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KW/KW/INBOX/Dictionary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7cbd8a91952d6fac",
+  "lastOpenFiles": [
+    "KW/KW/INBOX/English_B1.md",
+    "KW/KW/INBOX/Spring по Борисову.md",
+    "KW/KW/INBOX/Dictionary.md",
+    "KW/KW/INBOX/Phrasal Verbs.md",
+    "KW/KW/INBOX/Todo.md",
+    "KW/KW/KB/Programming/Redux.md",
+    "KW/KW/KB/Programming/psql_Проектирование БД в PostgreSQL.md",
+    "KW/KW/KB/Programming/Bubble Sorting.md",
+    "KW/KW/KB/Programming/Сортировка слиянием.md",
+    "KW/KW/KB/Programming/_Algorithms.md"
+  ]
+}

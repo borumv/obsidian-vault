@@ -1,0 +1,9 @@
+{
+  "welcomeComplete": true,
+  "theme": {
+    "layout": "sketch"
+  },
+  "drawing": {
+    "sketch": true
+  }
+}

@@ -1,0 +1,1 @@
+Ставится над классами бизнес-логики(синоним [@Component](spring_annotation_Component))

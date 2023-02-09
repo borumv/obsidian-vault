@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "KW/KW/attachments",
+  "showFrontmatter": true,
+  "newFileFolderPath": "KW/INBOX",
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ],
+  "defaultViewMode": "source"
+}
