@@ -45,4 +45,11 @@ See also:[]
 >Hi there! Have you ever heard of Anjeline Jordan? She is one of the winners of a Norvegian Show Talant. She was a little eight-old girl when she made it though. Yesterday before going to bed, I had listening to her cover on I put a Spell on You. Her voice is so mature and powerfull. When I first heard herd it I was surprised that before I hadn't heard of this talanted girl. He has a good English because her father used to work in USA. So Anjkelina had been practicing English for many years before her family moved back to Norway. I think she deserved to win in the show. She had been working on her voice since she learned how to speak. Of course he has a gift but I believe that " Genius - is one percent inspiration of inspiration but ninety nine persent  persperation"
 
 ## 17. Have и Have got
-
+> 1. Have you got any ideas?
+> 2. They had a larger house before
+> 3. I like signing while I having a showere
+> Hi there! Do you have a dream?
+  I wish I had enormous library
+> Have you ever watched a Dysney's  Beauty and Beast? The Beasts custle had such a beautiful library
+> You know, while you were a child you always have a dreams. In diffirent ages I dreamt of different things and it strongly depended on that stuff I had watched before. In different times I wanted to be a princess, Piter Pen a spy and witch.
+> Once I got a book about Harry Potter. And I definitly remember that I dreamt of having a meal of Hogwarts. They had so long old-fashioned table in main hall. Do you remember the treats that they had there? Even now I still want to have Christmas dinner in the Hogwarts
