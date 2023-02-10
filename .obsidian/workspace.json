@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Установка Docker из стандартного манула.md",
+                "file": "📙MOC-Kotlin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/OK English.md",
+                "file": "MOC-Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "English",
+                "query": "Machine Lear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -171,26 +171,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "918dd3aaf37c0901",
+  "active": "aca8c7d109d775b4",
   "lastOpenFiles": [
     "KW/KB/English/OK English.md",
+    "📙MOC-Kotlin.md",
+    "KB/Programming/Установка Docker из стандартного манула.md",
     "KB/Programming/python_Conda installation.md",
     "KB/English/english_Условные предложения.md",
     "INBOX/Методики изучения английского.md",
-    "KB/Programming/Установка Docker из стандартного манула.md",
     "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
     "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
-    "📙MOC-Kotlin.md",
     "Projects/ArrayBlocingQue.md",
     "KB/Programming/spring_MVC.md"
   ]

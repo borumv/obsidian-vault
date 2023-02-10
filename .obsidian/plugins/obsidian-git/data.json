@@ -17,12 +17,12 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "https://github.com/borumv/obsidian_vault.git",
+  "basePath": "https://github.com/borumv/obsidian-vault.git",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
-  "gitDir": "https://github.com/borumv/obsidian_vault.git"
+  "gitDir": ""
 }
