@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙MOC-Docker.md",
+                "file": "KB/Programming/Docker networking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -196,6 +196,7 @@
   },
   "active": "fd8ee52e97124c20",
   "lastOpenFiles": [
+    "KB/Programming/📙MOC-Docker.md",
     "📙MOC-Kotlin.md",
     "KW/KB/English/OK English.md",
     "KB/Programming/python_Pandas.md",
@@ -204,7 +205,6 @@
     "KB/Programming/Установка Docker из стандартного манула.md",
     "KB/English/english_Условные предложения.md",
     "INBOX/Методики изучения английского.md",
-    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
-    "KB/English/Условное наклонение 2-го типа (Conditional 2).md"
+    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md"
   ]
 }
