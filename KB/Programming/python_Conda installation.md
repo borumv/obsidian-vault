@@ -10,3 +10,7 @@ Tags: python, machine_learning
 
 📌`conda create --prefix ./env pandas numpy matplotlib scikit-learn`
 
+`conda env list` - посмотреть список окружений конды на компьютере
+`conda activate C:\Users\Admin\Documents\Study\ML\project1\env` - активация окружения
+
+
