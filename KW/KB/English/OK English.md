@@ -3,7 +3,7 @@
 ---
 created: Friday 3rd February 2023 20:03
 Last modified: Friday 3rd February 2023 20:03
-Aliases: 
+Aliases: OK ENGLISH
 
 Tags: english ,  english
 ---
@@ -43,3 +43,6 @@ See also:[]
 >2. It was many people at the party their I hadn't known befor
 >3. Why you look so sleppy? I had been bad sleep at night
 >Hi there! Have you ever heard of Anjeline Jordan? She is one of the winners of a Norvegian Show Talant. She was a little eight-old girl when she made it though. Yesterday before going to bed, I had listening to her cover on I put a Spell on You. Her voice is so mature and powerfull. When I first heard herd it I was surprised that before I hadn't heard of this talanted girl. He has a good English because her father used to work in USA. So Anjkelina had been practicing English for many years before her family moved back to Norway. I think she deserved to win in the show. She had been working on her voice since she learned how to speak. Of course he has a gift but I believe that " Genius - is one percent inspiration of inspiration but ninety nine persent  persperation"
+
+## 17. Have и Have got
+
