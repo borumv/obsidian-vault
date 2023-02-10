@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📙MOC-Kotlin.md",
+                "file": "KB/Programming/📙MOC-Docker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kotlin",
+                "query": "Docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,11 +196,11 @@
   },
   "active": "fd8ee52e97124c20",
   "lastOpenFiles": [
+    "📙MOC-Kotlin.md",
     "KW/KB/English/OK English.md",
     "KB/Programming/python_Pandas.md",
     "KB/Programming/python_Conda installation.md",
     "MOC-Machine Learning.md",
-    "📙MOC-Kotlin.md",
     "KB/Programming/Установка Docker из стандартного манула.md",
     "KB/English/english_Условные предложения.md",
     "INBOX/Методики изучения английского.md",

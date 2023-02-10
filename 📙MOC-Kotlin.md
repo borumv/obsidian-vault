@@ -49,6 +49,18 @@ if (i.length !=null){
 val i:String? = null;  
 println(i!!.length)
 ```
+
+У нас 3 нулабельные строки  
+В переменую result вывести сумму длин всех строк.  
+Если null, то длина = 0:
+```kotlin
+val i:String? = null;  
+val i2:String? = "hello";  
+val i3:String? = "world";  
+  
+val result = (i?.length?:0) + (i2?.length?:0) + (i3?.length?:0)  
+println(result)
+```
 %% Hub MOCs: Don’t edit below  %%
 
 %% Hub MOCs: Don’t edit above  %%
