@@ -1,3 +1,4 @@
+
 <%*
   let title = tp.file.title
   if (title.startsWith("Untitled")) {
@@ -12,8 +13,8 @@ Last modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
 Aliases: <% tp.system.prompt("Aliases?") %>
 Tags: spring, java
 ---
-<% await tp.file.move("/KB/Programming/java" + tp.file.title) %>
-# [[<% spring_tp.file.title %>]]
+<% await tp.file.move("/KB/Programming/spring_" + tp.file.title) %>
+# [[<% tp.file.title %>]]
 
-📌 
+📌tp.file.cursor(1)
 

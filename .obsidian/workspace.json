@@ -26,14 +26,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Context.md",
+                "file": "templates/T-spring.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aca1db27ad30a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/java/spring_Локализация.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a38da743473e04a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dependency Invertion Principle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd129764e64dcfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INBOX/Spring по Борисову.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -62,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Context",
+                "query": "Depen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "918dd3aaf37c0901",
+  "active": "fd129764e64dcfe6",
   "lastOpenFiles": [
-    "📙MOC-Kotlin.md",
-    "KB/Programming/spring_Context.md",
-    "KB/Programming/java/spring_annotation Autowired.md",
     "Dependency Invertion Principle.md",
-    "KB/Programming/java/SOLID.md",
-    "Inteface Segregation Principle.md",
-    "Liskov Substitution Principle.md",
-    "Open Closed Principle.md",
-    "Single Responsibility Principle.md",
-    "KB/Programming/python_Conda installation.md"
+    "INBOX/Dependency Injection.md",
+    "().md",
+    "KB/Programming/spring_Context.md",
+    "KB/Programming/java/spring_Локализация.md",
+    "INBOX/Spring по Борисову.md",
+    "templates/T-spring.md",
+    "templates/T-python.md",
+    "KB/Programming/java/.md",
+    "📙MOC-Kotlin.md"
   ]
 }
