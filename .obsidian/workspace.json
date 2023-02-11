@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "aca8c7d109d775b4",
+            "id": "b26f0af311342330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/python_Conda installation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe075f7b6220e54e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INBOX/Методики изучения английского.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6809b28792615e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/English/english_Условные предложения.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89c393054c83a468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/python_Conda installation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8ee52e97124c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Docker networking.md",
+                "file": "KB/Programming/java/SOLID.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,17 +142,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd8ee52e97124c20",
+  "active": "b26f0af311342330",
   "lastOpenFiles": [
-    "KB/Programming/📙MOC-Docker.md",
     "📙MOC-Kotlin.md",
+    "KB/Programming/python_Conda installation.md",
+    "INBOX/Методики изучения английского.md",
+    "INBOX/Вопросы на собес.md",
+    "KB/Programming/Docker networking.md",
+    "KB/Programming/📙MOC-Docker.md",
     "KW/KB/English/OK English.md",
     "KB/Programming/python_Pandas.md",
-    "KB/Programming/python_Conda installation.md",
     "MOC-Machine Learning.md",
-    "KB/Programming/Установка Docker из стандартного манула.md",
-    "KB/English/english_Условные предложения.md",
-    "INBOX/Методики изучения английского.md",
-    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md"
+    "KB/Programming/Установка Docker из стандартного манула.md"
   ]
 }
