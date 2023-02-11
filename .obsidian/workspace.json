@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📙MOC-Kotlin.md",
+                "file": "templates/T-spring.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/spring_annotation Autowired.md",
+                "file": "KB/Programming/spring_Context.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Контекст",
+                "query": "Context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,17 +140,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b26f0af311342330",
+  "active": "918dd3aaf37c0901",
   "lastOpenFiles": [
-    "Dependency Invertion Principle.md",
     "📙MOC-Kotlin.md",
+    "KB/Programming/spring_Context.md",
+    "KB/Programming/java/spring_annotation Autowired.md",
+    "Dependency Invertion Principle.md",
     "KB/Programming/java/SOLID.md",
     "Inteface Segregation Principle.md",
     "Liskov Substitution Principle.md",
     "Open Closed Principle.md",
     "Single Responsibility Principle.md",
-    "KB/Programming/python_Conda installation.md",
-    "INBOX/Методики изучения английского.md",
-    "INBOX/Вопросы на собес.md"
+    "KB/Programming/python_Conda installation.md"
   ]
 }
