@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/SOLID.md",
+                "file": "Liskov Substitution Principle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,15 +144,15 @@
   },
   "active": "b26f0af311342330",
   "lastOpenFiles": [
+    "KB/Programming/java/SOLID.md",
+    "Open Closed Principle.md",
+    "Single Responsibility Principle.md",
     "📙MOC-Kotlin.md",
     "KB/Programming/python_Conda installation.md",
     "INBOX/Методики изучения английского.md",
     "INBOX/Вопросы на собес.md",
     "KB/Programming/Docker networking.md",
     "KB/Programming/📙MOC-Docker.md",
-    "KW/KB/English/OK English.md",
-    "KB/Programming/python_Pandas.md",
-    "MOC-Machine Learning.md",
-    "KB/Programming/Установка Docker из стандартного манула.md"
+    "KW/KB/English/OK English.md"
   ]
 }

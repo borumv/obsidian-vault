@@ -9,4 +9,6 @@ Tags: java
 
 5 принципов, которые сфокусированы на управлении зависимостями
 
-
+- [[Single Responsibility Principle]]
+- [[Open Closed Principle]]
+- [[Liskov Substitution Principle]]
