@@ -55,3 +55,9 @@ See also:[]
 > Once I got a book about Harry Potter. And I definitly remember that I dreamt of having a meal of Hogwarts. They had so long old-fashioned table in main hall. Do you remember the treats that they had there? Even now I still want to have Christmas dinner in the Hogwarts
 
 ## 18. Used to
+>What did you use to read whe you were a child?
+>Severals years ago I used to jugging a lot. I need to jugging again
+>Three years ago I didn't use to know English as good as I know it now
+>Hi there! Did you use to do thing you wish you had never done
+>My friend used to play piano. He played wery well but he had used to study such a long time while he developed syndriom ... both wirsts. He had to music. Moreover, he had been survived of hurt, numbness and tinting his hands for quite a long time. No he is doing well right now because he didn't give up his life. Instead of being a good concert pianist, he is a god magical now. 
+>Life can be a hard nut, so let's be nutcrackers.
