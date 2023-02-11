@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Dependency Injection.md",
+                "file": "KW/KB/English/OK English.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring_",
+                "query": "OK English",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,15 +157,15 @@
   },
   "active": "fd129764e64dcfe6",
   "lastOpenFiles": [
+    "KB/English/English_B1.md",
+    "KB/Programming/java/spring_annotation Autowired.md",
+    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_IoC-контейнер.md",
     "KB/Programming/java/IoC-контейнер.md",
-    "KB/Programming/spring_Dependency Injection.md",
     "INBOX/Spring по Борисову.md",
     "KB/Programming/java/spring_Java-Based Конфигурация.md",
     "Dependency Invertion Principle.md",
     "KB/Programming/java/spring_annotations Стереотипы.md",
-    "KB/Programming/java/spring_annotation_Configuration.md",
-    "INBOX/Dependency Injection.md",
-    "KB/Programming/java/spring_Локализация.md"
+    "KB/Programming/java/spring_annotation_Configuration.md"
   ]
 }
