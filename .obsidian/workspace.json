@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liskov Substitution Principle.md",
+                "file": "Dependency Invertion Principle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,15 +144,15 @@
   },
   "active": "b26f0af311342330",
   "lastOpenFiles": [
+    "📙MOC-Kotlin.md",
+    "Dependency Invertion Principle.md",
     "KB/Programming/java/SOLID.md",
+    "Inteface Segregation Principle.md",
+    "Liskov Substitution Principle.md",
     "Open Closed Principle.md",
     "Single Responsibility Principle.md",
-    "📙MOC-Kotlin.md",
     "KB/Programming/python_Conda installation.md",
     "INBOX/Методики изучения английского.md",
-    "INBOX/Вопросы на собес.md",
-    "KB/Programming/Docker networking.md",
-    "KB/Programming/📙MOC-Docker.md",
-    "KW/KB/English/OK English.md"
+    "INBOX/Вопросы на собес.md"
   ]
 }

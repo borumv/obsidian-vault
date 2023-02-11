@@ -12,3 +12,5 @@ Tags: java
 - [[Single Responsibility Principle]]
 - [[Open Closed Principle]]
 - [[Liskov Substitution Principle]]
+- [[Inteface Segregation Principle]]
+- [[Dependency Invertion Principle]]
