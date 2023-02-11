@@ -27,4 +27,4 @@ PersonService personService(IPersonDAO dao) {
 Различные подходы разработки зависимостей:
 ![[Pasted image 20220716191735.png]]
 
-see: [[IoC-контейнер в Spring]]
+see: [[spring_IoC-контейнер]]
