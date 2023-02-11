@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Invertion Principle.md",
+                "file": "KB/Programming/java/spring_annotation Autowired.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Контекст",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,8 @@
   },
   "active": "b26f0af311342330",
   "lastOpenFiles": [
-    "📙MOC-Kotlin.md",
     "Dependency Invertion Principle.md",
+    "📙MOC-Kotlin.md",
     "KB/Programming/java/SOLID.md",
     "Inteface Segregation Principle.md",
     "Liskov Substitution Principle.md",
