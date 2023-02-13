@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/NAT.md",
+                "file": "KB/Programming/DHCP сервер.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,6 +195,7 @@
   },
   "active": "e1f0f139a922ac71",
   "lastOpenFiles": [
+    "KB/Programming/NAT.md",
     "templates/T-programming.md",
     "templates/T-python.md",
     "templates/T-docker.md",
@@ -203,7 +204,6 @@
     "KB/Programming/Docker networking.md",
     "KW/KB/English/OK English.md",
     "KB/English/English_B1.md",
-    "KB/Programming/java/spring_annotation Autowired.md",
-    "KB/Programming/spring_Dependency Injection.md"
+    "KB/Programming/java/spring_annotation Autowired.md"
   ]
 }
