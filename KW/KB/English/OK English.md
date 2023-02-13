@@ -63,4 +63,11 @@ See also:[]
 >Life can be a hard nut, so let's be nutcrackers.
 
 ### 19. Настоящее время в будущем
+
+>What time is team-meating start?
+>We are going to start at five tomorrow. Don't forget
+>Our meating will start at 5 if manager won't to be late
+>The appointment probably starts at five o'clock tomorrow
 >
+Hi there! What are you doing tomorrow?
+As you know, I had a terrible cold about a week ago. I fell well now but I want to make some tests to be sure 100 %. So I'm seeing the doctor @ 11:30. I hope the appointment won't take long because I'm going to meet Sarah after it. We plan to go to the movies. We'll probably have coffe in our favorite caffe after the movies. We are going to see the movie called Green book. It starts at 12:00./ I hope we aren not late
