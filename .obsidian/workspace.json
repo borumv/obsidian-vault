@@ -47,51 +47,12 @@
             }
           },
           {
-            "id": "f481998617315a85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/T-programming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1f0f139a922ac71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/DHCP сервер.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ac2f31462ad9f59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/TCP протокол.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8adaa44491dc824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Docker Services.md",
+                "file": "KW/KB/English/OK English.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OK ENGLISH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,15 +170,15 @@
   },
   "active": "2ac2f31462ad9f59",
   "lastOpenFiles": [
+    "INBOX/news-API.md",
+    "KB/English/English_B1.md",
+    "KB/English/English B2.md",
+    "KB/Programming/TCP протокол.md",
+    "KB/Programming/Docker Services.md",
     "KB/Programming/DHCP сервер.md",
     "KB/Programming/NAT.md",
     "templates/T-programming.md",
     "templates/T-python.md",
-    "templates/T-docker.md",
-    "KB/Programming/драйвер Bridge.md",
-    "KB/Programming/Docker Services.md",
-    "KB/Programming/Docker networking.md",
-    "KW/KB/English/OK English.md",
-    "KB/English/English_B1.md"
+    "templates/T-docker.md"
   ]
 }

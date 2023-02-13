@@ -61,3 +61,6 @@ See also:[]
 >Hi there! Did you use to do thing you wish you had never done
 >My friend used to play piano. He played wery well but he had used to study such a long time while he developed syndriom ... both wirsts. He had to music. Moreover, he had been survived of hurt, numbness and tinting his hands for quite a long time. No he is doing well right now because he didn't give up his life. Instead of being a good concert pianist, he is a god magical now. 
 >Life can be a hard nut, so let's be nutcrackers.
+
+### 19. Настоящее время в будущем
+>
