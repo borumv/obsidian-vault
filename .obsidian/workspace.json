@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c0efa3cf93afbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417ca97e7e699d57",
+  "active": "9c0efa3cf93afbe6",
   "lastOpenFiles": [
+    "KB/Programming/spring_Profile.md",
     "KB/Programming/java/spring_annotation Autowired.md",
     "KW/KB/English/OK English.md",
     "INBOX/news-API.md",
@@ -191,7 +205,6 @@
     "KB/Programming/TCP протокол.md",
     "KB/Programming/Docker Services.md",
     "KB/Programming/DHCP сервер.md",
-    "KB/Programming/NAT.md",
-    "templates/T-programming.md"
+    "KB/Programming/NAT.md"
   ]
 }
