@@ -82,4 +82,4 @@ As you know, I had a terrible cold about a week ago. I fell well now but I want 
 > Were were driving towards the movies when suddenly  we спустило шину. What we are going to do I asked.
 > I have no ide answere Sarah frankly. I will call to Jack. Boys always know what to do in such sitiutaions.
 > Sarah just was going to get her cell phone from the car but the door of her old Honda Заклинило!
-> But you now what now I beliew that bad luck always comes in threes. Suddenly we heard a tunder. We looked at the sky - it was going to rain. It was puiring while sara was trying to open the door. We were wed and tired when we finally came to home. I hope 
+> But you now what now I beliew that bad luck always comes in threes. Suddenly we heard a tunder. We looked at the sky - it was going to rain. It was puiring while sara was trying to open the door. We were wed and tired when we finally came to home. I hope i don't going to cold again after this adventure
