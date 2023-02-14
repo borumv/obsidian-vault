@@ -43,4 +43,10 @@ public class GreetingServiceInternalizationEsp implements GreetingService{
 ```java
 spring.profiles.active = EN
 ```
-
+- Чтобы указать **дефолтный** профайл, то нужно прописать **defaul** в атрибутах:
+```java
+@Service("internalizationService")  
+@Profile({"ESP", "default")  
+public class GreetingServiceInternalizationEsp implements GreetingService
+...
+```
