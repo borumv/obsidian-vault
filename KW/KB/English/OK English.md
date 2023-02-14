@@ -56,7 +56,7 @@ See also:[]
 
 ## 18. Used to
 >What did you use to read whe you were a child?
->Severals years ago I used to jugging a lot. I need to jugging again
+>Severals > Я собираюсь выфввфыyears ago I used to jugging a lot. I need to jugging again
 >Three years ago I didn't use to know English as good as I know it now
 >Hi there! Did you use to do thing you wish you had never done
 >My friend used to play piano. He played wery well but he had used to study such a long time while he developed syndriom ... both wirsts. He had to music. Moreover, he had been survived of hurt, numbness and tinting his hands for quite a long time. No he is doing well right now because he didn't give up his life. Instead of being a good concert pianist, he is a god magical now. 
@@ -73,3 +73,13 @@ Hi there! What are you doing tomorrow?
 As you know, I had a terrible cold about a week ago. I fell well now but I want to make some tests to be sure 100 %. So I'm seeing the doctor @ 11:30. I hope the appointment won't take long because I'm going to meet Sarah after it. We plan to go to the movies. We'll probably have coffe in our favorite caffe after the movies. We are going to see the movie called Green book. It starts at 12:00./ I hope we aren not late
 
 ### 20. Going to
+> I'm going to see her on Monday.So I can tell her hello from you
+> Tomorrow I'm meeting with my lower. We have an appointment at 3 o'clock
+> The tree is very old. This branch is going to fall
+> Watch your steps. You're going to fall
+> Hi there! How was your weekend?
+> I'm finally well after my cold. So Sara Jack ana I were going to watch the new movie on the cinima. Sarah was pick me up. I asked her where Jack was. She told that he was going to watch a basketball game with his friend. What a treat!
+> Were were driving towards the movies when suddenly  we спустило шину. What we are going to do I asked.
+> I have no ide answere Sarah frankly. I will call to Jack. Boys always know what to do in such sitiutaions.
+> Sarah just was going to get her cell phone from the car but the door of her old Honda Заклинило!
+> But you now what now I beliew that bad luck always comes in threes. Suddenly we heard a tunder. We looked at the sky - it was going to rain. It was puiring while sara was trying to open the door. We were wed and tired when we finally came to home. I hope 
