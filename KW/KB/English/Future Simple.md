@@ -11,12 +11,17 @@ Tags: futuresimple ,  english
 # [[Future Simple]]
 
 Parent: [[English_Grammar]]
+ 
+![[Pasted image 20230215183741.png]]
 
 > [!tip] Описание
-> Lorem ipsum dolor sit amet
+>  З начение: я решил это сделать/скорее всего, это произойдёт в будущем
+>  1) Часто рядом с указателями мнения (I think)
+>  2) Когда устройство отказывапется работать (включаться), часто говорят **It won't work / start**
 
 >[!example] Examples
->lorem inedff
+>1. I'll help mom with her chores
+>2. The vacuum cleaner woon't start, maybe it's broken
 
 
 See also:[]
