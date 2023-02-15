@@ -20,6 +20,10 @@ Tags: machine_learning moc
 6. Улучшение
 
 
+See:
+1. [[python_Pandas|Pandas]]
+2. [[NumPy]]
+
 %% Hub MOCs: Don’t edit below  %%
 
 %% Hub MOCs: Don’t edit above  %%

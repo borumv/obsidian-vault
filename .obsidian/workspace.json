@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/OK English.md",
+                "file": "KB/Programming/NumPy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OK ENGLISH",
+                "query": "Machine Learn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,15 +143,15 @@
   },
   "active": "9c0efa3cf93afbe6",
   "lastOpenFiles": [
+    "MOC-Machine Learning.md",
+    "KW/KB/English/OK English.md",
     "KB/English/English_A1.md",
     "KW/KB/English/Future Simple.md",
     "KW/KB/English/Past Continuous.md",
     "Времена в английском языке.md",
     "KB/English/English_grammar.md",
-    "KW/KB/English/OK English.md",
     "KB/English/English B2.md",
     "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/spring_Profile.md",
-    "KB/Programming/java/spring_annotation Autowired.md"
+    "KB/Programming/spring_Profile.md"
   ]
 }
