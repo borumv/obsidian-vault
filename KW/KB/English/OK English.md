@@ -83,3 +83,20 @@ As you know, I had a terrible cold about a week ago. I fell well now but I want 
 > I have no ide answere Sarah frankly. I will call to Jack. Boys always know what to do in such sitiutaions.
 > Sarah just was going to get her cell phone from the car but the door of her old Honda Заклинило!
 > But you now what now I beliew that bad luck always comes in threes. Suddenly we heard a tunder. We looked at the sky - it was going to rain. It was puiring while sara was trying to open the door. We were wed and tired when we finally came to home. I hope i don't going to cold again after this adventure
+
+## 21. Future Simple
+>Hi there! Claire is here! Do you hear that sound? The doorbell is rigning. It's probably Sara. Let's open the door.
+>Sarah: Hi Claire! Don't say me you're streaming again!
+>Clare: Yes I'm streaming. Why are you here so early?
+>Sara: I thougth we might go shopping, but I see you're busy
+>Clare: Yes I'm planning to clean my home. My parents, probably will visit me tonight
+>Sara: If so, I'll help you. 
+>Clare: I'll be so gratefull
+>Sara: When shall we start?
+>Clar: We can start now. I'm sure, it'll take less ttime if we work together.
+>Sara: Will you give me some clothes to cnage but not that Hello Kitty pajamas you love so much
+>Clara: Ei! You promised not to tell anyone about it
+>You know that I won't tell anyone
+>You have just done it! I'm live on Youtube
+>Oops!
+>
