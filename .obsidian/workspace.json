@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/Past Continuous.md",
+                "file": "KW/KB/English/OK English.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Machine Learn",
+                "query": "OK ENGLISH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,17 +142,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c0efa3cf93afbe6",
+  "active": "794adabc44bbbf76",
   "lastOpenFiles": [
-    "MOC-Machine Learning.md",
-    "KW/KB/English/OK English.md",
     "KB/English/English_A1.md",
     "KW/KB/English/Future Simple.md",
-    "KW/KB/English/Past Continuous.md",
     "Времена в английском языке.md",
     "KB/English/English_grammar.md",
+    "KW/KB/English/Past Continuous.md",
+    "KB/Programming/NumPy.md",
+    "MOC-Machine Learning.md",
+    "KW/KB/English/OK English.md",
     "KB/English/English B2.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/spring_Profile.md"
+    "KB/Programming/spring_Bean Life Cycle.md"
   ]
 }
