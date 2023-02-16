@@ -101,4 +101,9 @@ As you know, I had a terrible cold about a week ago. I fell well now but I want 
 >Oops!
 
 ## 22. Future Simple (2)
->
+>They will probably  be wait for us
+>we'll Probably  leave right now
+>I hope you have a nice stay here
+>I don't thint there'll be storm tomorrow 
+>Hi there! I've just talked to Sarah. He says that Jack is going to pass his driving test on Friday. He's already changed his Facebook status to "Don't call me on Friday at 8:30, I'm passind my driving test". I wonder, how many his friends will read it.
+>I hope he won't have any problem with the test, though there is always a chance that something will go wrong. Actually, it happened with him twice. That's why he hasn't got his driving license yet. The car might not start at once abd he will get nervous? Actually, it'll happen to everyone. I hope he'll do well. If so, we will celebrate on Friday night. 
