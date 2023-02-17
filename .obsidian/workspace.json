@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c0efa3cf93afbe6",
+            "id": "794adabc44bbbf76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/NumPy.md",
+                "file": "KB/Programming/📙MOC-Kafka.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "794adabc44bbbf76",
+            "id": "58fd4ad538b953f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/OK English.md",
+                "file": "📙MOC-Maven.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OK English ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -143,17 +142,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "794adabc44bbbf76",
+  "active": "58fd4ad538b953f8",
   "lastOpenFiles": [
+    "KB/Programming/📙MOC-Kafka.md",
+    "📙MOC-Maven.md",
+    "KW/KB/English/OK English.md",
+    "KB/Programming/NumPy.md",
     "KB/English/English_A1.md",
     "KB/Programming/Docker file.md",
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Registry.md",
     "KB/Programming/Docker Client.md",
-    "KW/KB/English/OK English.md",
-    "KW/KB/English/Future Simple.md",
-    "Времена в английском языке.md",
-    "KB/English/English_grammar.md",
-    "KW/KB/English/Past Continuous.md"
+    "KW/KB/English/Future Simple.md"
   ]
 }
