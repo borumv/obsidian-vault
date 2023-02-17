@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/OK English.md",
+                "file": "KB/Programming/Docker file.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OK ENGLISH",
+                "query": "DOcker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,15 +144,15 @@
   },
   "active": "794adabc44bbbf76",
   "lastOpenFiles": [
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Docker Registry.md",
+    "KB/Programming/Docker Client.md",
+    "KW/KB/English/OK English.md",
     "KB/English/English_A1.md",
     "KW/KB/English/Future Simple.md",
     "Времена в английском языке.md",
     "KB/English/English_grammar.md",
     "KW/KB/English/Past Continuous.md",
-    "KB/Programming/NumPy.md",
-    "MOC-Machine Learning.md",
-    "KW/KB/English/OK English.md",
-    "KB/English/English B2.md",
-    "KB/Programming/spring_Bean Life Cycle.md"
+    "KB/Programming/NumPy.md"
   ]
 }
