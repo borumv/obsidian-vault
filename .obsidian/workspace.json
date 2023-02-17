@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Docker file.md",
+                "file": "KW/KB/English/OK English.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,10 +63,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DOcker",
-                "matchingCase": false,
+                "query": "OK English ",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -144,15 +145,15 @@
   },
   "active": "794adabc44bbbf76",
   "lastOpenFiles": [
+    "KB/English/English_A1.md",
+    "KB/Programming/Docker file.md",
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Registry.md",
     "KB/Programming/Docker Client.md",
     "KW/KB/English/OK English.md",
-    "KB/English/English_A1.md",
     "KW/KB/English/Future Simple.md",
     "Времена в английском языке.md",
     "KB/English/English_grammar.md",
-    "KW/KB/English/Past Continuous.md",
-    "KB/Programming/NumPy.md"
+    "KW/KB/English/Past Continuous.md"
   ]
 }

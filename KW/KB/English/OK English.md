@@ -108,4 +108,10 @@ As you know, I had a terrible cold about a week ago. I fell well now but I want 
 >Hi there! I've just talked to Sarah. He says that Jack is going to pass his driving test on Friday. He's already changed his Facebook status to "Don't call me on Friday at 8:30, I'm passind my driving test". I wonder, how many his friends will read it.
 >I hope he won't have any problem with the test, though there is always a chance that something will go wrong. Actually, it happened with him twice. That's why he hasn't got his driving license yet. The car might not start at once abd he will get nervous? Actually, it'll happen to everyone. I hope he'll do well. If so, we will celebrate on Friday night. 
 
-
+## 23. Will be going to
+>I don't have enogh money to pay for lunch
+>Don't worry I'll lend you some
+>That would be kind of you. I'm going to back money as soon as possible.
+>It's cold today. Put your hat on or you're going to get ill
+>Hi there! Our teacher told us about goal-setting theory. He seems to be sure that if you want to what your life is going to be like. Write it down using maximum details. So, I'm going to do it right now. Who knows maybe it'll help
+>I'm sure that I'm going to graduated from university. Then I hope that i'll find  inspiration for writing a novel. I often promise myself that I'll write a lot to become a succesfull writer.  I once read that Stiven King writes six pages every day to get inspiration. So i'm going to write every day even I have nothing to write about
