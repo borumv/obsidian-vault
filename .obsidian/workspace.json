@@ -58,6 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c207795e111f16df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Banner text.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -169,15 +182,15 @@
   },
   "active": "58fd4ad538b953f8",
   "lastOpenFiles": [
-    "maven repositories.md",
+    "KB/Programming/Banner text.md",
     "KB/Programming/📙Maven.md",
+    "maven repositories.md",
     "Maven Lifecycle.md",
     "KB/Programming/Maven plugins.md",
     "INBOX/Todo.md",
     "KB/Programming/Команды командной строки Maven.md",
     "KB/Programming/python_Pasword Checker.md",
     "KB/Programming/java/📙MOC-JAVA.md",
-    "KB/Programming/java/Настройка Kafka в java.md",
-    "KB/Programming/📙MOC-Kafka.md"
+    "KB/Programming/java/Настройка Kafka в java.md"
   ]
 }
