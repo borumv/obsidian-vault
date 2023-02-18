@@ -13,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/📙MOC-JAVA.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee7a9754c95c414a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/python_Pasword Checker.md",
+                "file": "KB/Programming/Установка Docker из стандартного манула.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a60cc48745bc432a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -67,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maven",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,17 +154,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "590e07cecc88429f",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
-    "INBOX/+ PostgreSQL.md",
-    "INBOX/psql_Пользовательские типы.md",
-    "KB/Programming/java/java_H2.md",
-    "INBOX/Todo.md",
-    "KB/Programming/📙Maven.md",
-    "KB/Programming/Banner text.md",
-    "maven repositories.md",
-    "Maven Lifecycle.md",
-    "KB/Programming/Maven plugins.md",
-    "KB/Programming/Команды командной строки Maven.md"
+    "templates/default-template.md",
+    "KB/Programming/Docker Client.md",
+    "KB/Programming/Docker container.md",
+    "KB/Programming/Docker deamon.md",
+    "KB/Programming/Docker networking.md",
+    "KB/Programming/Установка Docker из стандартного манула.md",
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Docker Image.md",
+    "KB/Programming/Docker file.md",
+    "MOC-DOCKER.md"
   ]
 }
