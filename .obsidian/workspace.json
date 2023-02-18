@@ -37,22 +37,17 @@
             "id": "a60cc48745bc432a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INBOX/Todo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "58fd4ad538b953f8",
+            "id": "a15d4b4a3a459d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙Maven.md",
+                "file": "INBOX/PostgreSQL1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58fd4ad538b953f8",
+  "active": "590e07cecc88429f",
   "lastOpenFiles": [
-    "KB/Programming/Banner text.md",
+    "INBOX/+ PostgreSQL.md",
+    "INBOX/psql_Пользовательские типы.md",
+    "KB/Programming/java/java_H2.md",
+    "INBOX/Todo.md",
     "KB/Programming/📙Maven.md",
+    "KB/Programming/Banner text.md",
     "maven repositories.md",
     "Maven Lifecycle.md",
     "KB/Programming/Maven plugins.md",
-    "INBOX/Todo.md",
-    "KB/Programming/Команды командной строки Maven.md",
-    "KB/Programming/python_Pasword Checker.md",
-    "KB/Programming/java/📙MOC-JAVA.md",
-    "KB/Programming/java/Настройка Kafka в java.md"
+    "KB/Programming/Команды командной строки Maven.md"
   ]
 }
