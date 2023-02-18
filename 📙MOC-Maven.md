@@ -15,6 +15,10 @@ mvn archetype:generate
 mvn compile
 ```
 
+
+## Жизненный цикл Maven
+
+
 ### Плагины
 Каждый плагин состоит из цели (**goal**)
 %% Hub MOCs: Don’t edit below  %%
