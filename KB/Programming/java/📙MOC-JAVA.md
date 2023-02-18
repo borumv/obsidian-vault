@@ -4,19 +4,15 @@ date: 05-04-2022
 Aliases: java
 ---
 
-**Tags**
-[[java]]
-[[javadoc]] - определение термина, описание класса/интерфейса
-[[hibernate]] 
+parent:[[📙MOC-Programming]]
 
-**Prefixes:**
-- java_
-- hibernate_
-- spring_
+**Framworks:**
+- [[📙Spring]]
+- [[📙Hibernate]]
+Dependency-contol
+- [[📙Maven]]
+- [[📙Gradle]]
 
-**Sections:**
-[[_Spring]]
-[[_Hibernate]]
 
 ## Prefix
 - anno

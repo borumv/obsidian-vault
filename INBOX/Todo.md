@@ -21,10 +21,10 @@
 Программироание
 - [ ] Java 
 	- [ ] Модель памяти Java
-	- [ ] NIO/IO
+	- [x] NIO/IO
 	- [ ] Spring
 - [ ] JS
-	- [ ] TypeScript
+	- [x] TypeScript
 	- [x] Повторить основы React (Есть курс)
 - [ ] Алгоритмы
 	- [x] Yandex - тренировки по алгоритмам 
@@ -36,5 +36,8 @@
 - [ ] Linux
 	- [ ] Курс Linux command line basics
 - [ ] Системный дизайн
+
+
+
 
 

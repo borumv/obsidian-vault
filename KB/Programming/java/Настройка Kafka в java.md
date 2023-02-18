@@ -37,7 +37,8 @@ kafkaProducer.close();
 Настройка [[kafka_Consumer|консьюмера]]
 
 1) Создание properties для Consumer
-	```java
+
+```java
 String bootstrapSevers = "127.0.0.0:9092";  
 String groupId = "my_fourth-application";  
   
@@ -47,7 +48,7 @@ properties.setProperty(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeser
 properties.setProperty(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());  
 properties.setProperty(ConsumerConfig.GROUP_ID_CONFIG, groupId);  
 properties.setProperty(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest");
-	```
+```
 
 2) Создание самого консьюмера
 ```java

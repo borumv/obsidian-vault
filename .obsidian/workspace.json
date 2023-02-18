@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙MOC-Kafka.md",
+                "file": "KB/Programming/java/📙MOC-JAVA.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee7a9754c95c414a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/python_Pasword Checker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a60cc48745bc432a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INBOX/Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📙MOC-Maven.md",
+                "file": "KB/Programming/📙Maven.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Maven",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,15 +169,15 @@
   },
   "active": "58fd4ad538b953f8",
   "lastOpenFiles": [
-    "KB/Programming/📙MOC-Kafka.md",
-    "📙MOC-Maven.md",
-    "KW/KB/English/OK English.md",
-    "KB/Programming/NumPy.md",
-    "KB/English/English_A1.md",
-    "KB/Programming/Docker file.md",
-    "KB/Programming/📙MOC-Docker.md",
-    "KB/Programming/Docker Registry.md",
-    "KB/Programming/Docker Client.md",
-    "KW/KB/English/Future Simple.md"
+    "maven repositories.md",
+    "KB/Programming/📙Maven.md",
+    "Maven Lifecycle.md",
+    "KB/Programming/Maven plugins.md",
+    "INBOX/Todo.md",
+    "KB/Programming/Команды командной строки Maven.md",
+    "KB/Programming/python_Pasword Checker.md",
+    "KB/Programming/java/📙MOC-JAVA.md",
+    "KB/Programming/java/Настройка Kafka в java.md",
+    "KB/Programming/📙MOC-Kafka.md"
   ]
 }

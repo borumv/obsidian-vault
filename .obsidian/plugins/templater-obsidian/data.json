@@ -17,6 +17,10 @@
     {
       "folder": "KW/KB/English",
       "template": "templates/templater-english.md"
+    },
+    {
+      "folder": "KB/Programming",
+      "template": "templates/T-programming.md"
     }
   ],
   "syntax_highlighting": true,

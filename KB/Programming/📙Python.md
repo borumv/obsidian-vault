@@ -1,5 +1,15 @@
-## Data types
 
+---
+created: Saturday 18th February 2023 09:26
+Last modified: Friday 16th December 2022 10:21
+Aliases: питон
+Tags: python
+---
+
+# [[_Python]]
+
+
+## Data types
 ### Fundamental Data types
 - int
 - float

@@ -8,7 +8,7 @@ Tags: python
 
 # [[python_PyPDF2]]
 
-Библиотека в [python](_Python) для работы с pdf
+Библиотека в [python](📙Python.md) для работы с pdf
 
 >*install:*
 >pip3 install PyPDF2

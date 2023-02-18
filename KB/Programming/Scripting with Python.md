@@ -5,7 +5,7 @@ Last modified: Sunday 18th December 2022 10:56
 Aliases: скрипты на питоне
 Tags: python
 ---
-Parent: [[_Python]]
+Parent: [[📙Python]]
 
 # [[Scripting with Python]]
 
