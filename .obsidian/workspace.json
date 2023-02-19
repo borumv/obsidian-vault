@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "794adabc44bbbf76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Установка Docker из стандартного манула.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a15d4b4a3a459d71",
             "type": "leaf",
             "state": {
@@ -75,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OK EN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,17 +141,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "a15d4b4a3a459d71",
   "lastOpenFiles": [
+    "KB/English/Past Continuous.md",
+    "Времена в английском языке.md",
+    "KB/English/English_grammar.md",
+    "KB/English/OK English.md",
+    "KB/Programming/Установка Docker из стандартного манула.md",
     "templates/default-template.md",
     "KB/Programming/Docker Client.md",
     "KB/Programming/Docker container.md",
     "KB/Programming/Docker deamon.md",
-    "KB/Programming/Docker networking.md",
-    "KB/Programming/Установка Docker из стандартного манула.md",
-    "KB/Programming/📙MOC-Docker.md",
-    "KB/Programming/Docker Image.md",
-    "KB/Programming/Docker file.md",
-    "MOC-DOCKER.md"
+    "KB/Programming/Docker networking.md"
   ]
 }
