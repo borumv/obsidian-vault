@@ -12,3 +12,14 @@ Tags: programming, python, ml
 ## Datatypes 
 ![[Pasted image 20230219192058.png]]
 
+Создание массива
+```python
+a2 = np.array([[1.2,3.3,4.4],
+                 [5,6,7],
+                 [8,9,10]])
+```
+Создание табличного представления с помощью [[python_Pandas|pandas]] 
+```python
+import pandas as pd
+dataframe = pd.DataFrame(a1)
+```
