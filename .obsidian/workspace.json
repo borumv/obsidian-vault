@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/spring_@Repository.md",
+                "file": "KB/Programming/spring_@Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Stereotypes.md",
+                "file": "KB/Programming/spring_@Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,13 +37,8 @@
             "id": "1d530e4d2097744e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring_annotation_Component.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -60,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d530e4d2097744e",
+  "active": "fcdc423dd789461c",
   "lastOpenFiles": [
     "KB/Programming/spring_Stereotypes.md",
+    "KB/Programming/spring_@Controller.md",
+    "KB/Programming/Banner text.md",
+    "KB/Programming/spring_@Component.md",
     "KB/Programming/spring_Beans.md",
     "KB/Programming/kafka_Consumer.md",
     "KB/Programming/java/spring_@Service.md",
     "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/java/spring_@Repository.md",
-    "KB/Programming/java/spring_@Import.md",
-    "KB/Programming/java/spring_@Controller.md",
-    "KB/Programming/java/spring_@Configuration.md",
-    "KB/Programming/java/spring_@ComponentScan.md"
+    "KB/Programming/spring_@Repository.md",
+    "KB/Programming/java/spring_@Import.md"
   ]
 }

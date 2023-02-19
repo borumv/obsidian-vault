@@ -13,7 +13,7 @@ Tags: spring, java
 
 **Стереотипы** используются чтобы определить [[spring_Beans|бины спринга]] в [[spring_Context|контексте]]
 
-Корневой стереотип - [@Component](spring_annotation_Component)
+Корневой стереотип - [@Component](spring_@Component.md)
 
 От которого уходят все остальные:
 [@Service](spring_@Service.md)
