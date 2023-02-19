@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_@Repository.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcdc423dd789461c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/spring_@ComponentScan.md",
+                "file": "KB/Programming/NumPy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mACH",
+                "query": "Num",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,17 +149,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "a15d4b4a3a459d71",
   "lastOpenFiles": [
+    "KB/Programming/spring_@Repository.md",
+    "KB/Programming/NumPy.md",
+    "MOC-Machine Learning.md",
+    "KB/Programming/java/spring_@ComponentScan.md",
     "KB/Programming/spring_@Component.md",
     "KB/Programming/spring_Stereotypes.md",
-    "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_@Controller.md",
     "KB/Programming/Banner text.md",
     "KB/Programming/spring_Beans.md",
-    "KB/Programming/kafka_Consumer.md",
-    "KB/Programming/java/spring_@Service.md",
-    "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/java/spring_@Import.md"
+    "KB/Programming/kafka_Consumer.md"
   ]
 }
