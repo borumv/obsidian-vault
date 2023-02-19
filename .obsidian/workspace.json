@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INBOX/PostgreSQL1.md",
+                "file": "KB/Programming/java/spring_@Repository.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcdc423dd789461c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/spring_Stereotypes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d530e4d2097744e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring_annotation_Component.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OK EN",
+                "query": "Stere",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a15d4b4a3a459d71",
+  "active": "1d530e4d2097744e",
   "lastOpenFiles": [
-    "KB/English/Past Continuous.md",
-    "Времена в английском языке.md",
-    "KB/English/English_grammar.md",
-    "KB/English/OK English.md",
-    "KB/Programming/Установка Docker из стандартного манула.md",
-    "templates/default-template.md",
-    "KB/Programming/Docker Client.md",
-    "KB/Programming/Docker container.md",
-    "KB/Programming/Docker deamon.md",
-    "KB/Programming/Docker networking.md"
+    "KB/Programming/spring_Stereotypes.md",
+    "KB/Programming/spring_Beans.md",
+    "KB/Programming/kafka_Consumer.md",
+    "KB/Programming/java/spring_@Service.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "KB/Programming/java/spring_@Repository.md",
+    "KB/Programming/java/spring_@Import.md",
+    "KB/Programming/java/spring_@Controller.md",
+    "KB/Programming/java/spring_@Configuration.md",
+    "KB/Programming/java/spring_@ComponentScan.md"
   ]
 }

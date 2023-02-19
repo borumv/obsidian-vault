@@ -1,6 +1,6 @@
+Самый старый тип [[spring_Configuration]], который по большей части используется в ***legacy***-коде
 
 **Конфигурационный файл**
-
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>  
 <beans xmlns="http://www.springframework.org/schema/beans"  

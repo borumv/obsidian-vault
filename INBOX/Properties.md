@@ -4,7 +4,7 @@
 • Пишутся ли в UTF-8 ? (нет) 
 • Но всё равно все пишут их в UTF-8
 
-В [Spring-e](Spring) для подключения property-файла можно использовать аннотацию [@PropertySource](spring_annotation%20PropertySource.md)
+В [Spring-e](Spring) для подключения property-файла можно использовать аннотацию [@PropertySource](spring_@PropertySource.md)
 
 Чтобы пользоваться пропертями можно воспользоваться [SpEl](Spring%20Expression%20Language.md)
 
@@ -14,4 +14,4 @@
 	![[Pasted image 20220718142309.png]]
 • Одного такого бина достаточно на приложение + не смотрите примеры, где в нём прописываются файлы
 
-По итогу, проперти используются с помощью аннотации [@Value](spring_annotation%20Value.md)
+По итогу, проперти используются с помощью аннотации [@Value](spring_@Value.md)
