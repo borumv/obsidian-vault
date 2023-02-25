@@ -27,3 +27,5 @@ dataframe = pd.DataFrame(a1)
 Разница между **`dot`** и обычными операциемями
 
 ![[Pasted image 20230225173736.png]]
+
+![[Pasted image 20230225182527.png]]
