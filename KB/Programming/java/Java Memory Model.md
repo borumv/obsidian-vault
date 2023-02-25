@@ -21,8 +21,12 @@ Perm Generation (*static context*) - [[java_String pool|String pool]]
 >**MaxMetaspaceSize** - максимальный размер памяти (*default - 60013*)
 
 
+
+
+
+
 - Помимо этого в хипе есть **пул констант**, который, в отличии от ситуации со [[java_String|стрингом]], позволяет целочисленные классы обёртки ([[java_Integer|Integer]], [[java_Byte|Byte]], [[java_Short|Short]] и [[java_Character||Character]]) сравнивать в диапазоне одного байта (*от -128 до 127*):
-	```java
+```java
 	Integer a = 1;
 	Integer b = 1;
 	Integer c = 128;
@@ -30,9 +34,10 @@ Perm Generation (*static context*) - [[java_String pool|String pool]]
 
 	a==b //true
 	c==d //false
-	
 ```
+
 - Чтобы поместить значени в пул стрингов, есть метод `intern()`
+
 ```java
 System.out.println(a==b); //false
 System.out.println(c==b);  //false

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/NumPy.md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Num",
+                "query": "Memor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,15 +130,15 @@
   },
   "active": "a15d4b4a3a459d71",
   "lastOpenFiles": [
+    "KB/Programming/Kafka Connect.md",
+    "KB/Programming/Docker Image.md",
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/NumPy.md",
     "Untitled 1.md",
     "KB/Programming/Banner text.md",
-    "KB/Programming/NumPy.md",
     "KB/Programming/spring_@Repository.md",
     "MOC-Machine Learning.md",
     "KB/Programming/java/spring_@ComponentScan.md",
-    "KB/Programming/spring_@Component.md",
-    "KB/Programming/spring_Stereotypes.md",
-    "KB/Programming/spring_@Controller.md",
-    "KB/Programming/spring_Beans.md"
+    "KB/Programming/spring_@Component.md"
   ]
 }
