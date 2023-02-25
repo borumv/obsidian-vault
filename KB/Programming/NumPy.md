@@ -23,3 +23,7 @@ a2 = np.array([[1.2,3.3,4.4],
 import pandas as pd
 dataframe = pd.DataFrame(a1)
 ```
+
+Разница между **`dot`** и обычными операциемями
+
+![[Pasted image 20230225173736.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/NumPy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Memor",
+                "query": "Mach",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,6 +130,8 @@
   },
   "active": "a15d4b4a3a459d71",
   "lastOpenFiles": [
+    "MOC-Machine Learning.md",
+    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Kafka Connect.md",
     "KB/Programming/Docker Image.md",
     "KB/Programming/📙MOC-Docker.md",
@@ -137,8 +139,6 @@
     "Untitled 1.md",
     "KB/Programming/Banner text.md",
     "KB/Programming/spring_@Repository.md",
-    "MOC-Machine Learning.md",
-    "KB/Programming/java/spring_@ComponentScan.md",
-    "KB/Programming/spring_@Component.md"
+    "KB/Programming/java/spring_@ComponentScan.md"
   ]
 }
