@@ -19,27 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d530e4d2097744e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c207795e111f16df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Banner text.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -89,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,15 +129,15 @@
   },
   "active": "a15d4b4a3a459d71",
   "lastOpenFiles": [
-    "KB/Programming/spring_@Repository.md",
+    "Untitled 1.md",
+    "KB/Programming/Banner text.md",
     "KB/Programming/NumPy.md",
+    "KB/Programming/spring_@Repository.md",
     "MOC-Machine Learning.md",
     "KB/Programming/java/spring_@ComponentScan.md",
     "KB/Programming/spring_@Component.md",
     "KB/Programming/spring_Stereotypes.md",
     "KB/Programming/spring_@Controller.md",
-    "KB/Programming/Banner text.md",
-    "KB/Programming/spring_Beans.md",
-    "KB/Programming/kafka_Consumer.md"
+    "KB/Programming/spring_Beans.md"
   ]
 }
