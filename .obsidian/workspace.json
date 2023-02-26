@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "863484bba84ba94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/spring_Configuration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@",
+                "query": "Confi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2539287d4bed962f",
+  "active": "863484bba84ba94a",
   "lastOpenFiles": [
+    "KB/Programming/spring_Bean Scopes.md",
     "KB/Programming/spring_@SpringBootApplication.md",
     "KB/Programming/spring_@Component.md",
     "Как запустить Kafka на разных компьютерах.md",
