@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Configuration.md",
+                "file": "KB/Programming/spring_Bean Life Cycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Confi",
+                "query": "Life",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,6 +157,8 @@
   },
   "active": "863484bba84ba94a",
   "lastOpenFiles": [
+    "KB/Programming/spring_@Repository.md",
+    "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Bean Scopes.md",
     "KB/Programming/spring_@SpringBootApplication.md",
     "KB/Programming/spring_@Component.md",
