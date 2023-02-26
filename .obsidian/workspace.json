@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/kafka_Consumer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "384639d0d3d5f668",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Memor",
+                "query": "Consum",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,13 +139,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a15d4b4a3a459d71",
+  "active": "384639d0d3d5f668",
   "lastOpenFiles": [
+    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_ClassLoader.md",
     "KB/Programming/java/Java Virtual Machine.md",
     "KB/Programming/NumPy.md",
     "MOC-Machine Learning.md",
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Kafka Connect.md",
     "KB/Programming/Docker Image.md",
     "KB/Programming/📙MOC-Docker.md",
