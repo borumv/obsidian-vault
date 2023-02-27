@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Properties.md",
+                "file": "KB/Programming/java/spring_@PropertySource.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,8 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44dfca3dbd7b7d27",
+  "active": "863484bba84ba94a",
   "lastOpenFiles": [
+    "KB/Programming/java/spring_@PropertySource.md",
+    "KB/Programming/spring_Properties.md",
     "KB/Programming/📙Spring.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Dependency Injection.md",
