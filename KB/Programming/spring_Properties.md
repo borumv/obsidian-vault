@@ -22,7 +22,7 @@ Tags: spring, java
 
 По итогу, проперти используются с помощью аннотации [@Value](spring_@Value.md)
 
-
+\\\\\  
 ```java
 @Configuration
 @PropertySource("classpath:datasource.properties")
