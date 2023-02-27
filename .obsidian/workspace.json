@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙Spring.md",
+                "file": "KB/Programming/spring_Properties.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44dfca3dbd7b7d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/spring_Properties.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Life",
+                "query": "Properti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "863484bba84ba94a",
+  "active": "44dfca3dbd7b7d27",
   "lastOpenFiles": [
+    "KB/Programming/📙Spring.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_@Repository.md",
