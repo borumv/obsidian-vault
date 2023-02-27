@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "file": "KB/Programming/📙Spring.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,8 +157,8 @@
   },
   "active": "863484bba84ba94a",
   "lastOpenFiles": [
-    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Bean Scopes.md",

@@ -1,6 +1,5 @@
 ---
 Aliases: Спринг, мок
-
 Tags: spring moc
 ---
 
