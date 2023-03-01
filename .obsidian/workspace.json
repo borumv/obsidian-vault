@@ -52,8 +52,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/MOC-PostgreSql.md",
+                "file": "Dependency Invertion Principle.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "332e90423b59fbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/NumPy.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -102,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Life",
+                "query": "Depen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,6 +196,15 @@
   },
   "active": "ecd4e701d54ab4f1",
   "lastOpenFiles": [
+    "Pasted image 20230301204414.png",
+    "KB/Programming/spring_Dependency Injection.md",
+    "KB/Programming/NumPy.md",
+    "MOC-Machine Learning.md",
+    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
+    "INBOX/Dependency Injection.md",
+    "Single Responsibility Principle.md",
+    "KB/Programming/java/SOLID.md",
+    "KB/Programming/sql/MOC-PostgreSql.md",
     "KB/Programming/sql/psql_CTE.md",
     "KB/Programming/📙Maven.md",
     "KB/Programming/Команды командной строки Maven.md",
@@ -190,7 +212,6 @@
     "KB/Programming/spring_Properties.md",
     "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/📙Spring.md",
-    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Bean Scopes.md",
@@ -200,14 +221,6 @@
     "KB/Programming/kafka_Zookeeper.md",
     "KB/Programming/kafka_Consumer.md",
     "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/java/java_ClassLoader.md",
-    "KB/Programming/java/Java Virtual Machine.md",
-    "KB/Programming/NumPy.md",
-    "MOC-Machine Learning.md",
-    "KB/Programming/Kafka Connect.md",
-    "KB/Programming/Docker Image.md",
-    "KB/Programming/📙MOC-Docker.md",
-    "Untitled 1.md",
-    "KB/Programming/Banner text.md"
+    "KB/Programming/java/java_ClassLoader.md"
   ]
 }
