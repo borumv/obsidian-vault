@@ -222,15 +222,16 @@
   },
   "active": "332e90423b59fbc9",
   "lastOpenFiles": [
+    "Pasted image 20230302183924.png",
+    "KB/Programming/spring_IoC-контейнер.md",
+    "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Beans.md",
     "KB/Programming/spring_Bean Definitions.md",
     "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Java-Based Конфигурация.md",
     "KB/Programming/spring_Annotation Based Конфигурация.md",
-    "KB/Programming/spring_IoC-контейнер.md",
     "Pasted image 20230302153330.png",
     "KB/Programming/java/IoC.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Aware interfacies.md",
     "KB/Programming/NumPy.md",
     "KB/Programming/java/spring_@PropertySource.md",
@@ -249,7 +250,6 @@
     "KB/Programming/📙Maven.md",
     "KB/Programming/Команды командной строки Maven.md",
     "KB/Programming/spring_Properties.md",
-    "KB/Programming/📙Spring.md",
-    "KB/Programming/spring_@Repository.md"
+    "KB/Programming/📙Spring.md"
   ]
 }
