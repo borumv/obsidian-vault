@@ -52,10 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Invertion Principle.md",
+                "file": "KB/Programming/spring_Dependency Injection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "14e654be11afda0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           },
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,14 +204,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecd4e701d54ab4f1",
+  "active": "14e654be11afda0d",
   "lastOpenFiles": [
+    "INBOX/Dependency Injection.md",
+    "Dependency Invertion Principle.md",
     "Pasted image 20230301204414.png",
     "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/NumPy.md",
     "MOC-Machine Learning.md",
     "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
-    "INBOX/Dependency Injection.md",
     "Single Responsibility Principle.md",
     "KB/Programming/java/SOLID.md",
     "KB/Programming/sql/MOC-PostgreSql.md",
