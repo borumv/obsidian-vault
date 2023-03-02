@@ -104,15 +104,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Beans.md",
-                "mode": "preview",
+                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -220,18 +220,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14e654be11afda0d",
+  "active": "332e90423b59fbc9",
   "lastOpenFiles": [
+    "KB/Programming/spring_Beans.md",
+    "KB/Programming/spring_Bean Definitions.md",
     "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Java-Based Конфигурация.md",
     "KB/Programming/spring_Annotation Based Конфигурация.md",
     "KB/Programming/spring_IoC-контейнер.md",
     "Pasted image 20230302153330.png",
-    "KB/Programming/spring_Bean Definitions.md",
     "KB/Programming/java/IoC.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Aware interfacies.md",
-    "KB/Programming/spring_Beans.md",
     "KB/Programming/NumPy.md",
     "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/spring_Dependency Injection.md",
