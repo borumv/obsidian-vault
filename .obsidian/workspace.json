@@ -63,9 +63,25 @@
             "id": "14e654be11afda0d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5a90cb74404b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/spring_Aware interfacies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -96,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Depen",
+                "query": "Aware",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14e654be11afda0d",
+  "active": "1e5a90cb74404b84",
   "lastOpenFiles": [
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/spring_Aware interfacies.md",
     "INBOX/Dependency Injection.md",
     "Dependency Invertion Principle.md",
     "Pasted image 20230301204414.png",
@@ -219,7 +237,6 @@
     "KB/Programming/sql/psql_CTE.md",
     "KB/Programming/📙Maven.md",
     "KB/Programming/Команды командной строки Maven.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Properties.md",
     "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/📙Spring.md",
@@ -231,7 +248,6 @@
     "Как запустить Kafka на разных компьютерах.md",
     "KB/Programming/kafka_Zookeeper.md",
     "KB/Programming/kafka_Consumer.md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/java/java_ClassLoader.md"
+    "KB/Programming/java/Java Memory Model.md"
   ]
 }

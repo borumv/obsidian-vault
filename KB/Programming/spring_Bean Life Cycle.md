@@ -14,7 +14,7 @@ Tags: spring, java
 
 1. **Инстанцирование объекта**. Техническое начало жизни бина, работа конструктора его класса
 2. **Установка свойств**. Происходит [[spring_Dependency Injection|внедрение зависимостей]]
-3. **Нотификация aware-интерфейсов**. https://itsobes.ru/JavaSobes/kogda-ispolzuiut-aware-interfeisy-v-spring
+3. **Нотификация [[spring_Aware interfacies]]**. https://itsobes.ru/JavaSobes/kogda-ispolzuiut-aware-interfeisy-v-spring
 > 1. BeanNameAware
 > 2. BeanFactoryAware
 > 3. ApplicationContextAware
