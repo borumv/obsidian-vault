@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_IoC-контейнер.md",
+                "file": "KB/Programming/spring_Bean Scopes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Io",
+                "query": "Scopes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +222,8 @@
   },
   "active": "1e5a90cb74404b84",
   "lastOpenFiles": [
-    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/spring_IoC-контейнер.md",
+    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/java/IoC-контейнер.md",
     "KB/Programming/spring_Bean Scopes.md",
     "KB/Programming/sql/psql_CTE.md",
