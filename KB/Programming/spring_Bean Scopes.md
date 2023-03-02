@@ -19,3 +19,4 @@ Tags: spring, java
 📌Custom Scope- имплементируя **Scope**-интерфейс
 
 
+![[Pasted image 20230302133637.png]]

@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Aware interfacies.md",
+                "file": "KB/Programming/spring_IoC-контейнер.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aware",
+                "query": "Io",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,32 +222,33 @@
   },
   "active": "1e5a90cb74404b84",
   "lastOpenFiles": [
+    "KB/Programming/spring_Dependency Injection.md",
+    "KB/Programming/spring_IoC-контейнер.md",
+    "KB/Programming/java/IoC-контейнер.md",
+    "KB/Programming/spring_Bean Scopes.md",
+    "KB/Programming/sql/psql_CTE.md",
+    "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/spring_Bean Life Cycle.md",
+    "Pasted image 20230302133637.png",
     "KB/Programming/spring_Aware interfacies.md",
     "INBOX/Dependency Injection.md",
     "Dependency Invertion Principle.md",
     "Pasted image 20230301204414.png",
-    "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/NumPy.md",
     "MOC-Machine Learning.md",
     "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
     "Single Responsibility Principle.md",
     "KB/Programming/java/SOLID.md",
     "KB/Programming/sql/MOC-PostgreSql.md",
-    "KB/Programming/sql/psql_CTE.md",
     "KB/Programming/📙Maven.md",
     "KB/Programming/Команды командной строки Maven.md",
     "KB/Programming/spring_Properties.md",
-    "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/📙Spring.md",
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_Configuration.md",
-    "KB/Programming/spring_Bean Scopes.md",
     "KB/Programming/spring_@SpringBootApplication.md",
     "KB/Programming/spring_@Component.md",
     "Как запустить Kafka на разных компьютерах.md",
-    "KB/Programming/kafka_Zookeeper.md",
-    "KB/Programming/kafka_Consumer.md",
-    "KB/Programming/java/Java Memory Model.md"
+    "KB/Programming/kafka_Zookeeper.md"
   ]
 }
