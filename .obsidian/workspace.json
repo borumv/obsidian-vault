@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "1e5a90cb74404b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/spring_Bean Scopes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "332e90423b59fbc9",
             "type": "leaf",
             "state": {
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Scopes",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -220,15 +208,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e5a90cb74404b84",
+  "active": "ecd4e701d54ab4f1",
   "lastOpenFiles": [
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/spring_Bean Scopes.md",
+    "KB/Programming/java/spring_@PropertySource.md",
     "KB/Programming/spring_IoC-контейнер.md",
     "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/java/IoC-контейнер.md",
-    "KB/Programming/spring_Bean Scopes.md",
     "KB/Programming/sql/psql_CTE.md",
-    "KB/Programming/java/spring_@PropertySource.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
     "Pasted image 20230302133637.png",
     "KB/Programming/spring_Aware interfacies.md",
     "INBOX/Dependency Injection.md",
