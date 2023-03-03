@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "file": "Projects/Nutrients.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Life",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,8 +147,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,8 @@
   },
   "active": "39411805844b1c98",
   "lastOpenFiles": [
-    "KB/Programming/spring_Aware interfacies.md",
     "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/spring_Aware interfacies.md",
     "Pasted image 20230302194936.png",
     "KB/Programming/spring_Context.md",
     "Pasted image 20230302190330.png",
