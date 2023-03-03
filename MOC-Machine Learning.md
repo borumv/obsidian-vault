@@ -21,9 +21,8 @@ Tags: machine_learning moc
 
 
 See:
-1. [[python_Pandas|Pandas]]
-2. [[NumPy]]
+Для этапа **анализа данных**:
+1. [[python_Pandas|Pandas]] - для построения табличных представлений
+2. [[NumPy]] - работа с матричными вычислениями и с любыми данными с цифрами
+3. [[python_Matplotlib|Matplotlib]] - для построения графиков и гистограмм
 
-%% Hub MOCs: Don’t edit below  %%
-
-%% Hub MOCs: Don’t edit above  %%

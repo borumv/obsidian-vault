@@ -17,8 +17,58 @@
       "Основная (с обратной карточкой)": "Лицо"
     },
     "CONTEXT_FIELDS": {},
-    "FOLDER_DECKS": {},
-    "FOLDER_TAGS": {},
+    "FOLDER_DECKS": {
+      "attachments": "",
+      "INBOX": "",
+      "KB": "",
+      "KW": "",
+      "media": "",
+      "templates": "",
+      "Zettelcasten": "",
+      "Projects": "",
+      "KB/English": "",
+      "KB/Programming": "",
+      "KW/KB": "",
+      "Zettelcasten/Obsidian": "",
+      "KB/Programming/algorithms": "",
+      "KB/Programming/html": "",
+      "KB/Programming/html-css": "",
+      "KB/Programming/java": "",
+      "KB/Programming/js": "",
+      "KB/Programming/python": "",
+      "KB/Programming/sql": "",
+      "KW/KB/English": "",
+      "Zettelcasten/Obsidian/Attachments": "",
+      "Zettelcasten/Obsidian/HOWTO": "",
+      "Zettelcasten/Obsidian/Разметка": "",
+      "KB/Programming/html/css": ""
+    },
+    "FOLDER_TAGS": {
+      "attachments": "",
+      "INBOX": "",
+      "KB": "",
+      "KW": "",
+      "media": "",
+      "templates": "",
+      "Zettelcasten": "",
+      "Projects": "",
+      "KB/English": "",
+      "KB/Programming": "",
+      "KW/KB": "",
+      "Zettelcasten/Obsidian": "",
+      "KB/Programming/algorithms": "",
+      "KB/Programming/html": "",
+      "KB/Programming/html-css": "",
+      "KB/Programming/java": "",
+      "KB/Programming/js": "",
+      "KB/Programming/python": "",
+      "KB/Programming/sql": "",
+      "KW/KB/English": "",
+      "Zettelcasten/Obsidian/Attachments": "",
+      "Zettelcasten/Obsidian/HOWTO": "",
+      "Zettelcasten/Obsidian/Разметка": "",
+      "KB/Programming/html/css": ""
+    },
     "Syntax": {
       "Begin Note": "START",
       "End Note": "END",
@@ -43,5 +93,35 @@
   },
   "Added Media": [],
   "File Hashes": {},
-  "fields_dict": {}
+  "fields_dict": {
+    "Kruzo en word template": [
+      "English",
+      "English transctiption",
+      "English audio",
+      "Example",
+      "Russian",
+      "Russian alt"
+    ],
+    "Задание с пропусками": [
+      "Текст",
+      "Дополнение оборота"
+    ],
+    "Основная": [
+      "Лицо",
+      "Оборот"
+    ],
+    "Основная (обратная по выбору)": [
+      "Лицо",
+      "Оборот",
+      "Добавить обратную"
+    ],
+    "Основная (с вводом ответа)": [
+      "Лицо",
+      "Оборот"
+    ],
+    "Основная (с обратной карточкой)": [
+      "Лицо",
+      "Оборот"
+    ]
+  }
 }
