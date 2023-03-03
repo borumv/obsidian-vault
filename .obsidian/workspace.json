@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC-Machine Learning.md",
+                "file": "KB/Programming/python_Matplotlib.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -234,9 +234,10 @@
   },
   "active": "dfd91f8edc25018e",
   "lastOpenFiles": [
+    "Pasted image 20230303195314.png",
+    "MOC-Machine Learning.md",
     "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230303190948.png",
-    "MOC-Machine Learning.md",
     "KB/Programming/python_Pandas.md",
     "KB/Programming/spring_@Component.md",
     "Projects/Nutrients.md",
