@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "39411805844b1c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Nutrients.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e04b708ad8f42357",
             "type": "leaf",
             "state": {
@@ -125,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -232,15 +219,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfd91f8edc25018e",
+  "active": "e04b708ad8f42357",
   "lastOpenFiles": [
+    "KB/Programming/spring_IoC-контейнер.md",
+    "Projects/Nutrients.md",
+    "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230303195314.png",
     "MOC-Machine Learning.md",
-    "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230303190948.png",
     "KB/Programming/python_Pandas.md",
     "KB/Programming/spring_@Component.md",
-    "Projects/Nutrients.md",
     "Untitled 2.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Aware interfacies.md",
@@ -248,7 +236,6 @@
     "KB/Programming/spring_Context.md",
     "Pasted image 20230302190330.png",
     "Pasted image 20230302183924.png",
-    "KB/Programming/spring_IoC-контейнер.md",
     "KB/Programming/spring_Beans.md",
     "KB/Programming/spring_Bean Definitions.md",
     "KB/Programming/spring_Configuration.md",
