@@ -105,7 +105,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/python_Matplotlib.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -221,6 +221,7 @@
   },
   "active": "dfd91f8edc25018e",
   "lastOpenFiles": [
+    "Pasted image 20230304200151.png",
     "KB/Programming/📙Python.md",
     "KB/Programming/python_Matplotlib.md",
     "KB/Programming/spring_IoC-контейнер.md",
@@ -253,7 +254,6 @@
     "INBOX/Dependency Injection.md",
     "Dependency Invertion Principle.md",
     "Pasted image 20230301204414.png",
-    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
-    "Single Responsibility Principle.md"
+    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md"
   ]
 }

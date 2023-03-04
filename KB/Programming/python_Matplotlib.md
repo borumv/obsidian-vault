@@ -14,7 +14,7 @@ parent: [[MOC-Machine Learning]]
 Основные элементы **plot**:
 - **Figure** - это *холст* 
 - **Axes** - это то, что мы рисуем на холсте
-- ![[Pasted image 20230303195314.png]]
+![[Pasted image 20230304200151.png]]
 
 ## Matplotlib workflow
 
