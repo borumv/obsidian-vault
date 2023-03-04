@@ -40,5 +40,7 @@ ax2.set(title="Plot 2",
 fig.savefig("images/plot_example.png")
 ```
 
+
+
 ![[Pasted image 20230303190948.png|500]]
 
