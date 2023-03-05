@@ -50,25 +50,22 @@
             "id": "ecd4e701d54ab4f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/spring_Dependency Injection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "14e654be11afda0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "KB/Programming/spring_Bean Definitions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -78,21 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_IoC-контейнер.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e04b708ad8f42357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/📙Python.md",
-                "mode": "source",
+                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -104,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_@SpringBootApplication.md",
+                "file": "INBOX/Spring по Борисову.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTTP",
+                "query": "HashT",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,8 +204,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfd91f8edc25018e",
+  "active": "863484bba84ba94a",
   "lastOpenFiles": [
+    "KB/Programming/java/идемпотентные методы в HTTP.md",
+    "KB/Programming/spring_@SpringBootApplication.md",
+    "KB/Programming/sql/psql_CTE.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "Untitled.canvas",
+    "KB/Programming/spring_Bean Definitions.md",
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "INBOX/Spring по Борисову.md",
+    "KB/Programming/spring_IoC-контейнер.md",
+    "KB/Programming/📙Python.md",
+    "KB/Programming/Spring WebFlux.md",
+    "KB/Programming/spring_@Component.md",
+    "KB/Programming/spring_Annotation Based Конфигурация.md",
+    "KB/Programming/spring_Context.md",
+    "KB/Programming/spring_Beans.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_@Controller.md",
@@ -233,24 +233,10 @@
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/📙Gradle.md",
     "KB/Programming/Docker Client.md",
-    "KB/Programming/java/java_HTTP.md",
     "Pasted image 20230305133427.png",
-    "KB/Programming/java/идемпотентные методы в HTTP.md",
-    "KB/Programming/java/java_Retrofit.md",
-    "KB/Programming/spring_@Component.md",
-    "KB/Programming/📙Python.md",
-    "KB/Programming/коды ответов HTTP.md",
-    "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230304200151.png",
-    "KB/Programming/spring_IoC-контейнер.md",
-    "Projects/Nutrients.md",
     "Pasted image 20230303195314.png",
-    "MOC-Machine Learning.md",
     "Pasted image 20230303190948.png",
-    "KB/Programming/python_Pandas.md",
-    "Untitled 2.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/spring_Aware interfacies.md",
     "Pasted image 20230302194936.png",
     "Pasted image 20230302190330.png",
     "Pasted image 20230302183924.png",

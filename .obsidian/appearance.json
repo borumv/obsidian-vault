@@ -1,8 +1,8 @@
 {
   "baseFontSize": 12,
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "#498bee",
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidian gruvbox",
   "textFontFamily": "Cascadia Code",
   "translucency": false
 }
