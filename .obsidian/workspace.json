@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "863484bba84ba94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/sql/psql_CTE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecd4e701d54ab4f1",
             "type": "leaf",
             "state": {
@@ -58,37 +45,9 @@
             "id": "14e654be11afda0d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "d265e52c947b933d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Bean Life Cycle.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd91f8edc25018e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INBOX/Spring по Борисову.md",
+                "file": "KB/Programming/Сетевая топология.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HashT",
+                "query": "OSI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,16 +163,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "863484bba84ba94a",
+  "active": "14e654be11afda0d",
   "lastOpenFiles": [
-    "KB/Programming/java/идемпотентные методы в HTTP.md",
+    "KB/Programming/Port (TCP, UPD).md",
+    "KB/Programming/Сетевая топология.md",
+    "Untitled.canvas",
+    "INBOX/Spring по Борисову.md",
+    "Pasted image 20230305194840.png",
+    "Pasted image 20230305193615.png",
+    "Pasted image 20230305193418.png",
+    "Pasted image 20230305193303.png",
     "KB/Programming/spring_@SpringBootApplication.md",
     "KB/Programming/sql/psql_CTE.md",
+    "KB/Programming/java/идемпотентные методы в HTTP.md",
     "KB/Programming/spring_Dependency Injection.md",
-    "Untitled.canvas",
     "KB/Programming/spring_Bean Definitions.md",
     "KB/Programming/spring_Bean Life Cycle.md",
-    "INBOX/Spring по Борисову.md",
     "KB/Programming/spring_IoC-контейнер.md",
     "KB/Programming/📙Python.md",
     "KB/Programming/Spring WebFlux.md",
@@ -231,17 +196,11 @@
     "KB/Programming/pattern_Decorator.md",
     "KB/Programming/pattern_Abstract Fabric.md",
     "KB/Programming/📙MOC-Docker.md",
-    "KB/Programming/📙Gradle.md",
-    "KB/Programming/Docker Client.md",
     "Pasted image 20230305133427.png",
     "Pasted image 20230304200151.png",
     "Pasted image 20230303195314.png",
     "Pasted image 20230303190948.png",
     "Pasted image 20230302194936.png",
-    "Pasted image 20230302190330.png",
-    "Pasted image 20230302183924.png",
-    "Pasted image 20230302153330.png",
-    "Pasted image 20230302133637.png",
-    "Pasted image 20230301204414.png"
+    "Pasted image 20230302190330.png"
   ]
 }
