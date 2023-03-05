@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_@Component.md",
+                "file": "KB/Programming/java/идемпотентные методы в HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,8 +104,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/python_Matplotlib.md",
-                "mode": "preview",
+                "file": "KB/Programming/spring_@SpringBootApplication.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HTTP",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,39 +221,41 @@
   },
   "active": "dfd91f8edc25018e",
   "lastOpenFiles": [
-    "Pasted image 20230304200151.png",
+    "KB/Programming/java/JPA.md",
+    "KB/Programming/spring_@Repository.md",
+    "KB/Programming/spring_@Controller.md",
+    "KB/Programming/spring_Properties.md",
+    "KB/Programming/Regexp.md",
+    "KB/Programming/pattern_Singleton.md",
+    "KB/Programming/pattern_Interpretator.md",
+    "KB/Programming/pattern_Decorator.md",
+    "KB/Programming/pattern_Abstract Fabric.md",
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/📙Gradle.md",
+    "KB/Programming/Docker Client.md",
+    "KB/Programming/java/java_HTTP.md",
+    "Pasted image 20230305133427.png",
+    "KB/Programming/java/идемпотентные методы в HTTP.md",
+    "KB/Programming/java/java_Retrofit.md",
+    "KB/Programming/spring_@Component.md",
     "KB/Programming/📙Python.md",
+    "KB/Programming/коды ответов HTTP.md",
     "KB/Programming/python_Matplotlib.md",
+    "Pasted image 20230304200151.png",
     "KB/Programming/spring_IoC-контейнер.md",
     "Projects/Nutrients.md",
     "Pasted image 20230303195314.png",
     "MOC-Machine Learning.md",
     "Pasted image 20230303190948.png",
     "KB/Programming/python_Pandas.md",
-    "KB/Programming/spring_@Component.md",
     "Untitled 2.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/spring_Aware interfacies.md",
     "Pasted image 20230302194936.png",
-    "KB/Programming/spring_Context.md",
     "Pasted image 20230302190330.png",
     "Pasted image 20230302183924.png",
-    "KB/Programming/spring_Beans.md",
-    "KB/Programming/spring_Bean Definitions.md",
-    "KB/Programming/spring_Configuration.md",
-    "KB/Programming/spring_Java-Based Конфигурация.md",
-    "KB/Programming/spring_Annotation Based Конфигурация.md",
     "Pasted image 20230302153330.png",
-    "KB/Programming/java/IoC.md",
-    "KB/Programming/NumPy.md",
-    "KB/Programming/java/spring_@PropertySource.md",
-    "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/spring_Bean Scopes.md",
-    "KB/Programming/sql/psql_CTE.md",
     "Pasted image 20230302133637.png",
-    "INBOX/Dependency Injection.md",
-    "Dependency Invertion Principle.md",
-    "Pasted image 20230301204414.png",
-    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md"
+    "Pasted image 20230301204414.png"
   ]
 }
