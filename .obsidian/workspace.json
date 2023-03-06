@@ -42,8 +42,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Сетевая топология.md",
-                "mode": "preview",
+                "file": "KB/Programming/IPv4.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -159,17 +159,17 @@
   },
   "active": "14e654be11afda0d",
   "lastOpenFiles": [
+    "KB/Programming/IP.md",
+    "KB/Programming/IPv4.md",
+    "KB/Programming/Сетевая топология.md",
     "Pasted image 20230306115452.png",
     "Kafka Connect connector.md",
-    "KB/Programming/Сетевая топология.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/java/идемпотентные методы в HTTP.md",
     "KB/Programming/spring_@SpringBootApplication.md",
-    "KB/Programming/IP.md",
     "KB/Programming/Port (TCP, UPD).md",
     "KB/Programming/MAC-адрес.md",
     "Pasted image 20230306091237.png",
-    "KB/Programming/IPv4.md",
     "Pasted image 20230306085207.png",
     "Pasted image 20230306084133.png",
     "KB/Programming/IPv6.md",
@@ -194,7 +194,6 @@
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_@Controller.md",
     "Pasted image 20230305133427.png",
-    "Pasted image 20230304200151.png",
-    "Pasted image 20230303195314.png"
+    "Pasted image 20230304200151.png"
   ]
 }
