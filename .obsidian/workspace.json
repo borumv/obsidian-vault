@@ -48,9 +48,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c1cf9d121e0a745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/NAT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d2b9598bec9f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,10 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14e654be11afda0d",
+  "active": "b5d2b9598bec9f13",
   "lastOpenFiles": [
-    "KB/Programming/IP.md",
+    "Untitled 4.md",
     "KB/Programming/IPv4.md",
+    "Untitled 3.md",
+    "KB/Programming/NAT.md",
+    "KB/Programming/IP.md",
     "KB/Programming/Сетевая топология.md",
     "Pasted image 20230306115452.png",
     "Kafka Connect connector.md",
@@ -191,8 +220,6 @@
     "KB/Programming/spring_Context.md",
     "KB/Programming/spring_Beans.md",
     "KB/Programming/java/JPA.md",
-    "KB/Programming/spring_@Repository.md",
-    "KB/Programming/spring_@Controller.md",
     "Pasted image 20230305133427.png",
     "Pasted image 20230304200151.png"
   ]
