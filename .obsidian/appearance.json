@@ -2,7 +2,8 @@
   "baseFontSize": 12,
   "theme": "obsidian",
   "accentColor": "#498bee",
-  "cssTheme": "Obsidianite",
-  "textFontFamily": "Cascadia Code",
-  "translucency": false
+  "cssTheme": "Obsidian gruvbox",
+  "textFontFamily": "Cascadia Code,Rubik",
+  "translucency": false,
+  "monospaceFontFamily": "Rubik"
 }
