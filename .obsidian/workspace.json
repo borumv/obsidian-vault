@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "KB/Programming/DNS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,8 @@
   },
   "active": "b5d2b9598bec9f13",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "Pasted image 20230306140830.png",
+    "KB/Programming/DNS.md",
     "KB/Programming/IPv4.md",
     "Untitled 3.md",
     "KB/Programming/NAT.md",
@@ -219,7 +220,6 @@
     "KB/Programming/spring_Annotation Based Конфигурация.md",
     "KB/Programming/spring_Context.md",
     "KB/Programming/spring_Beans.md",
-    "KB/Programming/java/JPA.md",
     "Pasted image 20230305133427.png",
     "Pasted image 20230304200151.png"
   ]
