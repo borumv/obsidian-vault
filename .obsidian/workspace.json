@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Сетевая топология.md",
+                "file": "KB/Programming/IP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,8 +165,9 @@
   },
   "active": "14e654be11afda0d",
   "lastOpenFiles": [
-    "KB/Programming/MAC-адрес.md",
     "KB/Programming/Сетевая топология.md",
+    "KB/Programming/Port (TCP, UPD).md",
+    "KB/Programming/MAC-адрес.md",
     "Pasted image 20230306091237.png",
     "KB/Programming/IPv4.md",
     "KB/Programming/IP.md",
@@ -175,7 +176,6 @@
     "KB/Programming/IPv6.md",
     "KB/Programming/spring_@SpringBootApplication.md",
     "KB/Programming/java/идемпотентные методы в HTTP.md",
-    "KB/Programming/Port (TCP, UPD).md",
     "Untitled.canvas",
     "INBOX/Spring по Борисову.md",
     "Pasted image 20230305194840.png",
