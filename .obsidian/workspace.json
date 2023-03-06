@@ -42,8 +42,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Уровень представления OSI.md",
-                "mode": "source",
+                "file": "KB/Programming/стек протокола TCP-IP.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Транспортный уровень OSI.md",
+                "file": "KB/Programming/SSH.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,38 +76,12 @@
             }
           },
           {
-            "id": "eb4082fd09b8650e",
+            "id": "1787d291cd06d9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/OSI.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c1cf9d121e0a745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/NAT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d2b9598bec9f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/DNS.md",
+                "file": "KB/Programming/java/HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TCP",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -222,44 +197,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4082fd09b8650e",
+  "active": "679190f9c2190128",
   "lastOpenFiles": [
-    "KB/Programming/Транспортный уровень OSI.md",
-    "KB/Programming/Уровень представления OSI.md",
     "KB/Programming/Сетевой уровень OSI.md",
+    "KB/Programming/стек протокола TCP-IP.md",
+    "KB/Programming/Уровень представления OSI.md",
+    "KB/Programming/SSH.md",
+    "KB/Programming/Telnet.md",
+    "KB/Programming/java/HTTP.md",
+    "KB/Programming/Сетевые модели.md",
     "KB/Programming/OSI.md",
+    "KB/Programming/DNS.md",
+    "KB/Programming/NAT.md",
+    "стек протокола TCP/IP.md",
+    "стек протокола TCP",
+    "модель TCP/IPI.md",
+    "модель TCP",
+    "KB/Programming/Транспортный уровень OSI.md",
+    "KB/Programming/spring_@SpringBootApplication.md",
+    "KB/Programming/TCP протокол.md",
     "KB/Programming/Сеансовый уровень OSI.md",
     "KB/Programming/Прикладной уровень OSI.md",
     "KB/Programming/Физический уровень OSI.md",
     "KB/Programming/Канальный уровень OSI.md",
     "KB/Programming/Сетевая топология.md",
-    "KB/Programming/Сетевые модели.md",
     "MOC-Сети.md",
     "KB/Programming/java/java_wro4j.md",
     "KB/Programming/IP.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/NAT.md",
-    "KB/Programming/DNS.md",
     "Pasted image 20230306140830.png",
     "Untitled 3.md",
     "Pasted image 20230306115452.png",
     "Kafka Connect connector.md",
-    "KB/Programming/TCP протокол.md",
-    "KB/Programming/java/идемпотентные методы в HTTP.md",
-    "KB/Programming/spring_@SpringBootApplication.md",
-    "KB/Programming/Port (TCP, UPD).md",
-    "KB/Programming/MAC-адрес.md",
     "Pasted image 20230306091237.png",
     "Pasted image 20230306085207.png",
     "Pasted image 20230306084133.png",
-    "KB/Programming/IPv6.md",
     "Untitled.canvas",
-    "INBOX/Spring по Борисову.md",
     "Pasted image 20230305194840.png",
     "Pasted image 20230305193615.png",
     "Pasted image 20230305193418.png",
     "Pasted image 20230305193303.png",
-    "KB/Programming/sql/psql_CTE.md",
     "Pasted image 20230305133427.png"
   ]
 }
