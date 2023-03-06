@@ -37,12 +37,12 @@
             }
           },
           {
-            "id": "14e654be11afda0d",
+            "id": "21f107d2d9ee9339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Сетевая топология.md",
+                "file": "KB/Programming/Уровень представления OSI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,13 +50,39 @@
             }
           },
           {
-            "id": "385f87613b1a1a88",
+            "id": "be7f965f955ef882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_wro4j.md",
+                "file": "KB/Programming/Сетевой уровень OSI.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679190f9c2190128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Транспортный уровень OSI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb4082fd09b8650e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/OSI.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -89,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,9 +222,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "385f87613b1a1a88",
+  "active": "eb4082fd09b8650e",
   "lastOpenFiles": [
+    "KB/Programming/Транспортный уровень OSI.md",
+    "KB/Programming/Уровень представления OSI.md",
+    "KB/Programming/Сетевой уровень OSI.md",
+    "KB/Programming/OSI.md",
+    "KB/Programming/Сеансовый уровень OSI.md",
+    "KB/Programming/Прикладной уровень OSI.md",
+    "KB/Programming/Физический уровень OSI.md",
+    "KB/Programming/Канальный уровень OSI.md",
     "KB/Programming/Сетевая топология.md",
+    "KB/Programming/Сетевые модели.md",
+    "MOC-Сети.md",
     "KB/Programming/java/java_wro4j.md",
     "KB/Programming/IP.md",
     "KB/Programming/IPv4.md",
@@ -224,16 +260,6 @@
     "Pasted image 20230305193418.png",
     "Pasted image 20230305193303.png",
     "KB/Programming/sql/psql_CTE.md",
-    "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/spring_Bean Definitions.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/spring_IoC-контейнер.md",
-    "KB/Programming/📙Python.md",
-    "KB/Programming/Spring WebFlux.md",
-    "KB/Programming/spring_@Component.md",
-    "KB/Programming/spring_Annotation Based Конфигурация.md",
-    "KB/Programming/spring_Context.md",
-    "KB/Programming/spring_Beans.md",
     "Pasted image 20230305133427.png"
   ]
 }
