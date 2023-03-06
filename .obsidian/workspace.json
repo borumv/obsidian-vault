@@ -43,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Сетевая топология.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -159,6 +159,7 @@
   },
   "active": "14e654be11afda0d",
   "lastOpenFiles": [
+    "Pasted image 20230306115452.png",
     "Kafka Connect connector.md",
     "KB/Programming/Сетевая топология.md",
     "KB/Programming/TCP протокол.md",
@@ -192,7 +193,6 @@
     "KB/Programming/java/JPA.md",
     "KB/Programming/spring_@Repository.md",
     "KB/Programming/spring_@Controller.md",
-    "KB/Programming/spring_Properties.md",
     "Pasted image 20230305133427.png",
     "Pasted image 20230304200151.png",
     "Pasted image 20230303195314.png"
