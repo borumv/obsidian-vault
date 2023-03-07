@@ -1,7 +1,7 @@
 Из курса
 
 *Блокирующий* ввод-вывод, пакет `java.net.*`:
-1. [[Socket]] - [[TCP протокол]]
+1. [[java_Socket]] - [[TCP протокол]]
 2. [[Server Socket]] - [[TCP протокол]]
 3. [[DatagramSocket]] - [[UPD протокол]]
 

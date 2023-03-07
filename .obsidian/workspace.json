@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети в Java.md",
+                "file": "KB/Programming/java/java_Socket.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "netstat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,12 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "390189083b8ca210",
   "lastOpenFiles": [
+    "KB/Programming/java/java_H2.md",
+    "KB/Programming/java/java_Socket.md",
+    "Сети в Java.md",
+    "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230307172537.png",
-    "Сети в Java.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/IP пакеты.md",
     "KB/Programming/Сетевой уровень OSI.md",
@@ -197,7 +200,6 @@
     "Pasted image 20230307150155.png",
     "Zettelcasten/Obsidian/Разметка/Markdown.md",
     "Pasted image 20230307124915.png",
-    "KB/Programming/java/java_H2.md",
     "KB/Programming/DHCP сервер.md",
     "KB/Programming/📙Python.md",
     "KB/Programming/Scripting with Python.md",
@@ -206,8 +208,6 @@
     "KB/Programming/python_Виртуальная среда.md",
     "KB/Programming/8 - битовые символы могут отображаться некорректно.md",
     "KB/Programming/📙MOC-Programming.md",
-    "KB/Programming/📙Gradle.md",
-    "KB/Programming/📙MOC-Kafka.md",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",
