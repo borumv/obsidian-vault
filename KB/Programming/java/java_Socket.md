@@ -7,9 +7,10 @@ Tags: java
 
 # [[java_Socket|Socket]]
 
-📌Socket - класс, который обеспечивает блокирующий доступ к серверу по [[TCP протокол|tcp протоколу]] 
+📌Socket - класс, который создаёт **клиента** обеспечивает блокирующий доступ к **серверу** по [[TCP протокол|tcp протоколу]] 
 
 ```java
+var inetAdress = InetAddress.getAllByName("localhost");
 try(Socket socket = new Socket("169.254.170.226", 8095);  
     var outputStreem = new DataOutputStream(socket.getOutputStream());  
     var inputStream = new DataInputStream(socket.getInputStream())){  
