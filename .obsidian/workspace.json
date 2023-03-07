@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_H2.md",
-                "mode": "source",
+                "file": "KB/Programming/java/java_Socket.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -61,14 +61,14 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/java/java_Server Socket.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "netstat",
+                "query": "Сети ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,18 +177,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd4e701d54ab4f1",
+  "active": "1787d291cd06d9e4",
   "lastOpenFiles": [
-    "KB/Programming/IP пакеты.md",
     "KB/Programming/java/java_Server Socket.md",
-    "Сети в Java.md",
     "KB/Programming/java/java_Socket.md",
+    "Сети в Java.md",
     "KB/Programming/java/java_H2.md",
+    "KB/Programming/IPv4.md",
+    "KB/Programming/IP пакеты.md",
     "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230307172537.png",
-    "KB/Programming/IPv4.md",
     "KB/Programming/Сетевой уровень OSI.md",
     "KB/Programming/OSI.md",
     "модель TCP/IPI.md",
