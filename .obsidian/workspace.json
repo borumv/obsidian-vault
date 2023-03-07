@@ -16,37 +16,11 @@
             }
           },
           {
-            "id": "2539287d4bed962f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/spring_@SpringBootApplication.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecd4e701d54ab4f1",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "21f107d2d9ee9339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/стек протокола TCP-IP.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
             }
           },
           {
@@ -81,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/HTTP.md",
+                "file": "KB/Programming/DHCP сервер.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +82,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -118,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "h2",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,12 +111,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -197,38 +171,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "679190f9c2190128",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
-    "KB/Programming/Сетевой уровень OSI.md",
-    "KB/Programming/стек протокола TCP-IP.md",
-    "KB/Programming/Уровень представления OSI.md",
-    "KB/Programming/SSH.md",
-    "KB/Programming/Telnet.md",
-    "KB/Programming/java/HTTP.md",
-    "KB/Programming/Сетевые модели.md",
-    "KB/Programming/OSI.md",
-    "KB/Programming/DNS.md",
-    "KB/Programming/NAT.md",
-    "стек протокола TCP/IP.md",
-    "стек протокола TCP",
-    "модель TCP/IPI.md",
-    "модель TCP",
-    "KB/Programming/Транспортный уровень OSI.md",
+    "KB/Programming/📙Python.md",
+    "KB/Programming/Scripting with Python.md",
+    "KB/Programming/python_Pillow.md",
+    "KB/Programming/python_PyPDF2.md",
+    "KB/Programming/python_Виртуальная среда.md",
+    "KB/Programming/8 - битовые символы могут отображаться некорректно.md",
+    "KB/Programming/📙MOC-Programming.md",
+    "KB/Programming/📙Gradle.md",
+    "KB/Programming/📙MOC-Kafka.md",
+    "KB/Programming/Почему Kafka такая быстрая.md",
+    "KB/Programming/Docker file.md",
+    "KB/Programming/spring_@Controller.md",
+    "KB/Programming/spring_Stereotypes.md",
+    "KB/Programming/NumPy.md",
     "KB/Programming/spring_@SpringBootApplication.md",
-    "KB/Programming/TCP протокол.md",
-    "KB/Programming/Сеансовый уровень OSI.md",
-    "KB/Programming/Прикладной уровень OSI.md",
-    "KB/Programming/Физический уровень OSI.md",
-    "KB/Programming/Канальный уровень OSI.md",
-    "KB/Programming/Сетевая топология.md",
-    "MOC-Сети.md",
-    "KB/Programming/java/java_wro4j.md",
-    "KB/Programming/IP.md",
-    "KB/Programming/IPv4.md",
+    "KB/Programming/spring_@Repository.md",
+    "KB/Programming/spring_Properties.md",
+    "KB/Programming/spring_Bean Scopes.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "KB/Programming/spring_Configuration.md",
+    "KB/Programming/spring_Beans.md",
+    "KB/Programming/spring_Context.md",
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/Telnet.md",
+    "KB/Programming/стек протокола TCP-IP.md",
+    "java_buffer_nio.md",
+    "стек протокола TCP",
+    "модель TCP",
     "Pasted image 20230306140830.png",
-    "Untitled 3.md",
     "Pasted image 20230306115452.png",
-    "Kafka Connect connector.md",
     "Pasted image 20230306091237.png",
     "Pasted image 20230306085207.png",
     "Pasted image 20230306084133.png",
