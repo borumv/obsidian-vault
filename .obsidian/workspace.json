@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Сетевой уровень OSI.md",
+                "file": "Zettelcasten/Obsidian/Разметка/Markdown.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/DHCP сервер.md",
+                "file": "KB/Programming/java/java_H2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,8 +171,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "be7f965f955ef882",
   "lastOpenFiles": [
+    "Pasted image 20230307124915.png",
+    "KB/Programming/Сетевой уровень OSI.md",
+    "KB/Programming/java/java_H2.md",
+    "KB/Programming/DHCP сервер.md",
     "KB/Programming/📙Python.md",
     "KB/Programming/Scripting with Python.md",
     "KB/Programming/python_Pillow.md",
@@ -195,10 +199,6 @@
     "KB/Programming/spring_Configuration.md",
     "KB/Programming/spring_Beans.md",
     "KB/Programming/spring_Context.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/Telnet.md",
-    "KB/Programming/стек протокола TCP-IP.md",
-    "java_buffer_nio.md",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",
