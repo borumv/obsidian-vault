@@ -19,17 +19,9 @@
             "id": "ecd4e701d54ab4f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "be7f965f955ef882",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "INBOX/Интервью Java.md",
+                "file": "KB/Programming/OSI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,12 +29,25 @@
             }
           },
           {
-            "id": "679190f9c2190128",
+            "id": "72410bedc2737215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/SSH.md",
+                "file": "KB/Programming/стек протокола TCP-IP.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e25554cf42016c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Канальный уровень OSI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,11 +189,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390189083b8ca210",
+  "active": "72410bedc2737215",
   "lastOpenFiles": [
-    "Pasted image 20230307150155.png",
-    "Сети в Java.md",
+    "KB/Programming/Канальный уровень OSI.md",
+    "KB/Programming/стек протокола TCP-IP.md",
+    "KB/Programming/OSI.md",
+    "стек протокола TCP/IP.md",
+    "KB/Programming/TCP протокол.md",
     "INBOX/Интервью Java.md",
+    "KB/Programming/Telnet.md",
+    "KB/Programming/SSH.md",
+    "Сети в Java.md",
+    "Pasted image 20230307150155.png",
     "Zettelcasten/Obsidian/Разметка/Markdown.md",
     "Pasted image 20230307124915.png",
     "KB/Programming/Сетевой уровень OSI.md",
@@ -208,12 +219,6 @@
     "KB/Programming/Docker file.md",
     "KB/Programming/spring_@Controller.md",
     "KB/Programming/spring_Stereotypes.md",
-    "KB/Programming/NumPy.md",
-    "KB/Programming/spring_@SpringBootApplication.md",
-    "KB/Programming/spring_@Repository.md",
-    "KB/Programming/spring_Properties.md",
-    "KB/Programming/spring_Bean Scopes.md",
-    "KB/Programming/spring_Dependency Injection.md",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",
@@ -224,7 +229,6 @@
     "Untitled.canvas",
     "Pasted image 20230305194840.png",
     "Pasted image 20230305193615.png",
-    "Pasted image 20230305193418.png",
-    "Pasted image 20230305193303.png"
+    "Pasted image 20230305193418.png"
   ]
 }
