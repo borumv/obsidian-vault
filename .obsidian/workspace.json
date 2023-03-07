@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/TCP протокол.md",
+                "file": "Сети в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IP",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390189083b8ca210",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
-    "KB/Programming/UPD протокол.md",
     "KB/Programming/TCP протокол.md",
+    "KB/Programming/UPD протокол.md",
     "Pasted image 20230307172537.png",
     "Сети в Java.md",
     "KB/Programming/IPv4.md",
