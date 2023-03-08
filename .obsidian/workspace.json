@@ -55,8 +55,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети в Java.md",
-                "mode": "source",
+                "file": "Projects/LectionMultiThreading.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Сет",
+                "query": "Completable",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,9 +174,9 @@
   },
   "active": "390189083b8ca210",
   "lastOpenFiles": [
+    "Сети в Java.md",
     "KB/Programming/IPv4.md",
     "MOC-Сети.md",
-    "Сети в Java.md",
     "KB/Programming/java/HTTP.md",
     "KB/Programming/URL.md",
     "KB/Programming/java/java_URL.md",

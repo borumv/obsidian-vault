@@ -180,7 +180,7 @@ run(Runnable)
 **ABQ**
 ---
 
-ArrayBLockingQueue является потокобезопасным аналогом (FIFO](FIFO)
+ArrayBLockingQueue является потокобезопасным аналогом (FIFO](FIFO))
 ...new ArrayBlockingWyeye<Integer>(10) 
 
 queue.put(9) - добавление
