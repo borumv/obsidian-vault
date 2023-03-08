@@ -12,5 +12,6 @@
 3. [[DatagramChannel]]- [[UPD протокол]]
 
 Для реализации на уровен [[HTTP]]:
+1. [[java_URL|URL]] 
  
 ![[Pasted image 20230307150155.png]]
