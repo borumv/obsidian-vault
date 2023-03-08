@@ -22,13 +22,20 @@ var httpClient = HttpClient.newBuilder()
 var httpClient = HttpClient.newHttpClient();
 ```
 2. **Создаём** наш **request** 
+Если нужен **GET**:
  ```java
  var request = HttpRequest.newBuilder(new URI("http://localhost:8080/"))  
         .GET()  
         .build();
 ```
+Если нужен **POST**:
+```java
+var request_with_post = HttpRequest.newBuilder(URI.create("https://localhost:8080"))  
+        .POST(HttpRequest.BodyPublishers.ofString("Hello!"));
+```
+
 3. Теперь можно отправить наш request двумя способами - синхронно (*send()*) и асинхронно (*sendAsync()*), который вернёт нам [[CompletableFuture]]. 
-В аргументах метода, нужно также указать *BodyHandlers* - то, как мы будем обрабатывать наш **response** от клиента
+В аргументах метода, нужно также указать *BodyHandlers* - то, как мы будем обрабатывать наш **response** от клиента.
 ```java
 var response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
 ```
@@ -39,3 +46,4 @@ System.out.println(response.body());
 ```
 
 
+see: [[Сети в Java]]

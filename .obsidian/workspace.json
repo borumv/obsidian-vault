@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_HttpClient.md",
+                "file": "KB/Programming/java/HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "XML",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,18 +172,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e25554cf42016c2",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
-    "Projects/LectionMultiThreading.md",
-    "KB/Programming/java/java_HttpClient.md",
-    "CompletableFuture.md",
+    "KB/Programming/java/HTTP.md",
     "Сети в Java.md",
+    "KB/Programming/java/java_HttpClient.md",
+    "Projects/LectionMultiThreading.md",
+    "CompletableFuture.md",
     "MOC-Сети.md",
     "KB/Programming/Сетевые модели.md",
     "KB/Programming/стек протокола TCP-IP.md",
     "KB/Programming/Сетевая топология.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/java/HTTP.md",
     "KB/Programming/URL.md",
     "KB/Programming/java/java_URL.md",
     "KB/Programming/Сетевой уровень OSI.md",
