@@ -61,9 +61,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7a3367ef2265157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb58e2314ae07df7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,12 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "fb58e2314ae07df7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
+    "Projects/LectionMultiThreading.md",
+    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw",
     "KB/Programming/java/HTTP.md",
     "Сети в Java.md",
     "KB/Programming/java/java_HttpClient.md",
-    "Projects/LectionMultiThreading.md",
     "CompletableFuture.md",
     "MOC-Сети.md",
     "KB/Programming/Сетевые модели.md",
@@ -202,9 +229,6 @@
     "KB/Programming/TCP протокол.md",
     "Pasted image 20230307172537.png",
     "KB/Programming/OSI.md",
-    "модель TCP/IPI.md",
-    "KB/Programming/Канальный уровень OSI.md",
-    "стек протокола TCP/IP.md",
     "Pasted image 20230307150155.png",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
