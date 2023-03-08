@@ -23,9 +23,9 @@ public static void main(String[] args) throws IOException {
 ```
 
 ## Создание post-запроса
-1. Устанавливаем флаг *doOutput* в *True* через метод 
-2. Открываем аутпутстрим через метод **getOutputStream()**
-3. 
+1. Устанавливаем флаг *doOutput* в *True* через метод **`setToOutput()`
+2. Создаём аутпутстрим через вызов метода **getOutputStream()** из connection 
+3. Через метод **`write()`** записываем массив байти и передаём
 ```java
 URL url = new URL("http://localhost:8080/");  
 var connection = url.openConnection();  

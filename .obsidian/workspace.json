@@ -45,13 +45,8 @@
             "id": "1787d291cd06d9e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/java_URL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -60,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/HTTP.md",
+                "file": "Сети в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,27 +171,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1787d291cd06d9e4",
+  "active": "390189083b8ca210",
   "lastOpenFiles": [
-    "KB/Programming/java/java_URL.md",
+    "KB/Programming/IPv4.md",
+    "MOC-Сети.md",
     "Сети в Java.md",
+    "KB/Programming/java/HTTP.md",
+    "KB/Programming/URL.md",
+    "KB/Programming/java/java_URL.md",
     "KB/Programming/Сетевая топология.md",
     "KB/Programming/Сетевой уровень OSI.md",
     "KB/Programming/Сетевые модели.md",
     "KB/Programming/java/java_Socket.md",
-    "KB/Programming/java/HTTP.md",
     "Pasted image 20230308095711.png",
     "KB/Programming/коды ответов HTTP.md",
     "Pasted image 20230308094848.png",
-    "KB/Programming/URL.md",
     "Pasted image 20230308094522.png",
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230308092645.png",
     "KB/Programming/java/java_DatagramSocket.md",
     "KB/Programming/java/java_Server Socket.md",
-    "MOC-Сети.md",
     "KB/Programming/IP пакеты.md",
-    "KB/Programming/IPv4.md",
     "KB/Programming/java/java_H2.md",
     "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",

@@ -33,3 +33,5 @@ Tags: java
 - 
 
 ![[Pasted image 20230305133427.png|300]]
+
+see: [[Сети в Java]]
