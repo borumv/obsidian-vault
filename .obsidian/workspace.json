@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети в Java.md",
+                "file": "KB/Programming/java/java_URL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,6 +179,8 @@
   },
   "active": "1787d291cd06d9e4",
   "lastOpenFiles": [
+    "KB/Programming/java/java_URL.md",
+    "Сети в Java.md",
     "KB/Programming/Сетевая топология.md",
     "KB/Programming/Сетевой уровень OSI.md",
     "KB/Programming/Сетевые модели.md",
@@ -192,7 +194,6 @@
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230308092645.png",
     "KB/Programming/java/java_DatagramSocket.md",
-    "Сети в Java.md",
     "KB/Programming/java/java_Server Socket.md",
     "MOC-Сети.md",
     "KB/Programming/IP пакеты.md",
@@ -210,7 +211,6 @@
     "KB/Programming/Telnet.md",
     "KB/Programming/SSH.md",
     "Pasted image 20230307150155.png",
-    "Zettelcasten/Obsidian/Разметка/Markdown.md",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
     "модель TCP",
