@@ -22,6 +22,10 @@ var httpClient = HttpClient.newBuilder()
 var httpClient = HttpClient.newHttpClient();
 ```
 2. **Создаём** наш **request** 
-
+ ```java
+ var request = HttpRequest.newBuilder(new URI("http://localhost:8080/"))  
+        .GET()  
+        .build();
+```
 2. Теперь можно отправить наш request двумя способами - синхронно (*send()*) и асинхронно (*sendAsync()*), который вернёт нам [[CompletableFuture]]. 
 3. 

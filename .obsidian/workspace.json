@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,10 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e25554cf42016c2",
+  "active": "390189083b8ca210",
   "lastOpenFiles": [
-    "Сети в Java.md",
     "KB/Programming/java/java_HttpClient.md",
+    "CompletableFuture.md",
+    "Сети в Java.md",
     "MOC-Сети.md",
     "KB/Programming/Сетевые модели.md",
     "KB/Programming/стек протокола TCP-IP.md",
@@ -204,7 +205,6 @@
     "модель TCP/IPI.md",
     "KB/Programming/Канальный уровень OSI.md",
     "стек протокола TCP/IP.md",
-    "INBOX/Интервью Java.md",
     "Pasted image 20230307150155.png",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
