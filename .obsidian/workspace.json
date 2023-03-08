@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390189083b8ca210",
+  "active": "9e25554cf42016c2",
   "lastOpenFiles": [
+    "Projects/LectionMultiThreading.md",
     "KB/Programming/java/java_HttpClient.md",
     "CompletableFuture.md",
     "Сети в Java.md",
@@ -181,7 +182,6 @@
     "KB/Programming/Сетевые модели.md",
     "KB/Programming/стек протокола TCP-IP.md",
     "KB/Programming/Сетевая топология.md",
-    "Projects/LectionMultiThreading.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/java/HTTP.md",
     "KB/Programming/URL.md",

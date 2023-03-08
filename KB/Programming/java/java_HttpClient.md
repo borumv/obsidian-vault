@@ -27,5 +27,15 @@ var httpClient = HttpClient.newHttpClient();
         .GET()  
         .build();
 ```
-2. Теперь можно отправить наш request двумя способами - синхронно (*send()*) и асинхронно (*sendAsync()*), который вернёт нам [[CompletableFuture]]. 
-3. 
+3. Теперь можно отправить наш request двумя способами - синхронно (*send()*) и асинхронно (*sendAsync()*), который вернёт нам [[CompletableFuture]]. 
+В аргументах метода, нужно также указать *BodyHandlers* - то, как мы будем обрабатывать наш **response** от клиента
+```java
+var response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+```
+4. Из **response** мы уже можем вытягивать, всё, что захотим (боди, хэдер)
+```java
+System.out.println(response.headers());  
+System.out.println(response.body());
+```
+
+
