@@ -1,5 +1,6 @@
 Из курса
 
+Для реализации на уровне *TCP/UPD*:
 *Блокирующий* ввод-вывод, пакет `java.net.*`:
 1. [[java_Socket]] - [[TCP протокол]]
 2. [[java_Server Socket]] - [[TCP протокол]]
@@ -10,4 +11,6 @@
 2. [[ServerSocketChannel]] - [[TCP протокол]]
 3. [[DatagramChannel]]- [[UPD протокол]]
 
+Для реализации на уровен [[HTTP]]:
+ 
 ![[Pasted image 20230307150155.png]]

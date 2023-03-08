@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_DatagramSocket.md",
+                "file": "MOC-Сети.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_Socket.md",
-                "mode": "preview",
+                "file": "Сети в Java.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -60,15 +60,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_Server Socket.md",
-                "mode": "preview",
+                "file": "KB/Programming/java/HTTP.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Сети ",
+                "query": "Сет",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,20 +177,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e25554cf42016c2",
+  "active": "1787d291cd06d9e4",
   "lastOpenFiles": [
+    "KB/Programming/Сетевая топология.md",
+    "KB/Programming/Сетевой уровень OSI.md",
+    "KB/Programming/Сетевые модели.md",
     "KB/Programming/java/java_Socket.md",
+    "KB/Programming/java/HTTP.md",
+    "Pasted image 20230308095711.png",
+    "KB/Programming/коды ответов HTTP.md",
+    "Pasted image 20230308094848.png",
+    "KB/Programming/URL.md",
+    "Pasted image 20230308094522.png",
+    "KB/Programming/UPD протокол.md",
+    "Pasted image 20230308092645.png",
     "KB/Programming/java/java_DatagramSocket.md",
     "Сети в Java.md",
+    "KB/Programming/java/java_Server Socket.md",
+    "MOC-Сети.md",
     "KB/Programming/IP пакеты.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/java/java_Server Socket.md",
     "KB/Programming/java/java_H2.md",
     "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",
-    "KB/Programming/UPD протокол.md",
     "Pasted image 20230307172537.png",
-    "KB/Programming/Сетевой уровень OSI.md",
     "KB/Programming/OSI.md",
     "модель TCP/IPI.md",
     "KB/Programming/Канальный уровень OSI.md",
@@ -202,21 +212,11 @@
     "Pasted image 20230307150155.png",
     "Zettelcasten/Obsidian/Разметка/Markdown.md",
     "Pasted image 20230307124915.png",
-    "KB/Programming/DHCP сервер.md",
-    "KB/Programming/📙Python.md",
-    "KB/Programming/Scripting with Python.md",
-    "KB/Programming/python_Pillow.md",
-    "KB/Programming/python_PyPDF2.md",
-    "KB/Programming/python_Виртуальная среда.md",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",
     "Pasted image 20230306115452.png",
     "Pasted image 20230306091237.png",
-    "Pasted image 20230306085207.png",
-    "Pasted image 20230306084133.png",
-    "Untitled.canvas",
-    "Pasted image 20230305194840.png",
-    "Pasted image 20230305193615.png"
+    "Untitled.canvas"
   ]
 }

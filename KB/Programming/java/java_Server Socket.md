@@ -33,3 +33,5 @@ try (var serverSocket = new ServerSocket(8098);
     }  
 }
 ```
+
+see: [[Сети в Java]] 

@@ -19,6 +19,6 @@ tags: [article]
 -   422 Unprocessable Entity — используется для проверки ошибок
 -   429 Too Many Requests — когда запрос отклоняется из-за ограничения скорости
 
-
+![[Pasted image 20230308094848.png]]
 
 **source**: https://habr.com/ru/post/351890/
