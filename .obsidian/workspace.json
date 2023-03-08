@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "XML",
+                "query": "Machin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,8 +197,15 @@
   },
   "active": "a7a3367ef2265157",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
+    "Pasted image 20230308183535.png",
+    "MOC-Machine Learning.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/java/java_String.md",
+    "java_String pool.md",
+    "INBOX/Todo.md",
     "Untitled.md",
+    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
     "Projects/LectionMultiThreading.md",
     "Excalidraw",
@@ -222,13 +229,7 @@
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230308092645.png",
     "KB/Programming/java/java_DatagramSocket.md",
-    "KB/Programming/java/java_Server Socket.md",
-    "KB/Programming/IP пакеты.md",
-    "KB/Programming/java/java_H2.md",
-    "Полезные команды для Powershell.md",
-    "KB/Programming/TCP протокол.md",
     "Pasted image 20230307172537.png",
-    "KB/Programming/OSI.md",
     "Pasted image 20230307150155.png",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
