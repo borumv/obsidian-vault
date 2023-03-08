@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,14 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1787d291cd06d9e4",
+  "active": "ecd4e701d54ab4f1",
   "lastOpenFiles": [
-    "KB/Programming/java/java_Server Socket.md",
+    "KB/Programming/IP пакеты.md",
     "KB/Programming/java/java_Socket.md",
+    "KB/Programming/java/java_Server Socket.md",
     "Сети в Java.md",
     "KB/Programming/java/java_H2.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/IP пакеты.md",
     "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/UPD протокол.md",
