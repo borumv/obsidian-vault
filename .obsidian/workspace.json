@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC-Сети.md",
+                "file": "KB/Programming/java/java_HttpClient.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Completable",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,17 +172,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390189083b8ca210",
+  "active": "9e25554cf42016c2",
   "lastOpenFiles": [
     "Сети в Java.md",
-    "KB/Programming/IPv4.md",
+    "KB/Programming/java/java_HttpClient.md",
     "MOC-Сети.md",
+    "KB/Programming/Сетевые модели.md",
+    "KB/Programming/стек протокола TCP-IP.md",
+    "KB/Programming/Сетевая топология.md",
+    "Projects/LectionMultiThreading.md",
+    "KB/Programming/IPv4.md",
     "KB/Programming/java/HTTP.md",
     "KB/Programming/URL.md",
     "KB/Programming/java/java_URL.md",
-    "KB/Programming/Сетевая топология.md",
     "KB/Programming/Сетевой уровень OSI.md",
-    "KB/Programming/Сетевые модели.md",
     "KB/Programming/java/java_Socket.md",
     "Pasted image 20230308095711.png",
     "KB/Programming/коды ответов HTTP.md",
@@ -200,11 +203,8 @@
     "KB/Programming/OSI.md",
     "модель TCP/IPI.md",
     "KB/Programming/Канальный уровень OSI.md",
-    "KB/Programming/стек протокола TCP-IP.md",
     "стек протокола TCP/IP.md",
     "INBOX/Интервью Java.md",
-    "KB/Programming/Telnet.md",
-    "KB/Programming/SSH.md",
     "Pasted image 20230307150155.png",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
