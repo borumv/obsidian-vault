@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/IP пакеты.md",
+                "file": "KB/Programming/java/java_DatagramSocket.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,14 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd4e701d54ab4f1",
+  "active": "9e25554cf42016c2",
   "lastOpenFiles": [
-    "KB/Programming/IP пакеты.md",
     "KB/Programming/java/java_Socket.md",
-    "KB/Programming/java/java_Server Socket.md",
+    "KB/Programming/java/java_DatagramSocket.md",
     "Сети в Java.md",
-    "KB/Programming/java/java_H2.md",
+    "KB/Programming/IP пакеты.md",
     "KB/Programming/IPv4.md",
+    "KB/Programming/java/java_Server Socket.md",
+    "KB/Programming/java/java_H2.md",
     "Полезные команды для Powershell.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/UPD протокол.md",
@@ -207,7 +208,6 @@
     "KB/Programming/python_Pillow.md",
     "KB/Programming/python_PyPDF2.md",
     "KB/Programming/python_Виртуальная среда.md",
-    "KB/Programming/8 - битовые символы могут отображаться некорректно.md",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",

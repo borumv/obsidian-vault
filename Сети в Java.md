@@ -3,7 +3,7 @@
 *Блокирующий* ввод-вывод, пакет `java.net.*`:
 1. [[java_Socket]] - [[TCP протокол]]
 2. [[java_Server Socket]] - [[TCP протокол]]
-3. [[DatagramSocket]] - [[UPD протокол]]
+3. [[java_DatagramSocket]] - [[UPD протокол]]
 
 *Неблокирующий ввод-вывод*, пакет `java.nio.*`
 1. [[SocketChannel]] - [[TCP протокол]]
