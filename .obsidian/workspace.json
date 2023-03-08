@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb58e2314ae07df7",
+  "active": "a7a3367ef2265157",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
     "Projects/LectionMultiThreading.md",
     "Excalidraw",
