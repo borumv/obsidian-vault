@@ -1,4 +1,4 @@
-**DDL** - Data Definition Language
+**DDL** - Data Definition Language.
 
 **CREATE TABLE** *table_name*
 **ALTER TABLE** *table_name*
@@ -9,3 +9,4 @@
 **DROP TABLE** *table_name*
 **TRUNCATE TABLE** *table_name* //удаляет все данные из таблицы, но не может удалить данные на которые есть ссылка по внешнему ключу
 **DROP COLUMN** *column_name*
+ 
