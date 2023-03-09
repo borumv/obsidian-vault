@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
+                "file": "KB/Programming/java/spring_XML Конфигурация.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,17 +76,20 @@
             }
           },
           {
-            "id": "fb58e2314ae07df7",
+            "id": "b9bf00c0d2f5958f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md"
+                "file": "KB/Programming/XML.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Machin",
+                "query": "XML",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,19 +198,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7a3367ef2265157",
+  "active": "b9bf00c0d2f5958f",
   "lastOpenFiles": [
+    "KB/Programming/XML.md",
+    "KB/Programming/java/spring_XML Конфигурация.md",
+    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
+    "KB/Programming/Scikit-Learn.md",
+    "Projects/LectionMultiThreading.md",
     "Pasted image 20230308183535.png",
     "MOC-Machine Learning.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_String.md",
     "java_String pool.md",
     "INBOX/Todo.md",
     "Untitled.md",
-    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
-    "Projects/LectionMultiThreading.md",
     "Excalidraw",
     "KB/Programming/java/HTTP.md",
     "Сети в Java.md",
@@ -228,14 +233,12 @@
     "Pasted image 20230308094522.png",
     "KB/Programming/UPD протокол.md",
     "Pasted image 20230308092645.png",
-    "KB/Programming/java/java_DatagramSocket.md",
     "Pasted image 20230307172537.png",
     "Pasted image 20230307150155.png",
     "Pasted image 20230307124915.png",
     "стек протокола TCP",
     "модель TCP",
     "Pasted image 20230306140830.png",
-    "Pasted image 20230306115452.png",
     "Untitled.canvas"
   ]
 }
