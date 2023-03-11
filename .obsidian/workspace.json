@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "String p",
+                "query": "jakar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae58442bc3372253",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
     "Pasted image 20230310145106.png",
     "KB/Programming/Kafka listeners.md",
