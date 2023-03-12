@@ -33,5 +33,7 @@ try (var serverSocket = new ServerSocket(8098);
     }  
 }
 ```
+[[Примеры java кода Server и ServerSocket]]
+
 
 see: [[Сети в Java]] 
