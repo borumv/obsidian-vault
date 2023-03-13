@@ -137,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,14 +198,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dafe2f02d1d6cf0",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
-    "Вопросы stackOverFlow.md",
     "KB/Programming/HTTP версия 2.md",
+    "KB/Programming/Приоритезация запросов.md",
+    "KB/Programming/Сжатие заголовков.md",
+    "KB/Programming/Server push в HTTP2.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "Вопросы stackOverFlow.md",
     "KB/Programming/Streams в HTTP2.md",
     "KB/Programming/Frames в HTTP2.md",
     "KB/Programming/Мультиплексирование.md",
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/HTTP.md",
     "HTTP",
     "Сети в Java.md",
@@ -230,9 +234,6 @@
     "KB/Programming/java/java_String.md",
     "java_String pool.md",
     "KB/Programming/kafka_Zookeeper.md",
-    "KB/Programming/XML.md",
-    "KB/Programming/📙MOC-Kafka.md",
-    "KB/Programming/java/Настройка Kafka в java.md",
     "Pasted image 20230309085857.png",
     "Pasted image 20230308183535.png",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
