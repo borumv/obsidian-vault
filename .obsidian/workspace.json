@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/HTTP.md",
+                "file": "KB/Programming/Мультиплексирование.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,18 +199,21 @@
   },
   "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "KB/Programming/HTTP версия 2.md",
+    "KB/Programming/Мультиплексирование.md",
+    "KB/Programming/java/HTTP.md",
+    "HTTP",
+    "Сети в Java.md",
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
     "Pasted image 20230312203928.png",
     "Pasted image 20230312203222.png",
-    "KB/Programming/java/HTTP.md",
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
     "KB/Programming/Kafka listeners.md",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/java_Server Socket.md",
     "java_compilator.md",
-    "Сети в Java.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/Docker Services.md",
@@ -231,12 +233,10 @@
     "KB/Programming/java/Настройка Kafka в java.md",
     "KB/Programming/java/spring_XML Конфигурация.md",
     "KB/Programming/sql/sql_Основные команды работы с таблицами.md",
-    "Projects/LectionMultiThreading.md",
     "Pasted image 20230309085857.png",
     "Pasted image 20230308183535.png",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
     "Excalidraw",
-    "Pasted image 20230308095711.png",
     "стек протокола TCP",
     "модель TCP",
     "Untitled.canvas"
