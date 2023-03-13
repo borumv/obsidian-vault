@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,8 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "703bb9f46b2d6016",
+  "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "Pasted image 20230312204945.png",
+    "Pasted image 20230312204533.png",
+    "Pasted image 20230312203928.png",
+    "Pasted image 20230312203222.png",
     "KB/Programming/java/HTTP.md",
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
@@ -233,9 +237,6 @@
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
     "Excalidraw",
     "Pasted image 20230308095711.png",
-    "Pasted image 20230308094848.png",
-    "Pasted image 20230308094522.png",
-    "Pasted image 20230308092645.png",
     "стек протокола TCP",
     "модель TCP",
     "Untitled.canvas"
