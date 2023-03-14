@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Apache Tomcat.md",
+                "file": "KB/Programming/html-css/css_Работа с текстом и шрифтами.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сети",
+                "query": "font-weight",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,8 +200,11 @@
   },
   "active": "5dafe2f02d1d6cf0",
   "lastOpenFiles": [
-    "KB/Programming/Сети в Java.md",
+    "KB/Programming/html-css/css_Flex-box.md",
+    "KB/Programming/html-css/css_Декоративные элементы.md",
+    "KB/Programming/kafka_Consumer CLI.md",
     "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/Сети в Java.md",
     "MOC-Сети.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/HTTP версия 2.md",
@@ -230,10 +233,7 @@
     "KB/Programming/драйвер Bridge.md",
     "KB/Programming/Docker networking.md",
     "KB/Programming/Scikit-Learn.md",
-    "MOC-Machine Learning.md",
-    "KB/Programming/kafka_producer.md",
     "Pasted image 20230310145106.png",
-    "KB/Programming/java/java_String.md",
     "Pasted image 20230309085857.png",
     "Pasted image 20230308183535.png",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
