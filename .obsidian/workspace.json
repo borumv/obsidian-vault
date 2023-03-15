@@ -42,13 +42,13 @@
             }
           },
           {
-            "id": "5dafe2f02d1d6cf0",
+            "id": "38eaee42f97629d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/html-css/css_Работа с текстом и шрифтами.md",
-                "mode": "source",
+                "file": "KB/Programming/java/Модификаторы доступа в Java.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font-weight",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +197,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dafe2f02d1d6cf0",
+  "active": "38eaee42f97629d5",
   "lastOpenFiles": [
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/java/Модификаторы доступа в Java.md",
+    "templates/T-java.md",
+    "KB/Programming/html-css/css_Работа с текстом и шрифтами.md",
     "KB/Programming/html-css/css_Flex-box.md",
     "KB/Programming/html-css/css_Декоративные элементы.md",
     "KB/Programming/kafka_Consumer CLI.md",
@@ -228,11 +231,7 @@
     "KB/Programming/java/java_Server Socket.md",
     "java_compilator.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/Docker Services.md",
-    "KB/Programming/драйвер Bridge.md",
-    "KB/Programming/Docker networking.md",
-    "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230310145106.png",
     "Pasted image 20230309085857.png",
     "Pasted image 20230308183535.png",
