@@ -34,21 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/spring_Bean Life Cycle.md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38eaee42f97629d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/Модификаторы доступа в Java.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -89,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Java ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 1011.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38eaee42f97629d5",
+  "active": "9e25554cf42016c2",
   "lastOpenFiles": [
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/java/Модификаторы доступа в Java.md",
