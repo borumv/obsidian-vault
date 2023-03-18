@@ -10,8 +10,10 @@ Tags: programming, java
 📌Фрэймворк, разворачивающий сервер.
 
 Разбит на 3 модуля:
-- Catalina (servlet container)
-- Coyote (HTTP connector)
+- Catalina (servlet container) - контейнер [[Сервлеты в Java|сервлетов]]
+- Coyote (HTTP connector) - набор классов, который представляет из себя набор [[java_Server Socket|Server socket в java|сервер сокетов]]
 - Jasper (JSP engine)
+
+![[Pasted image 20230318182441.png]]
 
 

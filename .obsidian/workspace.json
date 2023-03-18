@@ -29,38 +29,12 @@
             }
           },
           {
-            "id": "9e25554cf42016c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2af58a8aebcfcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы stackOverFlow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae58442bc3372253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/HTTP версия 2.md",
+                "file": "KB/Programming/java/Сервлеты в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java ",
+                "query": "Tom",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -169,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1011.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +160,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e25554cf42016c2",
+  "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "Pasted image 20230318183543.png",
+    "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/java/Сервлеты в Java.md",
+    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "Вопросы stackOverFlow.md",
+    "Pasted image 20230318182441.png",
+    "KB/English/Phrasal Verbs.md",
+    "KB/Programming/HTTP версия 2.md",
     "KB/Programming/spring_Bean Life Cycle.md",
     "KB/Programming/java/Модификаторы доступа в Java.md",
     "templates/T-java.md",
@@ -193,15 +178,11 @@
     "KB/Programming/html-css/css_Flex-box.md",
     "KB/Programming/html-css/css_Декоративные элементы.md",
     "KB/Programming/kafka_Consumer CLI.md",
-    "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Сети в Java.md",
     "MOC-Сети.md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/HTTP версия 2.md",
     "KB/Programming/Приоритезация запросов.md",
     "KB/Programming/Сжатие заголовков.md",
     "KB/Programming/Server push в HTTP2.md",
-    "Вопросы stackOverFlow.md",
     "KB/Programming/Streams в HTTP2.md",
     "KB/Programming/Frames в HTTP2.md",
     "KB/Programming/Мультиплексирование.md",
@@ -214,15 +195,10 @@
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
     "KB/Programming/Kafka listeners.md",
-    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/java_Server Socket.md",
-    "java_compilator.md",
-    "KB/Programming/IPv4.md",
-    "KB/Programming/Docker Services.md",
     "Pasted image 20230310145106.png",
     "Pasted image 20230309085857.png",
     "Pasted image 20230308183535.png",
-    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
