@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Сервлеты в Java.md",
+                "file": "KB/Programming/Apache Tomcat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,9 +162,9 @@
   },
   "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "KB/Programming/java/Сервлеты в Java.md",
     "Pasted image 20230318183543.png",
     "KB/Programming/Apache Tomcat.md",
-    "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/Java Memory Model.md",
     "Вопросы stackOverFlow.md",
@@ -198,7 +198,6 @@
     "KB/Programming/java/java_Server Socket.md",
     "Pasted image 20230310145106.png",
     "Pasted image 20230309085857.png",
-    "Pasted image 20230308183535.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
