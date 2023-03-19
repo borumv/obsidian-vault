@@ -98,12 +98,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -161,11 +161,12 @@
   },
   "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
+    "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/Server push в HTTP2.md",
     "KB/Programming/sql/psql_Функции в Postgres.md",
     "KB/Programming/Docker Services.md",
     "KB/Programming/Apache Tomcat.md",
-    "KB/Programming/java/Сервлеты в Java.md",
     "Pasted image 20230318183543.png",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/Java Memory Model.md",
@@ -195,7 +196,6 @@
     "Pasted image 20230312203222.png",
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
-    "KB/Programming/Kafka listeners.md",
     "Pasted image 20230310145106.png",
     "Pasted image 20230309085857.png",
     "Excalidraw",
