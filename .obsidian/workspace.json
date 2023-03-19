@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Apache Tomcat.md",
+                "file": "KB/Programming/java/Сервлеты в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tom",
+                "query": "Серв",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -162,9 +161,12 @@
   },
   "active": "ae58442bc3372253",
   "lastOpenFiles": [
+    "KB/Programming/Server push в HTTP2.md",
+    "KB/Programming/sql/psql_Функции в Postgres.md",
+    "KB/Programming/Docker Services.md",
+    "KB/Programming/Apache Tomcat.md",
     "KB/Programming/java/Сервлеты в Java.md",
     "Pasted image 20230318183543.png",
-    "KB/Programming/Apache Tomcat.md",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/Java Memory Model.md",
     "Вопросы stackOverFlow.md",
@@ -182,7 +184,6 @@
     "MOC-Сети.md",
     "KB/Programming/Приоритезация запросов.md",
     "KB/Programming/Сжатие заголовков.md",
-    "KB/Programming/Server push в HTTP2.md",
     "KB/Programming/Streams в HTTP2.md",
     "KB/Programming/Frames в HTTP2.md",
     "KB/Programming/Мультиплексирование.md",
@@ -195,7 +196,6 @@
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
     "KB/Programming/Kafka listeners.md",
-    "KB/Programming/java/java_Server Socket.md",
     "Pasted image 20230310145106.png",
     "Pasted image 20230309085857.png",
     "Excalidraw",
