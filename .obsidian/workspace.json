@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Inheritance в Hibernate.md",
+                "file": "KB/English/Dictionary.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6193602887161688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/English/Should in English.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adf7cd31c6fb2955",
+  "active": "6193602887161688",
   "lastOpenFiles": [
+    "KB/English/Dictionary.md",
+    "KB/English/Should in English.md",
+    "KB/English/English B2.md",
+    "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
+    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
+    "KB/English/english_Условные предложения.md",
+    "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
+    "KB/English/Phrasal Verbs.md",
+    "KB/English/Past Simple.md",
+    "KB/English/Present Perfect Continuos.md",
+    "KB/English/Future Simple.md",
+    "KB/English/OK English.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/Embeddable Types в Hibernate.md",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
@@ -185,20 +209,8 @@
     "KB/Programming/java/Java Memory Model.md",
     "Вопросы stackOverFlow.md",
     "Pasted image 20230318182441.png",
-    "KB/English/Phrasal Verbs.md",
     "KB/Programming/HTTP версия 2.md",
     "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/java/Модификаторы доступа в Java.md",
-    "templates/T-java.md",
-    "KB/Programming/html-css/css_Работа с текстом и шрифтами.md",
-    "KB/Programming/html-css/css_Flex-box.md",
-    "KB/Programming/html-css/css_Декоративные элементы.md",
-    "KB/Programming/kafka_Consumer CLI.md",
-    "KB/Programming/Сети в Java.md",
-    "MOC-Сети.md",
-    "KB/Programming/Приоритезация запросов.md",
-    "KB/Programming/Сжатие заголовков.md",
-    "KB/Programming/Streams в HTTP2.md",
     "HTTP",
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
