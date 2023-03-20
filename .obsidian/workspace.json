@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Сервлеты в Java.md",
+                "file": "KB/Programming/java/Каскадные типы в Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -161,14 +161,15 @@
   },
   "active": "ae58442bc3372253",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
+    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
+    "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/java/Сервлеты в Java.md",
+    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "KB/Programming/Server push в HTTP2.md",
     "KB/Programming/sql/psql_Функции в Postgres.md",
     "KB/Programming/Docker Services.md",
     "KB/Programming/Apache Tomcat.md",
     "Pasted image 20230318183543.png",
-    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/Programming/java/Java Memory Model.md",
     "Вопросы stackOverFlow.md",
     "Pasted image 20230318182441.png",
@@ -188,7 +189,6 @@
     "KB/Programming/Streams в HTTP2.md",
     "KB/Programming/Frames в HTTP2.md",
     "KB/Programming/Мультиплексирование.md",
-    "KB/Programming/java/HTTP.md",
     "HTTP",
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
