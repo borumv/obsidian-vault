@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6193602887161688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Inheritance в Hibernate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inhe",
+                "query": "Ысш",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6193602887161688",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
+    "KB/Programming/Inheritance в Hibernate.md",
     "Pasted image 20230320203552.png",
     "KB/English/Should in English.md",
     "KB/English/Dictionary.md",
@@ -200,7 +188,6 @@
     "KB/English/Present Perfect Continuos.md",
     "KB/English/Future Simple.md",
     "KB/English/OK English.md",
-    "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/java/Сервлеты в Java.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "KB/Programming/Server push в HTTP2.md",
@@ -220,7 +207,6 @@
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
     "Pasted image 20230310145106.png",
-    "Pasted image 20230309085857.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
