@@ -13,13 +13,18 @@ Tags: python
 
 ## Workflow
 
-1. **Подготовка данных** (Getting the data ready)
+#### 1.**Подготовка данных** (Getting the data ready)
 Три главные вещи, которые мы должны сделать:
-	1. Разделить данные на features и labels (обычно 'X' & 'y'. Эти данные мы должны разделить *training* и *tests* sets. Т.к. один из главных принципов [[MOC-Machine Learning|машинного обучения]] - **Никогда не тестируй и не превращай в числа свои модели** 
-	2. Заполнение (filling) (также называют imputing) или "выкидывание" ненужных значений
-	3. Конвертирование non-numerical значений в numerical (также называют feature encoding)
+1. Разделить данные на features и labels (обычно 'X' & 'y'. Эти данные мы должны разделить *training* и *tests* sets. Т.к. один из главных принципов [[MOC-Machine Learning|машинного обучения]] - **Никогда не тестируй и не превращай в числа свои модели** 
+>```python
+>from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.8)
+>```
 
-1. **Выбор правильного алгоритма/оценщика для решения нашей задачи** (Choose the right estimator/algortihm for ou problenms)
+2. Заполнение (filling) (также называют imputing) или "выкидывание" ненужных значений
+3. Конвертирование non-numerical значений в numerical (также называют feature encoding)
+
+2. **Выбор правильного алгоритма/оценщика для решения нашей задачи** (Choose the right estimator/algortihm for ou problenms)
 Это один из ключевых этапов в процессе машинного обучения. На этом этапе мы решаем, какой тип модели лучше всего подходит для наших данных и задачи. Scikit-learn содержит множество моделей и оценщиков, и для выбора подходящего нам нужно учитывать такие факторы, как тип задачи (классификация, регрессия, кластеризация и т.д.), тип данных, размер выборки, сложность модели и т.д.
 
 3.**Обучение модели (fitting) и использование ее для предсказания на данных (making predictions)**. (Fit the model/algorithm and use it to make predictions on our data)
