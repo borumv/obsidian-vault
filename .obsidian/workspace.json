@@ -8,46 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecd4e701d54ab4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae58442bc3372253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/Каскадные типы в Hibernate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43d9013e5980e745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Embeddable Types в Hibernate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adf7cd31c6fb2955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/python_Pandas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c61f168ad312db51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -170,15 +143,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adf7cd31c6fb2955",
+  "active": "c61f168ad312db51",
   "lastOpenFiles": [
+    "KB/Programming/python_Pandas.md",
+    "KB/Programming/python_Matplotlib.md",
+    "KB/Programming/XML.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Embeddable Types в Hibernate.md",
+    "KB/Programming/java/Каскадные типы в Hibernate.md",
+    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/English/Dictionary.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "Pasted image 20230320203552.png",
     "KB/English/Should in English.md",
-    "KB/Programming/Embeddable Types в Hibernate.md",
-    "KB/Programming/java/Каскадные типы в Hibernate.md",
-    "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/English/English B2.md",
     "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
     "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
@@ -196,10 +173,7 @@
     "KB/Programming/Docker Services.md",
     "KB/Programming/Apache Tomcat.md",
     "Pasted image 20230318183543.png",
-    "KB/Programming/java/Java Memory Model.md",
-    "Вопросы stackOverFlow.md",
     "Pasted image 20230318182441.png",
-    "KB/Programming/HTTP версия 2.md",
     "HTTP",
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
