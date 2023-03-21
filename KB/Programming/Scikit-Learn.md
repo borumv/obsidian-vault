@@ -15,7 +15,7 @@ Tags: python
 
 #### 1.**Подготовка данных** (Getting the data ready)
 Три главные вещи, которые мы должны сделать:
-1. Разделить данные на features и labels (обычно 'X' & 'y'. Эти данные мы должны разделить *training* и *tests* sets. Т.к. один из главных принципов [[MOC-Machine Learning|машинного обучения]] - **Никогда не тестируй и не превращай в числа свои модели** 
+1. Разделить данные на features и labels (обычно 'X' & 'y'. Эти данные мы должны разделить на *training* и *tests* sets. Т.к. один из главных принципов [[MOC-Machine Learning|машинного обучения]] - **Никогда не тестируй и не превращай в числа свои модели** 
 >```python
 >from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.8)
