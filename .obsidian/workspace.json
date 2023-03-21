@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/English/Dictionary.md",
-                "mode": "preview",
+                "file": "KB/Programming/Scikit-Learn.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ысш",
+                "query": "Sci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -169,12 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "adf7cd31c6fb2955",
   "lastOpenFiles": [
+    "KB/English/Dictionary.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "Pasted image 20230320203552.png",
     "KB/English/Should in English.md",
-    "KB/English/Dictionary.md",
     "KB/Programming/Embeddable Types в Hibernate.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
