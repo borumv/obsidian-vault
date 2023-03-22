@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@ManyToMany.md",
+                "file": "KB/Programming/Inheritance в Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Inh",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,9 +184,9 @@
   },
   "active": "a7a842b111f7cae8",
   "lastOpenFiles": [
-    "KB/Programming/java/ORM.md",
-    "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
+    "KB/Programming/@ManyToMany.md",
+    "KB/Programming/java/ORM.md",
     "KB/Programming/@Lob.md",
     "KB/Programming/MOC-PostgreSql.md",
     "KB/Programming/@Enumerated.md",
