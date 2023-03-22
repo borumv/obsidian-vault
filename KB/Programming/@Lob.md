@@ -2,7 +2,7 @@
 created: Wednesday 22nd March 2023 09:46
 Last modified: Wednesday 22nd March 2023 09:46
 Aliases: аннотация Lob
-Tags: programming
+Tags: programming, java
 ---
 
 # [[@Lob]]
