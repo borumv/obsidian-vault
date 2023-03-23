@@ -11,13 +11,8 @@
             "id": "f4f0dbb8ab412393",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -131,9 +126,9 @@
   },
   "active": "f4f0dbb8ab412393",
   "lastOpenFiles": [
-    "KB/Programming/Создание модели машинного обучения.md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
+    "KB/Programming/Создание модели машинного обучения.md",
     "KB/Programming/python_Pandas.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/ddl-auto в Hibernate.md",
