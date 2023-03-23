@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
+                "file": "KB/Programming/ddl-auto в Hibernate.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -171,8 +171,8 @@
   },
   "active": "f4f0dbb8ab412393",
   "lastOpenFiles": [
-    "Untitled 4.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
+    "KB/Programming/ddl-auto в Hibernate.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/ORM.md",
