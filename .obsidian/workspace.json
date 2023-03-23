@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/ddl-auto в Hibernate.md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inh",
+                "query": "Sci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,8 +171,8 @@
   },
   "active": "f4f0dbb8ab412393",
   "lastOpenFiles": [
-    "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/ddl-auto в Hibernate.md",
+    "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/ORM.md",
