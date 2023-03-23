@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
+                "file": "KB/Programming/Конвертирование non-numerical значений в numerical.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,11 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ce97c5876e1057",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "Pasted image 20230323123741.png",
     "KB/Programming/One hot encoding.md",
+    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+    "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Scikit-Learn.md",
+    "Pasted image 20230323123741.png",
     "KB/Programming/Алгоритм Случайного леса.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "KB/Programming/Создание модели машинного обучения.md",
@@ -179,7 +181,6 @@
     "KB/English/Should in English.md",
     "KB/English/English B2.md",
     "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
-    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
     "HTTP",
@@ -189,7 +190,6 @@
     "Pasted image 20230312203222.png",
     "Pasted image 20230312134147.png",
     "Pasted image 20230312133917.png",
-    "Pasted image 20230310145106.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
