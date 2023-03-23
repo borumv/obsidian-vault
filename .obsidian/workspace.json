@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2ce97c5876e1057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/One hot encoding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,10 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
-    "KB/Programming/Алгоритм Случайного леса.md",
+    "Pasted image 20230323123741.png",
+    "KB/Programming/One hot encoding.md",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Алгоритм Случайного леса.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "KB/Programming/Создание модели машинного обучения.md",
     "KB/Programming/python_Pandas.md",
@@ -165,8 +180,6 @@
     "KB/English/English B2.md",
     "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
     "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
-    "KB/English/english_Условные предложения.md",
-    "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
     "HTTP",
