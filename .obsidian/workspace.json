@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/One hot encoding.md",
+                "file": "Projects/Nutrients.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,10 +150,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/One hot encoding.md",
+    "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230323123741.png",
