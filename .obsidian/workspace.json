@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,8 +150,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
+    "Projects/Nutrients.md",
     "KB/Programming/One hot encoding.md",
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
@@ -179,7 +180,6 @@
     "Pasted image 20230320203552.png",
     "KB/English/Should in English.md",
     "KB/English/English B2.md",
-    "KB/English/Условное наклонение 2-го типа (Conditional 2).md",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
     "HTTP",
