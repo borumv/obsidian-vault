@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/One hot encoding.md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cas",
+                "query": "Sci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,8 +153,10 @@
   },
   "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
-    "Projects/Nutrients.md",
+    "Pasted image 20230325153744.png",
+    "MOC-Machine Learning.md",
     "KB/Programming/One hot encoding.md",
+    "Projects/Nutrients.md",
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/Scikit-Learn.md",
@@ -178,8 +181,6 @@
     "KB/Programming/java/Примеры java кода Server и ServerSocket.md",
     "KB/English/Dictionary.md",
     "Pasted image 20230320203552.png",
-    "KB/English/Should in English.md",
-    "KB/English/English B2.md",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
     "HTTP",
