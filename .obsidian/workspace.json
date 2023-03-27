@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Nutrients.md",
+                "file": "OneToMany и ManyToOne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sci",
+                "query": "OneTo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,12 +153,14 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "KB/Programming/java/Каскадные типы в Hibernate.md",
+    "OneToMany и ManyToOne.md",
+    "Projects/Nutrients.md",
     "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
     "MOC-Machine Learning.md",
     "KB/Programming/One hot encoding.md",
-    "Projects/Nutrients.md",
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "Pasted image 20230323123741.png",
@@ -166,7 +168,6 @@
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "KB/Programming/Создание модели машинного обучения.md",
     "KB/Programming/python_Pandas.md",
-    "KB/Programming/java/Каскадные типы в Hibernate.md",
     "KB/Programming/ddl-auto в Hibernate.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/@ManyToMany.md",
