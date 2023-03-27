@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,8 +151,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ce97c5876e1057",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
     "MOC-Machine Learning.md",
@@ -160,7 +161,6 @@
     "Projects/Nutrients.md",
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
-    "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230323123741.png",
     "KB/Programming/Алгоритм Случайного леса.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
@@ -189,7 +189,6 @@
     "Pasted image 20230312204533.png",
     "Pasted image 20230312203928.png",
     "Pasted image 20230312203222.png",
-    "Pasted image 20230312134147.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
