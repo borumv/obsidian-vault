@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Scikit-Learn.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -172,6 +172,7 @@
   },
   "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
+    "Pasted image 20230328153358.png",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
@@ -200,7 +201,6 @@
     "KB/Programming/@Enumerated.md",
     "KB/Programming/sql/📙SQL.md",
     "INBOX/+ PostgreSQL.md",
-    "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
