@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,15 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "1532b4220af79580",
   "lastOpenFiles": [
+    "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Confusing matrix (матрица ошибок).md",
     "KB/Programming/метрика площади под ROC-кривой.md",
-    "KB/Programming/метрика точности (accuracy).md",
     "Pasted image 20230328153358.png",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/📙MOC-Kafka.md",
