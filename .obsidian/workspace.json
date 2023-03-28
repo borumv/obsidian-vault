@@ -40,14 +40,14 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Scikit-Learn.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
+    "KB/Programming/@ManyToMany.md",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/@JoinColumn.md",
-    "KB/Programming/@ManyToMany.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "Projects/Nutrients.md",
