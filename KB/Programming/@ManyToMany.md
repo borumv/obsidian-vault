@@ -31,9 +31,7 @@ public class User {
 public class Role {
     @Id
     private Long id;
-
     @ManyToMany(mappedBy = "roles")
     private Set<User> users;
 }
-
 ```
