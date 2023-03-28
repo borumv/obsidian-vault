@@ -67,6 +67,18 @@ print("Accuracy:", accuracy)
 	
 - **Using `scoring` parameter** - Оценка модели с помощью scoring параметра - это процесс оценки производительности модели на заданном наборе данных, используя метрику качества, заданную в scoring параметре. Для этого можно использовать функции кросс-валидации, которые вычисляют метрику качества для каждой итерации кросс-валидации и возвращают ее среднее значение и стандартное отклонение. Этот подход позволяет оценить, насколько хорошо модель работает на данных, не используемых для ее обучения, и сравнить производительность разных моделей при одинаковых условиях.
 ![[Pasted image 20230328153358.png|300]]
+```python
+np.random.seed(42)
+from sklearn.model_selection import cross_val_score
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier(n_estimators=100)
+model.fit(X_train, y_train)
+
+#Comparing score method and cross-validation
+model.score(X_test, y_test), np.mean(cross_val_score(model, X, y))
+#output
+(0.8524590163934426, 0.8214754098360656)
+```
 
 
 
