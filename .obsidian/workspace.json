@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/метрика точности (accuracy).md",
+                "file": "KB/Programming/Модель классификации.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,9 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1532b4220af79580",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
     "KB/Programming/метрика точности (accuracy).md",
+    "KB/Programming/IPv4.md",
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
@@ -167,11 +169,9 @@
     "KB/Programming/Confusing matrix (матрица ошибок).md",
     "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230328153358.png",
-    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/@JoinColumn.md",
-    "KB/Programming/IPv4.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "Projects/Nutrients.md",
     "Pasted image 20230325165624.png",
