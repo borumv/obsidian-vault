@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1532b4220af79580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -156,8 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ce97c5876e1057",
+  "active": "1532b4220af79580",
   "lastOpenFiles": [
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
+    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
@@ -165,7 +181,6 @@
     "KB/Programming/IPv4.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "Projects/Nutrients.md",
-    "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
     "MOC-Machine Learning.md",
@@ -186,7 +201,6 @@
     "KB/Programming/sql/📙SQL.md",
     "INBOX/+ PostgreSQL.md",
     "KB/Programming/python_Matplotlib.md",
-    "KB/Programming/XML.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
