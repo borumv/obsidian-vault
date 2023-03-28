@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1532b4220af79580",
+  "active": "f2ce97c5876e1057",
   "lastOpenFiles": [
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
