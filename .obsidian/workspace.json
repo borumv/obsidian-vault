@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@ManyToMany.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2ce97c5876e1057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
+                "file": "KB/Programming/метрика точности (accuracy).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +157,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ce97c5876e1057",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "Pasted image 20230328153358.png",
-    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
+    "KB/Programming/Classification report (отчёт о классификации).md",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Confusing matrix (матрица ошибок).md",
+    "KB/Programming/метрика площади под ROC-кривой.md",
+    "KB/Programming/метрика точности (accuracy).md",
+    "Pasted image 20230328153358.png",
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/@JoinColumn.md",
@@ -197,10 +189,6 @@
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/java/ORM.md",
     "KB/Programming/@Lob.md",
-    "KB/Programming/MOC-PostgreSql.md",
-    "KB/Programming/@Enumerated.md",
-    "KB/Programming/sql/📙SQL.md",
-    "INBOX/+ PostgreSQL.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
@@ -208,7 +196,6 @@
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
     "Pasted image 20230312203928.png",
-    "Pasted image 20230312203222.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
