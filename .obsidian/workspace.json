@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/метрика площади под ROC-кривой.md",
+                "file": "KB/Programming/📙Python.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JoinCo",
+                "query": "pyth",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -159,15 +158,15 @@
   },
   "active": "1532b4220af79580",
   "lastOpenFiles": [
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Confusing matrix (матрица ошибок).md",
-    "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230328153358.png",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
