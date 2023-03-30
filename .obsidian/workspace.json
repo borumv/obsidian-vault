@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/метрика площади под ROC-кривой.md",
+                "file": "KB/Programming/@OneToMany и @ManyToOne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyth",
+                "query": "mapped",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -172,6 +171,7 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/📙Python.md",
@@ -179,7 +179,6 @@
     "KB/Programming/IPv4.md",
     "KB/Programming/python_Conda installation.md",
     "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
