@@ -343,7 +343,6 @@ duplicates = {char for char in some_list if some_list.count(char) > 1}
 print(duplicates)
 ```
 ## Decorators
-
 ```python
 def hello(func):  
     def wrapper_function(*args, **kwargs):  

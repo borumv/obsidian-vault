@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/@OneToMany и @ManyToOne.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +169,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "1532b4220af79580",
   "lastOpenFiles": [
+    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/метрика точности (accuracy).md",
@@ -185,7 +186,6 @@
     "KB/Programming/Confusing matrix (матрица ошибок).md",
     "Pasted image 20230328153358.png",
     "KB/Programming/📙MOC-Kafka.md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/@JoinColumn.md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
     "Projects/Nutrients.md",
