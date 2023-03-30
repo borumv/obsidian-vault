@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Как отключить приложение которое занимает порт.md",
+                "file": "KB/Programming/метрика площади под ROC-кривой.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mapped",
+                "query": "Sciki",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -169,17 +169,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1532b4220af79580",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Как отключить приложение которое занимает порт.md",
+    "KB/Programming/📙Python.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
-    "KB/Programming/Модель классификации.md",
     "KB/Programming/метрика точности (accuracy).md",
-    "KB/Programming/📙Python.md",
-    "KB/Programming/Как отключить приложение которое занимает порт.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/python_Conda installation.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
