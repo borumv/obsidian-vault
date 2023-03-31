@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/метрика площади под ROC-кривой.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -61,19 +61,6 @@
           },
           {
             "id": "2f0a056d57986fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Бинарная классификация.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f517077205542c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sciki",
+                "query": "Матрица",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,12 +182,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f517077205542c9a",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
+    "Pasted image 20230331102139.png",
+    "KB/Programming/Матрица ошибок.md",
+    "Pasted image 20230331100836.png",
+    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/IPv4.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
-    "KB/Programming/Матрица ошибок.md",
-    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
@@ -226,14 +215,12 @@
     "Pasted image 20230323123741.png",
     "KB/Programming/Алгоритм Случайного леса.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
-    "KB/Programming/Создание модели машинного обучения.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
     "HTTP",
     "Pasted image 20230312204945.png",
     "Pasted image 20230312204533.png",
-    "Pasted image 20230312203928.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
