@@ -6,6 +6,7 @@
       {
         "id": "a9855d27d17b66b7",
         "type": "tabs",
+        "dimension": 10.660980810234541,
         "children": [
           {
             "id": "f4f0dbb8ab412393",
@@ -25,6 +26,7 @@
       {
         "id": "c5545c84f8d0ca5d",
         "type": "tabs",
+        "dimension": 89.33901918976545,
         "children": [
           {
             "id": "8c8cbb4825024760",
@@ -71,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/метрика площади под ROC-кривой.md",
+                "file": "KB/Programming/Матрица ошибок.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 736.5,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -188,15 +191,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f4f0dbb8ab412393",
+  "active": "2f0a056d57986fc4",
   "lastOpenFiles": [
     "KB/Programming/метрика площади под ROC-кривой.md",
-    "KB/Programming/Матрица ошибок.md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/IPv4.md",
+    "KB/Programming/Матрица ошибок.md",
     "Pasted image 20230331102139.png",
     "Pasted image 20230331100836.png",
     "KB/Programming/Бинарная классификация.md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Как отключить приложение которое занимает порт.md",
