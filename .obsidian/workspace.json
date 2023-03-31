@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c5545c84f8d0ca5d",
+        "id": "a9855d27d17b66b7",
         "type": "tabs",
         "children": [
           {
@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c5545c84f8d0ca5d",
+        "type": "tabs",
+        "children": [
           {
             "id": "8c8cbb4825024760",
             "type": "leaf",
@@ -73,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,12 +190,12 @@
   },
   "active": "2f0a056d57986fc4",
   "lastOpenFiles": [
+    "KB/Programming/IPv4.md",
+    "KB/Programming/Матрица ошибок.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230331102139.png",
-    "KB/Programming/Матрица ошибок.md",
     "Pasted image 20230331100836.png",
     "KB/Programming/Бинарная классификация.md",
-    "KB/Programming/IPv4.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
