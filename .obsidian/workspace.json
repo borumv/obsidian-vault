@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Матрица ошибок.md",
+                "file": "KB/Programming/метрика площади под ROC-кривой.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Матрица",
+                "query": "ROC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,11 +188,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f0a056d57986fc4",
+  "active": "f4f0dbb8ab412393",
   "lastOpenFiles": [
-    "KB/Programming/IPv4.md",
-    "KB/Programming/Матрица ошибок.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
+    "KB/Programming/Матрица ошибок.md",
+    "KB/Programming/IPv4.md",
     "Pasted image 20230331102139.png",
     "Pasted image 20230331100836.png",
     "KB/Programming/Бинарная классификация.md",
