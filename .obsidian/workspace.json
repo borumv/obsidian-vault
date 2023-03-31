@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,14 +182,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "2f0a056d57986fc4",
   "lastOpenFiles": [
+    "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230331102139.png",
     "KB/Programming/Матрица ошибок.md",
     "Pasted image 20230331100836.png",
     "KB/Programming/Бинарная классификация.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
@@ -220,7 +220,6 @@
     "Pasted image 20230318182441.png",
     "HTTP",
     "Pasted image 20230312204945.png",
-    "Pasted image 20230312204533.png",
     "Excalidraw",
     "стек протокола TCP",
     "модель TCP",
