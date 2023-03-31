@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +182,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
+    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Как отключить приложение которое занимает порт.md",
