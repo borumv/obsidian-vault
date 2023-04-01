@@ -1,7 +1,7 @@
 ---
 created: Friday 31st March 2023 09:11
 Last modified: Friday 31st March 2023 09:10
-Aliases: матрица ошибок в машинном обучении
+Aliases: матрица ошибок в машинном обучении, confusing matrx
 Tags: programming, machine_learning
 ---
 
