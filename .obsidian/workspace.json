@@ -60,8 +60,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/метрика площади под ROC-кривой.md",
-                "mode": "preview",
+                "file": "KB/Programming/Confusing matrix (матрица ошибок).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,17 +190,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
-    "KB/Programming/Матрица ошибок.md",
+    "Pasted image 20230401092904.png",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Scikit-Learn.md",
+    "MOC-Machine Learning.md",
+    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
+    "KB/Programming/@Enumerated.md",
+    "KB/Programming/Матрица ошибок.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/IPv4.md",
     "Pasted image 20230331102139.png",
     "Pasted image 20230331100836.png",
-    "KB/Programming/Бинарная классификация.md",
-    "KB/Programming/Модель классификации.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Как отключить приложение которое занимает порт.md",
     "KB/Programming/📙Python.md",
     "KB/Programming/метрика точности (accuracy).md",
@@ -216,13 +219,11 @@
     "Projects/Nutrients.md",
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
-    "MOC-Machine Learning.md",
     "KB/Programming/One hot encoding.md",
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "Pasted image 20230323123741.png",
     "KB/Programming/Алгоритм Случайного леса.md",
-    "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
