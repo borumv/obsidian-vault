@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Матрица ошибок.md",
-                "mode": "source",
+                "file": "KB/Programming/@Enumerated.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ROC",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 736.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -191,12 +190,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f0a056d57986fc4",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
+    "KB/Programming/Матрица ошибок.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/IPv4.md",
-    "KB/Programming/Матрица ошибок.md",
     "Pasted image 20230331102139.png",
     "Pasted image 20230331100836.png",
     "KB/Programming/Бинарная классификация.md",
