@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Classification report (отчёт о классификации).md",
+                "file": "KB/Programming/Полнота (recall).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,8 +192,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "2f0a056d57986fc4",
   "lastOpenFiles": [
+    "KB/Programming/Полнота (recall).md",
+    "KB/Programming/Точность (precision).md",
+    "Pasted image 20230401190839.png",
+    "Pasted image 20230401190835.png",
+    "KB/Programming/Classification report (отчёт о классификации).md",
     "Pasted image 20230401095440.png",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Бинарная классификация.md",
@@ -215,7 +220,6 @@
     "KB/Programming/python_Conda installation.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/@ManyToMany.md",
-    "KB/Programming/Classification report (отчёт о классификации).md",
     "Pasted image 20230328153358.png",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/@JoinColumn.md",
@@ -225,11 +229,7 @@
     "Pasted image 20230325153744.png",
     "KB/Programming/One hot encoding.md",
     "преобразования категориальных признаков в бинарные признаки.md",
-    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "Pasted image 20230323123741.png",
-    "Pasted image 20230320203552.png",
-    "Pasted image 20230318183543.png",
-    "Pasted image 20230318182441.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
