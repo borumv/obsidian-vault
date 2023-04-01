@@ -11,3 +11,9 @@ Tags: programming
 Точно никогда не применяется как единственная метрика (*потому что в этом нет смысла, ведь модель может классифицировать только одно значение и точность будет 1/1*). Поэтому она часто используется с другой метрикой - **[[Полнота (recall)|полнотой (recall)]]** 
 
 
+Код в [[Scikit-Learn]]:
+```python
+from sklearn.metrics import precision_score
+precision_s = precision_score(y_test, y_preds)
+precision_s
+```

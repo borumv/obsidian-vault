@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a9855d27d17b66b7",
-        "type": "tabs",
-        "dimension": 10.660980810234541,
-        "children": [
-          {
-            "id": "f4f0dbb8ab412393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/IPv4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c5545c84f8d0ca5d",
         "type": "tabs",
-        "dimension": 89.33901918976545,
         "children": [
           {
             "id": "8c8cbb4825024760",
@@ -121,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -192,10 +171,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f0a056d57986fc4",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
-    "KB/Programming/Полнота (recall).md",
     "KB/Programming/Точность (precision).md",
+    "KB/Programming/Полнота (recall).md",
+    "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
     "Pasted image 20230401190835.png",
     "KB/Programming/Classification report (отчёт о классификации).md",
@@ -228,8 +208,6 @@
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
     "KB/Programming/One hot encoding.md",
-    "преобразования категориальных признаков в бинарные признаки.md",
-    "Pasted image 20230323123741.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
