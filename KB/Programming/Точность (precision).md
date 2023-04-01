@@ -17,3 +17,5 @@ from sklearn.metrics import precision_score
 precision_s = precision_score(y_test, y_preds)
 precision_s
 ```
+
+Точность с [[Полнота (recall)|полнотой]] часто объединяют в одну метрику - [[Мера F1 (F1 score)|F1]]

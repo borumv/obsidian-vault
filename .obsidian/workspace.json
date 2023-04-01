@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Полнота (recall).md",
-                "mode": "source",
+                "file": "KB/Programming/Мера F1 (F1 score).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -107,24 +107,8 @@
     "type": "split",
     "children": [
       {
-        "id": "12d3c5f2b307a863",
-        "type": "tabs",
-        "dimension": 81.44712430426716,
-        "children": [
-          {
-            "id": "2f0a056d57986fc4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "9924897c05413c4d",
         "type": "tabs",
-        "dimension": 18.552875695732837,
         "children": [
           {
             "id": "f855d480b3b6ab7a",
@@ -173,7 +157,9 @@
   },
   "active": "95df76260563885c",
   "lastOpenFiles": [
+    "Pasted image 20230401200701.png",
     "KB/Programming/Точность (precision).md",
+    "KB/Programming/Мера F1 (F1 score).md",
     "KB/Programming/Полнота (recall).md",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
@@ -207,7 +193,6 @@
     "Projects/Nutrients.md",
     "Pasted image 20230325165624.png",
     "Pasted image 20230325153744.png",
-    "KB/Programming/One hot encoding.md",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",

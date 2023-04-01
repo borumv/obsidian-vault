@@ -17,4 +17,5 @@ from sklearn.metrics import recall_score
 recall_s = recall_score(y_test, y_preds)
 recall_s
 ```
-
+ 
+Полноту с [[Точность (precision)|точностью]] часто объединяют в одну метрику - [[Мера F1 (F1 score)|F1]]
