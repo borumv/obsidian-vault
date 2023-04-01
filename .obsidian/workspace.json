@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Матрица ошибок (Confusing matrix).md",
+                "file": "KB/Programming/Classification report (отчёт о классификации).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,18 +192,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f0a056d57986fc4",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
-    "KB/Programming/Confusing matrix (матрица ошибок).md",
+    "Pasted image 20230401095440.png",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/Матрица ошибок (Confusing matrix).md",
+    "KB/Programming/Confusing matrix (матрица ошибок).md",
     "KB/English/Phrasal Verbs.md",
     "KB/Programming/@Enumerated.md",
     "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230401092904.png",
-    "KB/Programming/Модель классификации.md",
     "KB/Programming/Scikit-Learn.md",
     "MOC-Machine Learning.md",
-    "KB/Programming/Бинарная классификация.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/IPv4.md",
     "Pasted image 20230331102139.png",
@@ -226,7 +227,6 @@
     "преобразования категориальных признаков в бинарные признаки.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "Pasted image 20230323123741.png",
-    "KB/Programming/Алгоритм Случайного леса.md",
     "Pasted image 20230320203552.png",
     "Pasted image 20230318183543.png",
     "Pasted image 20230318182441.png",
