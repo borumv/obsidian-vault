@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Модели в машинном обучении.md",
+                "file": "KB/Programming/sql/psql_CTE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sci",
+                "query": "INSERT ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,8 +158,14 @@
   },
   "active": "95df76260563885c",
   "lastOpenFiles": [
-    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/sql/psql_Доменные типы.md",
+    "KB/Programming/sql/psql_Массивы.md",
+    "KB/Programming/sql/psql_CTE.md",
+    "INBOX/+ PostgreSQL.md",
+    "KB/Programming/sql/psql_Триггеры.md",
+    "KB/Programming/sql/sql_INSERT.md",
     "KB/Programming/Модели в машинном обучении.md",
+    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Создание модели машинного обучения.md",
@@ -179,16 +185,10 @@
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "KB/Programming/Мера F1 (F1 score).md",
     "Pasted image 20230401200701.png",
-    "KB/Programming/Точность (precision).md",
-    "KB/Programming/Полнота (recall).md",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
     "Pasted image 20230401190835.png",
-    "KB/Programming/Classification report (отчёт о классификации).md",
     "Pasted image 20230401095440.png",
-    "KB/Programming/Confusing matrix (матрица ошибок).md",
-    "KB/Programming/@Enumerated.md",
-    "KB/Programming/метрика площади под ROC-кривой.md",
     "Pasted image 20230401092904.png",
     "Pasted image 20230331102139.png",
     "Pasted image 20230331100836.png",
