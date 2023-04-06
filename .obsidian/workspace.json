@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/psql_CTE.md",
+                "file": "KB/Programming/Present Pefect.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "INSERT ",
+                "query": "Presen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,11 +156,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "1532b4220af79580",
   "lastOpenFiles": [
+    "KB/Programming/Present Pefect.md",
+    "KB/Programming/sql/psql_CTE.md",
     "KB/Programming/sql/psql_Доменные типы.md",
     "KB/Programming/sql/psql_Массивы.md",
-    "KB/Programming/sql/psql_CTE.md",
     "INBOX/+ PostgreSQL.md",
     "KB/Programming/sql/psql_Триггеры.md",
     "KB/Programming/sql/sql_INSERT.md",
@@ -183,7 +184,6 @@
     "java_Stream.md",
     "KB/English/Phrasal Verbs.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
-    "KB/Programming/Мера F1 (F1 score).md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
