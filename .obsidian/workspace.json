@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Mean squared error (MSE).md",
+                "file": "KB/Programming/Модель регрессии.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,9 +145,10 @@
   },
   "active": "95df76260563885c",
   "lastOpenFiles": [
-    "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
+    "Pasted image 20230406144010.png",
+    "KB/Programming/Модель регрессии.md",
     "Pasted image 20230406142159.png",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
@@ -176,11 +177,9 @@
     "INBOX/+ PostgreSQL.md",
     "KB/Programming/sql/psql_Триггеры.md",
     "KB/Programming/sql/sql_INSERT.md",
-    "KB/Programming/Разделение данных на тестовые и обучающие выборки.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
-    "Pasted image 20230401190835.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
