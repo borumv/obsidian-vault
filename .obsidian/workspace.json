@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "file": "KB/Programming/Точность (precision).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00859780502c6f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KW/KB/English/Gerunds.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "регресс",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -143,20 +156,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "00859780502c6f90",
   "lastOpenFiles": [
-    "KB/Programming/Модель регрессии.md",
+    "KW/KB/English",
+    "KW/KB",
+    "KW",
+    "KW/KB/English/Gerunds.md",
+    "KB/Programming/Точность (precision).md",
+    "KB/Programming/Полнота (recall).md",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Матрица ошибок (Confusing matrix).md",
+    "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Mean squared error (MSE).md",
+    "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean absolute error (MAE).md",
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "Pasted image 20230406144010.png",
     "Pasted image 20230406142159.png",
-    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "MOC-Machine Learning.md",
-    "KB/Programming/Модель классификации.md",
-    "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Present Pefect.md",
     "KB/Programming/Testing.md",
     "KB/Programming/Acceptance testing.md",
@@ -173,10 +193,6 @@
     "KB/Programming/📙Python.md",
     "KB/Programming/sql/psql_CTE.md",
     "KB/Programming/sql/psql_Доменные типы.md",
-    "KB/Programming/sql/psql_Массивы.md",
-    "INBOX/+ PostgreSQL.md",
-    "KB/Programming/sql/psql_Триггеры.md",
-    "KB/Programming/sql/sql_INSERT.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
