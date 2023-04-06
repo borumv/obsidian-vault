@@ -15,3 +15,6 @@ model = RandomForestRegressor().fit(X_train, y_train)
 
 model.score(X_test, y_test)
 ```
+
+Минусы:
+- Коэфициент детерминации **увеличивается** если мы добавляем в модель новые переменные
