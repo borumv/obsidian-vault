@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Модель регрессии.md",
+                "file": "KB/Programming/Mean squared error (MSE).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,9 +145,10 @@
   },
   "active": "95df76260563885c",
   "lastOpenFiles": [
+    "KB/Programming/Модель регрессии.md",
+    "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
     "Pasted image 20230406142159.png",
-    "KB/Programming/Модель регрессии.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Модели в машинном обучении.md",
