@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@OneToMany и @ManyToOne.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95df76260563885c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
-                "mode": "preview",
+                "file": "KB/Programming/Cross validation.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cross_v",
+                "query": "кросс",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,14 +142,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "95df76260563885c",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/Модель классификации.md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
+    "KB/Programming/Cross validation.md",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Модель классификации.md",
     "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Точность (precision).md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KW/KB/English/Gerunds.md",
     "KW/KB/English",
     "KW/KB",
@@ -193,7 +180,6 @@
     "KB/Programming/Integration testing.md",
     "KB/Programming/Testing Spring Application.md",
     "KB/Programming/📙Python.md",
-    "KB/Programming/sql/psql_CTE.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
