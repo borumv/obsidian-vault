@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Cross validation.md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,8 +157,8 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/Cross validation.md",
+    "KB/Programming/метрика точности (accuracy).md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Модель регрессии.md",
     "KB/Programming/Модель классификации.md",
