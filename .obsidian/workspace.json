@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
+                "file": "KB/Programming/Модель регрессии.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,15 +157,15 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/Cross validation.md",
-    "KB/Programming/метрика точности (accuracy).md",
+    "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/метрика точности (accuracy).md",
+    "KW/KB/English/Gerunds.md",
+    "KB/Programming/Cross validation.md",
     "KB/Programming/Модель регрессии.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
-    "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Точность (precision).md",
-    "KW/KB/English/Gerunds.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
