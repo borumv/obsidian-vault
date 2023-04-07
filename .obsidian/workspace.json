@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Модель регрессии.md",
+                "file": "KB/Programming/Cross validation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f71e8c445ed70985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/метрика точности (accuracy).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,11 +157,12 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/Модель классификации.md",
-    "KB/Programming/Cross validation.md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/метрика точности (accuracy).md",
+    "KB/Programming/Cross validation.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Модель регрессии.md",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Точность (precision).md",
     "KW/KB/English/Gerunds.md",
@@ -159,7 +173,6 @@
     "KB/Programming/Матрица ошибок (Confusing matrix).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Mean squared error (MSE).md",
-    "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean absolute error (MAE).md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "Pasted image 20230406144010.png",
