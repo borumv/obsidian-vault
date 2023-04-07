@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Точность (precision).md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cross_v",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,15 +156,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "00859780502c6f90",
+  "active": "95df76260563885c",
   "lastOpenFiles": [
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/метрика точности (accuracy).md",
+    "KB/Programming/Модели в машинном обучении.md",
+    "KB/Programming/Точность (precision).md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
+    "KW/KB/English/Gerunds.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
-    "KW/KB/English/Gerunds.md",
-    "KB/Programming/Точность (precision).md",
     "KB/Programming/Полнота (recall).md",
-    "KB/Programming/Модель классификации.md",
     "KB/Programming/Матрица ошибок (Confusing matrix).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/Mean squared error (MSE).md",
@@ -173,8 +177,6 @@
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "Pasted image 20230406144010.png",
     "Pasted image 20230406142159.png",
-    "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "MOC-Machine Learning.md",
     "KB/Programming/Present Pefect.md",
@@ -192,7 +194,6 @@
     "KB/Programming/Testing Spring Application.md",
     "KB/Programming/📙Python.md",
     "KB/Programming/sql/psql_CTE.md",
-    "KB/Programming/sql/psql_Доменные типы.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "Pasted image 20230401190839.png",
