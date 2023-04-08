@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Оценка модели машинного обучения.md",
+                "file": "KB/Programming/Улучшение модели в машинном обучении.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,7 +157,9 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "Pasted image 20230408110247.png",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
@@ -187,13 +189,11 @@
     "MOC-Machine Learning.md",
     "KB/Programming/Present Pefect.md",
     "KB/Programming/Testing.md",
-    "KB/Programming/Acceptance testing.md",
     "attachments/Pasted image 20230405163354.png",
     "attachments/Pasted image 20230404192731.png",
     "attachments/Pasted image 20230404193116.png",
     "attachments/Pasted image 20230404193207.png",
     "attachments/Pasted image 20230405163054.png",
-    "KB/Programming/JUnit.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "HTTP",
