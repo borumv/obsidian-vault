@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
+                "file": "KB/Programming/Оценка модели машинного обучения.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "кросс",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +157,17 @@
   },
   "active": "8c8cbb4825024760",
   "lastOpenFiles": [
-    "KB/Programming/Cross validation.md",
-    "KB/Programming/Mean absolute error (MAE).md",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Оценка модели машинного обучения.md",
+    "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
+    "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
+    "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Hyperparameter tuning.md",
+    "KB/Programming/Cross validation.md",
+    "KB/Programming/Подготовка данных в машинному обучении.md",
+    "KB/Programming/Mean absolute error (MAE).md",
     "Pasted image 20230407195600.png",
     "KB/Programming/Модель регрессии.md",
-    "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/метрика точности (accuracy).md",
     "KW/KB/English/Gerunds.md",
     "KB/Programming/Модель классификации.md",
@@ -190,9 +194,6 @@
     "attachments/Pasted image 20230404193207.png",
     "attachments/Pasted image 20230405163054.png",
     "KB/Programming/JUnit.md",
-    "KB/Programming/Mockito.md",
-    "KB/Programming/Unit testing.md",
-    "KB/Programming/Integration testing.md",
     "Pasted image 20230401200701.png",
     "Pasted image 20230401192057.png",
     "HTTP",
