@@ -45,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36047e4521f8d212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Closed Principle.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SOLID",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,11 +169,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "36047e4521f8d212",
   "lastOpenFiles": [
+    "KB/Programming/java/SOLID.md",
+    "Inteface Segregation Principle.md",
+    "KB/Programming/Виды связи между классами ООП.md",
+    "KB/Programming/Улучшение модели в машинном обучении.md",
     "Pasted image 20230408110247.png",
     "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
@@ -187,15 +204,12 @@
     "Pasted image 20230406142159.png",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "MOC-Machine Learning.md",
-    "KB/Programming/Present Pefect.md",
-    "KB/Programming/Testing.md",
     "attachments/Pasted image 20230405163354.png",
     "attachments/Pasted image 20230404192731.png",
     "attachments/Pasted image 20230404193116.png",
     "attachments/Pasted image 20230404193207.png",
     "attachments/Pasted image 20230405163054.png",
     "Pasted image 20230401200701.png",
-    "Pasted image 20230401192057.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
