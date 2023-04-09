@@ -8,7 +8,7 @@ tags: [programming, books ]
 
 | Уровень - Цель | Порождающие паттерны                             | Структурные Паттерны                | Паттерны Поведения                                          |
 | -------------- | ------------------------------------------------ | ----------------------------------- |:----------------------------------------------------------- |
-| Класс          | [Фабричный метод](pattern_Fabric.md)                | [Адаптер](pattern_Adapter)          | [Интерпретатор](pattern_Interpretator.md)                      |
+| Класс          | [Фабричный метод](паттерн%20Фабричный%20метод.md)                | [Адаптер](pattern_Adapter)          | [Интерпретатор](pattern_Interpretator.md)                      |
 |                |                                                  |                                     | [Шаблонный метод](patter_Shablon%20method)                  |
 | Объект         | [Абстрактная фабрика](pattern_Abstract%20Fabric.md) | [Адаптер](pattern_Adapter)          | [Итератор](pattern_Iterrator)                               |
 |                | [Одиночка](pattern_Singleton.md)                     | [Декоратор](pattern_Decorator.md)      | [Команда](pattern_Command)                                  |

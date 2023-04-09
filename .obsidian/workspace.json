@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Улучшение модели в машинном обучении.md",
+                "file": "KB/Programming/паттерн Фабричный метод.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +181,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "590e07cecc88429f",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Cross validation.md",
     "KB/Programming/Hyperparameter tuning.md",
-    "KB/Programming/Виды связи между классами ООП.md",
     "За гремучую доблесть грядущих веков….md",
+    "KB/Programming/Виды связи между классами ООП.md",
     "KB/Programming/Полиморфизм.md",
     "KB/Programming/Аспектно-ориентированное программирование.md",
     "KB/Programming/Прикладной уровень OSI.md",
@@ -196,7 +196,6 @@
     "KB/Programming/java/SOLID.md",
     "Liskov Substitution Principle.md",
     "Open Closed Principle.md",
-    "KB/Programming/Улучшение модели в машинном обучении.md",
     "Pasted image 20230408110247.png",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Оценка модели машинного обучения.md",
