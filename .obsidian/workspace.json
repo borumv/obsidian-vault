@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Виды связи между классами ООП.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Полиморфизм.md",
+                "file": "За гремучую доблесть грядущих веков….md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ООП",
+                "query": "Манд",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,12 +121,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -182,10 +182,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3a63f640dc1fbbae",
+  "active": "590e07cecc88429f",
   "lastOpenFiles": [
-    "KB/Programming/Полиморфизм.md",
+    "KB/Programming/Cross validation.md",
+    "KB/Programming/Hyperparameter tuning.md",
     "KB/Programming/Виды связи между классами ООП.md",
+    "За гремучую доблесть грядущих веков….md",
+    "KB/Programming/Полиморфизм.md",
     "KB/Programming/Аспектно-ориентированное программирование.md",
     "KB/Programming/Прикладной уровень OSI.md",
     "KB/Programming/SSH.md",
@@ -200,8 +203,6 @@
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
     "KB/Programming/Модели в машинном обучении.md",
-    "KB/Programming/Hyperparameter tuning.md",
-    "KB/Programming/Cross validation.md",
     "KB/Programming/Подготовка данных в машинному обучении.md",
     "KB/Programming/Mean absolute error (MAE).md",
     "Pasted image 20230407195600.png",
@@ -214,7 +215,6 @@
     "KW/KB/English",
     "KW/KB",
     "KW",
-    "KB/Programming/Полнота (recall).md",
     "Pasted image 20230406144010.png",
     "Pasted image 20230406142159.png",
     "attachments/Pasted image 20230405163354.png",
