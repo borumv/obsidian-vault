@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_String.md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -184,11 +184,11 @@
   },
   "active": "36047e4521f8d212",
   "lastOpenFiles": [
-    "pattern_FlyWeight.md",
     "KB/Programming/java/java_String.md",
+    "java_String pool.md",
+    "pattern_FlyWeight.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_Integer.md",
-    "java_String pool.md",
     "KB/Programming/Виды связи между классами ООП.md",
     "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
