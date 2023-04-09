@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/Hyperparameter tuning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c418896ca04fb82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Улучшение модели в машинном обучении.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,18 +195,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "36047e4521f8d212",
+  "active": "c418896ca04fb82c",
   "lastOpenFiles": [
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Hyperparameter tuning.md",
+    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_String.md",
     "java_String pool.md",
     "pattern_FlyWeight.md",
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_Integer.md",
     "KB/Programming/Виды связи между классами ООП.md",
     "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Cross validation.md",
-    "KB/Programming/Hyperparameter tuning.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/Полиморфизм.md",
     "KB/Programming/Аспектно-ориентированное программирование.md",
@@ -204,7 +218,6 @@
     "Liskov Substitution Principle.md",
     "Open Closed Principle.md",
     "Pasted image 20230408110247.png",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
