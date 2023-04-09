@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Виды связи между классами ООП.md",
+                "file": "KB/Programming/java/java_String.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,13 +182,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "36047e4521f8d212",
   "lastOpenFiles": [
+    "pattern_FlyWeight.md",
+    "KB/Programming/java/java_String.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/java/java_Integer.md",
+    "java_String pool.md",
+    "KB/Programming/Виды связи между классами ООП.md",
+    "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Cross validation.md",
     "KB/Programming/Hyperparameter tuning.md",
     "За гремучую доблесть грядущих веков….md",
-    "KB/Programming/Виды связи между классами ООП.md",
     "KB/Programming/Полиморфизм.md",
     "KB/Programming/Аспектно-ориентированное программирование.md",
     "KB/Programming/Прикладной уровень OSI.md",
@@ -205,12 +212,6 @@
     "KB/Programming/Подготовка данных в машинному обучении.md",
     "KB/Programming/Mean absolute error (MAE).md",
     "Pasted image 20230407195600.png",
-    "KB/Programming/Модель регрессии.md",
-    "KB/Programming/метрика точности (accuracy).md",
-    "KW/KB/English/Gerunds.md",
-    "KB/Programming/Модель классификации.md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
-    "KB/Programming/Точность (precision).md",
     "KW/KB/English",
     "KW/KB",
     "KW",
