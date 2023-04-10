@@ -23,3 +23,22 @@ Tags: programming
     <scope>test</scope>  
 </dependency>
 ```
+3. Чтобы работать вместе с [[📙Maven|maven]] нужно подключить *surfire* плагин:
+```xml
+<build>  
+    <plugins>        
+	    <plugin>            
+		    <groupId>org.apache.maven.plugins</groupId>  
+            <artifactId>maven-surefire-plugin</artifactId>  
+            <version>2.22.2</version>  
+            <dependencies> 
+                <dependency>                   
+	                <groupId>org.junit.platform</groupId>  
+                    <artifactId>junit-platform-commons</artifactId>  
+                    <scope>test</scope>  
+                </dependency>           
+             </dependencies>       
+         </plugin >
+     </plugins>
+</build>
+```
