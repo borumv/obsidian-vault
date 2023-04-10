@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c8cbb4825024760",
+  "active": "c418896ca04fb82c",
   "lastOpenFiles": [
+    "KB/Programming/Hyperparameter tuning.md",
+    "Liskov Substitution Principle.md",
     "KB/Programming/java/pattern_Паттерны проектирования.md",
     "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/Hyperparameter tuning.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_String.md",
     "java_String pool.md",
@@ -215,7 +217,6 @@
     "KB/Programming/SSH.md",
     "Inteface Segregation Principle.md",
     "KB/Programming/java/SOLID.md",
-    "Liskov Substitution Principle.md",
     "Open Closed Principle.md",
     "Pasted image 20230408110247.png",
     "KB/Programming/Оценка модели машинного обучения.md",
