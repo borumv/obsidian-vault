@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/паттерн Фабричный метод.md",
+                "file": "Liskov Substitution Principle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +194,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c418896ca04fb82c",
+  "active": "8c8cbb4825024760",
   "lastOpenFiles": [
+    "KB/Programming/java/pattern_Паттерны проектирования.md",
+    "KB/Programming/паттерн Фабричный метод.md",
+    "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Hyperparameter tuning.md",
     "KB/Programming/java/Java Memory Model.md",
@@ -205,8 +207,6 @@
     "pattern_FlyWeight.md",
     "KB/Programming/java/java_Integer.md",
     "KB/Programming/Виды связи между классами ООП.md",
-    "KB/Programming/паттерн Фабричный метод.md",
-    "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Cross validation.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/Полиморфизм.md",
@@ -223,7 +223,6 @@
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
     "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Подготовка данных в машинному обучении.md",
-    "KB/Programming/Mean absolute error (MAE).md",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
     "KW/KB",
