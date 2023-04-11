@@ -109,4 +109,3 @@ model.score(X_test, y_test)
 ```
 
 ![[Pasted image 20230308183535.png]]
-
