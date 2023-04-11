@@ -104,8 +104,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Mockito.md",
-                "mode": "preview",
+                "file": "KB/Programming/Scikit-Learn.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -223,6 +222,7 @@
   },
   "active": "eaf0e607552dac32",
   "lastOpenFiles": [
+    "KB/Programming/Mockito.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/Подключение Junit5 к Spring Boot.md",
@@ -249,7 +249,6 @@
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
-    "KB/Programming/Модели в машинном обучении.md",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
     "KW/KB",
