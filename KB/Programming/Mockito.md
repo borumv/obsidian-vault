@@ -36,3 +36,14 @@ void getAllRecepie() {
 - **Spy** - proxy для реальных объектов, которые ведут себя точно также, но могут быть запрограммированы как mocks
 
   
+### Как работать с мокито в [[spring_MVC| Spring MVC]]?
+
+Для работы существует специальный класс **`MockMVC`**, который принимает в себя контроллер через метод `standaloneSetup()`,.
+Через метод perform мы передаём тип запроса (get, post, update), а после, обычной цепочкой (методы `andExpect()` и `endReturn`) мы реализуем нашу логику теста.
+```java
+when(ownerService.findAll()).thenReturn(ownerSet);  
+mockMvc.perform(MockMvcRequestBuilders.get("/owners/"))  
+        .andExpect(status().isOk())  
+        .andExpect(view().name("owners/index"))  
+        .andExpect(model().attribute("owners", ownerSet));
+```
