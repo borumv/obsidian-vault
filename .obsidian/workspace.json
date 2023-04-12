@@ -8,97 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c8cbb4825024760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liskov Substitution Principle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee2af4f479cab588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Cross validation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720ec9331a463c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Hyperparameter tuning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36047e4521f8d212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Hyperparameter tuning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c418896ca04fb82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Улучшение модели в машинном обучении.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a63f640dc1fbbae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "За гремучую доблесть грядущих веков….md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "812afce0e4da8e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Подключение Junit5 к Spring Boot.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eaf0e607552dac32",
             "type": "leaf",
             "state": {
@@ -110,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4ecfb1ac5b86e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/WebJars.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +142,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eaf0e607552dac32",
+  "active": "f4ecfb1ac5b86e97",
   "lastOpenFiles": [
+    "KB/Programming/WebJars.md",
+    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Mockito.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "За гремучую доблесть грядущих веков….md",
@@ -230,7 +154,6 @@
     "Liskov Substitution Principle.md",
     "KB/Programming/java/pattern_Паттерны проектирования.md",
     "KB/Programming/паттерн Фабричный метод.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/java/java_String.md",
     "java_String pool.md",
@@ -248,7 +171,6 @@
     "Pasted image 20230408110247.png",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
-    "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
     "KW/KB",
