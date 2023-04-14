@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/WebJars.md",
+                "file": "KB/Programming/Полнота (recall).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Манд",
+                "query": "recall",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,10 +142,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f4ecfb1ac5b86e97",
+  "active": "eaf0e607552dac32",
   "lastOpenFiles": [
-    "KB/Programming/WebJars.md",
+    "KB/Programming/Полнота (recall).md",
+    "KB/Programming/Classification report (отчёт о классификации).md",
+    "KB/Programming/python_Conda installation.md",
     "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/WebJars.md",
     "KB/Programming/Mockito.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "За гремучую доблесть грядущих веков….md",
@@ -167,10 +170,7 @@
     "KB/Programming/SSH.md",
     "Inteface Segregation Principle.md",
     "KB/Programming/java/SOLID.md",
-    "Open Closed Principle.md",
     "Pasted image 20230408110247.png",
-    "KB/Programming/Оценка модели машинного обучения.md",
-    "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
     "KW/KB",
