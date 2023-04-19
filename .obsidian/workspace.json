@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Scikit-Learn.md",
-                "mode": "source",
+                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -144,10 +144,14 @@
   },
   "active": "eaf0e607552dac32",
   "lastOpenFiles": [
+    "KB/Programming/Модель регрессии.md",
+    "KB/Programming/Mean squared error (MSE).md",
+    "KB/Programming/Mean absolute error (MAE).md",
+    "KB/Programming/Оценка модели машинного обучения.md",
+    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Полнота (recall).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/python_Conda installation.md",
-    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/WebJars.md",
     "KB/Programming/Mockito.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
@@ -166,10 +170,6 @@
     "KB/Programming/Cross validation.md",
     "KB/Programming/Полиморфизм.md",
     "KB/Programming/Аспектно-ориентированное программирование.md",
-    "KB/Programming/Прикладной уровень OSI.md",
-    "KB/Programming/SSH.md",
-    "Inteface Segregation Principle.md",
-    "KB/Programming/java/SOLID.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
