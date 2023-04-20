@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Полнота (recall).md",
-                "mode": "preview",
+                "file": "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sci",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "f4ecfb1ac5b86e97",
   "lastOpenFiles": [
+    "KB/Programming/Категориальные признаки в машинном обучении.md",
+    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+    "KB/Programming/One hot encoding.md",
+    "KB/Programming/Подготовка данных в машинному обучении.md",
+    "KB/Programming/Scikit-Learn.md",
+    "MOC-Machine Learning.md",
+    "KB/Programming/Модели в машинном обучении.md",
+    "KB/Programming/Модель классификации.md",
+    "KB/Programming/Полнота (recall).md",
     "KB/Programming/python_Conda installation.md",
     "KB/Programming/python_Виртуальная среда.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
@@ -152,8 +161,6 @@
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
     "KB/Programming/Оценка модели машинного обучения.md",
-    "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/Полнота (recall).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/WebJars.md",
     "KB/Programming/Mockito.md",
@@ -164,13 +171,6 @@
     "Liskov Substitution Principle.md",
     "KB/Programming/java/pattern_Паттерны проектирования.md",
     "KB/Programming/паттерн Фабричный метод.md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/java/java_String.md",
-    "java_String pool.md",
-    "pattern_FlyWeight.md",
-    "KB/Programming/java/java_Integer.md",
-    "KB/Programming/Виды связи между классами ООП.md",
-    "KB/Programming/Cross validation.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
