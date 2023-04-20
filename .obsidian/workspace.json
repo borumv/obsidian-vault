@@ -26,15 +26,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+                "file": "KB/Programming/One hot encoding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "24b6029455bf55e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,11 +151,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f4ecfb1ac5b86e97",
+  "active": "24b6029455bf55e2",
   "lastOpenFiles": [
-    "KB/Programming/Категориальные признаки в машинном обучении.md",
-    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/One hot encoding.md",
+    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+    "KB/Programming/Категориальные признаки в машинном обучении.md",
     "KB/Programming/Подготовка данных в машинному обучении.md",
     "KB/Programming/Scikit-Learn.md",
     "MOC-Machine Learning.md",
