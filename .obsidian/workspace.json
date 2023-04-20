@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "file": "KB/Programming/python_Conda installation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recall",
+                "query": "sci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +143,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eaf0e607552dac32",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
+    "KB/Programming/python_Conda installation.md",
+    "KB/Programming/python_Виртуальная среда.md",
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
@@ -151,7 +155,6 @@
     "KB/Programming/Scikit-Learn.md",
     "KB/Programming/Полнота (recall).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
-    "KB/Programming/python_Conda installation.md",
     "KB/Programming/WebJars.md",
     "KB/Programming/Mockito.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
@@ -168,8 +171,6 @@
     "KB/Programming/java/java_Integer.md",
     "KB/Programming/Виды связи между классами ООП.md",
     "KB/Programming/Cross validation.md",
-    "KB/Programming/Полиморфизм.md",
-    "KB/Programming/Аспектно-ориентированное программирование.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
