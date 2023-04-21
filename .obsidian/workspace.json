@@ -37,8 +37,13 @@
             "id": "24b6029455bf55e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -71,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MVC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,13 +156,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "24b6029455bf55e2",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
+    "KB/Programming/Оценка модели машинного обучения.md",
+    "KB/Programming/Улучшение модели в машинном обучении.md",
+    "KB/Programming/Scikit-Learn.md",
     "KB/Programming/One hot encoding.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/Категориальные признаки в машинном обучении.md",
     "KB/Programming/Подготовка данных в машинному обучении.md",
-    "KB/Programming/Scikit-Learn.md",
     "MOC-Machine Learning.md",
     "KB/Programming/Модели в машинном обучении.md",
     "KB/Programming/Модель классификации.md",
@@ -168,11 +175,9 @@
     "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
-    "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Classification report (отчёт о классификации).md",
     "KB/Programming/WebJars.md",
     "KB/Programming/Mockito.md",
-    "KB/Programming/Улучшение модели в машинном обучении.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/Подключение Junit5 к Spring Boot.md",
     "KB/Programming/Hyperparameter tuning.md",
