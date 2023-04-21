@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Коэффициент детерминации (R-squared).md",
+                "file": "KB/Programming/spring_MVC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,8 +156,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "24b6029455bf55e2",
   "lastOpenFiles": [
+    "KB/Programming/📙Spring.md",
+    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Scikit-Learn.md",
@@ -171,7 +173,6 @@
     "KB/Programming/Полнота (recall).md",
     "KB/Programming/python_Conda installation.md",
     "KB/Programming/python_Виртуальная среда.md",
-    "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Модель регрессии.md",
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
@@ -183,7 +184,6 @@
     "KB/Programming/Hyperparameter tuning.md",
     "Liskov Substitution Principle.md",
     "KB/Programming/java/pattern_Паттерны проектирования.md",
-    "KB/Programming/паттерн Фабричный метод.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
