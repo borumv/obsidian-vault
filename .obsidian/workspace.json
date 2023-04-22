@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/One hot encoding.md",
+                "file": "KB/Programming/📙Spring.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MVC",
+                "query": "Spring",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,14 +156,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "24b6029455bf55e2",
+  "active": "f4ecfb1ac5b86e97",
   "lastOpenFiles": [
+    "KB/Programming/Матрица ошибок (Confusing matrix).md",
+    "KB/Programming/One hot encoding.md",
+    "KB/Programming/Мультиплексирование.md",
+    "KB/Programming/spring_MVC.md",
     "KB/Programming/📙Spring.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
     "KB/Programming/Scikit-Learn.md",
-    "KB/Programming/One hot encoding.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/Категориальные признаки в машинном обучении.md",
     "KB/Programming/Подготовка данных в машинному обучении.md",
@@ -181,9 +184,6 @@
     "KB/Programming/Mockito.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/Подключение Junit5 к Spring Boot.md",
-    "KB/Programming/Hyperparameter tuning.md",
-    "Liskov Substitution Principle.md",
-    "KB/Programming/java/pattern_Паттерны проектирования.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
