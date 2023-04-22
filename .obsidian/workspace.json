@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "f4ecfb1ac5b86e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/📙Spring.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24b6029455bf55e2",
             "type": "leaf",
             "state": {
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spring",
+                "query": "Boot",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +142,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f4ecfb1ac5b86e97",
+  "active": "eaf0e607552dac32",
   "lastOpenFiles": [
+    "KB/Programming/java/Луковая архитектура.md",
+    "KB/Programming/Testing Spring Application.md",
+    "KB/Programming/spring_@SpringBootApplication.md",
+    "KB/Programming/📙Spring.md",
+    "KB/Programming/java/spring_Boot.md",
     "KB/Programming/Матрица ошибок (Confusing matrix).md",
     "KB/Programming/One hot encoding.md",
     "KB/Programming/Мультиплексирование.md",
     "KB/Programming/spring_MVC.md",
-    "KB/Programming/📙Spring.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Оценка модели машинного обучения.md",
     "KB/Programming/Улучшение модели в машинном обучении.md",
@@ -180,10 +170,6 @@
     "KB/Programming/Mean squared error (MSE).md",
     "KB/Programming/Mean absolute error (MAE).md",
     "KB/Programming/Classification report (отчёт о классификации).md",
-    "KB/Programming/WebJars.md",
-    "KB/Programming/Mockito.md",
-    "За гремучую доблесть грядущих веков….md",
-    "KB/Programming/Подключение Junit5 к Spring Boot.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",

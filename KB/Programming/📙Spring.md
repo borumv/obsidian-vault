@@ -15,9 +15,3 @@ Tags: spring moc
 - [[Spring Cloud]]
 
 
-## MOC
-
-
-%% Hub MOCs: Don’t edit below  %%
-
-%% Hub MOCs: Don’t edit above  %%
