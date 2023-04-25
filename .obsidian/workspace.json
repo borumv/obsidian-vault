@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/java/📙Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java Memor",
+                "query": "ORM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,6 +144,8 @@
   },
   "active": "eaf0e607552dac32",
   "lastOpenFiles": [
+    "KB/Programming/java/ORM.md",
+    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/sql/sumsSQL.md",
     "KB/Programming/sql/psql_функции_examples.md",
     "KB/Programming/sql/psql_Функции в Postgres.md",
@@ -168,8 +170,6 @@
     "KB/Programming/spring_MVC.md",
     "KB/Programming/Коэффициент детерминации (R-squared).md",
     "KB/Programming/Оценка модели машинного обучения.md",
-    "KB/Programming/Улучшение модели в машинном обучении.md",
-    "KB/Programming/Scikit-Learn.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
