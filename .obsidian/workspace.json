@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Deep Learning (Глубокое обучение).md",
+                "file": "KB/Programming/TensorFlow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -197,9 +197,14 @@
   },
   "active": "eea309b05b513867",
   "lastOpenFiles": [
-    "Pasted image 20230426141716.png",
+    "Pasted image 20230426143628.png",
     "KB/Programming/Deep Learning (Глубокое обучение).md",
+    "KB/Programming/TensorFlow.md",
+    "Pasted image 20230426142534.png",
+    "Pasted image 20230426142449.png",
+    "Pasted image 20230426142437.png",
     "KB/Programming/Типы базы данных.md",
+    "Pasted image 20230426141716.png",
     "KB/Programming/Apache Hadoop.md",
     "Pasted image 20230426132234.png",
     "KB/Programming/sql/📙SQL.md",
@@ -223,7 +228,6 @@
     "KB/Programming/python_Conda installation.md",
     "KB/Programming/java/Луковая архитектура.md",
     "KB/Programming/Testing Spring Application.md",
-    "KB/Programming/spring_@SpringBootApplication.md",
     "Pasted image 20230408110247.png",
     "Pasted image 20230407195600.png",
     "KW/KB/English",
@@ -232,10 +236,6 @@
     "Pasted image 20230406144010.png",
     "Pasted image 20230406142159.png",
     "attachments/Pasted image 20230405163354.png",
-    "attachments/Pasted image 20230404192731.png",
-    "attachments/Pasted image 20230404193116.png",
-    "attachments/Pasted image 20230404193207.png",
-    "attachments/Pasted image 20230405163054.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
