@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "73a53fac9e65342c",
+  "active": "f9ba825b6b442086",
   "lastOpenFiles": [
     "KB/Programming/Apache Hadoop.md",
     "KB/Programming/Типы базы данных.md",
