@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73a53fac9e65342c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Apache Hadoop.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,10 +182,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f9ba825b6b442086",
+  "active": "73a53fac9e65342c",
   "lastOpenFiles": [
-    "Pasted image 20230426132234.png",
+    "KB/Programming/Apache Hadoop.md",
     "KB/Programming/Типы базы данных.md",
+    "Pasted image 20230426132234.png",
     "KB/Programming/sql/📙SQL.md",
     "KB/Programming/ETL.md",
     "KB/Programming/python_Matplotlib.md",
@@ -209,7 +223,6 @@
     "attachments/Pasted image 20230404193116.png",
     "attachments/Pasted image 20230404193207.png",
     "attachments/Pasted image 20230405163054.png",
-    "Pasted image 20230401200701.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
