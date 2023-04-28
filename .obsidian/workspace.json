@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/TensorFlow.md",
+                "file": "Maven Lifecycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Базы данных",
+                "query": "Maven",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,9 +197,10 @@
   },
   "active": "eea309b05b513867",
   "lastOpenFiles": [
+    "KB/Programming/📙Maven.md",
+    "KB/Programming/TensorFlow.md",
     "Pasted image 20230426143628.png",
     "KB/Programming/Deep Learning (Глубокое обучение).md",
-    "KB/Programming/TensorFlow.md",
     "Pasted image 20230426142534.png",
     "Pasted image 20230426142449.png",
     "Pasted image 20230426142437.png",
@@ -235,7 +236,6 @@
     "KW",
     "Pasted image 20230406144010.png",
     "Pasted image 20230406142159.png",
-    "attachments/Pasted image 20230405163354.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
