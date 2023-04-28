@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/TensorFlow.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -158,8 +158,9 @@
   },
   "active": "eea309b05b513867",
   "lastOpenFiles": [
-    "Maven Lifecycle.md",
     "KB/Programming/Apache Hadoop.md",
+    "KB/Programming/TensorFlow.md",
+    "Maven Lifecycle.md",
     "KB/English/Phrasal Verbs.md",
     "KB/Programming/sql/📙SQL.md",
     "KB/Programming/spring_MVC.md",
@@ -167,7 +168,6 @@
     "KB/English/📙MOC - English.md",
     "KB/Programming/Типы базы данных.md",
     "KB/Programming/📙Maven.md",
-    "KB/Programming/TensorFlow.md",
     "Pasted image 20230426143628.png",
     "KB/Programming/Deep Learning (Глубокое обучение).md",
     "Pasted image 20230426142534.png",
