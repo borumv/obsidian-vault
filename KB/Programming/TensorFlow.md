@@ -47,3 +47,43 @@ def get_image_label(image_path, label):
 8. Разделение наших данных на **батчи**
 **Почему нужно разделять наши данные на батчи?**
 Это необходимо, чтобы наша сессия обучения вместилась в gpu-память. *32* (обработка 32 картинок за итерацию) - является общепринятым стандартом, но при необходимости можно поменять.  
+```python
+BATCH_SIZE = 32
+# Функция для разделение наших данных на батчи
+def create_data_batches(X, y=None, batch_size=BATCH_SIZE, valid_data=False, test_data=False):
+  """
+  Creates batches of data out of image (X) and label (y) pairs
+  Создаёт батчи наших данных из пары картинок (X) и меток(y)
+  Перемешивает данные которые являются не тренировочными
+  Также принимает тестовые данные, которые не имеют меток
+  """
+  #  Если данные являются тестовыми, то у нас нет меток
+  if test_data:
+    print("Creating test data batches...")
+     # Создание dataset Tensor-ов из Tuple(filepath)
+    data = tf.data.Dataset.from_tensor_slices((tf.constant(X)))
+    # Преобразование наших данных в нормализованную форму и разделение на батчи
+    data_batch = data.map(process_image).batch(BATCH_SIZE)
+    return data_batch
+  # Если данные являются валидационными, нам не нужно их перемешивать
+  if valid_data:
+    print("Creating validation data batches...")
+    # Создание dataset Tensor-ов из Tuple(filepath, label)
+    data = tf.data.Dataset.from_tensor_slices((tf.constant(X), #filepath
+										                                               tf.constant(y))) #labels
+	# Преобразование наших данных в нормализованную форму и разделение на батчи
+    data_batch = data.map(get_image_label).batch(BATCH_SIZE)
+    return data_batch
+  else:
+    print("Creadint train data batches...")
+    # Создание dataset Tensor-ов из Tuple(filepath)
+    data = tf.data.Dataset.from_tensor_slices((tf.constant(X),
+                                               tf.constatnt(y)))
+    # Перемешивание наших данных. В `batch_size` указываем количество данных, участвующих в перемешке
+    data.shuffle(buffer_size=len(X))  
+    # Создание dataset Tensor-ов из Tuple(filepath, label) и преобразование наших данных в TF objecty
+    data = data.map(get_image_label)
+    # разделение наших данных на батчи
+    data_batch = data.batch(batch_size = len(data))
+    return data_batch
+```
