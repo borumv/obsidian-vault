@@ -47,12 +47,3 @@ def get_image_label(image_path, label):
 8. Разделение наших данных на **батчи**
 **Почему нужно разделять наши данные на батчи?**
 Это необходимо, чтобы наша сессия обучения вместилась в gpu-память. *32* (обработка 32 картинок за итерацию) - является общепринятым стандартом, но при необходимости можно поменять.  
-
-Чтобы использовать Tensor Flow более эффиктивно, наши данные должны быть в форме [[Tuple]] выглядя как в примере:
-`(image, label)`:
-```python
-# Create a function to make a TensorFlow tuple
-def get_image_label(image_path, label):
-  image = process_image(image_path)
-  return image, label
-```
