@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_ClassLoader.md",
-                "mode": "preview",
+                "file": "KB/Programming/java/Java Memory Model.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -185,6 +185,7 @@
   "active": "696077563e486a20",
   "lastOpenFiles": [
     "KB/Programming/java/Java Virtual Machine.md",
+    "KB/Programming/java/java_ClassLoader.md",
     "KB/Programming/java/Java Memory Model.md",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
@@ -218,7 +219,6 @@
     "KB/Programming/sql/psql_Обработка ошибок.md",
     "KB/Programming/sql/psql_Массивы.md",
     "KB/Programming/sql/psql_VARIADIC.md",
-    "Projects/Nutrients.md",
     "Pasted image 20230408110247.png",
     "KW/KB/English",
     "KW/KB",
