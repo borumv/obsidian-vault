@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
-                "mode": "source",
+                "file": "KB/Programming/java/java_ClassLoader.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JVM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,6 +184,8 @@
   },
   "active": "696077563e486a20",
   "lastOpenFiles": [
+    "KB/Programming/java/Java Virtual Machine.md",
+    "KB/Programming/java/Java Memory Model.md",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
     "KB/Programming/TensorFlow.md",
@@ -208,7 +210,6 @@
     "KB/Programming/ETL.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/ORM.md",
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/sql/sumsSQL.md",
     "KB/Programming/sql/psql_функции_examples.md",
     "KB/Programming/sql/psql_Функции в Postgres.md",
@@ -219,7 +220,6 @@
     "KB/Programming/sql/psql_VARIADIC.md",
     "Projects/Nutrients.md",
     "Pasted image 20230408110247.png",
-    "Pasted image 20230407195600.png",
     "KW/KB/English",
     "KW/KB",
     "KW",

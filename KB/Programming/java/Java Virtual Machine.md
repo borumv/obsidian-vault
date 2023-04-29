@@ -7,6 +7,8 @@ Tags: java
 
 # [[Java Virtual Machine]]
 
+**JVM** - виртуальная машина, которая исполняет байт-код созданный из исходного текста Java-программы
+
 Состоит из:
 - [[java_ClassLoader|ClassLoader]]
 
