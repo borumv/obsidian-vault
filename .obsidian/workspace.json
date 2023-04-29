@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "696077563e486a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/java/Java Memory Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,11 +182,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8f68ffd9ea601419",
+  "active": "696077563e486a20",
   "lastOpenFiles": [
-    "Pasted image 20230429111733.png",
+    "Pasted image 20230429140516.png",
+    "Pasted image 20230429140153.png",
     "KB/Programming/TensorFlow.md",
     "KB/Programming/Тензор.md",
+    "Pasted image 20230429111733.png",
     "KB/Programming/Apache Hadoop.md",
     "Maven Lifecycle.md",
     "KB/English/Phrasal Verbs.md",
@@ -208,8 +223,6 @@
     "KW/KB/English",
     "KW/KB",
     "KW",
-    "Pasted image 20230406144010.png",
-    "Pasted image 20230406142159.png",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
