@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/Metaspace (метаданные).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -184,8 +184,14 @@
   },
   "active": "696077563e486a20",
   "lastOpenFiles": [
-    "KB/Programming/Сборщик мусора в Java.md",
     "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/CodeCache (кэш кода).md",
+    "KB/Programming/Java program counter register.md",
+    "KB/Programming/Stack в Java memory.md",
+    "KB/Programming/Heap java.md",
+    "KB/Programming/Metaspace (метаданные).md",
+    "Pasted image 20230430093326.png",
+    "KB/Programming/Сборщик мусора в Java.md",
     "KB/Programming/java/Java Virtual Machine.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Pasted image 20230429140516.png",
@@ -214,12 +220,6 @@
     "KB/Programming/java/ORM.md",
     "KB/Programming/sql/sumsSQL.md",
     "KB/Programming/sql/psql_функции_examples.md",
-    "KB/Programming/sql/psql_Функции в Postgres.md",
-    "KB/Programming/sql/psql_Триггеры.md",
-    "KB/Programming/sql/psql_транзакции в PSQL.md",
-    "KB/Programming/sql/psql_Обработка ошибок.md",
-    "KB/Programming/sql/psql_Массивы.md",
-    "Pasted image 20230408110247.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
