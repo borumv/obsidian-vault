@@ -5,7 +5,7 @@ Aliases: метапространство в java memory model
 Tags: programming
 ---
 
-Общее пространство в [[Java Memory Model]] для всех потоков. Это часть *native memory*. 
+Общее пространство в [[Java Memory Model]] для всех потоков. Это часть *native memory*. В отличии от *PermGen* (который был до Java 8) она расширяется автоматически
 
 **ЧТО ХРАНИТСЯ?**
 - Метаданные классов
