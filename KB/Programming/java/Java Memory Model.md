@@ -11,7 +11,7 @@ Tags: java
 1. **[[Heap java|Heap (куча)]]**
 2. [[Stack в Java memory|Stack(стек)]]
 3. [[Java program counter register]]
-4. [[Metaspace (метаданные)]]
+4. [[Metaspace (метаданные)|Method area]]
 5. [[CodeCache (кэш кода)]]
 
 
