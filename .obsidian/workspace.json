@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fe9f2170a811c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jmm article.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,12 +195,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "696077563e486a20",
+  "active": "8fe9f2170a811c6a",
   "lastOpenFiles": [
+    "jmm article.md",
+    "KB/Programming/Сборщик мусора в Java.md",
     "Pasted image 20230430101253.png",
     "KB/Programming/java/Java Virtual Machine.md",
     "KB/Programming/java/java_ClassLoader.md",
-    "KB/Programming/Сборщик мусора в Java.md",
     "KB/Programming/Metaspace (метаданные).md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/CodeCache (кэш кода).md",
@@ -215,7 +229,6 @@
     "Pasted image 20230426142449.png",
     "Pasted image 20230426142437.png",
     "Pasted image 20230426141716.png",
-    "Pasted image 20230426132234.png",
     "KB/Programming/ETL.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/ORM.md",
