@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "696077563e486a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Java program counter register.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b50aa7ee7115b09d",
             "type": "leaf",
             "state": {
@@ -81,22 +68,9 @@
                 "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "8fe9f2170a811c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jmm article.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,6 +147,19 @@
             }
           },
           {
+            "id": "696077563e486a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Frame in Java Memory.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98b3aa71fa5da357",
             "type": "leaf",
             "state": {
@@ -184,13 +171,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fe9f2170a811c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jmm article.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 905.5,
-    "collapsed": true
+    "width": 759.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +207,16 @@
   },
   "active": "b50aa7ee7115b09d",
   "lastOpenFiles": [
-    "KB/Programming/Java program counter register.md",
+    "KB/Programming/Frame in Java Memory.md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "Pasted image 20230430134508.png",
+    "Pasted image 20230430134432.png",
+    "KB/Programming/Stack в Java memory.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Metaspace (метаданные).md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/English/Phrasal Verbs.md",
+    "KB/English/Dictionary.md",
+    "KB/Programming/Java program counter register.md",
     "KB/Programming/Тензор.md",
     "jmm article.md",
     "KB/Programming/Heap java.md",
@@ -219,7 +225,6 @@
     "KB/Programming/java/Java Virtual Machine.md",
     "KB/Programming/java/java_ClassLoader.md",
     "KB/Programming/CodeCache (кэш кода).md",
-    "KB/Programming/Stack в Java memory.md",
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
@@ -227,7 +232,6 @@
     "Pasted image 20230429111733.png",
     "KB/Programming/Apache Hadoop.md",
     "Maven Lifecycle.md",
-    "KB/English/Phrasal Verbs.md",
     "KB/Programming/sql/📙SQL.md",
     "KB/Programming/spring_MVC.md",
     "KB/Programming/python_Matplotlib.md",
@@ -238,11 +242,6 @@
     "KB/Programming/Deep Learning (Глубокое обучение).md",
     "Pasted image 20230426142534.png",
     "Pasted image 20230426142449.png",
-    "Pasted image 20230426142437.png",
-    "Pasted image 20230426141716.png",
-    "KB/Programming/ETL.md",
-    "KB/Programming/java/📙Hibernate.md",
-    "KB/Programming/java/ORM.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
