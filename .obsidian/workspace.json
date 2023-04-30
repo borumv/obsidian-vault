@@ -152,7 +152,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Java program counter register.md",
+                "file": "java_String pool.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 922.5
+    "width": 841.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +208,12 @@
   "active": "696077563e486a20",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "KB/Programming/Java program counter register.md",
+    "java_String pool.md",
+    "KB/Programming/java/java_String.md",
+    "KB/Programming/java/java_Integer.md",
+    "KB/Programming/CodeCache (кэш кода).md",
     "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Java program counter register.md",
     "KB/Programming/Metaspace (метаданные).md",
     "KB/Programming/Stack в Java memory.md",
     "KB/Programming/Frame in Java Memory.md",
@@ -224,7 +228,6 @@
     "Pasted image 20230430101253.png",
     "KB/Programming/java/Java Virtual Machine.md",
     "KB/Programming/java/java_ClassLoader.md",
-    "KB/Programming/CodeCache (кэш кода).md",
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
@@ -237,9 +240,7 @@
     "KB/Programming/python_Matplotlib.md",
     "KB/English/📙MOC - English.md",
     "KB/Programming/Типы базы данных.md",
-    "KB/Programming/📙Maven.md",
     "Pasted image 20230426143628.png",
-    "KB/Programming/Deep Learning (Глубокое обучение).md",
     "Pasted image 20230426142534.png",
     "Pasted image 20230426142449.png",
     "KW/KB/English",
