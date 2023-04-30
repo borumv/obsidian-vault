@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Тензор.md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,8 +152,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java_String pool.md",
-                "mode": "source",
+                "file": "KB/Programming/Metaspace (метаданные).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 841.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,25 +205,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "696077563e486a20",
+  "active": "b50aa7ee7115b09d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "java_String pool.md",
-    "KB/Programming/java/java_String.md",
-    "KB/Programming/java/java_Integer.md",
-    "KB/Programming/CodeCache (кэш кода).md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/Java program counter register.md",
     "KB/Programming/Metaspace (метаданные).md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/java/Untitled Diagram.svg",
+    "KB/Programming/Тензор.md",
+    "KB/Programming/Heap java.md",
     "KB/Programming/Stack в Java memory.md",
+    "KB/Programming/CodeCache (кэш кода).md",
+    "java_String pool.md",
+    "KB/Programming/java/java_Integer.md",
+    "KB/Programming/java/java_String.md",
+    "KB/Programming/Java program counter register.md",
     "KB/Programming/Frame in Java Memory.md",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
     "KB/English/Phrasal Verbs.md",
     "KB/English/Dictionary.md",
-    "KB/Programming/Тензор.md",
     "jmm article.md",
-    "KB/Programming/Heap java.md",
     "KB/Programming/Сборщик мусора в Java.md",
     "Pasted image 20230430101253.png",
     "KB/Programming/java/Java Virtual Machine.md",
@@ -239,10 +240,8 @@
     "KB/Programming/spring_MVC.md",
     "KB/Programming/python_Matplotlib.md",
     "KB/English/📙MOC - English.md",
-    "KB/Programming/Типы базы данных.md",
     "Pasted image 20230426143628.png",
     "Pasted image 20230426142534.png",
-    "Pasted image 20230426142449.png",
     "KW/KB/English",
     "KW/KB",
     "KW",

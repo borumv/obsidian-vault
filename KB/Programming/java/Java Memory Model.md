@@ -14,5 +14,5 @@ Tags: java
 4. [[Metaspace (метаданные)|Method area]]
 5. [[CodeCache (кэш кода)]]
 
-
+![[KB/Programming/java/Untitled Diagram.svg]]
 
