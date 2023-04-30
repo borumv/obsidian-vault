@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Metaspace (метаданные).md",
+                "file": "KB/Programming/Java program counter register.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,14 +205,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "696077563e486a20",
+  "active": "b50aa7ee7115b09d",
   "lastOpenFiles": [
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Java program counter register.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Metaspace (метаданные).md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Тензор.md",
     "jmm article.md",
-    "KB/Programming/Metaspace (метаданные).md",
     "KB/Programming/Heap java.md",
     "KB/Programming/Сборщик мусора в Java.md",
     "Pasted image 20230430101253.png",
