@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/Metaspace (метаданные).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,11 +205,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b50aa7ee7115b09d",
+  "active": "8f68ffd9ea601419",
   "lastOpenFiles": [
-    "KB/Programming/Metaspace (метаданные).md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/java/Java Memory Model.md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/Metaspace (метаданные).md",
     "KB/Programming/java/Untitled Diagram.svg",
     "KB/Programming/Тензор.md",
     "KB/Programming/Heap java.md",
