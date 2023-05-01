@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Metaspace (метаданные).md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,14 +63,17 @@
             "id": "b50aa7ee7115b09d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+                "file": "KB/Programming/Frame in Java Memory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,8 +155,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Metaspace (метаданные).md",
-                "mode": "preview",
+                "file": "KB/Programming/java/Java Memory Model.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -190,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 855.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +208,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b50aa7ee7115b09d",
+  "active": "8f68ffd9ea601419",
   "lastOpenFiles": [
-    "KB/Programming/Metaspace (метаданные).md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/Frame in Java Memory.md",
     "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Metaspace (метаданные).md",
+    "KB/Programming/Stack в Java memory.md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/Java program counter register.md",
     "KB/Programming/Арены JIT компилятора.md",
     "KB/Programming/CodeCache (кэш кода).md",
     "KB/Programming/Apache Hadoop.md",
@@ -218,12 +224,9 @@
     "KB/Programming/java/Untitled Diagram.svg",
     "KB/Programming/Тензор.md",
     "KB/Programming/Heap java.md",
-    "KB/Programming/Stack в Java memory.md",
     "java_String pool.md",
     "KB/Programming/java/java_Integer.md",
     "KB/Programming/java/java_String.md",
-    "KB/Programming/Java program counter register.md",
-    "KB/Programming/Frame in Java Memory.md",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
     "KB/English/Phrasal Verbs.md",
