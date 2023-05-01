@@ -11,8 +11,12 @@ Tags: java
 1. **[[Heap java|Heap (куча)]]**
 2. [[Stack в Java memory|Stack(стек)]]
 3. [[Java program counter register]]
-4. [[Metaspace (метаданные)|Method area]]
-5. [[CodeCache (кэш кода)]]
+4. [[Metaspace (метаданные)|Metaspace(Method area)]] 
 
+Сегменты памяти, которые заняты [[JIT-компилятор|JIT-компиляцией]]
+1. [[CodeCache (кэш кода)]]
+2. [[Арены JIT компилятора]] (нет у Graal)
+
+Помимо хипа и класслоудинга память тратиться на [[JIT-компилятор|JIT-компиляцию]]
 ![[KB/Programming/java/Untitled Diagram.svg]]
 
