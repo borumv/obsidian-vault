@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
+                "file": "KB/Programming/Metaspace (метаданные).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,14 +205,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8f68ffd9ea601419",
+  "active": "b50aa7ee7115b09d",
   "lastOpenFiles": [
-    "KB/Programming/Арены JIT компилятора.md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/CodeCache (кэш кода).md",
-    "KB/Programming/JIT-компилятор.md",
     "KB/Programming/Metaspace (метаданные).md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Арены JIT компилятора.md",
+    "KB/Programming/CodeCache (кэш кода).md",
+    "KB/Programming/Apache Hadoop.md",
+    "KB/Programming/TensorFlow.md",
+    "KB/Programming/JIT-компилятор.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "KB/Programming/Тензор.md",
     "KB/Programming/Heap java.md",
@@ -234,9 +236,7 @@
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
-    "KB/Programming/TensorFlow.md",
     "Pasted image 20230429111733.png",
-    "KB/Programming/Apache Hadoop.md",
     "Maven Lifecycle.md",
     "KB/Programming/sql/📙SQL.md",
     "KB/Programming/spring_MVC.md",
