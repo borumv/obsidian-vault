@@ -15,8 +15,11 @@ Tags: java
 
 Сегменты памяти, которые заняты [[JIT-компилятор|JIT-компиляцией]]
 1. [[CodeCache (кэш кода)]]
-2. [[Арены JIT компилятора]] (нет у Graal)
+2. [[Арены JIT компилятора]] (нет у Graal )
 
 Помимо хипа и класслоудинга память тратиться на [[JIT-компилятор|JIT-компиляцию]]
 ![[KB/Programming/java/Untitled Diagram.svg]]
 
+Symbols
+- SymbolTable
+- String Table
