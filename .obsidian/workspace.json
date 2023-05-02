@@ -63,12 +63,17 @@
             "id": "92315b2b050e699a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Exception Handling in Spring MVC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,9 +207,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "92315b2b050e699a",
+  "active": "8f68ffd9ea601419",
   "lastOpenFiles": [
     "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Exception Handling in Spring MVC.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Stack в Java memory.md",
     "KB/Programming/Frame in Java Memory.md",
@@ -237,7 +243,6 @@
     "Maven Lifecycle.md",
     "KB/Programming/sql/📙SQL.md",
     "KB/Programming/spring_MVC.md",
-    "KB/Programming/python_Matplotlib.md",
     "Pasted image 20230426143628.png",
     "Pasted image 20230426142534.png",
     "KW/KB/English",
