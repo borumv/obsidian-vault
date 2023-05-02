@@ -28,9 +28,11 @@ public class Example1Controller {
 ```
 
 **`HandlerExceptionResolver`** - интерфейс, который мы можем реализовать для свои кастомных ошибок. Это также является общим интерфейсом, т.е. *все* выброшенные исключения будут обработаны одним из подклассов *HandlerExceptionResonver*. 
+
+
 Внутри [[spring_MVC|spring mvc]] есть 3 имплементации **`Handler ExceptionResolver`**:
 - *`ExceptionHandlerExceptionResolver`* -  этот резолвер является частью механизмов аннотации `@ExceptionHandler`
 - *`ResponseStatusExceptionResolver`* - ищет неперехваченные исключения, соотвествующие *`@ResponseStatus`*. Позволяет настроить код ответа для любого исключения.
 - *`DefaultHandlerExceptionResolver`* - используется для стандартных исключений Spring  в зависимости от типа исключения
 
-*Кастомный `HandlerExceptionResolver`*. 
+*`SimpleMappingExceptionResolver`* - Сопоставление между именами классов исключений и именами представлений ошибок. Используется для визуализации страниц ошибок в приложении браузера.

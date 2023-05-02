@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 573.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +207,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "92315b2b050e699a",
+  "active": "f855d480b3b6ab7a",
   "lastOpenFiles": [
-    "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Exception Handling in Spring MVC.md",
+    "KB/Programming/java/Java Memory Model.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Stack в Java memory.md",
     "KB/Programming/Frame in Java Memory.md",
