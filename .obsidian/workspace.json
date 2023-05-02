@@ -60,20 +60,15 @@
             }
           },
           {
-            "id": "b50aa7ee7115b09d",
+            "id": "92315b2b050e699a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Frame in Java Memory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,12 +183,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 855.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,13 +202,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8f68ffd9ea601419",
+  "active": "92315b2b050e699a",
   "lastOpenFiles": [
-    "KB/Programming/Frame in Java Memory.md",
     "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/Metaspace (метаданные).md",
-    "KB/Programming/Stack в Java memory.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/Stack в Java memory.md",
+    "KB/Programming/Frame in Java Memory.md",
+    "KB/English/Phrasal Verbs.md",
+    "jmm article.md",
+    "KB/English/Dictionary.md",
+    "KB/Programming/Metaspace (метаданные).md",
     "KB/Programming/Java program counter register.md",
     "KB/Programming/Арены JIT компилятора.md",
     "KB/Programming/CodeCache (кэш кода).md",
@@ -229,9 +226,6 @@
     "KB/Programming/java/java_String.md",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
-    "KB/English/Phrasal Verbs.md",
-    "KB/English/Dictionary.md",
-    "jmm article.md",
     "KB/Programming/Сборщик мусора в Java.md",
     "Pasted image 20230430101253.png",
     "KB/Programming/java/Java Virtual Machine.md",
