@@ -120,10 +120,12 @@ MODEL_URL = "https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classificati
 
 Для удобства построения модели существует [[Keras]], который служит обёрткой над логикой [[TensorFlow|tensoflow]] или [[Pytorch]].
 Вот последующие этапы создания нейронной сети:
+
 1. Взять *URL* подходящей нам нейронной сети (в примере это - [[TensorFlow Hub]]) и добавить в модель (через метод `hub.KerasLayer(url)`)
 2. Взять размер (*shape*) исходящих данных и добавить к моделе через `keras.Dense(units=output_shape)`
 3. Вызвать метод `compile()` у модели
 4. Вызвать метод `build()` у модели передав в неё размерность(*shape*) входящих данных
+
 ```python
 import tensorflow_hub as hub
 from tensorflow import keras
@@ -146,11 +148,3 @@ def create_model(input_shape=INPUT_SHAPE, output_shape=OUTPUT_SHAPE, hub_url=
   model.build(input_shape)
   return model
 ```
-****
-Now we've got our input, outputs and model ready to go. Let's put them together into a Keras deep learning model Knowing this, let's create a function which:
-
--   Takes the input shape, output shape and the model we've chosen as parameters.
--   Defines the layers in a Keras model in sequential fashion (do this first, then this, then that)
--   Compiles the model (says it should be evaluated and improved).
--   Builds the model (tells the model the input shape it'll be getting).
--   Returns the model.
