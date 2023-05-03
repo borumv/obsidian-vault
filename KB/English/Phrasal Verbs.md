@@ -73,7 +73,7 @@
 4) **GO ON** - 1) продолжать 2) происходить
 	*можно использовать вместо **continue***
 	**Само собой разумеется, что он хотел бы продолжить изучать англиский здесь, пока не достигнет следующего уровня** - It goes without saying that he'd like to **go on** learning English here unless he reaches the next level
-	**Я не могу понять, что здесь происходит** - I can't understand what's **going on** here
+	**Я не могу понять, что здесь происходит** - I can't understand what's **going on** here 
 5) **FIGURE OUT** - понимать
 	*можно использовать вместо **understand***
 	**Я не могу понять, что происходит** - I can't **figure out** what's going on

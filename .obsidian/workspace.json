@@ -14,24 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/TensorFlow.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6dce89152319c875",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +162,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6dce89152319c875",
+  "active": "eea309b05b513867",
   "lastOpenFiles": [
-    "KB/Programming/Exception Handling in Spring MVC.md",
     "KB/English/Phrasal Verbs.md",
+    "KB/Programming/TensorFlow.md",
+    "KB/Programming/Exception Handling in Spring MVC.md",
     "KB/Programming/java/Java Memory Model.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Stack в Java memory.md",
@@ -188,7 +178,6 @@
     "KB/Programming/Арены JIT компилятора.md",
     "KB/Programming/CodeCache (кэш кода).md",
     "KB/Programming/Apache Hadoop.md",
-    "KB/Programming/TensorFlow.md",
     "KB/Programming/JIT-компилятор.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "KB/Programming/Тензор.md",
