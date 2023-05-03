@@ -100,3 +100,57 @@ train_data.element_spec, val_data.element_spec
 ```
 Данный объект описывает *тип тензора*. У него есть следующие аргументы:
 `shape` - форма [[Тензор|тензора]]
+
+
+
+### Построение модели Глубокого обучения
+Перед тем, как строить модель нам нужно определить следующие вещи:
+1. Размер (*shape*) входящих данных
+2. Размер (*shape*) исходящих данных
+3. Адрес (*URL*) подходящей для нас нейронной сети 
+
+```python
+# Setup input shape to the model
+INPUT_SHAPE = [None, IMG_SIZE, IMG_SIZE, 3] # batch, height, width, colour channels
+# Setup output shape of our model
+OUTPUT_SHAPE = len(unique_breeds)
+# Setup model URL from TensorFlow Hub
+MODEL_URL = "https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5"
+```
+
+Для удобства построения модели существует [[Keras]], который служит обёрткой над логикой [[TensorFlow|tensoflow]] или [[Pytorch]].
+Вот последующие этапы создания нейронной сети:
+1. Взять *URL* подходящей нам нейронной сети (в примере это - [[TensorFlow Hub]]) и добавить в модель (через метод `hub.KerasLayer(url)`)
+2. Взять размер (*shape*) исходящих данных и добавить к моделе через `keras.Dense(units=output_shape)`
+3. Вызвать метод `compile()` у модели
+4. Вызвать метод `build()` у модели передав в неё размерность(*shape*) входящих данных
+```python
+import tensorflow_hub as hub
+from tensorflow import keras
+from keras.layers import Dense
+from keras.models import Sequential, load_model
+
+def create_model(input_shape=INPUT_SHAPE, output_shape=OUTPUT_SHAPE, hub_url=MODEL_URL):
+  model = tf.keras.Sequential([
+      hub.KerasLayer(hub_url), #  Слой подключения нейронной сети из TensorFlow Hub
+      Dense(units = output_shape, 
+            activation="softmax") # Слой подключения исходящих данных
+  ])
+  # Вызов метода compile у модели
+  model.compile(
+      loss=keras.losses.CategoricalCrossentropy(), # Функция потерь 
+      optimizer=keras.optimizers.Adam(), # Алгоритм оптимизации
+      metrics=["accuracy"] # список метрик, которые будут вычисляться в процессе вычисления модели
+  )
+  # Build the model
+  model.build(input_shape)
+  return model
+```
+****
+Now we've got our input, outputs and model ready to go. Let's put them together into a Keras deep learning model Knowing this, let's create a function which:
+
+-   Takes the input shape, output shape and the model we've chosen as parameters.
+-   Defines the layers in a Keras model in sequential fashion (do this first, then this, then that)
+-   Compiles the model (says it should be evaluated and improved).
+-   Builds the model (tells the model the input shape it'll be getting).
+-   Returns the model.
