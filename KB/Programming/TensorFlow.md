@@ -148,3 +148,6 @@ def create_model(input_shape=INPUT_SHAPE, output_shape=OUTPUT_SHAPE, hub_url=
   model.build(input_shape)
   return model
 ```
+
+
+**Keras Callbacks** - 
