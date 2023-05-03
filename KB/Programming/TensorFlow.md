@@ -150,4 +150,7 @@ def create_model(input_shape=INPUT_SHAPE, output_shape=OUTPUT_SHAPE, hub_url=
 ```
 
 
-**Keras Callbacks** - 
+**Keras Callbacks** 
+
+**Epochs (Эпохи)** 
+Гиперпараметр, отвечающий за то, сколько раз мы прогоним наш датасет через нейронную сеть.
