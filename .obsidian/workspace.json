@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9ba825b6b442086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/English/Phrasal Verbs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73a53fac9e65342c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Apache Hadoop.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eea309b05b513867",
             "type": "leaf",
             "state": {
@@ -47,33 +21,17 @@
             }
           },
           {
-            "id": "8f68ffd9ea601419",
+            "id": "6dce89152319c875",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "KB/Programming/java/Java Memory Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92315b2b050e699a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Exception Handling in Spring MVC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +77,14 @@
               "state": {
                 "file": "media/Pasted image 20220408123511.png"
               }
+            }
+          },
+          {
+            "id": "744a2bae07a8d421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -207,10 +173,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "92315b2b050e699a",
+  "active": "6dce89152319c875",
   "lastOpenFiles": [
-    "KB/English/Phrasal Verbs.md",
     "KB/Programming/Exception Handling in Spring MVC.md",
+    "KB/English/Phrasal Verbs.md",
     "KB/Programming/java/Java Memory Model.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Stack в Java memory.md",
