@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jmm article.md",
+                "file": "KB/Programming/Scikit-Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,12 +152,15 @@
   },
   "active": "8fe9f2170a811c6a",
   "lastOpenFiles": [
-    "KB/Programming/TensorFlow.md",
+    "KB/Programming/Подготовка данных в машинному обучении.md",
+    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
+    "KB/Programming/Scikit-Learn.md",
+    "KB/Programming/Exception Handling in Spring MVC.md",
     "jmm article.md",
+    "KB/Programming/TensorFlow.md",
     "KB/English/Dictionary.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/English/Phrasal Verbs.md",
-    "KB/Programming/Exception Handling in Spring MVC.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/Stack в Java memory.md",
     "KB/Programming/Frame in Java Memory.md",
@@ -183,9 +186,6 @@
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
     "Pasted image 20230429111733.png",
-    "Maven Lifecycle.md",
-    "KB/Programming/sql/📙SQL.md",
-    "KB/Programming/spring_MVC.md",
     "Pasted image 20230426143628.png",
     "Pasted image 20230426142534.png",
     "KW/KB/English",
