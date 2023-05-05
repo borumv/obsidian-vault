@@ -33,4 +33,5 @@ public ResponseEntity<Book> getBookById(@PathVariable Long id) {
 
 Spring MVC автоматически использует `JsonViewResolver`, чтобы отобразить JSON данные, поскольку это объект `ResponseEntity`. Если бы мы возвращали объект `ModelAndView` вместо `ResponseEntity`, то Spring MVC использовал бы `InternalResourceViewResolver` для отображения JSP или HTML страницы.
 
-
+- [[Internationalization Spring MVC]]
+- [[Exception Handling in Spring MVC|отлов ошибок в Spring MVC]]
