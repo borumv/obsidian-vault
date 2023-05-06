@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Internationalization Spring MVC.md",
+                "file": "KB/Programming/java/Состояние объектов в Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,6 +119,8 @@
   },
   "active": "eea309b05b513867",
   "lastOpenFiles": [
+    "KB/Programming/java/📙Hibernate.md",
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/Internationalization Spring MVC.md",
     "KB/Programming/spring_MVC.md",
     "KB/Programming/TensorFlow.md",
@@ -144,10 +146,8 @@
     "KB/Programming/Heap java.md",
     "java_String pool.md",
     "KB/Programming/java/java_Integer.md",
-    "KB/Programming/java/java_String.md",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
-    "KB/Programming/Сборщик мусора в Java.md",
     "Pasted image 20230430101253.png",
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
