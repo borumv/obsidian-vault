@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_HttpClient.md",
+                "file": "KB/Programming/Работа с куками в Java.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ae0379d5756316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/java/Сервлеты в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,13 +131,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ef823b5d65166d2c",
+  "active": "f0ae0379d5756316",
   "lastOpenFiles": [
-    "KB/Programming/HTTP версия 2.md",
-    "KB/Programming/Session.md",
-    "KB/Programming/HTTPS.md",
-    "KB/Programming/Internationalization Spring MVC.md",
+    "KB/Programming/Работа с куками в Java.md",
+    "KB/Programming/java/Сервлеты в Java.md",
+    "KB/Programming/WAR-файл.md",
     "KB/Programming/Cookies.md",
+    "KB/Programming/Internationalization Spring MVC.md",
+    "KB/Programming/Session.md",
+    "KB/Programming/HTTP версия 2.md",
+    "KB/Programming/java/java_HttpClient.md",
+    "KB/Programming/HTTPS.md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
@@ -142,10 +159,6 @@
     "KB/Programming/Stack в Java memory.md",
     "KB/Programming/Frame in Java Memory.md",
     "KB/Programming/Metaspace (метаданные).md",
-    "KB/Programming/Java program counter register.md",
-    "KB/Programming/Арены JIT компилятора.md",
-    "KB/Programming/CodeCache (кэш кода).md",
-    "KB/Programming/Apache Hadoop.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
