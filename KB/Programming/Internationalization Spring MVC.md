@@ -22,4 +22,3 @@ Tags: programming, spring, java
 - *en-GB* будет соотвествовать *messages_en_GB.properties*
 - если файл не найден, то ищем *messages_en.properties*
 - в конце концов, если и этого нет - *messages.properties*
-вшиско бенде в пожондку
