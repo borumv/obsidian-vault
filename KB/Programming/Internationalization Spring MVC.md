@@ -14,7 +14,7 @@ Tags: programming, spring, java
 - **`AcceptHeaderLocaleResolver`** - дефолтная имплементация, которая берёт информацию из *заголовка http-запроса* 
 - **`FixedLocaleResolver`** - использование локали [[Java Virtual Machine|JVM]] (в большинстве случаев - это настройки операционной системы)
 - **`CookieLocaleResolver`** - забираем наши локали из [[Cookies|куки]]
-- **`SessionLocaleResolver`** - забираем наши локали из [[Сессии]] 
+- **`SessionLocaleResolver`** - забираем наши локали из [[Session]] 
 
 Изменение Локали можно осуществить с помощью **`LocaleChangeInterceptor`** 
 

@@ -17,7 +17,7 @@ var httpClient = HttpClient.newBuilder()
         .version(HttpClient.Version.HTTP_1_1)  
         .build();
 ```
-- C **деволтными** настройками:
+- C **дефолтными** настройками:
 ```java
 var httpClient = HttpClient.newHttpClient();
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/Состояние объектов в Hibernate.md",
+                "file": "KB/Programming/hibernate_Начало работы с Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Internationalization Spring MVC.md",
+                "file": "KB/Programming/java/java_HttpClient.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,11 +118,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eea309b05b513867",
+  "active": "ef823b5d65166d2c",
   "lastOpenFiles": [
-    "KB/Programming/java/📙Hibernate.md",
-    "KB/Programming/hibernate_Начало работы с Hibernate.md",
+    "KB/Programming/HTTP версия 2.md",
+    "KB/Programming/Session.md",
+    "KB/Programming/HTTPS.md",
     "KB/Programming/Internationalization Spring MVC.md",
+    "KB/Programming/Cookies.md",
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
+    "KB/Programming/java/📙Hibernate.md",
+    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/spring_MVC.md",
     "KB/Programming/TensorFlow.md",
     "KB/Programming/Scikit-Learn.md",
@@ -140,12 +146,7 @@
     "KB/Programming/Арены JIT компилятора.md",
     "KB/Programming/CodeCache (кэш кода).md",
     "KB/Programming/Apache Hadoop.md",
-    "KB/Programming/JIT-компилятор.md",
     "KB/Programming/java/Untitled Diagram.svg",
-    "KB/Programming/Тензор.md",
-    "KB/Programming/Heap java.md",
-    "java_String pool.md",
-    "KB/Programming/java/java_Integer.md",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
     "Pasted image 20230430101253.png",
