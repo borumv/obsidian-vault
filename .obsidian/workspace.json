@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/hibernate_Начало работы с Hibernate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef823b5d65166d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f71e07ba327914bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/class InputStream.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec1e025dc82eaabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "За гремучую доблесть грядущих веков….md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd2b2e94fd6ea85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Паттерн Декоратор.md",
+                "file": "KB/Programming/TensorFlow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,14 +103,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f71e07ba327914bd",
+  "active": "eea309b05b513867",
   "lastOpenFiles": [
+    "KB/Programming/Построение модели Глубокого обучения.md",
+    "KB/Programming/TensorFlow.md",
+    "KB/Programming/tf.TensorSpec.md",
+    "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
+    "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
+    "KB/Programming/class InputStream.md",
     "KB/Programming/java/java_Stream (IO, NIO).md",
     "Java IO.md",
     "KB/Programming/Паттерн Декоратор.md",
-    "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
     "За гремучую доблесть грядущих веков….md",
-    "KB/Programming/class InputStream.md",
     "Осип Мандельштап.md",
     "KB/Programming/java/java_Serialization.md",
     "KB/Programming/java/java_NIO.md",
@@ -180,11 +132,6 @@
     "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Session.md",
     "KB/Programming/spring_Bean Life Cycle.md",
-    "KB/Programming/java/java_Server Socket.md",
-    "KB/Programming/Работа с куками в Java.md",
-    "KB/Programming/Работа с сессиями в Java.md",
-    "KB/Programming/WAR-файл.md",
-    "KB/Programming/Cookies.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
