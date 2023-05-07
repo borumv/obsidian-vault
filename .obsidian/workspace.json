@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Работа с куками в Java.md",
+                "file": "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Session.md",
+                "file": "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,10 +146,19 @@
   },
   "active": "ef823b5d65166d2c",
   "lastOpenFiles": [
-    "KB/Programming/Session.md",
-    "KB/Programming/Работа с сессиями в Java.md",
+    "KB/Programming/java/java_ClassLoader.md",
+    "KB/Programming/java/Java Virtual Machine.md",
+    "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
+    "KB/Programming/java/java_Reflection.md",
+    "Pasted image 20230507094217.png",
     "KB/Programming/java/Сервлеты в Java.md",
+    "KB/Programming/Catalina (servlet container).md",
+    "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/Session.md",
+    "KB/Programming/spring_Bean Life Cycle.md",
+    "KB/Programming/java/java_Server Socket.md",
     "KB/Programming/Работа с куками в Java.md",
+    "KB/Programming/Работа с сессиями в Java.md",
     "KB/Programming/WAR-файл.md",
     "KB/Programming/Cookies.md",
     "KB/Programming/Internationalization Spring MVC.md",
@@ -164,14 +173,6 @@
     "KB/Programming/Scikit-Learn.md",
     "KB/English/Dictionary.md",
     "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/Подготовка данных в машинному обучении.md",
-    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
-    "KB/Programming/Exception Handling in Spring MVC.md",
-    "jmm article.md",
-    "KB/English/Phrasal Verbs.md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "KB/Programming/Stack в Java memory.md",
-    "KB/Programming/Frame in Java Memory.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
@@ -181,7 +182,6 @@
     "Pasted image 20230429140153.png",
     "Pasted image 20230429111733.png",
     "Pasted image 20230426143628.png",
-    "Pasted image 20230426142534.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
