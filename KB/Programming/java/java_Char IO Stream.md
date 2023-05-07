@@ -1,10 +1,6 @@
 ---
 tags: java, javadoc
 ---
-**Description**
-
-
-**Иерархия**
 
 
 ![[Pasted image 20220821100143.png]]
