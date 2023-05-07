@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java IO.md",
-                "mode": "source",
+                "file": "KB/Programming/class InputStream.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/class InputStream.md",
-                "mode": "source",
+                "file": "За гремучую доблесть грядущих веков….md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,8 +141,7 @@
     "type": "split",
     "children": [],
     "direction": "horizontal",
-    "width": 560.5,
-    "collapsed": true
+    "width": 560.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +156,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ec1e025dc82eaabb",
+  "active": "f71e07ba327914bd",
   "lastOpenFiles": [
-    "KB/Programming/Паттерн Декоратор.md",
-    "KB/Programming/class InputStream.md",
-    "KB/Programming/java/java_Serialization.md",
-    "Java IO.md",
     "KB/Programming/java/java_Stream (IO, NIO).md",
-    "KB/Programming/java/java_NIO.md",
+    "Java IO.md",
+    "KB/Programming/Паттерн Декоратор.md",
     "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
+    "За гремучую доблесть грядущих веков….md",
+    "KB/Programming/class InputStream.md",
+    "Осип Мандельштап.md",
+    "KB/Programming/java/java_Serialization.md",
+    "KB/Programming/java/java_NIO.md",
     "KB/Programming/java/java_Char IO Stream.md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
     "KB/Programming/java/java_class File.md",
@@ -184,8 +185,6 @@
     "KB/Programming/Работа с сессиями в Java.md",
     "KB/Programming/WAR-файл.md",
     "KB/Programming/Cookies.md",
-    "KB/Programming/Internationalization Spring MVC.md",
-    "KB/Programming/HTTP версия 2.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
