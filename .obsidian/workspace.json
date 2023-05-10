@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
-                "mode": "preview",
+                "file": "KB/Programming/@InitBinder.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -140,12 +140,13 @@
   },
   "active": "eea309b05b513867",
   "lastOpenFiles": [
+    "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
+    "KB/Programming/@InitBinder.md",
     "KB/Programming/TensorFlow.md",
     "KB/Programming/class InputStream.md",
     "KB/Programming/Files класс в Java.md",
     "KB/Programming/Построение модели Глубокого обучения.md",
     "KB/Programming/tf.TensorSpec.md",
-    "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
     "KB/Programming/java/java_Stream (IO, NIO).md",
@@ -166,7 +167,6 @@
     "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/Apache Tomcat.md",
-    "KB/Programming/Session.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
