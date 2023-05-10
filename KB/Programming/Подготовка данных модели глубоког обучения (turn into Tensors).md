@@ -19,7 +19,7 @@ def process_image(image_path, img_size=IMG_SIZE):
 	# 1. Взять путь к картинке
 	filenames = ["drive/MyDrive/Dog Vision/train/" + names + ".jpg" for names in labels_csv["id"]]
 	image_path = filenames[1]
-	# 2.. Использовать TensorFlow читаев файл сохраняем её в переменной
+	# 2.. Использовать TensorFlow читаем файл сохраняем её в переменной
 	image = tf.io.read_file(image_path)
 	# 3. Нормазиуем нашу картику 
 	image = tf.io.decode_jpeg(image, channels=3)

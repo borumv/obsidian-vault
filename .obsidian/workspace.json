@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/TensorFlow.md",
-                "mode": "source",
+                "file": "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -54,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,11 +138,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3de643a3214195bf",
+  "active": "eea309b05b513867",
   "lastOpenFiles": [
-    "KB/Programming/Files класс в Java.md",
-    "KB/Programming/class InputStream.md",
     "KB/Programming/TensorFlow.md",
+    "KB/Programming/class InputStream.md",
+    "KB/Programming/Files класс в Java.md",
     "KB/Programming/Построение модели Глубокого обучения.md",
     "KB/Programming/tf.TensorSpec.md",
     "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
