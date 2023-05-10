@@ -56,3 +56,77 @@ public class Bicycle {
 }
 ```
 
+**Правила:**
+1.Объект внутреннего класса не может существовать без объекта «внешнего» класса.
+Это логично: для того мы и сделали `Seat` и `HandleBar` внутренними классами, чтобы в нашей программе не появлялись то тут, то там бесхозные рули и сиденья.
+Этот код не скомпилируется:
+```java
+public static void main(String[] args) {
+
+   HandleBar handleBar = new HandleBar();
+}
+```
+Из этого вытекает следующая важная особенность:
+2. У объекта внутреннего класса есть доступ к переменным «внешнего» класса.
+
+Для примера давай добавим в наш класс `Bicycle` переменную `int seatPostDiameter` — диаметр подседельного штыря.
+Тогда во внутреннем классе `Seat` мы можем создать метод `getSeatParam()`, который сообщит нам параметр сиденья:
+```java
+public class Bicycle {
+
+   private String model;
+   private int weight;
+
+   private int seatPostDiameter;
+
+   public Bicycle(String model, int weight, int seatPostDiameter) {
+       this.model = model;
+       this.weight = weight;
+       this.seatPostDiameter = seatPostDiameter;
+
+   }
+
+   public void start() {
+       System.out.println("Поехали!");
+   }
+
+   public class Seat {
+
+       public void up() {
+
+           System.out.println("Сиденье поднято выше!");
+       }
+
+       public void down() {
+
+           System.out.println("Сиденье опущено ниже!");
+       }
+
+       public void getSeatParam() {
+
+           System.out.println("Параметр сиденья: диаметр подседельного штыря = " + Bicycle.this.seatPostDiameter);
+       }
+   }
+}
+```
+
+И теперь мы можем получить эту информацию в нашей программе:
+
+```java
+public class Main {
+
+   public static void main(String[] args) {
+
+       Bicycle bicycle = new Bicycle("Peugeot", 120, 40);
+       Bicycle.Seat seat = bicycle.new Seat();
+
+       seat.getSeatParam();
+   }
+}
+```
+
+3. Объект внутреннего класса нельзя создать в статическом методе «внешнего» класса.
+
+Это объясняется особенностями устройства внутренних классов. У внутреннего класса могут быть конструкторы с параметрами или только конструктор по умолчанию. Но независимо от этого, когда мы создаем объект внутреннего класса, в него незаметно передается ссылка на объект «внешнего» класса. Ведь наличие такого объекта — обязательное условие. Иначе мы не сможем создавать объекты внутреннего класса.
+
+Но если метод внешнего класса статический, значит, объект внешнего класса может вообще не существовать! А значит, логика работы внутреннего класса будет нарушена. В такой ситуации компилятор выбросит ошибку:
