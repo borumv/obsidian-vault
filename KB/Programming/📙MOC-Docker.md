@@ -28,4 +28,4 @@ Docer Host - то на каком хосте запущен [[Docer Client]]
 
 ![[Pasted image 20221230202840.png|500]]
 
-See also: [[Установка Docker из стандартного манула]]
+See also: [[Установка Docker из стандартного манула]], [[Чистка Docker]]

@@ -79,9 +79,12 @@
             "id": "269fb79ee6cea445",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "KB/Programming/Чистка Docker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -172,6 +175,13 @@
   },
   "active": "269fb79ee6cea445",
   "lastOpenFiles": [
+    "KB/Programming/Docker Volume.md",
+    "KB/Programming/Чистка Docker.md",
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Docker container.md",
+    "KB/Programming/Docker Registry.md",
+    "KB/Programming/Docker file.md",
+    "KB/Programming/Docker Image.md",
     "Pasted image 20230510162821.png",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/@InitBinder.md",
@@ -192,13 +202,7 @@
     "KB/Programming/java/java_NIO.md",
     "KB/Programming/java/java_Char IO Stream.md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
-    "KB/Programming/java/java_class File.md",
-    "KB/Programming/java/java_System(class).md",
-    "KB/Programming/java/java_ClassLoader.md",
-    "KB/Programming/java/Java Virtual Machine.md",
-    "KB/Programming/java/java_Reflection.md",
     "Pasted image 20230507094217.png",
-    "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
@@ -207,7 +211,6 @@
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
     "Pasted image 20230429111733.png",
-    "Pasted image 20230426143628.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
