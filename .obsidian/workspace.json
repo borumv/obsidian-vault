@@ -74,9 +74,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "269fb79ee6cea445",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7cb6aa766d7fd870",
+  "active": "269fb79ee6cea445",
   "lastOpenFiles": [
     "Pasted image 20230510162821.png",
     "KB/Programming/Вложенные классы в Java.md",
