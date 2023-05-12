@@ -27,9 +27,11 @@ T get()
 R apply(T t, U u)
 ```
 
-*Stream примитивных типов*
-Напрямую с [[примитивные типы|примитивными типами]] stream не может работать. Но для этого существует *функции преобразователи*. Нам дают несколько новых функций
+### *Stream примитивных типов*
+
+Напрямую с [[примитивные типы|примитивными типами]] stream не может работать. Но для этого существует *функции преобразователи*. Преобразование в поток примитивных типов дают нам несколько новых функций
 `max()`, `average()`, `min()`, `summaryStatistics()`
+
 ```java
 List<String> list = List.of("1", "2", "3", "4", "6", "22");  
 var intSummaryStatistics = list.stream()  
@@ -38,10 +40,7 @@ var intSummaryStatistics = list.stream()
         .summaryStatistics();  
 System.out.println(intSummaryStatistics);
 ```
-
-
-
-Мы можем обратно преобразовать стрим примитивных типов в стрим [[class Object|объектов]] с помощью функции `mapToObj`
+Мы можем обратно преобразовать стрим примитивных типов в стрим [[class Object|объектов]] с помощью функции `mapToObj`. Тогда функции статистики уже будут *недоступны*
 ```java
 List<String> strings = List.of("1", "2", "3", "4","11", "22", "33", "44");  
 strings.stream()  
@@ -50,13 +49,21 @@ strings.stream()
         .mapToObj(Integer::valueOf);
 ```
 
-Класс **`IntStream`**
+Класс **`IntStream`** 
 1. `of` - создать стрим примитивных объектов 
 ```java
 IntStream.of(1,2,3,4)
 ```
-2. `range` - создание цикла for
+2. `range` - создание цикла for c указанием границ *от* и *до*
 ```java
 IntStream.range(0, 10)
 	.forEach(System::out::println)
 ```
+3. `iterate` - создание бесконечного цикла с операцией над элементом
+```java
+IntStream.iterate(0, i -> i + 3)  
+        .skip(10)  
+        .limit(10)  
+        .forEach(System.out::println);
+```
+
