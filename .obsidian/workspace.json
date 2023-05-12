@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Чистка Docker.md",
+                "file": "KB/Programming/📙MOC-Docker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,13 +175,13 @@
   },
   "active": "269fb79ee6cea445",
   "lastOpenFiles": [
-    "KB/Programming/Docker Volume.md",
-    "KB/Programming/Чистка Docker.md",
+    "KB/Programming/Docker Image.md",
     "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Чистка Docker.md",
+    "KB/Programming/Docker Volume.md",
     "KB/Programming/Docker container.md",
     "KB/Programming/Docker Registry.md",
     "KB/Programming/Docker file.md",
-    "KB/Programming/Docker Image.md",
     "Pasted image 20230510162821.png",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/@InitBinder.md",
