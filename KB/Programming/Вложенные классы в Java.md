@@ -91,19 +91,13 @@ public class Bicycle {
    }
 
    public class Seat {
-
        public void up() {
-
            System.out.println("Сиденье поднято выше!");
        }
-
        public void down() {
-
            System.out.println("Сиденье опущено ниже!");
        }
-
        public void getSeatParam() {
-
            System.out.println("Параметр сиденья: диаметр подседельного штыря = " + Bicycle.this.seatPostDiameter);
        }
    }

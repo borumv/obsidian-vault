@@ -74,22 +74,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "269fb79ee6cea445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/📙MOC-Docker.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,10 +160,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "269fb79ee6cea445",
+  "active": "7cb6aa766d7fd870",
   "lastOpenFiles": [
-    "KB/Programming/Docker Image.md",
     "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Docker Image.md",
     "KB/Programming/Чистка Docker.md",
     "KB/Programming/Docker Volume.md",
     "KB/Programming/Docker container.md",
