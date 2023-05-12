@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Вложенные классы в Java.md",
+                "file": "KB/Programming/Функциональные интерфейсы в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,6 +162,8 @@
   },
   "active": "7cb6aa766d7fd870",
   "lastOpenFiles": [
+    "KB/Programming/Вложенные классы в Java.md",
+    "KB/Programming/Функциональные интерфейсы в Java.md",
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Image.md",
     "KB/Programming/Чистка Docker.md",
@@ -170,7 +172,6 @@
     "KB/Programming/Docker Registry.md",
     "KB/Programming/Docker file.md",
     "Pasted image 20230510162821.png",
-    "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/@InitBinder.md",
     "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
     "KB/Programming/TensorFlow.md",
@@ -188,7 +189,6 @@
     "KB/Programming/java/java_Serialization.md",
     "KB/Programming/java/java_NIO.md",
     "KB/Programming/java/java_Char IO Stream.md",
-    "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
