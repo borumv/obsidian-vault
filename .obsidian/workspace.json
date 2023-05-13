@@ -79,9 +79,12 @@
             "id": "676a2f17ca7b5470",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+                "file": "KB/Programming/Нормальные формы.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JVM",
+                "query": "НФ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,6 +175,11 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
+    "KB/Programming/Стадии проектирования БД.md",
+    "KB/Programming/Базовые советы по проектированию баз данных.md",
+    "KB/Programming/Нормальные формы.md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Java program counter register.md",
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
@@ -193,11 +202,6 @@
     "KB/Programming/tf.TensorSpec.md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
-    "KB/Programming/java/java_Stream (IO, NIO).md",
-    "Java IO.md",
-    "KB/Programming/Паттерн Декоратор.md",
-    "За гремучую доблесть грядущих веков….md",
-    "Осип Мандельштап.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
