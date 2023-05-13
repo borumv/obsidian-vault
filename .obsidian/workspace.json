@@ -79,12 +79,9 @@
             "id": "676a2f17ca7b5470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
               }
             }
           }
@@ -149,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -175,6 +171,8 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/Java program counter register.md",
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
     "KB/Programming/Функциональные интерфейсы в Java.md",
     "KB/Programming/Вложенные классы в Java.md",
@@ -200,8 +198,6 @@
     "KB/Programming/Паттерн Декоратор.md",
     "За гремучую доблесть грядущих веков….md",
     "Осип Мандельштап.md",
-    "KB/Programming/java/java_Serialization.md",
-    "KB/Programming/java/java_NIO.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
