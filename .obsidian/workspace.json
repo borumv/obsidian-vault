@@ -82,7 +82,7 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Нормальные формы.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -175,6 +175,7 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "Pasted image 20230513103020.png",
     "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
     "KB/Programming/Стадии проектирования БД.md",
     "KB/Programming/Базовые советы по проектированию баз данных.md",
@@ -201,7 +202,6 @@
     "KB/Programming/Построение модели Глубокого обучения.md",
     "KB/Programming/tf.TensorSpec.md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
-    "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
