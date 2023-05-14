@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Нормальные формы.md",
+                "file": "KB/Programming/@ManyToMany.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "НФ",
+                "query": "ACID",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,11 +175,16 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/sql/согласованность_транзакции.md",
+    "KB/Programming/sql/свойства транзакции (ACID).md",
+    "KB/Programming/sql/psql_транзакции в PSQL.md",
+    "KB/Programming/sql/атомарность_транзакции.md",
+    "Транзакции+в+PSQL.md",
+    "KB/Programming/Нормальные формы.md",
     "Pasted image 20230513103020.png",
     "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
     "KB/Programming/Стадии проектирования БД.md",
     "KB/Programming/Базовые советы по проектированию баз данных.md",
-    "KB/Programming/Нормальные формы.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "KB/Programming/java/Java Memory Model.md",
     "KB/Programming/Java program counter register.md",
@@ -198,10 +203,6 @@
     "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
     "KB/Programming/TensorFlow.md",
     "KB/Programming/class InputStream.md",
-    "KB/Programming/Files класс в Java.md",
-    "KB/Programming/Построение модели Глубокого обучения.md",
-    "KB/Programming/tf.TensorSpec.md",
-    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
@@ -210,7 +211,6 @@
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
     "Pasted image 20230429140153.png",
-    "Pasted image 20230429111733.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
