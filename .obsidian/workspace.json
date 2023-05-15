@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Integration testing.md",
+                "file": "KB/Programming/JUnit.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -141,8 +141,12 @@
   },
   "active": "0e9173d996b2f0b8",
   "lastOpenFiles": [
-    "KB/Programming/JUnit.md",
+    "Pasted image 20230515100355.png",
+    "Pasted image 20230515095617.png",
     "KB/Programming/Unit testing.md",
+    "KB/Programming/Integration testing Spring.md",
+    "KB/Programming/Integration testing.md",
+    "KB/Programming/JUnit.md",
     "KB/Programming/Логирование в Spring Boot.md",
     "KB/Programming/@JoinColumn.md",
     "KB/Programming/@ManyToMany.md",
@@ -165,9 +169,6 @@
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Image.md",
     "KB/Programming/Чистка Docker.md",
-    "KB/Programming/Docker Volume.md",
-    "KB/Programming/Docker container.md",
-    "KB/Programming/Docker Registry.md",
     "Pasted image 20230510162821.png",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
@@ -176,7 +177,6 @@
     "Pasted image 20230430101253.png",
     "Pasted image 20230430093326.png",
     "Pasted image 20230429140516.png",
-    "Pasted image 20230429140153.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
