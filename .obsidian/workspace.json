@@ -34,62 +34,20 @@
             }
           },
           {
-            "id": "3de643a3214195bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "26ca12109e95a622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Files класс в Java.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0d64972a3883404",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7cb6aa766d7fd870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Функциональные интерфейсы в Java.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "676a2f17ca7b5470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@ManyToMany.md",
-                "mode": "source",
+                "file": "KB/Programming/@JoinColumn.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ACID",
+                "query": "OneTo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,6 +133,7 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/@ManyToMany.md",
     "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/sql/свойства транзакции (ACID).md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
@@ -202,7 +161,6 @@
     "KB/Programming/@InitBinder.md",
     "KB/Programming/Подготовка данных модели глубоког обучения (turn into Tensors).md",
     "KB/Programming/TensorFlow.md",
-    "KB/Programming/class InputStream.md",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
