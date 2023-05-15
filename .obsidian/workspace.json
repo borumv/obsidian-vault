@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Spring Data JPA.md",
+                "file": "KB/Programming/TransactionManager.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,9 @@
   },
   "active": "3f94a3300e1768ed",
   "lastOpenFiles": [
+    "Pasted image 20230515133812.png",
     "KB/Programming/Spring Data JPA.md",
+    "KB/Programming/TransactionManager.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/ORM.md",
@@ -189,9 +191,7 @@
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/атомарность_транзакции.md",
     "Транзакции+в+PSQL.md",
-    "KB/Programming/Нормальные формы.md",
     "Pasted image 20230513103020.png",
-    "KB/Programming/sql/psql_Проектирование БД в PostgreSQL.md",
     "Pasted image 20230510162821.png",
     "Pasted image 20230507094217.png",
     "KB/Programming/java/Untitled Diagram.svg",
