@@ -9,4 +9,4 @@ Tags: java
 
 ![[Pasted image 20230404192731.png]]
 
-see: [[JUnit]], [[Integration testing Spring]]
+see: [[📙JUnit]], [[Integration testing Spring]]

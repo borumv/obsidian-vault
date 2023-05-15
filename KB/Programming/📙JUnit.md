@@ -5,7 +5,7 @@ Aliases: junit
 Tags: java
 ---
 
-# [[JUnit]]
+# [[📙JUnit]]
 
 📌Самый популярный фреймворк в [[📙MOC-JAVA|java]], который предназначен для написания в основном [[Unit testing|unit]] и [[Integration testing|integration]] тестов.
 

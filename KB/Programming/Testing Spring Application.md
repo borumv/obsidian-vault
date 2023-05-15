@@ -7,7 +7,7 @@ Tags: java, spring
 
 Используя **`spring-boot-starter-test`** мы загрузим следующие зависимости:
 
-- **[[JUnit]]**
+- **[[📙JUnit]]**
 - **[[Spring Test and Spring Boot Test]]** 
 - **[[AssertJ]]** 
 - **[[Hamcrest]]**

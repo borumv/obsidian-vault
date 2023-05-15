@@ -9,11 +9,7 @@ parent:[[📙MOC-Programming]]
 **Framworks:**
 - [[📙Spring]]
 - [[📙Hibernate]]
+- [[📙JUnit]]
 Dependency-contol
 - [[📙Maven]]
 - [[📙Gradle]]
-
-
-## Prefix
-- anno
-- hibernate_
