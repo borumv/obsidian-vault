@@ -11,11 +11,38 @@
             "id": "274557170a255fc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/@ManyToMany.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7a62660f9cfce4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "616443afb09959f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/@OneToMany и @ManyToOne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,8 +126,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "616443afb09959f4",
   "lastOpenFiles": [
+    "KB/Programming/Маппинг ассоциаций в Hibernate.md",
+    "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
@@ -128,7 +157,6 @@
     "KB/Programming/java/📙MOC-JAVA.md",
     "KB/Programming/📙JUnit.md",
     "KB/Programming/Mockito.md",
-    "KB/Programming/Extension Model Junit.md",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
