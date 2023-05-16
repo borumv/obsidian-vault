@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,11 +160,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3f94a3300e1768ed",
+  "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/TransactionManager.md",
     "Pasted image 20230515133812.png",
     "KB/Programming/Spring Data JPA.md",
-    "KB/Programming/TransactionManager.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/ORM.md",
@@ -197,7 +197,6 @@
     "KB/Programming/java/Untitled Diagram.svg",
     "Pasted image 20230430134508.png",
     "Pasted image 20230430134432.png",
-    "Pasted image 20230430101253.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
