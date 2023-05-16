@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@OneToMany и @ManyToOne.md",
+                "file": "KB/Programming/java/Каскадные типы в Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 499.5
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -128,6 +128,8 @@
   },
   "active": "616443afb09959f4",
   "lastOpenFiles": [
+    "KB/Programming/CGLIB.md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Маппинг ассоциаций в Hibernate.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/JPA.md",
@@ -141,7 +143,6 @@
     "KB/Programming/Dirty Session.md",
     "Pasted image 20230516124656.png",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
-    "KB/Programming/CGLIB.md",
     "KB/Programming/Компиляция в Java.md",
     "Untitled 4.md",
     "CGLIB.md",
@@ -156,7 +157,6 @@
     "KB/Programming/java/spring_Boot.md",
     "KB/Programming/java/📙MOC-JAVA.md",
     "KB/Programming/📙JUnit.md",
-    "KB/Programming/Mockito.md",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
