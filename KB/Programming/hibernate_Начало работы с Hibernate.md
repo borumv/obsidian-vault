@@ -38,7 +38,7 @@ tags: [java, hibernate]
 </hibernate-configuration>
 ```
 
-- В _чистом_ Hibernate-приложении мы создаём **`SessionFactory`**:
+- В _чистом_ Hibernate-приложении мы создаём **[[SessionFactory]]**:
 
 ```java
 SessionFactory factory = new Configuration()  

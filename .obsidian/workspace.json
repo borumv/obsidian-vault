@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/hibernate_Начало работы с Hibernate.md",
+                "file": "KB/Programming/SessionFactory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,8 +204,10 @@
   },
   "active": "274557170a255fc8",
   "lastOpenFiles": [
-    "KB/Programming/Session class Hibernate.md",
+    "Pasted image 20230516124656.png",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
+    "KB/Programming/SessionFactory.md",
+    "KB/Programming/Session class Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/CGLIB.md",
     "KB/Programming/Компиляция в Java.md",
@@ -232,8 +234,6 @@
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
     "KB/Programming/Unit testing.md",
-    "KB/Programming/Integration testing.md",
-    "KB/Programming/Логирование в Spring Boot.md",
     "Pasted image 20230513103020.png",
     "Pasted image 20230510162821.png",
     "Pasted image 20230507094217.png",
