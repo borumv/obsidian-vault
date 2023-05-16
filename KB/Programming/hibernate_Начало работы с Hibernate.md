@@ -42,20 +42,21 @@ tags: [java, hibernate]
 
 ```java
 SessionFactory factory = new Configuration()  
- .configure("hibernate.cfg.xml")  
- .addAnnotatedClass(Customer.class)  
- .addAnnotatedClass(OrderDetails.class)  
- .addAnnotatedClass(Product.class)  
- .buildSessionFactory();
+	 .configure("hibernate.cfg.xml")  
+	 .addAnnotatedClass(Customer.class)  
+	 .addAnnotatedClass(OrderDetails.class)  
+	 .addAnnotatedClass(Product.class)  
+	 .buildSessionFactory();
 ```
+должен существовать всего лишь один объект типа SessionFactory (как и с ConnectionPool)
 
 - И уже с ней выполняем различные операции
 ```java
 try{  
  session = factory.getCurrentSession();  
- session.beginTransaction();  
- Customer customer = session.get(Customer.class, 1);  
- System.out.println(customer.getName());  
+	 session.beginTransaction();  
+	 Customer customer = session.get(Customer.class, 1);  
+	 System.out.println(customer.getName());  
  session.getTransaction().commit();  
 }finally {  
  factory.close();  

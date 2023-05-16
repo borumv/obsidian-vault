@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/@JoinColumn.md",
-                "mode": "preview",
+                "file": "KB/Programming/hibernate_Начало работы с Hibernate.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hibernate",
+                "query": "Inhe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,11 +162,13 @@
   },
   "active": "676a2f17ca7b5470",
   "lastOpenFiles": [
+    "KB/Programming/java/📙Hibernate.md",
+    "KB/Programming/Inheritance в Hibernate.md",
+    "KB/Programming/@JoinColumn.md",
     "KB/Programming/TransactionManager.md",
     "Pasted image 20230515133812.png",
     "KB/Programming/Spring Data JPA.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
-    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/ORM.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/java/Spring Cloud.md",
@@ -184,7 +186,6 @@
     "KB/Programming/Unit testing.md",
     "KB/Programming/Integration testing.md",
     "KB/Programming/Логирование в Spring Boot.md",
-    "KB/Programming/@JoinColumn.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/sql/свойства транзакции (ACID).md",
