@@ -111,14 +111,14 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/Компиляция в Java.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 504.5
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -202,7 +202,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "59473ca847283058",
+  "active": "274557170a255fc8",
   "lastOpenFiles": [
     "KB/Programming/Компиляция в Java.md",
     "Untitled 4.md",
