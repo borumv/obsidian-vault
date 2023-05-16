@@ -74,9 +74,51 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44ea84cfaeb8cdd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "274557170a255fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/CGLIB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ebe3ac4b404598",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "59473ca847283058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Компиляция в Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,8 +202,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "676a2f17ca7b5470",
+  "active": "59473ca847283058",
   "lastOpenFiles": [
+    "KB/Programming/Компиляция в Java.md",
+    "Untitled 4.md",
+    "KB/Programming/CGLIB.md",
+    "CGLIB.md",
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/@JoinColumn.md",
@@ -187,11 +234,6 @@
     "KB/Programming/Integration testing.md",
     "KB/Programming/Логирование в Spring Boot.md",
     "KB/Programming/@ManyToMany.md",
-    "KB/Programming/sql/согласованность_транзакции.md",
-    "KB/Programming/sql/свойства транзакции (ACID).md",
-    "KB/Programming/sql/psql_транзакции в PSQL.md",
-    "KB/Programming/sql/атомарность_транзакции.md",
-    "Транзакции+в+PSQL.md",
     "Pasted image 20230513103020.png",
     "Pasted image 20230510162821.png",
     "Pasted image 20230507094217.png",
