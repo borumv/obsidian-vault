@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Session class Hibernate.md",
+                "file": "KB/Programming/hibernate_Начало работы с Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,8 +204,8 @@
   },
   "active": "274557170a255fc8",
   "lastOpenFiles": [
-    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/Session class Hibernate.md",
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/CGLIB.md",
     "KB/Programming/Компиляция в Java.md",
