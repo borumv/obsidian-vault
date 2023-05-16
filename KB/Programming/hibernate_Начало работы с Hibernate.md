@@ -38,7 +38,7 @@ tags: [java, hibernate]
 </hibernate-configuration>
 ```
 
-- В _чистом_ Hibernate-приложении мы создаём SessionFactory:
+- В _чистом_ Hibernate-приложении мы создаём **`SessionFactory`**:
 
 ```java
 SessionFactory factory = new Configuration()  
@@ -50,7 +50,7 @@ SessionFactory factory = new Configuration()
 ```
 должен существовать всего лишь один объект типа SessionFactory (как и с ConnectionPool)
 
-- И уже с ней выполняем различные операции
+- И уже с ней выполняем различные операции c [[Session class Hibernate|Session]]
 ```java
 try{  
  session = factory.getCurrentSession();  

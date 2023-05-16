@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/CGLIB.md",
+                "file": "KB/Programming/Session class Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,12 +204,13 @@
   },
   "active": "274557170a255fc8",
   "lastOpenFiles": [
+    "KB/Programming/hibernate_Начало работы с Hibernate.md",
+    "KB/Programming/Session class Hibernate.md",
+    "KB/Programming/java/📙Hibernate.md",
+    "KB/Programming/CGLIB.md",
     "KB/Programming/Компиляция в Java.md",
     "Untitled 4.md",
-    "KB/Programming/CGLIB.md",
     "CGLIB.md",
-    "KB/Programming/hibernate_Начало работы с Hibernate.md",
-    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/Inheritance в Hibernate.md",
     "KB/Programming/@JoinColumn.md",
     "KB/Programming/TransactionManager.md",
@@ -233,7 +234,6 @@
     "KB/Programming/Unit testing.md",
     "KB/Programming/Integration testing.md",
     "KB/Programming/Логирование в Spring Boot.md",
-    "KB/Programming/@ManyToMany.md",
     "Pasted image 20230513103020.png",
     "Pasted image 20230510162821.png",
     "Pasted image 20230507094217.png",
