@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
+                "file": "KB/Programming/Логирование в Spring Boot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,6 +128,7 @@
   },
   "active": "616443afb09959f4",
   "lastOpenFiles": [
+    "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
     "KB/English/english_Условные предложения.md",
     "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
     "KB/Programming/java/Каскадные типы в Hibernate.md",
@@ -156,7 +157,6 @@
     "KB/Programming/Spring Data JPA.md",
     "KB/Programming/java/ORM.md",
     "KB/Programming/java/Spring Cloud.md",
-    "KB/Programming/📙Spring.md",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
