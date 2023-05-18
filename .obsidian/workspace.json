@@ -21,14 +21,6 @@
             }
           },
           {
-            "id": "ce7a62660f9cfce4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "616443afb09959f4",
             "type": "leaf",
             "state": {
@@ -40,9 +32,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baca94660bb2dbbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeb14dd2e74ccee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/N+1 Problem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -126,8 +140,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "616443afb09959f4",
+  "active": "aeb14dd2e74ccee8",
   "lastOpenFiles": [
+    "KB/Programming/N+1 Problem.md",
+    "KB/Programming/@ManyToMany.md",
+    "KB/Programming/Логирование в Spring Boot.md",
     "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
     "KB/English/english_Условные предложения.md",
     "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
@@ -135,7 +152,6 @@
     "KB/Programming/CGLIB.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Маппинг ассоциаций в Hibernate.md",
-    "KB/Programming/@ManyToMany.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
@@ -155,8 +171,6 @@
     "KB/Programming/TransactionManager.md",
     "Pasted image 20230515133812.png",
     "KB/Programming/Spring Data JPA.md",
-    "KB/Programming/java/ORM.md",
-    "KB/Programming/java/Spring Cloud.md",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
