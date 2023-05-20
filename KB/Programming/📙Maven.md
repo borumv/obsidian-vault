@@ -15,10 +15,15 @@ Tags: Maven moc
 mvn help:effective-pom
 ```
 
-
 Maven координаты, которые облегчают доступ к репозиторию, в случае, если мы захотим выложить наш код куда-нибудь. 
 ```xml
   <groupId>com.boris</groupId> //url компании
   <artifactId>lessons</artifactId> //имя проекта
   <version>1.0-SNAPSHOT</version> //версия проекта
 ```
+
+
+## Plugins. Mojo
+
+Maven  - это совокупность плагинов (java классов). У каждого плагина есть цель (*goal*), которая называется **Mojo** (Maven Plain Old Java object), т.е. представляет из себя обычный Java класс, который наследуется от базового класса **`AbstractMojo`** и должен переопределить едиственный метод **`execute`**. 
+

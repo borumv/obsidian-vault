@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Что такое компиляция.md",
+                "file": "KB/Programming/📙Maven.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ALTER TABLE",
+                "query": "Maven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +167,10 @@
   },
   "active": "adcb6bb76f7c97f6",
   "lastOpenFiles": [
-    "KB/Programming/Компиляция в Java.md",
+    "Maven Lifecycle.md",
+    "KB/Programming/📙Maven.md",
     "KB/Programming/Что такое компиляция.md",
+    "KB/Programming/Компиляция в Java.md",
     "KB/Programming/MongoDB.md",
     "Pasted image 20230520093138.png",
     "KB/Programming/sql/sql_Основные команды работы с таблицами.md",
@@ -194,8 +196,6 @@
     "KB/Programming/Dirty Session.md",
     "Pasted image 20230516124656.png",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
-    "Untitled 4.md",
-    "CGLIB.md",
     "Pasted image 20230515133812.png",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
