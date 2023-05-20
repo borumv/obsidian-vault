@@ -7,3 +7,5 @@ Tags: programming
 
 **MongoDb** - это документоориентированная база данных. Документы хранятся в формате *BSON*(Binary JSON). 
 ![[Pasted image 20230520093138.png]]
+
+
