@@ -55,20 +55,12 @@
             }
           },
           {
-            "id": "b84ec38aecf818ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "08dde56ea60bf2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "KB/Programming/MongoDB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ALTER TABLE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -163,8 +154,11 @@
   },
   "active": "08dde56ea60bf2e5",
   "lastOpenFiles": [
-    "Untitled 5.md",
+    "Pasted image 20230520093138.png",
+    "KB/Programming/sql/sql_Основные команды работы с таблицами.md",
     "KB/Programming/N+1 Problem.md",
+    "KB/Programming/MongoDB.md",
+    "Untitled 5.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Логирование в Spring Boot.md",
     "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
@@ -188,9 +182,6 @@
     "KB/Programming/Компиляция в Java.md",
     "Untitled 4.md",
     "CGLIB.md",
-    "KB/Programming/Inheritance в Hibernate.md",
-    "KB/Programming/@JoinColumn.md",
-    "KB/Programming/TransactionManager.md",
     "Pasted image 20230515133812.png",
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
