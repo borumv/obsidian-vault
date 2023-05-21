@@ -17,3 +17,13 @@ FetchMode:
 *JOIN* - делаем JOIN
 Select и Join мы можем использовать только над маппингом [[@OneToMany и @ManyToOne]], потому что если мы используем это с коллекциями, до у нас получается [[декартово произведение множеств]]
 *SUBSELECT* - доступен *только* для коллекций и делает *подзапрос*.
+
+### ENTITY GRAPH
+**@NamedEntityGraph** 
+```java
+@NameEntityGraph(name= "WithCompanyAndChat",
+										attributesNodes = {
+											@NamedAttributeNode("company"),
+											@NamedAttributeNode("chat")
+										})
+```
