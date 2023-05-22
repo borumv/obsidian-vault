@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙Maven.md",
+                "file": "Maven Lifecycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,12 +165,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "aeb14dd2e74ccee8",
+  "active": "adcb6bb76f7c97f6",
   "lastOpenFiles": [
+    "KB/Programming/📙Maven.md",
+    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/N+1 Problem.md",
     "KB/Programming/MongoDB.md",
-    "KB/Programming/📙Maven.md",
     "Maven Lifecycle.md",
     "KB/Programming/Что такое компиляция.md",
     "KB/Programming/Компиляция в Java.md",
@@ -186,7 +187,6 @@
     "KB/Programming/CGLIB.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/Маппинг ассоциаций в Hibernate.md",
-    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Pasted image 20230516134733.png",
