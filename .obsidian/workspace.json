@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven Lifecycle.md",
+                "file": "KB/Programming/📙Maven.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,12 +167,12 @@
   },
   "active": "adcb6bb76f7c97f6",
   "lastOpenFiles": [
+    "Maven Lifecycle.md",
     "KB/Programming/📙Maven.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/N+1 Problem.md",
     "KB/Programming/MongoDB.md",
-    "Maven Lifecycle.md",
     "KB/Programming/Что такое компиляция.md",
     "KB/Programming/Компиляция в Java.md",
     "Pasted image 20230520093138.png",
