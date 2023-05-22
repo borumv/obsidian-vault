@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙Maven.md",
+                "file": "Maven Lifecycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,8 +167,8 @@
   },
   "active": "adcb6bb76f7c97f6",
   "lastOpenFiles": [
-    "Maven Lifecycle.md",
     "KB/Programming/📙Maven.md",
+    "Maven Lifecycle.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/N+1 Problem.md",
