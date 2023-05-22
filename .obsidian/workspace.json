@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven Lifecycle.md",
+                "file": "KB/Programming/Вложенные классы в Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maven",
+                "query": "Вложенны",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 696.5
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -167,8 +167,8 @@
   },
   "active": "adcb6bb76f7c97f6",
   "lastOpenFiles": [
-    "KB/Programming/📙Maven.md",
     "Maven Lifecycle.md",
+    "KB/Programming/📙Maven.md",
     "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/N+1 Problem.md",
