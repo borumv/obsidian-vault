@@ -9,5 +9,5 @@ Tags: programming
 
 Менеджер можно использовать двумя способами:
 1. *@Transactional* - декларативный
-
 2. *TransactionTemplate* - мануальный
+
