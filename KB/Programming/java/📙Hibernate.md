@@ -10,7 +10,7 @@ Tags: hibernate moc
 
 [[hibernate_Начало работы с Hibernate]]
 [[Состояние объектов в Hibernate]]
-[[hibernate_Аннотации]]
+[[hibernate_Аннотации]] 
 
 
 

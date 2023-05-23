@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/📙Hibernate.md",
+                "file": "KB/Programming/TransactionManager.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,19 +165,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "adcb6bb76f7c97f6",
+  "active": "aeb14dd2e74ccee8",
   "lastOpenFiles": [
-    "KB/Programming/sql/фантомное чтение.md",
+    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
-    "KB/Programming/sql/неповторяемое чтение.md",
     "KB/Programming/sql/грязное чтение.md",
+    "KB/Programming/sql/фантомное чтение.md",
+    "KB/Programming/sql/неповторяемое чтение.md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/атомарность_транзакции.md",
     "KB/Programming/TransactionManager.md",
     "KB/Programming/Вложенные классы в Java.md",
     "Maven Lifecycle.md",
     "KB/Programming/📙Maven.md",
-    "KB/Programming/java/📙Hibernate.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/N+1 Problem.md",
     "KB/Programming/MongoDB.md",
