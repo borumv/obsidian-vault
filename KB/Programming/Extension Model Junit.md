@@ -11,3 +11,12 @@ Tags: programming
  3. *Conditional test execution*. Добавление каких-то условий (стоит вызвать наш тест или скипнуть его?)
  4. *Parameter resolution*. Механизм [[Dependency Injection]]
  5. *Test life cycle callbacks*. Механизм настрйоки внедрения callbacks в [[Жизненный цикл Junit теста]]
+
+Пример SpringExtention:
+```java
+public class SpringExtension implements BeforeAllCallback, AfterAllCallback, TestInstancePostProcessor,  
+      BeforeEachCallback, AfterEachCallback, BeforeTestExecutionCallback, AfterTestExecutionCallback,  
+      ParameterResolver {
+      ...
+      }
+```
