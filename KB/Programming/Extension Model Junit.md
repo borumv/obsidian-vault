@@ -20,3 +20,5 @@ public class SpringExtension implements BeforeAllCallback, AfterAllCallback, Tes
       ...
       }
 ```
+
+Extention по сути это интерфейс маркер от которого наследуются наши остальные интерфейсы-коллбэки. Также, в рамках одного Extention создаётся **ExtensionContext**, в которым мы можем забрать полезную информацию.
