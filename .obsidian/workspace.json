@@ -73,7 +73,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/уровни изоляции транзакции.md",
+                "file": "KB/Programming/sql/psql_Оконные функции.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39f9ea9d1eb33194",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb0c61715cb33d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Join в Postgresql.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Вложенны",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,14 +186,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "adcb6bb76f7c97f6",
+  "active": "cb0c61715cb33d99",
   "lastOpenFiles": [
+    "KB/Programming/Join в Postgresql.md",
+    "KB/Programming/sql/psql_Оконные функции.md",
+    "INBOX/PostgreSQL1.md",
+    "KB/Programming/sql/уровни изоляции транзакции.md",
     "KB/Programming/MongoDB.md",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
     "KB/Programming/TransactionManager.md",
     "KB/Programming/java/📙Hibernate.md",
-    "KB/Programming/sql/уровни изоляции транзакции.md",
     "KB/Programming/sql/грязное чтение.md",
     "KB/Programming/sql/фантомное чтение.md",
     "KB/Programming/sql/неповторяемое чтение.md",
@@ -191,9 +215,6 @@
     "KB/Programming/Логирование в Spring Boot.md",
     "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
     "KB/English/english_Условные предложения.md",
-    "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
-    "KB/Programming/java/Каскадные типы в Hibernate.md",
-    "KB/Programming/CGLIB.md",
     "Pasted image 20230516134733.png",
     "Pasted image 20230516124656.png",
     "Pasted image 20230515133812.png",
