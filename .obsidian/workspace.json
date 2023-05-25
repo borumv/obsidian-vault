@@ -71,9 +71,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "198364d745f18973",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cb0c61715cb33d99",
+  "active": "198364d745f18973",
   "lastOpenFiles": [
     "KB/Programming/Integration testing Spring.md",
     "Pasted image 20230524132826.png",
