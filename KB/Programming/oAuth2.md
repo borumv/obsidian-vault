@@ -9,9 +9,14 @@ Tags: programming
 
 ![[Pasted image 20230601094402.png|300]]
 
-Процесс авторизации и работы происходит за счёт 3 основных flow: *[[Authorization Code Flow]]*, *Implicit*, *Hybrid* 
+Когда мы произвели аутентификацию на сервере, которому мы доверяем, мы получаем *client_id* (username) и *client_secret*(password), с помощью которого наше приложение будет обращаться на наш *AUth* сервер.
 
+Процесс авторизации и работы происходит за счёт 3 основных flow:
+- *[[Authorization Code Flow]]* - используется чаще всего 
+- *Implicit*, 
+- *Hybrid* 
 
+ 
 **Как внедрить?**
 
 - [[oAuth2 в Spring]]
