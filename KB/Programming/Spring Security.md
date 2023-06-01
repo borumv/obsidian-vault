@@ -26,4 +26,34 @@ Authentication authRequest = buildAutentication(); // тот самый объе
 AuthenticationManager authManager = getManager();
 authManager.authenticate(authRequest); // Проходит циклом по всем AuthenticationProvider и по очереди пытается провести аутентификацию
 ```
+
+Есть разные **AuthenticationProvider**:
+- **`DaoAuthenticationProvider`**
+Для его реализации нам нужно всего лишь определить наши Authorities:
+```java
+public enum Role implements GrantedAuthority {  
+    USER,  
+    ADMIN;  
+    @Override  
+    public String getAuthority() {  
+        return name();  
+    }  
+}
+```
+И заимплементить **`UserDetailsService`**:
+```java
+public class UserSDJPAService implements UserService, UserDetailsService {
+    @Override  
+    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {  
+        return userRepository.findByEmail(username)  
+                .map(user -> new org.springframework.security.core.userdetails.User(  
+                        user.getEmail(),  
+                        user.getPassword(),  
+                        Collections.singleton(user.getRole())  
+                )).orElseThrow(() -> new UserNotFoundException("failed to retrieve user: " + username));  
+    }  
+}
+```
+
+
  
