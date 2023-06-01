@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Integration testing Spring.md",
+                "file": "KB/Programming/Authorization Code Flow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Integra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -185,12 +186,19 @@
   },
   "active": "dde794008f5420ab",
   "lastOpenFiles": [
+    "KB/Programming/oAuth2.md",
+    "KB/Programming/Authorization Code Flow.md",
+    "KB/Programming/oAuth2 в Spring.md",
+    "Pasted image 20230601094402.png",
+    "KB/Programming/Spring Security.md",
+    "Pasted image 20230601093828.png",
+    "KB/Programming/CGLIB.md",
+    "KB/Programming/Integration testing Spring.md",
     "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/Жизненный цикл Junit теста.md",
     "KB/Programming/📙JUnit.md",
-    "KB/Programming/Integration testing Spring.md",
     "Pasted image 20230524132826.png",
     "KB/Programming/Integration testing.md",
     "KB/Programming/Extension Model Junit.md",
@@ -207,11 +215,6 @@
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
     "KB/Programming/TransactionManager.md",
     "KB/Programming/java/📙Hibernate.md",
-    "KB/Programming/sql/грязное чтение.md",
-    "KB/Programming/sql/фантомное чтение.md",
-    "KB/Programming/sql/неповторяемое чтение.md",
-    "KB/Programming/sql/psql_транзакции в PSQL.md",
-    "KB/Programming/sql/атомарность_транзакции.md",
     "Pasted image 20230520093138.png",
     "Pasted image 20230516134733.png",
     "Pasted image 20230516124656.png",
@@ -219,8 +222,6 @@
     "Pasted image 20230515102840.png",
     "Pasted image 20230515100355.png",
     "Pasted image 20230515095617.png",
-    "Pasted image 20230513103020.png",
-    "Pasted image 20230510162821.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
