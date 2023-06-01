@@ -186,8 +186,9 @@
   },
   "active": "dde794008f5420ab",
   "lastOpenFiles": [
-    "KB/Programming/CGLIB.md",
+    "KB/Programming/Аутентификация.md",
     "KB/Programming/Spring Security.md",
+    "KB/Programming/CGLIB.md",
     "KB/Programming/oAuth2.md",
     "KB/Programming/Authorization Code Flow.md",
     "KB/Programming/OpenID Connect.md",
@@ -214,7 +215,6 @@
     "KB/Programming/MongoDB.md",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
-    "KB/Programming/TransactionManager.md",
     "Pasted image 20230520093138.png",
     "Pasted image 20230516134733.png",
     "Pasted image 20230516124656.png",
