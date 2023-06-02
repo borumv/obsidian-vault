@@ -20,5 +20,6 @@ Tags: programming
 | Mapping/Type      | Table    | Collection   |
 | Field             | Column   | Field        |
 | Object(JSON)      | Tuple    | Object(BSON) |
-| 
+|                   |          |              |
 
+``
