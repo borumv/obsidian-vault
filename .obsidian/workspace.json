@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/ElasticSearch.md",
+                "file": "KB/Programming/java/Spring Cloud.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca82d9cbd704b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Eureka Discovery Service.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,12 +197,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "adcb6bb76f7c97f6",
+  "active": "3ca82d9cbd704b37",
   "lastOpenFiles": [
+    "Pasted image 20230603095946.png",
+    "KB/Programming/java/Spring Cloud.md",
+    "KB/Programming/Eureka Discovery Service.md",
+    "KB/Programming/ElasticSearch.md",
     "KB/Programming/sql/psql_Оконные функции.md",
     "KB/Programming/TCP протокол.md",
     "KB/Programming/стек протокола TCP-IP.md",
-    "KB/Programming/ElasticSearch.md",
     "KB/Programming/Spring Security.md",
     "KB/Programming/Аутентификация.md",
     "KB/Programming/CGLIB.md",
@@ -212,9 +228,6 @@
     "KB/Programming/Testing Spring Application.md",
     "KB/Programming/Нормальные формы.md",
     "KB/Programming/@ManyToMany.md",
-    "KB/Programming/Логирование в Spring Boot.md",
-    "INBOX/PostgreSQL1.md",
-    "KB/Programming/sql/уровни изоляции транзакции.md",
     "Pasted image 20230520093138.png",
     "Pasted image 20230516134733.png",
     "Pasted image 20230516124656.png",
