@@ -9,3 +9,6 @@ Tags: programming
 
 **EVENT-DRIVEN ARCHITECTURE**:
 ![[Pasted image 20230604101837.png]]
+
+
+see: [[SAGA]] 

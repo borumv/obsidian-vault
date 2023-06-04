@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/согласованность_транзакции.md",
+                "file": "KB/Programming/SAGA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Extension Model Junit.md",
+                "file": "KB/Programming/sql/согласованность_транзакции.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,11 +199,17 @@
   },
   "active": "3ca82d9cbd704b37",
   "lastOpenFiles": [
+    "Pasted image 20230604104627.png",
+    "Pasted image 20230604104305.png",
+    "Pasted image 20230604103638.png",
+    "Pasted image 20230604103222.png",
+    "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/sql/свойства транзакции (ACID).md",
+    "KB/Programming/Extension Model Junit.md",
+    "KB/Programming/SAGA.md",
+    "KB/Programming/Microservices.md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
-    "KB/Programming/sql/согласованность_транзакции.md",
-    "KB/Programming/Microservices.md",
     "Pasted image 20230604101837.png",
     "Pasted image 20230604101649.png",
     "KB/Programming/Eureka Discovery Service.md",
@@ -227,14 +233,8 @@
     "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/java/Сервлеты в Java.md",
-    "KB/Programming/Жизненный цикл Junit теста.md",
-    "KB/Programming/📙JUnit.md",
     "Pasted image 20230524132826.png",
-    "KB/Programming/Integration testing.md",
     "Pasted image 20230520093138.png",
-    "Pasted image 20230516134733.png",
-    "Pasted image 20230516124656.png",
-    "Pasted image 20230515133812.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
