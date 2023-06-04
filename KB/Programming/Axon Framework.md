@@ -7,3 +7,5 @@ Tags: programming
 
 
 Фрэймворк для [[Event Driven]] микросервисов и использующий [[CQRS]] дизайн паттерн.
+
+![[Pasted image 20230604115456.png]]
