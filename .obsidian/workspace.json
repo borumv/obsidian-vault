@@ -65,10 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Axon Framework.md",
+                "file": "KB/Programming/ElasticSearch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7268bf408f0f5670",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md"
               }
             }
           },
@@ -212,11 +222,13 @@
   },
   "active": "3ca82d9cbd704b37",
   "lastOpenFiles": [
+    "Pasted image 20230604120509.png",
+    "KB/Programming/Axon Framework.md",
+    "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Pasted image 20230604115456.png",
     "KB/Programming/CQRS.md",
     "Pasted image 20230604114932.png",
     "Pasted image 20230604114648.png",
-    "KB/Programming/Axon Framework.md",
     "KB/Programming/Event Driven.md",
     "KB/Programming/Microservices.md",
     "Брокер сообщений.md",
@@ -233,7 +245,6 @@
     "KB/Programming/Extension Model Junit.md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
-    "Pasted image 20230604101837.png",
     "KB/Programming/Eureka Discovery Service.md",
     "KB/Programming/java/Spring Cloud.md",
     "KB/Programming/ElasticSearch.md",
@@ -247,7 +258,6 @@
     "KB/Programming/Authorization Code Flow.md",
     "KB/Programming/OpenID Connect.md",
     "KB/Programming/Join в Postgresql.md",
-    "KB/Programming/oAuth2 в Spring.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
