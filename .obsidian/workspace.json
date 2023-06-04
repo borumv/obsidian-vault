@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/SAGA.md",
+                "file": "KB/Programming/CQRS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,6 +80,19 @@
               "state": {
                 "file": "KB/Programming/sql/согласованность_транзакции.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f374d6f4f0ab4ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Axon Framework.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -199,15 +212,19 @@
   },
   "active": "3ca82d9cbd704b37",
   "lastOpenFiles": [
+    "KB/Programming/Axon Framework.md",
+    "KB/Programming/CQRS.md",
+    "KB/Programming/Event Driven.md",
+    "KB/Programming/Microservices.md",
+    "KB/Programming/SAGA.md",
+    "KB/Programming/sql/согласованность_транзакции.md",
+    "Pasted image 20230604104904.png",
     "Pasted image 20230604104627.png",
     "Pasted image 20230604104305.png",
     "Pasted image 20230604103638.png",
     "Pasted image 20230604103222.png",
-    "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/sql/свойства транзакции (ACID).md",
     "KB/Programming/Extension Model Junit.md",
-    "KB/Programming/SAGA.md",
-    "KB/Programming/Microservices.md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
     "Pasted image 20230604101837.png",
@@ -231,10 +248,6 @@
     "Pasted image 20230601093828.png",
     "KB/Programming/Integration testing Spring.md",
     "KB/Programming/Apache Tomcat.md",
-    "KB/Programming/Catalina (servlet container).md",
-    "KB/Programming/java/Сервлеты в Java.md",
-    "Pasted image 20230524132826.png",
-    "Pasted image 20230520093138.png",
     "KW/KB/English",
     "KW/KB",
     "KW",

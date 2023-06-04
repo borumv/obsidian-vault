@@ -5,10 +5,9 @@ Aliases: микросервисная архитектура
 Tags: programming
 ---
 
-
-
-**EVENT-DRIVEN ARCHITECTURE**:
-![[Pasted image 20230604101837.png]]
+Паттерны проектирования:
+- [[Event Driven]]
+- [[Domain Driven]]
 
 
 see: [[SAGA]] 
