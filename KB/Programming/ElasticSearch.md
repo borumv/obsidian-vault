@@ -60,3 +60,27 @@ POST /pages/_doc
 }
 ```
 
+**`PUT /pages/_doc/100`** - обновление *документа*
+```json
+PUT /pages/_doc/100
+{
+  "name":"Coffee",
+  "cost":12333,
+  "in_stock":431
+}
+```
+Обновление *документа*, с помощью POST:
+```json
+POST /pages/_update/100
+{
+  "doc": {
+      "tags":["mocco"]
+  } 
+}
+```
+
+**`GET /pages/_doc/100`** - поиск *документа* по Id
+
+
+
+
