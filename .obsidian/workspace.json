@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "198364d745f18973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Join в Postgresql.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dde794008f5420ab",
             "type": "leaf",
             "state": {
@@ -85,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,17 +158,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3ca82d9cbd704b37",
+  "active": "7268bf408f0f5670",
   "lastOpenFiles": [
+    "KB/Programming/sql/согласованность_транзакции.md",
+    "KB/Programming/Axon Framework.md",
+    "KB/Programming/Join в Postgresql.md",
+    "KB/Programming/ElasticSearch.md",
     "KB/Programming/java/Spring Cloud.md",
     "KB/Programming/MongoDB.md",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/@ManyToMany.md",
-    "KB/Programming/ElasticSearch.md",
     "KB/Programming/Microservices.md",
     "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Pasted image 20230604120509.png",
-    "KB/Programming/Axon Framework.md",
     "Pasted image 20230604115456.png",
     "KB/Programming/CQRS.md",
     "Pasted image 20230604114932.png",
@@ -190,7 +180,6 @@
     "Pasted image 20230604113311.png",
     "Pasted image 20230604112814.png",
     "KB/Programming/SAGA.md",
-    "KB/Programming/sql/согласованность_транзакции.md",
     "Pasted image 20230604104904.png",
     "Pasted image 20230604104627.png",
     "Pasted image 20230604104305.png",
@@ -207,7 +196,6 @@
     "KB/Programming/Аутентификация.md",
     "KB/Programming/CGLIB.md",
     "KB/Programming/oAuth2.md",
-    "KB/Programming/Authorization Code Flow.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
