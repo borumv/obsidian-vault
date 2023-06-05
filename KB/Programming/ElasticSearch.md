@@ -81,6 +81,7 @@ POST /pages/_update/100
 
 **`GET /pages/_doc/100`** - поиск *документа* по Id
 
+**SCRIPTING**
 
 
 
