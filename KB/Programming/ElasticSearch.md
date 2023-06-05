@@ -82,6 +82,46 @@ POST /pages/_update/100
 **`GET /pages/_doc/100`** - поиск *документа* по Id
 
 **SCRIPTING**
+*Обновление* с параметрами:
+```json
+POST /pages/_update/100
+{
+  "script": {
+    "source": "ctx._source.in_stock -= params.quantity",
+    "params": {"quantity": 1}
+  }
+}
+```
+*Обновление*  с условиями
+```json
+POST /pages/_update/100
+{
+  "script": {
+    "source": """
+      if(ctx._source.in_stock==0){
+        ctx.op = 'noop';
+      }
+      ctx._source.in_stock -= 20;
+    """
+  }
+}
+```
+
+**UPSERT**
 
 
+**REPLACE**
+Полностью заменяет содержимое документа
+```json
+PUT /pages/_doc/100
+{
+	  "name": "Coffee-banan"
+}
+GET /pages/_doc/100
+```
+
+**DELETE**
+```json
+DELETE /pages/_doc/101
+```
 
