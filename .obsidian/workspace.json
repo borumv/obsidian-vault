@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ca82d9cbd704b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/ElasticSearch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7268bf408f0f5670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙MOC-Docker.md",
+                "file": "KB/Programming/Архитектура ElasticSearch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,13 +144,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3ca82d9cbd704b37",
+  "active": "7268bf408f0f5670",
   "lastOpenFiles": [
+    "KB/Programming/ElasticSearch.md",
+    "KB/Programming/Архитектура ElasticSearch.md",
+    "KB/Programming/Lucene.md",
+    "Pasted image 20230607105853.png",
+    "Pasted image 20230607105439.png",
     "KB/Programming/📙MOC-Docker.md",
+    "Pasted image 20230607103832.png",
     "KB/Programming/Docker Image.md",
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
-    "KB/Programming/ElasticSearch.md",
     "MOC-DOCKER.md",
     "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/Axon Framework.md",
@@ -185,16 +177,11 @@
     "Pasted image 20230604112814.png",
     "KB/Programming/SAGA.md",
     "Pasted image 20230604104904.png",
-    "Pasted image 20230604104627.png",
-    "Pasted image 20230604104305.png",
-    "Pasted image 20230604103638.png",
     "KB/Programming/sql/свойства транзакции (ACID).md",
     "KB/Programming/Extension Model Junit.md",
     "KB/Programming/sql/psql_транзакции в PSQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
     "KB/Programming/Eureka Discovery Service.md",
-    "KB/Programming/sql/psql_Оконные функции.md",
-    "KB/Programming/TCP протокол.md",
     "KW/KB/English",
     "KW/KB",
     "KW",

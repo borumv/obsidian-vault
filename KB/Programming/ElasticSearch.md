@@ -130,8 +130,9 @@ DELETE /pages/_doc/101
 ```
 
 
-
-
-
-
 ## Поиск
+
+
+[[Архитектура ElasticSearch]]
+
+
