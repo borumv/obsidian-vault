@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/ElasticSearch.md",
+                "file": "KB/Programming/Mapping ElasticSearch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -147,8 +147,13 @@
   },
   "active": "ab818dbb14bfa671",
   "lastOpenFiles": [
-    "KB/Programming/Linux commands.md",
+    "Pasted image 20230607125112.png",
     "KB/Programming/ElasticSearch.md",
+    "KB/Programming/Mapping ElasticSearch.md",
+    "KB/Programming/Inverted indices ElasticSearch.md",
+    "Pasted image 20230607124329.png",
+    "KB/Programming/Analize API ElasticSearch.md",
+    "KB/Programming/Linux commands.md",
     "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Lucene.md",
@@ -178,11 +183,6 @@
     "Pasted image 20230604113311.png",
     "Pasted image 20230604112814.png",
     "KB/Programming/SAGA.md",
-    "Pasted image 20230604104904.png",
-    "KB/Programming/sql/свойства транзакции (ACID).md",
-    "KB/Programming/Extension Model Junit.md",
-    "KB/Programming/sql/psql_транзакции в PSQL.md",
-    "KB/Programming/sql/уровни изоляции транзакции.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
