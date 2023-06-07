@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "a4f986098d7a4dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Index Templates ElasticSearch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f374d6f4f0ab4ee3",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,10 +171,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "15f12e3f27211c8e",
+  "active": "a4f986098d7a4dee",
   "lastOpenFiles": [
-    "KB/Programming/Mapping ElasticSearch.md",
     "KB/Programming/Data types in ElasticSearch.md",
+    "KB/Programming/Index Templates ElasticSearch.md",
+    "KB/Programming/Mapping ElasticSearch.md",
     "Pasted image 20230607125112.png",
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Inverted indices ElasticSearch.md",
@@ -195,7 +209,6 @@
     "KB/Programming/Event Driven.md",
     "Брокер сообщений.md",
     "Pasted image 20230604113311.png",
-    "KB/Programming/SAGA.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
