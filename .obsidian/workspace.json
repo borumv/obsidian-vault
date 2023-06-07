@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +157,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7268bf408f0f5670",
+  "active": "3ca82d9cbd704b37",
   "lastOpenFiles": [
+    "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Image.md",
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
@@ -195,7 +195,6 @@
     "KB/Programming/Eureka Discovery Service.md",
     "KB/Programming/sql/psql_Оконные функции.md",
     "KB/Programming/TCP протокол.md",
-    "KB/Programming/стек протокола TCP-IP.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
