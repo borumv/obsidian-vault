@@ -132,6 +132,29 @@ DELETE /pages/_doc/101
 
 ## Поиск
 
+**Анализатор**. 
+Когда мы создаём какой-то [[Document in ElasticSearch|документ]], он проходит через анализатор, результатом которого является *searchable data structure*.
+Анализатор состоит из трёх частей:
+- *Character filters*
+Получает оригинальный текст и может трансформировать его *удаляя* или *заменяя* characters
+Пример *`html_strip`* фильтра:
+*Input* - `"I&apos;m in a <em>good</em> mood&nbsp;-&nbsp;and I <string>love> boris"`
+*Output* - `I'm in a good mood - and I love boris`
+Может быть несколько character filters!
+- *Tokenizer*
+Анализатор имеет только *один* токенизатор. Он сплитит наше слова на токены, создавая *массив* наши слов
+*Input* - "I REALLY like beer!"
+*Output* - ["I", "REALLY", "like", "beer"]
+- *Token filters*
+Токе фильтры принимают наш токенайзер и может *модифицировать* наши токены
+Пример *`lowercase`* фильтра:
+*Input* - ["I", "REALLY", "like", "beer"]
+*Output* - ["i", "really", "like", "beer"]
+
+
+
+
+
 
 [[Архитектура ElasticSearch]]
 

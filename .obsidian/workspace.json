@@ -26,21 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Linux commands.md",
+                "file": "KB/Programming/ElasticSearch.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb0c61715cb33d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/sql/согласованность_транзакции.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -160,9 +147,10 @@
   },
   "active": "ab818dbb14bfa671",
   "lastOpenFiles": [
-    "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Linux commands.md",
     "KB/Programming/ElasticSearch.md",
+    "KB/Programming/sql/согласованность_транзакции.md",
+    "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Lucene.md",
     "Pasted image 20230607105853.png",
     "Pasted image 20230607105439.png",
@@ -172,7 +160,6 @@
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
     "MOC-DOCKER.md",
-    "KB/Programming/sql/согласованность_транзакции.md",
     "KB/Programming/Axon Framework.md",
     "KB/Programming/Join в Postgresql.md",
     "KB/Programming/java/Spring Cloud.md",
