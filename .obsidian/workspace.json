@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Архитектура ElasticSearch.md",
+                "file": "KB/Programming/Linux commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,19 +171,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a4f986098d7a4dee",
+  "active": "ab818dbb14bfa671",
   "lastOpenFiles": [
     "KB/Programming/Data types in ElasticSearch.md",
-    "KB/Programming/Index Templates ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",
-    "Pasted image 20230607125112.png",
     "KB/Programming/ElasticSearch.md",
+    "KB/Programming/Linux commands.md",
+    "KB/Programming/Архитектура ElasticSearch.md",
+    "KB/Programming/Index Templates ElasticSearch.md",
+    "Pasted image 20230607125112.png",
     "KB/Programming/Inverted indices ElasticSearch.md",
     "Pasted image 20230607124329.png",
     "KB/Programming/Analize API ElasticSearch.md",
-    "KB/Programming/Linux commands.md",
     "KB/Programming/sql/согласованность_транзакции.md",
-    "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Lucene.md",
     "Pasted image 20230607105853.png",
     "Pasted image 20230607105439.png",
