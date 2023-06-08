@@ -154,3 +154,15 @@ POST /instagram-post/_search
   }
 }
 ```
+**Multi-match** query:
+```json
+GET /instagram-post/_search
+{
+  "query": {
+    "multi_match": {
+      "query": "Cosmos",
+      "fields": ["posts.author.nickname", "posts.tags","posts.comments.comment"]
+    }
+  }
+}
+```
