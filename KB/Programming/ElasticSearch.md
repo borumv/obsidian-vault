@@ -135,6 +135,7 @@ DELETE /pages/_doc/101
 - [[Inverted indices ElasticSearch]]
 - [[Mapping ElasticSearch]]
 
+**Query DSL**
 
 
 
@@ -144,4 +145,12 @@ DELETE /pages/_doc/101
 
 [[Архитектура ElasticSearch]]
 
-
+Поиск *всего* в нашем индексе:
+```json
+POST /instagram-post/_search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+```

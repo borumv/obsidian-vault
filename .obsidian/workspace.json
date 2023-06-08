@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Mapping ElasticSearch.md",
+                "file": "KB/Programming/ElasticSearch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,8 +173,8 @@
   },
   "active": "ab818dbb14bfa671",
   "lastOpenFiles": [
-    "KB/Programming/Data types in ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",
+    "KB/Programming/Data types in ElasticSearch.md",
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Linux commands.md",
     "KB/Programming/Архитектура ElasticSearch.md",
