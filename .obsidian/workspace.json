@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Linux commands.md",
+                "file": "KB/Programming/Axon Framework.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,11 +173,14 @@
   },
   "active": "ab818dbb14bfa671",
   "lastOpenFiles": [
+    "Pasted image 20230612103507.png",
+    "KB/Programming/CQRS.md",
+    "KB/Programming/SAGA.md",
+    "KB/Programming/Linux commands.md",
     "KB/Programming/Analize API ElasticSearch.md",
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",
     "KB/Programming/Data types in ElasticSearch.md",
-    "KB/Programming/Linux commands.md",
     "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Index Templates ElasticSearch.md",
     "Pasted image 20230607125112.png",
@@ -203,11 +206,8 @@
     "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Pasted image 20230604120509.png",
     "Pasted image 20230604115456.png",
-    "KB/Programming/CQRS.md",
     "Pasted image 20230604114932.png",
     "Pasted image 20230604114648.png",
-    "KB/Programming/Event Driven.md",
-    "Брокер сообщений.md",
     "Pasted image 20230604113311.png",
     "KW/KB/English",
     "KW/KB",
