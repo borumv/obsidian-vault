@@ -18,3 +18,5 @@ Tags: programming
 ## Работа
 ![[Pasted image 20230613140830.png|300]]
 
+![[Pasted image 20230613141412.png|300]]
+
