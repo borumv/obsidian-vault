@@ -31,7 +31,7 @@ public class CreateProfileRestModel {
     private LocalDate dateOfRegistry;  
 }
 ```
-2. **Создание команды**. Команда *инициирует изменение состояния системы*. 
+2. **Создание команды**. Команда *инициирует изменение состояния агрегата*. Для индентификации команды в *агрегационной модели* мы используем аннотацию **`@TargetAggregateIdentifier`**
 ```java
 @Builder  
 @Data  
@@ -46,7 +46,7 @@ public class CreateProfileCommand {
     private LocalDate dateOfRegistry;  
 }
 ```
-3. **Создание агрегации.** Агрегациия является промежуточным звеном между командой и созданием **event**. В этом слое происходит:
+3. **Создание агрегата.**. В этом слое происходит:
 - Бизнес логика. Например валидация.
 - Текущее состояние сущности
 - Command Handlers
@@ -71,7 +71,7 @@ public class ProfileAggregate {
     }  
 }
 ```
-4. **Создание Event**. После того как происходит **`apply`**. Наш event переходит в **`EventSourcingHandler`** 
+4. **Создание Event**. После того как происходит **`apply`**. Наш event переходит в **`EventSourcingHandler`**.  События сообщают информацию *об изменении агрегата* всем заинтересованным *подписчикам*.
 ```java
 @EventSourcingHandler  
 public void on(ProfileCreateEvent profileCreateEvent){  
