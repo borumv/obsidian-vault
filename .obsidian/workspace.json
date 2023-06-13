@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Data types in ElasticSearch.md",
+                "file": "KB/Programming/java/Spring Cloud.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b0c3628d4fd89fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/API Gateway.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,8 +184,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ab818dbb14bfa671",
+  "active": "4b0c3628d4fd89fd",
   "lastOpenFiles": [
+    "KB/Programming/Eureka Discovery Service.md",
+    "KB/Programming/API Gateway.md",
+    "KB/Programming/java/Spring Cloud.md",
+    "KB/Programming/Data types in ElasticSearch.md",
+    "KB/Programming/Axon Framework.md",
     "Pasted image 20230612103507.png",
     "KB/Programming/CQRS.md",
     "KB/Programming/SAGA.md",
@@ -180,7 +198,6 @@
     "KB/Programming/Analize API ElasticSearch.md",
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",
-    "KB/Programming/Data types in ElasticSearch.md",
     "KB/Programming/Архитектура ElasticSearch.md",
     "KB/Programming/Index Templates ElasticSearch.md",
     "Pasted image 20230607125112.png",
@@ -196,19 +213,15 @@
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
     "MOC-DOCKER.md",
-    "KB/Programming/Axon Framework.md",
     "KB/Programming/Join в Postgresql.md",
-    "KB/Programming/java/Spring Cloud.md",
     "KB/Programming/MongoDB.md",
     "KB/Programming/Вложенные классы в Java.md",
     "KB/Programming/@ManyToMany.md",
     "KB/Programming/Microservices.md",
-    "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Pasted image 20230604120509.png",
     "Pasted image 20230604115456.png",
     "Pasted image 20230604114932.png",
     "Pasted image 20230604114648.png",
-    "Pasted image 20230604113311.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
