@@ -14,3 +14,7 @@ Tags: programming
 ### Запуск
 **docker-команда:** **`docker run --name axonserver -p 8024:8024 -p 8124:8124 -v "C:\Users\Admin\Documents\Study\Java\instagram\axon-server-docker\data":/data -v "C:\Users\Admin\Documents\Study\Java\instagram\axon-server-docker\eventdata":/eventdata -v "C:\Users\Admin\Documents\Study\Java\instagram\axon-server-docker\config":/config axoniq/axonserver`**
 
+
+## Работа
+![[Pasted image 20230613140830.png|300]]
+
