@@ -46,13 +46,35 @@ public class CreateProfileCommand {
     private LocalDate dateOfRegistry;  
 }
 ```
-3. **Создание агрегации.** Агрегациия является промежуточным звеном между командой и созданием **event**. В этом слое происходит
+3. **Создание агрегации.** Агрегациия является промежуточным звеном между командой и созданием **event**. В этом слое происходит:
 - Бизнес логика. Например валидация.
 - Текущее состояние сущности
 - Command Handlers
 - Event Sourcing Handler Method
 ![[Pasted image 20230613144754.png|200]]
+После обработки команды, мы преобразуем её в **event**.
+```java
+  
+@Aggregate  
+public class ProfileAggregate {  
+    public ProfileAggregate() {  
+    }  
+    @CommandHandler  
+    public ProfileAggregate(CreateProfileCommand createProfileCommand) {  
+        // Validate CreateProfile Command  
+        if (createProfileCommand.getUserId() == null) {  
+            throw new IllegalArgumentException("User ID cannot be null");  
+        }  
+        ProfileCreateEvent profileCreateEvent = new ProfileCreateEvent();  
+        BeanUtils.copyProperties(createProfileCommand, profileCreateEvent);  
+        AggregateLifecycle.apply(profileCreateEvent);  
+    }  
+}
+```
+4. **Создание Event**
+```java
 
+```
 
 
 
