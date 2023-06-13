@@ -71,10 +71,21 @@ public class ProfileAggregate {
     }  
 }
 ```
-4. **Создание Event**
+4. **Создание Event**. После того как происходит **`apply`**. Наш event переходит в **`EventSourcingHandler`** 
 ```java
-
+@EventSourcingHandler  
+public void on(ProfileCreateEvent profileCreateEvent){  
+    this.userId = profileCreateEvent.getUserId();  
+    this.aboutDescription = profileCreateEvent.getAboutDescription();  
+    this.avatarUrl = profileCreateEvent.getAvatarUrl();  
+    this.dateOfRegistry = profileCreateEvent.getDateOfRegistry();  
+    this.firstName = profileCreateEvent.getFirstName();  
+    this.lastName = profileCreateEvent.getLastName();  
+    this.nickName = profileCreateEvent.getNickName();  
+}
 ```
+
+
 
 
 
