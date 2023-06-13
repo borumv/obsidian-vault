@@ -31,7 +31,7 @@ public class CreateProfileRestModel {
     private LocalDate dateOfRegistry;  
 }
 ```
-2. **Создание команды**. Команда является триггером 
+2. **Создание команды**. Команда *инициирует изменение состояния системы*. 
 ```java
 @Builder  
 @Data  
@@ -84,6 +84,7 @@ public void on(ProfileCreateEvent profileCreateEvent){
     this.nickName = profileCreateEvent.getNickName();  
 }
 ```
+
 
 
 
