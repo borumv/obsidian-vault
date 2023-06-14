@@ -84,9 +84,40 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1848673b8c1ed69e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "427f68dc81f79fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Network.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2409684129499655",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -171,12 +202,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "15f12e3f27211c8e",
+  "active": "2409684129499655",
   "lastOpenFiles": [
+    "Social Network.md",
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "KB/Programming/Axon Framework.md",
     "Pasted image 20230613144754.png",
     "CreateProfileRestModel.java",
     "KB/Programming/java/Spring Cloud.md",
-    "KB/Programming/Axon Framework.md",
     "Pasted image 20230613141412.png",
     "Pasted image 20230613140830.png",
     "KB/Programming/API Gateway.md",
@@ -207,9 +240,7 @@
     "KB/Programming/Join в Postgresql.md",
     "KB/Programming/MongoDB.md",
     "KB/Programming/Вложенные классы в Java.md",
-    "KB/Programming/@ManyToMany.md",
     "Pasted image 20230604120509.png",
-    "Pasted image 20230604115456.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
