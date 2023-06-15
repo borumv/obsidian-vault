@@ -85,16 +85,11 @@ public void on(ProfileCreateEvent profileCreateEvent){
 }
 ```
 
-
-
-
-
-
-
-
-
-
 ![[Pasted image 20230613140830.png|300]]
 
 ![[Pasted image 20230613141412.png|300]]
+
+## Валидация через Interceptor
+
+![[Pasted image 20230615114016.png]]
 

@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,8 +202,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2409684129499655",
+  "active": "f374d6f4f0ab4ee3",
   "lastOpenFiles": [
+    "Pasted image 20230615114016.png",
+    "KB/Programming/TCP протокол.md",
     "Social Network.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "KB/Programming/Axon Framework.md",
@@ -238,8 +240,6 @@
     "KB/Programming/Docker Client.md",
     "MOC-DOCKER.md",
     "KB/Programming/Join в Postgresql.md",
-    "KB/Programming/MongoDB.md",
-    "KB/Programming/Вложенные классы в Java.md",
     "Pasted image 20230604120509.png",
     "KW/KB/English",
     "KW/KB",
