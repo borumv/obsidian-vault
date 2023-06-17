@@ -52,72 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Index Templates ElasticSearch.md",
+                "file": "KB/Programming/JWT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f374d6f4f0ab4ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Axon Framework.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde794008f5420ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/TCP протокол.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1848673b8c1ed69e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "427f68dc81f79fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Network.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2409684129499655",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,13 +145,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f374d6f4f0ab4ee3",
+  "active": "a4f986098d7a4dee",
   "lastOpenFiles": [
+    "KB/Programming/Index Templates ElasticSearch.md",
+    "KB/Programming/JWT.md",
+    "KB/Programming/Axon Framework.md",
     "Pasted image 20230615114016.png",
     "KB/Programming/TCP протокол.md",
     "Social Network.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
-    "KB/Programming/Axon Framework.md",
     "Pasted image 20230613144754.png",
     "CreateProfileRestModel.java",
     "KB/Programming/java/Spring Cloud.md",
@@ -225,7 +170,6 @@
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",
     "KB/Programming/Архитектура ElasticSearch.md",
-    "KB/Programming/Index Templates ElasticSearch.md",
     "Pasted image 20230607125112.png",
     "KB/Programming/Inverted indices ElasticSearch.md",
     "Pasted image 20230607124329.png",
@@ -240,7 +184,6 @@
     "KB/Programming/Docker Client.md",
     "MOC-DOCKER.md",
     "KB/Programming/Join в Postgresql.md",
-    "Pasted image 20230604120509.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
