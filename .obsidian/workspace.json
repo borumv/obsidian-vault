@@ -52,15 +52,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/JWT.md",
+                "file": "KB/Programming/SAGA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "10129f77279ab5ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,13 +126,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -145,15 +153,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a4f986098d7a4dee",
+  "active": "10129f77279ab5ee",
   "lastOpenFiles": [
-    "KB/Programming/Index Templates ElasticSearch.md",
+    "KB/Programming/SAGA.md",
     "KB/Programming/JWT.md",
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
+    "KB/Programming/Index Templates ElasticSearch.md",
     "KB/Programming/Axon Framework.md",
     "Pasted image 20230615114016.png",
     "KB/Programming/TCP протокол.md",
     "Social Network.md",
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "Pasted image 20230613144754.png",
     "CreateProfileRestModel.java",
     "KB/Programming/java/Spring Cloud.md",
@@ -164,7 +174,6 @@
     "KB/Programming/Data types in ElasticSearch.md",
     "Pasted image 20230612103507.png",
     "KB/Programming/CQRS.md",
-    "KB/Programming/SAGA.md",
     "KB/Programming/Linux commands.md",
     "KB/Programming/Analize API ElasticSearch.md",
     "KB/Programming/ElasticSearch.md",
@@ -183,7 +192,6 @@
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
     "MOC-DOCKER.md",
-    "KB/Programming/Join в Postgresql.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
