@@ -68,9 +68,30 @@
                 "file": "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "517cab2d4da4ab1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "43daaac38bf8d671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Spring Security.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,11 +174,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "10129f77279ab5ee",
+  "active": "43daaac38bf8d671",
   "lastOpenFiles": [
-    "KB/Programming/SAGA.md",
     "KB/Programming/JWT.md",
+    "Untitled 6.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "KB/Programming/SAGA.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "KB/Programming/Index Templates ElasticSearch.md",
     "KB/Programming/Axon Framework.md",
@@ -191,7 +213,6 @@
     "KB/Programming/Docker Image.md",
     "KB/Programming/Docker deamon.md",
     "KB/Programming/Docker Client.md",
-    "MOC-DOCKER.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
