@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +173,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "43daaac38bf8d671",
+  "active": "7268bf408f0f5670",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "KB/Programming/Spring Security.md",
     "KB/Programming/JWT.md",
     "Untitled 6.md",
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "KB/Programming/SAGA.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "KB/Programming/Index Templates ElasticSearch.md",
@@ -212,7 +212,6 @@
     "Pasted image 20230607103832.png",
     "KB/Programming/Docker Image.md",
     "KB/Programming/Docker deamon.md",
-    "KB/Programming/Docker Client.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
