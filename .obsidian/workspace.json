@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Linux commands.md",
+                "file": "KB/Programming/API Gateway.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,6 +175,7 @@
   },
   "active": "7268bf408f0f5670",
   "lastOpenFiles": [
+    "KB/Programming/Linux commands.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "KB/Programming/Spring Security.md",
     "KB/Programming/JWT.md",
@@ -196,7 +197,6 @@
     "KB/Programming/Data types in ElasticSearch.md",
     "Pasted image 20230612103507.png",
     "KB/Programming/CQRS.md",
-    "KB/Programming/Linux commands.md",
     "KB/Programming/Analize API ElasticSearch.md",
     "KB/Programming/ElasticSearch.md",
     "KB/Programming/Mapping ElasticSearch.md",

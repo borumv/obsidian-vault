@@ -5,3 +5,4 @@ Aliases: gateway
 Tags: programming
 ---
 
+**Маршруты (Routes)** - основной строительный блока gateway. Он определяется *идентификатором (id)*, *uri*, набором *предикатов (Predicate)* и *фильтров(Filter)*  
