@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,8 +174,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7268bf408f0f5670",
+  "active": "10129f77279ab5ee",
   "lastOpenFiles": [
+    "KB/Programming/API Gateway.md",
     "Pasted image 20230619094503.png",
     "KB/Programming/Linux commands.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
@@ -193,7 +195,6 @@
     "KB/Programming/java/Spring Cloud.md",
     "Pasted image 20230613141412.png",
     "Pasted image 20230613140830.png",
-    "KB/Programming/API Gateway.md",
     "KB/Programming/Eureka Discovery Service.md",
     "KB/Programming/Data types in ElasticSearch.md",
     "Pasted image 20230612103507.png",
@@ -210,7 +211,6 @@
     "Pasted image 20230607105853.png",
     "Pasted image 20230607105439.png",
     "KB/Programming/📙MOC-Docker.md",
-    "Pasted image 20230607103832.png",
     "KB/Programming/Docker Image.md",
     "KW/KB/English",
     "KW/KB",
