@@ -63,12 +63,19 @@
             "id": "10859e15ae6fdd18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "KB/Programming/algorithms/String hashing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "attachments/Pasted image 20230619094503.png"
+              }
+            }
+          },
+          {
+            "id": "69eae5145bfdca3f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20221228201355.png"
               }
             }
           },
@@ -94,13 +101,8 @@
             "id": "43daaac38bf8d671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css_position.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -117,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 894.5
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -200,12 +202,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "43daaac38bf8d671",
+  "active": "590e07cecc88429f",
   "lastOpenFiles": [
-    "css_media запросы.md",
-    "css_position.md",
-    "RandomAccessFile.md",
-    "java_buffer_nio.md",
+    "attachments/Pasted image 20221229105446.png",
+    "attachments/Pasted image 20230106190100.png",
+    "attachments/Pasted image 20230125191500.png",
+    "attachments/Pasted image 20230128162538.png",
+    "12 правил чтобы учить код.md",
+    "attachments/Pasted image 20230507094217.png",
+    "attachments/Pasted image 20230510162821.png",
+    "Осип Мандельштап.md",
+    "attachments/Pasted image 20230619094503.png",
+    "KB/Programming/algorithms/String hashing.md",
+    "README.md",
+    "Ковчег.md",
+    "attachments/Pasted image 20230128161658.png",
+    "Command line (команды командной строки).md",
+    "Аппеляция к ханжеству.md",
+    "KB/Programming/О стримах и таблицах в Kafka и Stream Processing.md",
+    "KB/Programming/Установка Kafka.md",
+    "java_Stream.md",
+    "java_chanell.md",
+    "За гремучую доблесть грядущих веков….md",
+    "KB/Programming/algorithms/Теория графов.md",
+    "algo_поиск в глубину.md",
+    "KB/Programming/algorithms/Алгоритмы - бинарное возведение в степень.md",
+    "KB/Programming/css_position.md",
+    "KB/Programming/java/RandomAccessFile.md",
+    "KB/Programming/java/java_buffer_nio.md",
+    "KB/Programming/html-css/css_media запросы.md",
     "java.md",
     "KB/Programming/PyPDF2.md",
     "KB/Programming/OpenCV.md",
@@ -213,34 +238,11 @@
     "Создание чанка (мыслительной идеи).md",
     "9kxbknhl.bmp",
     "KB/Programming/Полезные команды для Powershell.md",
-    "Kafka Connect connector.md",
-    "java_String pool.md",
-    "KB/Programming/Как запустить Kafka на разных компьютерах.md",
-    "Как получить аннотацию.md",
-    "Ковчег.md",
-    "KB/Programming/Liskov Substitution Principle.md",
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
-    "12 правил чтобы учить код.md",
-    "KB/Programming/Брокер сообщений.md",
-    "MOC-DOCKER.md",
-    "KB/Programming/Single Responsibility Principle.md",
-    "Projects/Горизонтальное масштабирование.md",
-    "KB/Programming/Кликстрим.md",
-    "KB/Programming/java/Распределённое хранилище.md",
-    "KB/Programming/Отказоустойчивость.md",
-    "KB/Programming/java/jmm article.md",
-    "Pasted image 20230309085857.png",
-    "Pasted image 20230211091805.png",
-    "Pasted image 20230219131501.png",
+    "attachments/Pasted image 20230309085857.png",
+    "attachments/Pasted image 20230211091805.png",
     "Untitled.canvas",
-    "Pasted image 20230524132826.png",
     "I",
-    "Pasted image 20230619094503.png",
-    "Pasted image 20230615114016.png",
-    "Pasted image 20230613144754.png",
     "CreateProfileRestModel.java",
-    "Pasted image 20230613141412.png",
-    "Pasted image 20230613140830.png",
     "KW/KB/English",
     "KW/KB",
     "KW",
