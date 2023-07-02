@@ -73,9 +73,12 @@
             "id": "69eae5145bfdca3f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20221228201355.png"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -179,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 894.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -202,8 +206,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "590e07cecc88429f",
+  "active": "69eae5145bfdca3f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "README.md",
+    "Zettelcasten/Obsidian/README.md",
+    "KB/Programming/Inverted indices ElasticSearch.md",
+    "KB/Programming/ElasticSearch.md",
+    "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
     "attachments/Pasted image 20230125191500.png",
@@ -214,7 +224,6 @@
     "Осип Мандельштап.md",
     "attachments/Pasted image 20230619094503.png",
     "KB/Programming/algorithms/String hashing.md",
-    "README.md",
     "Ковчег.md",
     "attachments/Pasted image 20230128161658.png",
     "Command line (команды командной строки).md",
@@ -234,12 +243,7 @@
     "java.md",
     "KB/Programming/PyPDF2.md",
     "KB/Programming/OpenCV.md",
-    "MIND MAP.md",
-    "Создание чанка (мыслительной идеи).md",
     "9kxbknhl.bmp",
-    "KB/Programming/Полезные команды для Powershell.md",
-    "attachments/Pasted image 20230309085857.png",
-    "attachments/Pasted image 20230211091805.png",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",
