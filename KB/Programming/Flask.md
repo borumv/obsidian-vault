@@ -13,7 +13,6 @@ Tags: python
 >pip install Flask
 
 
-
 Для запуска Фласки:
 Можно создать виртуальную переменную `FLASK_APP`  и запустить
 >$env:FLASK_APP = "server.py"
@@ -24,8 +23,6 @@ Tags: python
 
 Для запуска **дебага**:
 >flask --app server --debug run
-
-
 
 Подгрузка html-страниц осуществляется с помощью `render_template`:
 ```python

@@ -5,7 +5,7 @@ Tags: english moc
 
 
 ## MOC
-%% Hub MOCs: Don’t edit below  %%
+
 ## **Lessons:**
 - [[English_A1]]
 - [[English_A2]]
@@ -18,4 +18,4 @@ Tags: english moc
 
 ## **Grammar:**
 - [English Grammar](English_grammar.md)
-%% Hub MOCs: Don’t edit above %%
+

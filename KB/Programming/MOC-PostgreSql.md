@@ -6,7 +6,7 @@ Tags: programming
 ---
 
 📌Реляционная база данных
-
+[[+ PostgreSQL]]
 
 
 see: [[📙SQL]]
