@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/js/Redux.md",
+                "file": "KB/Programming/Построение модели Глубокого обучения.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +178,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -206,8 +206,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "10129f77279ab5ee",
+  "active": "36ec20ac1babf520",
   "lastOpenFiles": [
+    "KB/Programming/python_Pandas.md",
+    "KB/Programming/js/Redux.md",
     "attachments/Pasted image 20230619094503.png",
     "README.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
@@ -241,7 +243,6 @@
     "KB/Programming/java/java_buffer_nio.md",
     "KB/Programming/html-css/css_media запросы.md",
     "java.md",
-    "KB/Programming/PyPDF2.md",
     "9kxbknhl.bmp",
     "Untitled.canvas",
     "I",
