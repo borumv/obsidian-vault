@@ -24,8 +24,13 @@
             "id": "51c74b99062f43f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KW/KB/English/Interview preparing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -58,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shape",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,6 +119,10 @@
   },
   "active": "51c74b99062f43f1",
   "lastOpenFiles": [
+    "KW/KB/English",
+    "KW/KB",
+    "KW",
+    "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_integrated Annotation.md",
     "KB/Programming/java/java_Retention policy.md",
     "KB/Programming/стек протокола TCP-IP.md",
@@ -148,15 +156,10 @@
     "java_chanell.md",
     "За гремучую доблесть грядущих веков….md",
     "KB/Programming/algorithms/Теория графов.md",
-    "algo_поиск в глубину.md",
-    "KB/Programming/algorithms/Алгоритмы - бинарное возведение в степень.md",
     "9kxbknhl.bmp",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",
-    "KW/KB/English",
-    "KW/KB",
-    "KW",
     "HTTP",
     "Excalidraw",
     "стек протокола TCP",
