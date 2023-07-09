@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/Interview preparing.md",
+                "file": "KB/Programming/Backtracking(поиск с возвратом).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -119,10 +120,11 @@
   },
   "active": "51c74b99062f43f1",
   "lastOpenFiles": [
+    "KW/KB/English/Interview preparing.md",
+    "KB/English/📙MOC - English.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
-    "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_integrated Annotation.md",
     "KB/Programming/java/java_Retention policy.md",
     "KB/Programming/стек протокола TCP-IP.md",
