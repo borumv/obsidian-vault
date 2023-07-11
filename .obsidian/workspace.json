@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
+                "file": "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,6 +120,10 @@
   },
   "active": "51c74b99062f43f1",
   "lastOpenFiles": [
+    "KB/Programming/sql/уровни изоляции транзакции.md",
+    "KB/Programming/sql/неповторяемое чтение.md",
+    "KB/Programming/sql/грязное чтение.md",
+    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Heap - структура данных.md",
     "Pasted image 20230709105335.png",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
@@ -154,10 +158,7 @@
     "attachments/Pasted image 20230507094217.png",
     "attachments/Pasted image 20230510162821.png",
     "Осип Мандельштап.md",
-    "KB/Programming/algorithms/String hashing.md",
-    "Ковчег.md",
     "attachments/Pasted image 20230128161658.png",
-    "Command line (команды командной строки).md",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",

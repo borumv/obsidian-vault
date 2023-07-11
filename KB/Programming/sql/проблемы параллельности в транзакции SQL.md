@@ -5,3 +5,5 @@
 - [[неповторяемое чтение]] (non reapetable read)
 - [[фантомное чтение]] (phantom read)
 - [[аномалия сериализации ]](serialization anomaly)
+
+
