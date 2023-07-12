@@ -29,6 +29,10 @@ Hard Skills are mostly checked during tech interviews, but if you are lucky and 
 
 **Golden Circle by Simon Sinek** - technic that can help to answer the question and *get ahead* in the interview 
 
-![[Pasted image 20230712091438.png]]
+![[Pasted image 20230712091438.png|300]]
+
+## Soft Skills
+
+These questions are used to figure out what kind of worker you are and how you can cope with different situation
 
 Parent: [[📙MOC - English]]
