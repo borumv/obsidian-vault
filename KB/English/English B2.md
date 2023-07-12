@@ -453,34 +453,34 @@
 127)  **SLOW DOWN** - притормозить, помедленее
 	**Помедленее чуть-чуть! Я не могу угнаться за тобой** - Slow down a bit! I can't keep up with you!
 	**Он сказал, что мы должны будем замедлить темп на некоторое время.** - He said that we would have to to slow down  the pace for a while
-128) **SELL OUT** - распродовать 
+128) **SELL OUT** - распродавать 
 	**Все товары были распроданы** - All the goods were sold out
-	**Они уже рапродали все билеты?** - Have they already sold out all the tickets?	
+	**Они уже распродали все билеты?** - Have they already sold out all the tickets?	
 129) **GO AWAY** - уйти
 	**Я ушёл на полчаса** - I went away for half an hour
 	**Не уходи!**  - Don't go away!
 130) **HOLD BACK** - сдерживать
 	**Она не могла сдержать слезы** - She couldn't hold back her tears
-	**Я не могу понять, что тебя сдерживает сейчас** - I can't understad what is holding you back
+	**Я не могу понять, что тебя сдерживает сейчас** - I can't understand what is holding you back
 
 
 **УРОК 47-48**
-1) **Если я буду миллионером, я построю больницу для больных** - If I am a millionair I'll build a hospital for the sick
-2) **Если я стану миллиардером, у меня будет гораздо больше ресурсов чтобы помочь бедным и нуждающимся** - If I become a billionair I'll have much more resourses to help thee poor and needy
+1) **Если я буду миллионером, я построю больницу для больных** - If I am a millionaire I'll build a hospital for the sick
+2) **Если я стану миллиардером, у меня будет гораздо больше ресурсов чтобы помочь бедным и нуждающимся** - If I become a billionaire I'll have much more recourses to help thee poor and needy
 3) **Если я буду жить в Германии, у меня будет уникальная возможность выучить язык** - If I live in Germany I'll haven a unique opportunity to learn the language
-4) **Если бы я был миллионером, я мог бы использовать свои деньги чтобы помочь тысячам людей изменить свою жизнь раз и навсегда** - If I were a millinaire I could use my money to help thousands of people change their lives once and for all
+4) **Если бы я был миллионером, я мог бы использовать свои деньги чтобы помочь тысячам людей изменить свою жизнь раз и навсегда** - If I were a millionaire I could use my money to help thousands of people change their lives once and for all
 5) **Если бы я был миллиардером, я бы не жил в роскоши** - If I were a billionaire I wouldn't live in luxury
 6) **Если бы я знал это, когда был подростком, я бы никогда не совершил таких глупых ошибок** - If I had known it when I was a teenager I would have never made such a silly mistakes
 7) **Если бы я послушался его совета, я бы не потерял такую большую сумму денег** - If I had listened to his advise I wouldn't have lost such a big sum of money
 8) **Если бы я раньше натолкнулся на этот канал, мой уровень английского был бы намного выше сейчас** - If I had come across to that channel earlier My English level would be much higher now
 9) **Если бы он не потратил столько времени зря, его жизнь могла бы быть совсем другой сейчас** - If he hadn't spent so much time in vain his life could be completely different now
 10) **Если бы я выбрал другую профессию, меня бы здесь не было** - If I had chosen another profession I wouldn't be here now
-11) **Я хотел бы говорить по английски как носитель языкал** - I wish I spoke English like a native speaker
+11) **Я хотел бы говорить по английский как носитель языка** - I wish I spoke English like a native speaker
 12) **Я хотел говорить по-английски как носитель** - I wish I could speak English like a native 
 13) **Мне хотелось бы, чтобы ты был здесь** - I wish you were here
 14) **Мне хотелось бы, чтобы я сделал это по другому, когда у меня была такая возможность** - I wish I had done it another way when I had such an opportunity
 15) **Если бы только люди знали, к чему это может привести** - If only people knew what it can lead to
 16) **Если бы только я мог повернуть время вспять** - If only I could turn back time
 17) **Если бы только он последовал моему совету в то время** - If only he had followed my advice at that time
-18) **На твоём месте я бы сделал абсолютно то же самое сейчас** - If I were you I would do absolutly the same now
-19) **На твоём месте я бы сделаол абсолютно то же самое, потому что у тебя не было никакого выбора** - If I were you I would have done absolutly the same because you had no chose
+18) **На твоём месте я бы сделал абсолютно то же самое сейчас** - If I were you I would do absolutely the same now
+19) **На твоём месте я бы сделал абсолютно то же самое, потому что у тебя не было никакого выбора** - If I were you I would have done absolutely the same because you had no chose

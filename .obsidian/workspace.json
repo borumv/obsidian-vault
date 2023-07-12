@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
+                "file": "KW/KB/English/Interview preparing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intervi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -120,6 +120,12 @@
   },
   "active": "51c74b99062f43f1",
   "lastOpenFiles": [
+    "Pasted image 20230712091438.png",
+    "Pasted image 20230712090258.png",
+    "KB/English/English B2.md",
+    "KB/English/Should in English.md",
+    "KB/English/📙MOC - English.md",
+    "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
     "KB/Programming/sql/неповторяемое чтение.md",
     "KB/Programming/sql/грязное чтение.md",
@@ -132,7 +138,6 @@
     "KB/Programming/Heap java.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
     "KW/KB/English/Interview preparing.md",
-    "KB/English/📙MOC - English.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
@@ -147,18 +152,13 @@
     "README.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "Zettelcasten/Obsidian/README.md",
-    "KB/Programming/Inverted indices ElasticSearch.md",
-    "KB/Programming/ElasticSearch.md",
     "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
     "attachments/Pasted image 20230125191500.png",
     "attachments/Pasted image 20230128162538.png",
-    "12 правил чтобы учить код.md",
     "attachments/Pasted image 20230507094217.png",
     "attachments/Pasted image 20230510162821.png",
-    "Осип Мандельштап.md",
-    "attachments/Pasted image 20230128161658.png",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",
