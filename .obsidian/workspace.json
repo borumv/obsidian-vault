@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Integration testing Spring.md",
+                "file": "KB/Programming/java/java_Server Socket.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intervi",
+                "query": "Coy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,6 +120,9 @@
   },
   "active": "51c74b99062f43f1",
   "lastOpenFiles": [
+    "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/Catalina (servlet container).md",
+    "KB/Programming/Integration testing Spring.md",
     "KW/KB/English/Interview preparing.md",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
@@ -150,8 +153,6 @@
     "KB/Programming/js/Redux.md",
     "attachments/Pasted image 20230619094503.png",
     "README.md",
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
-    "Zettelcasten/Obsidian/README.md",
     "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
