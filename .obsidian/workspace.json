@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a77e69a5695b2643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/java/java_integrated Annotation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51c74b99062f43f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_Server Socket.md",
-                "mode": "preview",
+                "file": "KB/Programming/Динамическое программирование.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coy",
-                "matchingCase": false,
+                "query": "retrofi",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,8 +104,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "51c74b99062f43f1",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
+    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
+    "KB/Programming/Динамическое программирование.md",
+    "KB/Programming/algorithms/Сортировка подсчётом.md",
+    "KB/Programming/algorithms/Алгоритмы - события на круге.md",
+    "KB/Programming/java/java_Server Socket.md",
     "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/Integration testing Spring.md",
@@ -136,7 +127,6 @@
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Heap - структура данных.md",
     "Pasted image 20230709105335.png",
-    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/algorithms/Алгоритмы - деревья.md",
     "KB/Programming/Бинарное Дерево - структура данных.md",
     "KB/Programming/Heap java.md",
@@ -148,11 +138,7 @@
     "KB/Programming/java/java_Retention policy.md",
     "KB/Programming/стек протокола TCP-IP.md",
     "KB/Programming/MOC-Сети.md",
-    "KB/Programming/Построение модели Глубокого обучения.md",
-    "KB/Programming/python_Pandas.md",
-    "KB/Programming/js/Redux.md",
     "attachments/Pasted image 20230619094503.png",
-    "README.md",
     "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
