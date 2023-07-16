@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Динамическое программирование.md",
+                "file": "KB/Programming/java/java_Retrofit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,10 +104,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f248149c28d0afca",
+  "active": "51c74b99062f43f1",
   "lastOpenFiles": [
-    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/Динамическое программирование.md",
+    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/algorithms/Сортировка подсчётом.md",
     "KB/Programming/algorithms/Алгоритмы - события на круге.md",
     "KB/Programming/java/java_Server Socket.md",
