@@ -35,4 +35,19 @@ Hard Skills are mostly checked during tech interviews, but if you are lucky and 
 
 These questions are used to figure out what kind of worker you are and how you can cope with different situation
 
+
+**What to say if you don't know what to say**
+*Well, I can't recall the situation like that at this moment, but it seems to me that...* 
+*I think, I've definitely had some situation like this, give me a sec to recall*
+*It seems to me that I've never had smth like this on my plate*
+*Should this situation be connected with work experience only?*
+
+## Motivation
+- What project would you like to work on?
+- What is important for you&
+- If you could create your own project, what would it be?
+- How do you see your personal and professional development path?
+
+
+
 Parent: [[📙MOC - English]]

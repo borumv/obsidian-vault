@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5545c84f8d0ca5d",
+        "id": "518f6e65dad1f1db",
         "type": "tabs",
         "children": [
           {
-            "id": "51c74b99062f43f1",
+            "id": "d3217408170a3749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_Retrofit.md",
+                "file": "KW/KB/English/Adjectives & Adverbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retrofi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +104,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "51c74b99062f43f1",
+  "active": "d3217408170a3749",
   "lastOpenFiles": [
+    "KB/English/English_grammar.md",
+    "KW/KB/English/Adjectives & Adverbs.md",
+    "KB/English/📙MOC - English.md",
+    "KW/KB/English/Interview preparing.md",
+    "KB/Programming/Heap java.md",
+    "KB/Programming/📙MOC-Kafka.md",
+    "KB/Programming/📙MOC-Programming.md",
+    "KB/Programming/Backtracking(поиск с возвратом).md",
+    "KB/Programming/Present Pefect.md",
+    "KB/English/Времена в английском языке.md",
+    "KB/English/Present Perfect Continuos.md",
+    "KB/Programming/java/java_Retrofit.md",
     "KB/Programming/Динамическое программирование.md",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/algorithms/Сортировка подсчётом.md",
@@ -114,30 +126,18 @@
     "KB/Programming/Apache Tomcat.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/Integration testing Spring.md",
-    "KW/KB/English/Interview preparing.md",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
     "KB/English/English B2.md",
     "KB/English/Should in English.md",
-    "KB/English/📙MOC - English.md",
     "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
     "KB/Programming/sql/неповторяемое чтение.md",
     "KB/Programming/sql/грязное чтение.md",
-    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
-    "KB/Programming/Heap - структура данных.md",
     "Pasted image 20230709105335.png",
-    "KB/Programming/algorithms/Алгоритмы - деревья.md",
-    "KB/Programming/Бинарное Дерево - структура данных.md",
-    "KB/Programming/Heap java.md",
-    "KB/Programming/Backtracking(поиск с возвратом).md",
     "KW/KB/English",
     "KW/KB",
     "KW",
-    "KB/Programming/java/java_integrated Annotation.md",
-    "KB/Programming/java/java_Retention policy.md",
-    "KB/Programming/стек протокола TCP-IP.md",
-    "KB/Programming/MOC-Сети.md",
     "attachments/Pasted image 20230619094503.png",
     "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
