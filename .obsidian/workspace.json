@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/Adjectives & Adverbs.md",
+                "file": "KW/KB/English/Interview preparing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "preparing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -106,8 +107,14 @@
   },
   "active": "d3217408170a3749",
   "lastOpenFiles": [
-    "KB/English/English_grammar.md",
+    "KB/Programming/Docker Volume.md",
+    "KB/Programming/Чистка Docker.md",
+    "KB/Programming/Docker Image.md",
+    "KB/Programming/Docker container.md",
+    "KB/Programming/📙MOC-Docker.md",
+    "KB/Programming/Установка Docker из стандартного манула.md",
     "KW/KB/English/Adjectives & Adverbs.md",
+    "KB/English/English_grammar.md",
     "KB/English/📙MOC - English.md",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/Heap java.md",
@@ -128,12 +135,6 @@
     "KB/Programming/Integration testing Spring.md",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
-    "KB/English/English B2.md",
-    "KB/English/Should in English.md",
-    "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
-    "KB/Programming/sql/уровни изоляции транзакции.md",
-    "KB/Programming/sql/неповторяемое чтение.md",
-    "KB/Programming/sql/грязное чтение.md",
     "Pasted image 20230709105335.png",
     "KW/KB/English",
     "KW/KB",

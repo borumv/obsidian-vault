@@ -42,6 +42,26 @@ These questions are used to figure out what kind of worker you are and how you c
 *It seems to me that I've never had smth like this on my plate*
 *Should this situation be connected with work experience only?*
 
+### Dont be afraid to talk about your interests
+1. I'm (really) into...
+2. I'm big on...
+3. I'm really interested in...
+4. I've always loved ...
+5. I'm keen on ...
+
+### Don't be afraid to tell about negative experience
+1. I ended up ... (doing something)
+2. Everything was ok until I reached a certain point ...
+3. It just fizzled out ...
+4. Unfortunately, It was the matter of
+5. I gained lots from that place and it was time for a new step
+
+
+
+
+
+
+
 ## Motivation
 - What project would you like to work on?
 - What is important for you&
