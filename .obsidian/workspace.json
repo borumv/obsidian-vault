@@ -32,9 +32,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31dd0ae48741aa7d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "70e909ddb7d30045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,14 +139,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c3ab45ae3bafa6bc",
+  "active": "70e909ddb7d30045",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "KW/KB/English/Interview preparing.md",
     "Untitled.md",
     "KB/Programming/Exception Handling in Spring MVC.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Image.md",
-    "KW/KB/English/Interview preparing.md",
     "KB/Programming/Docker Volume.md",
     "KB/Programming/Чистка Docker.md",
     "KB/Programming/Docker container.md",
@@ -145,7 +167,6 @@
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/algorithms/Сортировка подсчётом.md",
     "KB/Programming/algorithms/Алгоритмы - события на круге.md",
-    "KB/Programming/java/java_Server Socket.md",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
     "Pasted image 20230709105335.png",
