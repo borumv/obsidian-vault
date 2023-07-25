@@ -54,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checked",
+                "query": "handler",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,14 +138,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "70e909ddb7d30045",
+  "active": "d3217408170a3749",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "Untitled 1.md",
+    "KB/Programming/Exception Handling in Spring MVC.md",
+    "Untitled 3.md",
     "Untitled 2.md",
     "KW/KB/English/Interview preparing.md",
     "Untitled.md",
-    "KB/Programming/Exception Handling in Spring MVC.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/📙MOC-Docker.md",
     "KB/Programming/Docker Image.md",
