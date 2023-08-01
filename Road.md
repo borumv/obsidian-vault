@@ -32,7 +32,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ## Installation
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `https://github.com/borumv/pizza-project.git`
 
 ## Configuration
 
@@ -58,5 +58,3 @@ Follow these steps to get the project up and running on your local machine.
 Access the application by visiting `http://localhost:3000` in your web browser.
 
 # API Documentation
-
-The API documentation can be found in the `docs` directory of the backend.
