@@ -55,19 +55,6 @@
             }
           },
           {
-            "id": "70e909ddb7d30045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "306c1c28fb718d47",
             "type": "leaf",
             "state": {
@@ -89,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
