@@ -89,14 +89,38 @@
             "id": "2f948b6209d7de46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+                "file": "KB/Programming/kafka_brokers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7238c70868c5510",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb28b95e9f012c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Как начать работу с Kafka (wsl).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -125,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "displ",
+                "query": "Kafka",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +204,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f948b6209d7de46",
+  "active": "cb28b95e9f012c72",
   "lastOpenFiles": [
+    "KB/Programming/Как начать работу с Kafka (wsl).md",
+    "KB/Programming/kafka_brokers.md",
+    "KB/Programming/📙MOC-Kafka.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
@@ -190,7 +218,6 @@
     "Создание чанка (мыслительной идеи).md",
     "Untitled 1.md",
     "Untitled 3.md",
-    "Untitled 2.md",
     "Road.md",
     "KB/Programming/html-css/css_Декоративные элементы.md",
     "KB/Programming/html-css/css_display.md",
@@ -205,8 +232,6 @@
     "KB/Programming/Алгоритм Случайного леса.md",
     "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
     "KB/Programming/One hot encoding.md",
-    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
-    "KB/Programming/algorithms/Рекурсия.md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
