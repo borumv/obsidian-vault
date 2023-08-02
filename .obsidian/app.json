@@ -12,9 +12,6 @@
   "attachmentFolderPath": "KW/KW/attachments",
   "showFrontmatter": true,
   "newFileFolderPath": "KW/INBOX",
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "defaultViewMode": "source"
 }
