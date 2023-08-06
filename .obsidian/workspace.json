@@ -112,8 +112,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
-                "mode": "source",
+                "file": "KB/Programming/algorithms/Решето Эратосфена.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -219,6 +219,8 @@
   },
   "active": "619a378cc73ac78a",
   "lastOpenFiles": [
+    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
+    "KB/Programming/📙MOC-Programming.md",
     "Interview.md",
     "KB/Programming/Как начать работу с Kafka (wsl).md",
     "KB/Programming/kafka_brokers.md",
@@ -243,8 +245,6 @@
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "KB/Programming/Арены JIT компилятора.md",
     "KB/Programming/Выбор оценщика и алгоритма для решения задачи машинного обучения.md",
-    "KB/Programming/Алгоритм Случайного леса.md",
-    "KB/Programming/Алгоритм скользящего окна (Sliding Window).md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
