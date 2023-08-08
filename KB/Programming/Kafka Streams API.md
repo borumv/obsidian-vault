@@ -8,10 +8,20 @@ Tags: kafka
 # [[Kafka Streams API]]
 
 Главная абстракция Kafka Streams - граф, состоящий из потоковых процессоров (узлы) и потоков (рёбра). Приложение использует топологии, чтобы преогбразовывать данные в вычисления.
-https://www.google.com/search?q=KafkaStream+Topology+%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE&ei=MyvNY_HEL5b77_UPj7S-oAs&ved=0ahUKEwixqtuDltv8AhWW_bsIHQ-aD7QQ4dUDCA4&uact=5&oq=KafkaStream+Topology+%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQ6BwgAEA0QgAQ6BggAEB4QDToICAAQBRAeEA06CAgAEBYQHhAKOgkIIRCgARAKECo6BwghEKABEApKBAhBGABKBQhAEgExSgQIRhgAUABYlxVgixdoAHABeACAAZMBiAGBCpIBAzIuOZgBAKABAaABAsABAQ&sclient=gws-wiz-serp
 
 Одно из преимуществ Kafka Streams – отсутствие необходимости в отдельном кластере
 
 ![[Pasted image 20221228190320.png|500]]
+
+Kafka Streams состоит из следующих ключевых компонентов:
+
+1. **Топология**: Топология представляет собой [ориентированный ациклический граф](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D1%86%D0%B8%D0%BA%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D1%80%D0%B0%D1%84) обработки потока, который состоит из источников, процессоров и хранилищ состояния. Топология определяет, как данные будут обрабатываться и перемещаться по системе.
+2. **KStream**: KStream представляет собой поток записей, где каждая запись представляет собой пару ключ-значение. KStream в общем случае используется для представления данных в режиме реального времени.
+3. **KTable**: KTable представляет собой поток записей, которые представляют собой снимок состояния в определенный момент времени. Каждый ключ в KTable связан с наиболее актуальным значением. Когда новая запись с существующим ключом добавляется в KTable, старая запись заменяется новой. 
+4. **GlobalKTable**: GlobalKTable аналогичен KTable, но данные в GlobalKTable реплицируются во все экземпляры приложения, в отличие от KTable, где данные распределяются по различным экземплярам приложения.
+5. **State Stores**: Состояние приложения, такое как KTable и окна, помещается в хранилища состояний. Эти хранилища могут быть персистентными или не персистентными, и они могут быть отключены для операций, которые не требуют сохранения состояния.
+6. **Stream** **Processors**: Процессоры используются для выполнения пользовательской логики обработки. Вы можете определить свои собственные процессоры и связать их с KStream или KTable.
+7. **Serdes**: Serde является аббревиатурой для сериализации (serialization) и десериализации (deserialization). В Kafka Streams вы используете Serdes для указания того, как данные должны быть преобразованы в байты для хранения в Kafka, и как эти байты должны быть преобразованы обратно в данные при чтении из Kafka.
+
 
 Need to see: https://kafka.apache.org/documentation.html#intro_apis

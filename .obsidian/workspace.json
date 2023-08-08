@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/algorithms/Решето Эратосфена.md",
+                "file": "KB/Programming/Kafka Streams API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kafka",
+                "query": "Kafka stre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,13 +219,15 @@
   },
   "active": "619a378cc73ac78a",
   "lastOpenFiles": [
+    "KB/Programming/kafka_структура данных.md",
+    "KB/Programming/📙MOC-Kafka.md",
+    "KB/Programming/algorithms/Решето Эратосфена.md",
     "138. Copy List with Random Pointer.jpg",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "KB/Programming/📙MOC-Programming.md",
     "Interview.md",
     "KB/Programming/Как начать работу с Kafka (wsl).md",
     "KB/Programming/kafka_brokers.md",
-    "KB/Programming/📙MOC-Kafka.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
@@ -244,7 +246,6 @@
     "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
     "KB/Programming/Модель классификации.md",
     "KB/Programming/Конвертирование non-numerical значений в numerical.md",
-    "KB/Programming/Арены JIT компилятора.md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
@@ -257,7 +258,6 @@
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
     "attachments/Pasted image 20230125191500.png",
-    "attachments/Pasted image 20230128162538.png",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",
