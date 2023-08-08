@@ -120,6 +120,19 @@
             }
           },
           {
+            "id": "8b037d06c575638a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/java/java_Иерархия Java Collection Framework.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cb28b95e9f012c72",
             "type": "leaf",
             "state": {
@@ -133,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -217,8 +230,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "619a378cc73ac78a",
+  "active": "8b037d06c575638a",
   "lastOpenFiles": [
+    "KB/Programming/java/java_Iterable.md",
+    "KB/Programming/java/java_Иерархия Java Collection Framework.md",
+    "Pasted image 20230808160408.png",
+    "Untitled 2.md",
+    "KB/Programming/Kafka Streams API.md",
     "KB/Programming/kafka_структура данных.md",
     "KB/Programming/📙MOC-Kafka.md",
     "KB/Programming/algorithms/Решето Эратосфена.md",
@@ -242,10 +260,6 @@
     "KB/Programming/html-css/css_display.md",
     "KB/Programming/html-css/css_Блочная модель.md",
     "KB/Programming/Сжатие заголовков.md",
-    "KB/Programming/Сборщик мусора в Java.md",
-    "KB/Programming/Обучение модели (fitting) в машинном обучении.md",
-    "KB/Programming/Модель классификации.md",
-    "KB/Programming/Конвертирование non-numerical значений в numerical.md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
@@ -257,7 +271,6 @@
     "attachments/Pasted image 20221228201355.png",
     "attachments/Pasted image 20221229105446.png",
     "attachments/Pasted image 20230106190100.png",
-    "attachments/Pasted image 20230125191500.png",
     "Untitled.canvas",
     "I",
     "CreateProfileRestModel.java",
