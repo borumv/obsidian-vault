@@ -125,8 +125,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_Иерархия Java Collection Framework.md",
-                "mode": "source",
+                "file": "Projects/LectionMultiThreading.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -202,8 +202,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,8 +231,8 @@
   },
   "active": "8b037d06c575638a",
   "lastOpenFiles": [
-    "KB/Programming/java/java_Iterable.md",
     "KB/Programming/java/java_Иерархия Java Collection Framework.md",
+    "KB/Programming/java/java_Iterable.md",
     "Pasted image 20230808160408.png",
     "Untitled 2.md",
     "KB/Programming/Kafka Streams API.md",
