@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attribute",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -101,7 +102,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "46120d565e6f7235",
+  "active": "f248149c28d0afca",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
