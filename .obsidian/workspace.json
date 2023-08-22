@@ -42,8 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68f4ed807fac1ca7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,14 +137,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46120d565e6f7235",
+  "active": "68f4ed807fac1ca7",
   "lastOpenFiles": [
+    "KB/Programming/Нормальные формы.md",
+    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
+    "KB/Programming/Join в Postgresql.md",
     "KB/Programming/sql/psql_Доменные типы.md",
     "INBOX/psql_Пользовательские типы.md",
     "INBOX/PostGIS + JPA. Погружение в детали и тонкости для чайников.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "KB/Programming/Нормальные формы.md",
     "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
@@ -157,8 +170,6 @@
     "Interview.md",
     "KB/Programming/Как начать работу с Kafka (wsl).md",
     "KB/Programming/kafka_brokers.md",
-    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
