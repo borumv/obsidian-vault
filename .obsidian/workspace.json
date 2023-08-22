@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/sql/psql_Доменные типы.md",
+                "file": "KB/Programming/Join в Postgresql.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,6 +128,7 @@
   },
   "active": "46120d565e6f7235",
   "lastOpenFiles": [
+    "KB/Programming/sql/psql_Доменные типы.md",
     "INBOX/psql_Пользовательские типы.md",
     "INBOX/PostGIS + JPA. Погружение в детали и тонкости для чайников.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
@@ -158,7 +159,6 @@
     "KB/Programming/kafka_brokers.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Pasted image 20230725145720.png",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
