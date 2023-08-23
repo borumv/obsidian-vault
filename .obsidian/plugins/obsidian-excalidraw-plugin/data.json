@@ -98,7 +98,7 @@
             "roundness": {
               "type": 2
             },
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -141,7 +141,7 @@
               "O6xJPuq4ExnYfzhwvGkrS"
             ],
             "roundness": null,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false
@@ -171,7 +171,7 @@
             "roundness": {
               "type": 2
             },
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -216,7 +216,7 @@
             "roundness": {
               "type": 2
             },
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -259,7 +259,7 @@
               "O6xJPuq4ExnYfzhwvGkrS"
             ],
             "roundness": null,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -295,7 +295,7 @@
               "O6xJPuq4ExnYfzhwvGkrS"
             ],
             "roundness": null,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -331,7 +331,7 @@
               "O6xJPuq4ExnYfzhwvGkrS"
             ],
             "roundness": null,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -369,7 +369,7 @@
             "roundness": {
               "type": 2
             },
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
@@ -412,7 +412,7 @@
               "O6xJPuq4ExnYfzhwvGkrS"
             ],
             "roundness": null,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1692701208931,
             "link": null,
             "locked": false,
