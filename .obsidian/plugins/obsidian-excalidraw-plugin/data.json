@@ -71,6 +71,47 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.18",
     "libraryItems": [
       {
+        "id": "mXBENYyV5qUjyovOH0rkH",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "text",
+            "version": 195,
+            "versionNonce": 488443416,
+            "isDeleted": false,
+            "id": "FPwr59ux",
+            "fillStyle": "cross-hatch",
+            "strokeWidth": 0.5,
+            "strokeStyle": "dashed",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": 616.081324189413,
+            "y": 1058.975219477577,
+            "strokeColor": "#c92a2a",
+            "backgroundColor": "transparent",
+            "width": 33.60333251953125,
+            "height": 13.2,
+            "seed": 1081458456,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1692869205271,
+            "link": null,
+            "locked": false,
+            "fontSize": 11.687532312487436,
+            "fontFamily": 1,
+            "text": "Heads",
+            "rawText": "Heads",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": null,
+            "originalText": "Heads"
+          }
+        ],
+        "created": 1692869209645
+      },
+      {
         "status": "unpublished",
         "elements": [
           {
