@@ -132,7 +132,22 @@
   "right": {
     "id": "9d9f7470aa9ee338",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "5716e8c685c2b43d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ecc7640b45b49f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -150,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68f4ed807fac1ca7",
+  "active": "14ecc7640b45b49f",
   "lastOpenFiles": [
     "Pasted image 20230808160408.png",
     "9kxbknhl.bmp",
