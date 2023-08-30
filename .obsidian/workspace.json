@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +129,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c49af89314ead99d",
+  "active": "46120d565e6f7235",
   "lastOpenFiles": [
+    "KB/Programming/Нормальные формы.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
@@ -149,7 +149,6 @@
     "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "KB/Programming/Нормальные формы.md",
     "Pasted image 20230808160408.png",
     "Untitled 3.md",
     "9kxbknhl.bmp",
