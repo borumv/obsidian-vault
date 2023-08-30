@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46120d565e6f7235",
+  "active": "c49af89314ead99d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
