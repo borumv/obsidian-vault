@@ -23,8 +23,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Нормальные формы.md",
+                "file": "KB/Programming/Backtracking(поиск с возвратом).md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def2675171894bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Алгоритм перестановки.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -43,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,9 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46120d565e6f7235",
+  "active": "c49af89314ead99d",
   "lastOpenFiles": [
     "KB/Programming/SessionFactory.md",
+    "KB/Programming/Алгоритм перестановки.md",
+    "KB/Programming/Backtracking(поиск с возвратом).md",
+    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
+    "KB/Programming/Нормальные формы.md",
+    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "KB/Programming/Session class Hibernate.md",
     "KB/Programming/Cache Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
@@ -156,8 +175,6 @@
     "KB/Programming/sql/фантомное чтение.md",
     "KB/Programming/sql/аномалия сериализации.md",
     "KB/Programming/Реактивное программирование в Spring.md",
-    "KB/Programming/Нормальные формы.md",
-    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
@@ -179,9 +196,6 @@
     "9kxbknhl.bmp",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
     "KB/Programming/sql/psql_Доменные типы.md",
-    "INBOX/psql_Пользовательские типы.md",
-    "INBOX/PostGIS + JPA. Погружение в детали и тонкости для чайников.md",
-    "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "KW/KB/English",
