@@ -36,15 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/📙Hibernate.md",
+                "file": "KB/Programming/SessionFactory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +142,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a578f2d749bc9c9e",
+  "active": "46120d565e6f7235",
   "lastOpenFiles": [
+    "KB/Programming/SessionFactory.md",
+    "KB/Programming/Session class Hibernate.md",
+    "KB/Programming/Cache Hibernate.md",
+    "KB/Programming/Entities lifecycle Hibernate.md",
+    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
     "constraints.md",
     "KB/Programming/sql/неповторяемое чтение.md",
@@ -178,13 +182,8 @@
     "INBOX/psql_Пользовательские типы.md",
     "INBOX/PostGIS + JPA. Погружение в детали и тонкости для чайников.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
-    "KB/Programming/Inheritance в Hibernate.md",
-    "KB/Programming/html-css/css_Блочная модель.md",
-    "KB/Programming/Kafka Streams API.md",
     "KW/KB/English",
     "KW/KB",
     "KW",

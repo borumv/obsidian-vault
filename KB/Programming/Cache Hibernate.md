@@ -5,7 +5,7 @@ Aliases: first level cache
 Tags: programming
 ---
 
-**FirstLevel Cache** - это кэш, который есть в Hibernate, он у нас по-умолчанию и его никогда *не отключить*. Он хранится в объекте нашей [[Session class Hibernate|сессии]] в поле **`persistenceContext`**. 
+**FirstLevel Cache** - это кэш, который есть в Hibernate, он у нас полмолчания и его никогда *не отключить*. Он хранится в объекте нашей [[Session class Hibernate|сессии]] в поле **`persistenceContext`**. 
 Изменение сущности, которая находится в кэше может привести к [[Dirty Session]]
 
 Чтобы удалить сущность из кэша можно вызвать **`session.evict(user)`**, а чтобы удалить все сущности - **`session.clear()`** или просто закрыть нашу сессию - **`session.close()`**
