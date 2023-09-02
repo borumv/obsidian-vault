@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d7e96c6b315676e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "145d06a2a2c91000",
+  "active": "1d7e96c6b315676e",
   "lastOpenFiles": [
     "KB/Programming/Реактивное программирование в Spring.md",
     "KB/Programming/Нормальные формы.md",
