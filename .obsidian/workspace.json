@@ -34,8 +34,13 @@
             "id": "a578f2d749bc9c9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "constraints.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -62,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,8 +166,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d7e96c6b315676e",
+  "active": "a578f2d749bc9c9e",
   "lastOpenFiles": [
+    "KB/Programming/sql/неповторяемое чтение.md",
+    "constraints.md",
+    "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
+    "KB/Programming/sql/фантомное чтение.md",
+    "KB/Programming/sql/аномалия сериализации.md",
     "KB/Programming/Реактивное программирование в Spring.md",
     "KB/Programming/Нормальные формы.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
@@ -198,11 +208,6 @@
     "KB/Programming/html-css/css_Блочная модель.md",
     "KB/Programming/Kafka Streams API.md",
     "Projects/LectionMultiThreading.md",
-    "KB/Programming/java/java_Иерархия Java Collection Framework.md",
-    "KB/Programming/java/java_Iterable.md",
-    "Untitled 2.md",
-    "KB/Programming/kafka_структура данных.md",
-    "KB/Programming/📙MOC-Kafka.md",
     "KW/KB/English",
     "KW/KB",
     "KW",
