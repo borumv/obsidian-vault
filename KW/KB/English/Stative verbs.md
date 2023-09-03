@@ -14,39 +14,43 @@ Parent: [[English_Grammar]]
 
 The following verbs are usually *stative* (rarely used in dynamic forms). Note that with many of these verbs, we perform the verb when we say it, so they are called ‘performatives’ (agree, admit, deny, promise, suggest)
 
-agree
-desire
-doubt
-like, love, hate  (We use all 3 in continuous informally, but I would avoid doing so in formal English)
-prefer
-regret  (We do say ‘I am regretting...’ sometimes)
-believe
-know
-find
-realise
-understand
-admit / deny
-suggest
-notice
-smell
-belong
-consist
-contain
-differ
-depend
-mean
-own
-owe
-possess
-seem
-recognise
-remember
-forget
-promise
-want   (However, we do say ‘have been wanting’)
-need
-fancy
-wish
+Things of the *mind*, *states of the mind*
+- doubt
+- agree
+- believe
+- know
+- understand
+- recognize
+- remember
+- regret
+- forget
+- promise
+- like
+- love
+- hate
 
+*Perception:*
+- see
+- hear
+- look
+- sound*
+- taste*
+
+ `*` - If these verbs refer to the action, they become *dynamic*
+
+*Possession:*
+- have
+- own
+- owe
+- possess
+- belong
+- weigh
+- depend
+
+*Desire:*
+- want
+- need
+- fancy
+- wish
 
 See also:[]
