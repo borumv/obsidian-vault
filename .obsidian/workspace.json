@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +155,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "def2675171894bca",
+  "active": "46120d565e6f7235",
   "lastOpenFiles": [
-    "KW/KB/English/Present Continuous.md",
+    "KB/Programming/Backtracking(поиск с возвратом).md",
     "KW/KB/English/Stative verbs.md",
+    "KW/KB/English/Present Continuous.md",
     "KW/KB/English/Present Simple.md",
     "KB/Programming/SessionFactory.md",
-    "KB/Programming/Backtracking(поиск с возвратом).md",
     "KB/English/Времена в английском языке.md",
     "KB/English/Present Perfect Continuos.md",
     "KB/English/English_grammar.md",
