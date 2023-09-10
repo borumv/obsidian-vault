@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Алгоритмы перестановки.md",
+                "file": "KB/Programming/algorithms/Quick Sorting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,6 +179,10 @@
   },
   "active": "c49af89314ead99d",
   "lastOpenFiles": [
+    "KW/KW/attachments/Pasted image 20230910133723.png",
+    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
+    "KB/Programming/algorithms/Сортировка слиянием.md",
+    "KB/Programming/Алгоритмы перестановки.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
     "KB/Programming/Грамматика арифметических выражений.md",
     "KW/KB/English/Stative verbs.md",
@@ -191,7 +195,6 @@
     "KB/English/English_grammar.md",
     "KB/English/Past Continuous.md",
     "KB/Programming/Present Pefect.md",
-    "KB/Programming/Алгоритмы перестановки.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Нормальные формы.md",
     "KB/Programming/Session class Hibernate.md",
@@ -202,9 +205,6 @@
     "constraints.md",
     "KB/Programming/sql/неповторяемое чтение.md",
     "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
-    "KB/Programming/sql/фантомное чтение.md",
-    "KB/Programming/sql/аномалия сериализации.md",
-    "KB/Programming/Реактивное программирование в Spring.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
