@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Backtracking(поиск с возвратом).md",
-                "mode": "preview",
+                "file": "KB/Programming/Алгоритмы перестановки.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df7260aa122118a9",
+  "active": "c49af89314ead99d",
   "lastOpenFiles": [
-    "KW/KB/English/Stative verbs.md",
+    "KB/Programming/Backtracking(поиск с возвратом).md",
     "KB/Programming/Грамматика арифметических выражений.md",
+    "KW/KB/English/Stative verbs.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "KW/KB/English/Present Simple.md",
-    "KB/Programming/Backtracking(поиск с возвратом).md",
     "KW/KB/English/Present Continuous.md",
     "KB/Programming/SessionFactory.md",
     "KB/English/Времена в английском языке.md",
@@ -191,7 +191,7 @@
     "KB/English/English_grammar.md",
     "KB/English/Past Continuous.md",
     "KB/Programming/Present Pefect.md",
-    "KB/Programming/Алгоритм перестановки.md",
+    "KB/Programming/Алгоритмы перестановки.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Нормальные формы.md",
     "KB/Programming/Session class Hibernate.md",
