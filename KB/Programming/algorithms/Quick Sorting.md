@@ -8,4 +8,6 @@ tags: [sums]
 
 ![[Pasted image 20230910133723.png]]
 
+1) Определяем pivot
+
 see: [Algo](📙MOC-ALGORITHMS.md)
