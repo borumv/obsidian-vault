@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/algorithms/Quick Sorting.md",
+                "file": "KB/Programming/JPA-Auditing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,6 +179,10 @@
   },
   "active": "c49af89314ead99d",
   "lastOpenFiles": [
+    "GeneratedValue.md",
+    "KB/Programming/JPA-Auditing.md",
+    "KB/Programming/@OneToMany и @ManyToOne.md",
+    "KB/Programming/algorithms/Quick Sorting.md",
     "KW/KW/attachments/Pasted image 20230910143448.png",
     "KW/KW/attachments/Pasted image 20230910133723.png",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
@@ -203,9 +207,6 @@
     "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
-    "constraints.md",
-    "KB/Programming/sql/неповторяемое чтение.md",
-    "KB/Programming/sql/проблемы параллельности в транзакции SQL.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
@@ -216,7 +217,6 @@
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
     "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
-    "Pasted image 20230808160408.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "KW/KB/English",
