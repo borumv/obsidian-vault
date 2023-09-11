@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/JPA-Auditing.md",
+                "file": "KB/Programming/Hibernate Envers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,8 +179,9 @@
   },
   "active": "c49af89314ead99d",
   "lastOpenFiles": [
-    "GeneratedValue.md",
     "KB/Programming/JPA-Auditing.md",
+    "KB/Programming/Hibernate Envers.md",
+    "GeneratedValue.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/algorithms/Quick Sorting.md",
     "KW/KW/attachments/Pasted image 20230910143448.png",
@@ -206,7 +207,6 @@
     "KB/Programming/Cache Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
-    "KB/Programming/java/📙Hibernate.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
