@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "KB/Programming/Machine Turing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,15 +104,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
+                "file": "KB/Programming/Machine Turing.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -211,9 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35308cdd1577437a",
+  "active": "47883a739d2d7d1c",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
+    "KB/Programming/Machine Turing.md",
     "KB/Programming/Грамматика арифметических выражений.md",
     "KB/Programming/Hibernate Envers.md",
     "KB/Programming/JPA-Auditing.md",
@@ -227,7 +228,6 @@
     "KB/Programming/Алгоритмы перестановки.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
     "KW/KB/English/Stative verbs.md",
-    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "KW/KB/English/Present Simple.md",
     "KW/KB/English/Present Continuous.md",
     "KB/Programming/SessionFactory.md",
