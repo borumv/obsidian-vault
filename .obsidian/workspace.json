@@ -76,9 +76,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c5633396f8fb6a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "35308cdd1577437a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47883a739d2d7d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -177,10 +211,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c49af89314ead99d",
+  "active": "35308cdd1577437a",
   "lastOpenFiles": [
-    "KB/Programming/JPA-Auditing.md",
+    "Untitled 4.md",
+    "KB/Programming/Грамматика арифметических выражений.md",
     "KB/Programming/Hibernate Envers.md",
+    "KB/Programming/JPA-Auditing.md",
     "GeneratedValue.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
     "KB/Programming/algorithms/Quick Sorting.md",
@@ -190,7 +226,6 @@
     "KB/Programming/algorithms/Сортировка слиянием.md",
     "KB/Programming/Алгоритмы перестановки.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
-    "KB/Programming/Грамматика арифметических выражений.md",
     "KW/KB/English/Stative verbs.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "KW/KB/English/Present Simple.md",
@@ -206,7 +241,6 @@
     "KB/Programming/Session class Hibernate.md",
     "KB/Programming/Cache Hibernate.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
-    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
