@@ -117,9 +117,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cee438d1b66545f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1972d752519ca35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weights.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -227,12 +248,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8463d3b3c2658f2a",
+  "active": "f1972d752519ca35",
   "lastOpenFiles": [
+    "Weights.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "KB/English/Dictionary.md",
     "KB/English/English B2.md",
     "KW/KB/English/Stative verbs.md",
-    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "KB/English/English_B1.md",
     "KB/Programming/Machine Turing.md",
     "KB/English/English_grammar.md",
@@ -256,7 +278,6 @@
     "KB/English/Present Perfect Continuos.md",
     "KB/English/Past Continuous.md",
     "KB/Programming/Present Pefect.md",
-    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
