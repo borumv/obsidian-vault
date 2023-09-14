@@ -37,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "KW/KB/English/Stative verbs.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -57,14 +57,6 @@
             }
           },
           {
-            "id": "85bbfb617a37c3b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "df7260aa122118a9",
             "type": "leaf",
             "state": {
@@ -78,14 +70,6 @@
             }
           },
           {
-            "id": "3c5633396f8fb6a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "35308cdd1577437a",
             "type": "leaf",
             "state": {
@@ -93,19 +77,6 @@
               "state": {
                 "file": "KB/Programming/Machine Turing.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47883a739d2d7d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/English/English_B1.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -148,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,11 +229,12 @@
   },
   "active": "8463d3b3c2658f2a",
   "lastOpenFiles": [
-    "KB/English/English_B1.md",
-    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
-    "KB/Programming/Machine Turing.md",
     "KB/English/Dictionary.md",
     "KB/English/English B2.md",
+    "KW/KB/English/Stative verbs.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
+    "KB/English/English_B1.md",
+    "KB/Programming/Machine Turing.md",
     "KB/English/English_grammar.md",
     "KB/English/Времена в английском языке.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
@@ -278,7 +250,6 @@
     "KB/Programming/algorithms/Сортировка слиянием.md",
     "KB/Programming/Алгоритмы перестановки.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
-    "KW/KB/English/Stative verbs.md",
     "KW/KB/English/Present Simple.md",
     "KW/KB/English/Present Continuous.md",
     "KB/Programming/SessionFactory.md",

@@ -4,7 +4,6 @@
 created: Sunday 3rd September 2023 11:48
 Last modified: Sunday 3rd September 2023 11:48
 Aliases: null
-
 Tags: stative verbs ,  english
 ---
 
