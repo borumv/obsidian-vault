@@ -104,10 +104,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Machine Turing.md",
+                "file": "KB/English/English_B1.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8463d3b3c2658f2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md"
               }
             }
           },
@@ -138,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -246,14 +256,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45b5c5fa4112f1ad",
+  "active": "8463d3b3c2658f2a",
   "lastOpenFiles": [
+    "KB/English/English_B1.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
+    "KB/Programming/Machine Turing.md",
     "KB/English/Dictionary.md",
     "KB/English/English B2.md",
     "KB/English/English_grammar.md",
     "KB/English/Времена в английском языке.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
-    "KB/Programming/Machine Turing.md",
     "KB/Programming/Грамматика арифметических выражений.md",
     "KB/Programming/Hibernate Envers.md",
     "KB/Programming/JPA-Auditing.md",
@@ -274,8 +286,6 @@
     "KB/English/Past Continuous.md",
     "KB/Programming/Present Pefect.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
-    "KB/Programming/Нормальные формы.md",
-    "KB/Programming/Session class Hibernate.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
