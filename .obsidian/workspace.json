@@ -119,14 +119,6 @@
             }
           },
           {
-            "id": "8cee438d1b66545f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f1972d752519ca35",
             "type": "leaf",
             "state": {
@@ -140,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -200,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -250,10 +243,10 @@
   },
   "active": "f1972d752519ca35",
   "lastOpenFiles": [
+    "KB/English/English B2.md",
     "Weights.md",
     "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "KB/English/Dictionary.md",
-    "KB/English/English B2.md",
     "KW/KB/English/Stative verbs.md",
     "KB/English/English_B1.md",
     "KB/Programming/Machine Turing.md",

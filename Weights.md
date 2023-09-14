@@ -10,3 +10,4 @@ schema_field_map:
 	"humidity": 0
 }
 ```
+
