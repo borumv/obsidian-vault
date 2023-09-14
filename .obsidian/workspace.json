@@ -110,9 +110,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3047547d416f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,6 +200,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "57e57b3f488c50db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -211,7 +231,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47883a739d2d7d1c",
+  "active": "d3047547d416f0bd",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "KB/Programming/Machine Turing.md",
