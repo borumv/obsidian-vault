@@ -6,6 +6,7 @@ Usecases
 schema_field_map:
 ```json
 {
-	"density": 10
+	"density": 10,
+	"humidity": 0
 }
 ```
