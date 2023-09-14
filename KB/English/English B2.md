@@ -1,6 +1,6 @@
 ## УРОК 1-2
 
-**Меня действительно поражает, что всё ещё так много неопределённости касательно этого вопроса** - It really strikes me that there is still so much uncertainty  concerning this issue
+**Меня действительно поражает, что всё ещё так много неопределённости касательно этого вопроса** - It really strikes me that there is still so much uncertainty concerning this issue
 **С одной стороны, я бы очень хотел записаться на этот курс** - On the one hand, I'd really like to enrol in this course
 **С другой стороны, я не совсем уверен, что это действительно что-то стоящее** - On the other hand, I'm not quite sure that it's really something worthwile
 **С одной стороны, я бы очень хотел записаться на тот курс** - On the one hand, I'd really like to enroll in that course
