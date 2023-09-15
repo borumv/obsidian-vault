@@ -91,48 +91,9 @@
                 "file": "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "d3047547d416f0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/English/Dictionary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b5c5fa4112f1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/English/English B2.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1972d752519ca35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weights.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1972d752519ca35",
+  "active": "35308cdd1577437a",
   "lastOpenFiles": [
-    "KB/English/English B2.md",
+    "KW/KW/attachments/Pasted image 20230915120436.png",
     "Weights.md",
+    "KB/English/English B2.md",
     "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "KB/English/Dictionary.md",
     "KW/KB/English/Stative verbs.md",
@@ -270,7 +232,6 @@
     "KB/Programming/SessionFactory.md",
     "KB/English/Present Perfect Continuos.md",
     "KB/English/Past Continuous.md",
-    "KB/Programming/Present Pefect.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
