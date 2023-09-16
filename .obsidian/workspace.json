@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Machine Turing.md",
+                "file": "KB/Programming/algorithms/Quick Sorting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,6 +89,16 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "043f7b0a8d98599f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-16 14.14.06.excalidraw.md"
               }
             }
           }
@@ -204,14 +214,19 @@
   },
   "active": "35308cdd1577437a",
   "lastOpenFiles": [
+    "KW/KW/attachments/Pasted image 20230916142717.png",
+    "Excalidraw/Drawing 2023-09-16 14.14.06.excalidraw.md",
+    "KB/Programming/algorithms/Quick Sorting.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
+    "KW/KW/attachments/Pasted image 20230916141102.png",
+    "KW/KW/attachments/Pasted image 20230916140735.png",
+    "KB/Programming/Machine Turing.md",
     "KW/KW/attachments/Pasted image 20230915120436.png",
     "Weights.md",
     "KB/English/English B2.md",
-    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "KB/English/Dictionary.md",
     "KW/KB/English/Stative verbs.md",
     "KB/English/English_B1.md",
-    "KB/Programming/Machine Turing.md",
     "KB/English/English_grammar.md",
     "KB/English/Времена в английском языке.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
@@ -220,7 +235,6 @@
     "KB/Programming/JPA-Auditing.md",
     "GeneratedValue.md",
     "KB/Programming/@OneToMany и @ManyToOne.md",
-    "KB/Programming/algorithms/Quick Sorting.md",
     "KW/KW/attachments/Pasted image 20230910143448.png",
     "KW/KW/attachments/Pasted image 20230910133723.png",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
@@ -231,7 +245,6 @@
     "KW/KB/English/Present Continuous.md",
     "KB/Programming/SessionFactory.md",
     "KB/English/Present Perfect Continuos.md",
-    "KB/English/Past Continuous.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
@@ -239,9 +252,6 @@
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.svg",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "KW/KB/English",
