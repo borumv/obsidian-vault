@@ -30,7 +30,6 @@ Both of these type of questions have the same rules:
 ### Indirect questions
 
 *Indirect questions* start with:
-
 - Do you know + *if/whether* + he has a dog? - *Does he have a dog?*
 - Could you tell me  where he lives? - *Where does he live?*
 - Do you happen to know + *if/whether* + he has gone to the shops? - *Has he gone to the shops?*
