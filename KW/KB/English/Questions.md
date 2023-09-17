@@ -37,6 +37,8 @@ Both of these type of questions have the same rules:
 
 If and whether used in *yes/no* questions. Whether - in more formal way.
 
+
+
 > [!tip] Description
 > Lorem ipsum dolor sit amet
 
