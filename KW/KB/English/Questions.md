@@ -45,5 +45,26 @@ If and whether used in *yes/no* questions. Whether - in more formal way.
 - My mum asked  me *if/whether* + I had cut the grass - *Have you cut *
 
 
+## Auxiliary verbs
+### Question tags
+
+| Question tags (1 person)                  | Echo question  | agree            | disagree   |
+| ----------------------------------------- | -------------- | ---------------- | ---------- |
+| He *hasn't* spoken to our boss            | *hasn't* he?   | *neither* have I | I have     |
+| We *have* been waiting for ages           | *have* you?    | so have we       | we haven't |
+| They *didn't* understand the instructions | *didn't* they? | *neither* we did | We did     |
+| I *can* juggle 4 balls                    | *can* you?     | so can I         | I can't    |
+| I *won't* be coming next Saturday         | *won't* you?   | *neither* will I | I will     | 
+
+
+### Emphasis
+
+- Natives *do* often use auxiliaries for emphasis, and it does sound natural
+- It's possible that I *did* use one in the last class
+- I *have* been trying to use a variety of tenses for the last two ages
+
+### Ellipsis
+- We won't have finished by the end of the week, but they *will*
+- The witness claimed that he had never met the suspect, though he *had*
 
 See also:[]
