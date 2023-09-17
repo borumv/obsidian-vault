@@ -27,6 +27,7 @@ Parent: [[English_Grammar]]
 Both of these type of questions have the same rules:
 - **NORMAL WORD ORDER**
 - **if/whether** (no question word)
+- no *auxiliary* - *do, does, did*
 ### Indirect questions
 
 *Indirect questions* start with:
@@ -36,13 +37,13 @@ Both of these type of questions have the same rules:
 
 If and whether used in *yes/no* questions. Whether - in more formal way.
 
+### Reported questions
+*Tenses move back*
 
+- She asked me + *if/whether* + he *had* a car - *Does he have a car?*
+- My teacher asked me + *if/whether* + I had done my work  - *Have you done your homework?*
+- My mum asked  me *if/whether* + I had cut the grass - *Have you cut *
 
-> [!tip] Description
-> Lorem ipsum dolor sit amet
-
->[!example] Examples
->lorem inedff
 
 
 See also:[]
