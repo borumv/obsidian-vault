@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/Reported Speech.md",
+                "file": "KW/KB/English/Passive and active forms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,8 +130,9 @@
   },
   "active": "a578f2d749bc9c9e",
   "lastOpenFiles": [
-    "KW/KB/English/Questions.md",
     "KW/KB/English/Reported Speech.md",
+    "KW/KB/English/Passive and active forms.md",
+    "KW/KB/English/Questions.md",
     "12 правил чтобы учить код.md",
     "Command line (команды командной строки).md",
     "За гремучую доблесть грядущих веков….md",
@@ -159,7 +160,6 @@
     "KB/Programming/Hibernate Envers.md",
     "KB/Programming/JPA-Auditing.md",
     "GeneratedValue.md",
-    "KB/Programming/@OneToMany и @ManyToOne.md",
     "KW/KW/attachments/Pasted image 20230910143448.png",
     "KW/KW/attachments/Pasted image 20230910133723.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
