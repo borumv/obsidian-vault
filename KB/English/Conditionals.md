@@ -70,3 +70,10 @@ Parent: [[English_grammar]]
 		| If I hadn't stolen the money | I wouldn't be in prison now          |
 		| If I hadn't gone bankrupt    | the bank would give me a loan (now!) |
 
+	- IF **PAST SIMPLE or CONTINIUS / would** + **have** + *3rd* 
+
+		| Imaginary Present    | Imaginary Past               |
+		| -------------------- | ---------------------------- |
+		| If I were you        | I wouldn't have resigned     |
+		| If I were a rich man | I would have bought a ticket | 
+
