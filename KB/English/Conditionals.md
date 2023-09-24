@@ -78,3 +78,12 @@ Parent: [[English_grammar]]
 		| If I were you        | I wouldn't have resigned     |
 		| If I were a rich man | I would have bought a ticket | 
 
+---
+- ## PSEUDO CONDTIONALS
+	- if - since, as, because
+		- If she only started her job last year, she probably isn't earning much
+		- If he was here last week, he should have come 
+	- if - if it's true that
+		- If she was with him last night, I will kill her
+	- if - whenever or when
+		- If I needed the money, he always lent me some
