@@ -8,7 +8,7 @@ Tags: english
 
 # [[Условное наклонение 1-го типа (Conditional 1)]] - REAL
 
-Parents: [[English_grammar]], [[english_Условные предложения]]
+Parents: [[English_grammar]], [[Conditionals]]
 
 ***IF + Present S, FS***
 _If you finsish work early, we will go to a cafe_

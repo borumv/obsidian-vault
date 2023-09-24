@@ -6,10 +6,12 @@ Aliases: Условные предложения
 Tags: english
 ---
 
-# [[english_Условные предложения]]
+# [[Conditionals]]
 
 Parent: [[English_grammar]]
 
+
+ 
 - ## [[Условное наклонение 0-го типа (Conditional 1)]]
 - ## [[Условное наклонение 1-го типа (Conditional 1)]] - REAL
 - ## [[Условное наклонение 2-го типа (Conditional 2)]] - UNREAL

@@ -8,7 +8,7 @@ Tags: english
 
 # [[Условное наклонение 0-го типа (Conditional 1)]]
 
-Parent: [[english_Условные предложения|Условные предложения]]
+Parent: [[Conditionals|Условные предложения]]
 
 >***Present Simple + Present Simple***
 

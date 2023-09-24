@@ -8,7 +8,7 @@ Tags: english
 
 # [[Условное наклонение 3-го типа (Conditional 3) - unreal in the past]]
 
-Parent: [[English_grammar]], [[english_Условные предложения]]
+Parent: [[English_grammar]], [[Conditionals]]
 
 > [!tip] Description
 > Lorem ipsum dolor sit amet
