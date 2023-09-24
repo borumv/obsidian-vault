@@ -1,10 +1,8 @@
 
-
 ---
 created: Sunday 24th September 2023 09:47
 Last modified: Sunday 24th September 2023 09:47
 Aliases: null
-
 Tags: english
 ---
 
@@ -28,7 +26,6 @@ Parent: [[English_Grammar]]
 	1) *have something done* (for *bad* things)
 		- Hundreds of people *had their homes destroyed* in the earthquake.
 		- He *had his Jaw broken* during a fight
-
 	2) *have somebody do (complete)*, *have somebody doing (in progress)* 
 		- Yesterday, I **had** a salesman **come** to my door
 		- We **had** a band **performing** while we ate at the restaurant
