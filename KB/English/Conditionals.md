@@ -29,4 +29,12 @@ Parent: [[English_grammar]]
 		📌 If I pass my exams, I will celebrate
 
 - ## [[Условное наклонение 2-го типа (Conditional 2)]] - UNREAL
+
+
+	IF *PAST/ Would* or *wouldn't*
+	
+	🔴 Likely possibilities
+		📌 If it is sunny later, we will go for a picnic
+		📌 If I pass my exams, I will celebrate
+		
 - ## [[Условное наклонение 3-го типа (Conditional 3) - unreal in the past]]
