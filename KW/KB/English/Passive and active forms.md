@@ -5,7 +5,7 @@ created: Saturday 23rd September 2023 10:30
 Last modified: Saturday 23rd September 2023 10:30
 Aliases: null
 
-Tags:  ,  english
+Tags:english
 ---
 
 # [[Passive and active forms]]
