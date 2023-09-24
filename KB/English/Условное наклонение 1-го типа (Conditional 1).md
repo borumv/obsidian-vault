@@ -11,7 +11,7 @@ Tags: english
 Parents: [[English_grammar]], [[Conditionals]]
 
 ***IF + Present S, FS***
-_If you finsish work early, we will go to a cafe_
+_If you finish work early, we will go to a café_
 Условие в условном наклонении 1-го типа ***реалистично*** 
 
 
