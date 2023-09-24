@@ -60,6 +60,7 @@ Parent: [[English_grammar]]
 	🔴 Unreal past
 		📌 If I had gone to university, I would have got the job
 		📌 **With Inversion (the same meaning):** Had I gone to university, I would have got the job
+---
 
 - ## MIXED CONDITIONS
 
