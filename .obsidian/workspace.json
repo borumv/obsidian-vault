@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/algorithms/Quick Sorting.md",
+                "file": "KB/Programming/Чистка Docker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "1df9611312e0dc64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,9 +48,9 @@
             "id": "590e07cecc88429f",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -74,6 +85,16 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "a91bfa2826f815da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -128,8 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a578f2d749bc9c9e",
+  "active": "1df9611312e0dc64",
   "lastOpenFiles": [
+    "Untitled Diagram.svg",
+    "KB/Programming/Чистка Docker.md",
+    "KB/Programming/algorithms/Quick Sorting.md",
     "KB/English/Conditionals.md",
     "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
     "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
@@ -143,7 +167,6 @@
     "За гремучую доблесть грядущих веков….md",
     "MIND MAP.md",
     "Weights.md",
-    "KB/Programming/algorithms/Quick Sorting.md",
     "KW/KB/English/Present Simple.md",
     "KB/Programming/8 - битовые символы могут отображаться некорректно.md",
     "KB/Programming/Грамматика арифметических выражений.md",
@@ -158,14 +181,11 @@
     "KB/Programming/Machine Turing.md",
     "KW/KW/attachments/Pasted image 20230915120436.png",
     "KB/English/Dictionary.md",
-    "KW/KB/English/Stative verbs.md",
-    "KB/English/English_B1.md",
     "KW/KW/attachments/Pasted image 20230910143448.png",
     "KW/KW/attachments/Pasted image 20230910133723.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments/Pasted Image 20230827141622_469.png",
-    "KW/KW/attachments/Pasted Image 20230827141220_361.png",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",
