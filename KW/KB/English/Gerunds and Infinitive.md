@@ -12,9 +12,10 @@ Tags: герундий ,  english
 
 **GERUNDS**
 1. After Preposition  
-- I'm interested *in* learn<mark style="background: #FF5582A6;">ing</mark> English
+- I'm interested *in* learn<mark style="background: #FF5582A6;">ing</mark> *English*
 - I'd like to give *up* smok<mark style="background: #FF5582A6;">ing</mark>
-- I couldn't put up with
+- I couldn't put *up* with his incessant cough<mark style="background: #FF5582A6;">ing</mark> throughout the exam 
+- I look forward *to* hear<mark style="background: #FF5582A6;">ing</mark> from you - *In this situation preposition to doesn't make thinking that's an infinitive - it's a common misunderstanding *
 
 
 Parent: [[English_Grammar]]
