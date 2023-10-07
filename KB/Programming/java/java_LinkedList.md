@@ -5,7 +5,3 @@ tags: java, javadoc
 
 ![[Pasted image 20220819165602.png]]
  
-
-**Иерархия**
->[!INFO]
->**Методы**
