@@ -32,19 +32,38 @@
             "id": "3f53dbf221745a96",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 3.canvas",
-                "viewState": {
-                  "x": 31.695508773365816,
-                  "y": -123.1457893212269,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "java_TreeMap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74b76691789f8e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "68a0a937ab7066bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/Бинарное Дерево - структура данных.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,10 +188,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "083988f5d2034d87",
+  "active": "68a0a937ab7066bf",
   "lastOpenFiles": [
-    "KW/KB/English/Gerunds and Infinitive.md",
+    "KB/Programming/algorithms/Tree Data Structure.md",
+    "KB/Programming/Менеджер памяти с помощью Tree Data Structure.md",
+    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
+    "Untitled 4.md",
+    "KB/Programming/java/java_LinkedList.md",
+    "java_TreeMap.md",
+    "KB/Programming/java/java_TreeSet.md",
+    "KB/Programming/java/java_Comparator.md",
+    "BDK Trees.md",
     "Untitled 3.canvas",
+    "KW/KB/English/Gerunds and Infinitive.md",
     "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
     "f.canvas",
     "fff.md",
@@ -195,14 +223,6 @@
     "12 правил чтобы учить код.md",
     "Command line (команды командной строки).md",
     "За гремучую доблесть грядущих веков….md",
-    "MIND MAP.md",
-    "Weights.md",
-    "KW/KB/English/Present Simple.md",
-    "KB/Programming/8 - битовые символы могут отображаться некорректно.md",
-    "KB/Programming/Грамматика арифметических выражений.md",
-    "KB/English/English_grammar.md",
-    "KB/English/📙MOC - English.md",
-    "KB/English/English B2.md",
     "KW/KW/attachments/Pasted image 20230916142717.png",
     "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments/Pasted image 20230916140735.png",
