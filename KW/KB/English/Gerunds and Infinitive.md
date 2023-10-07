@@ -8,7 +8,7 @@ Aliases: null
 Tags: герундий ,  english
 ---
 
-# [[Gerunds and Infinitive]]
+
 
 Parent: [[English_Grammar]]
 
