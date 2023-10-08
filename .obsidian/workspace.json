@@ -61,17 +61,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9efb6fd5a24df506",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9efb6fd5a24df506",
+  "active": "3f53dbf221745a96",
   "lastOpenFiles": [
     "KB/Programming/Виды связи между классами ООП.md",
     "наследование.md",
