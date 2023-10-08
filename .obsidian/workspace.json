@@ -32,12 +32,14 @@
             "id": "3f53dbf221745a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "java_TreeMap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled 5.canvas",
+                "viewState": {
+                  "x": 13.31607280262943,
+                  "y": -336.35717416022703,
+                  "zoom": -0.3333333333333334
+                }
               }
             }
           },
@@ -190,13 +192,16 @@
   },
   "active": "3f53dbf221745a96",
   "lastOpenFiles": [
+    "Инкапсуляция.md",
     "KB/Programming/Виды связи между классами ООП.md",
+    "Untitled 5.canvas",
+    "Абстракция.md",
+    "java_TreeMap.md",
     "наследование.md",
     "Projects/LectionMultiThreading.md",
     "Untitled 4.canvas",
     "KB/Programming/Java volatile.md",
     "KB/Programming/Бинарное Дерево - структура данных.md",
-    "java_TreeMap.md",
     "KB/Programming/algorithms/Tree Data Structure.md",
     "KB/Programming/Менеджер памяти с помощью Tree Data Structure.md",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
@@ -222,8 +227,6 @@
     "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
     "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
     "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
-    "KW/KB/English/Causative (have smth done, get smth done).md",
-    "KW/KB/English/Passive and active forms.md",
     "KW/KW/attachments/Pasted image 20230916142717.png",
     "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments/Pasted image 20230916140735.png",
