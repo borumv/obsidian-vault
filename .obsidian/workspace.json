@@ -55,15 +55,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/LectionMultiThreading.md",
+                "file": "KB/Programming/Виды связи между классами ООП.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "9efb6fd5a24df506",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -188,8 +196,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68a0a937ab7066bf",
+  "active": "9efb6fd5a24df506",
   "lastOpenFiles": [
+    "KB/Programming/Виды связи между классами ООП.md",
+    "наследование.md",
+    "Projects/LectionMultiThreading.md",
+    "Untitled 4.canvas",
     "KB/Programming/Java volatile.md",
     "KB/Programming/Бинарное Дерево - структура данных.md",
     "java_TreeMap.md",
@@ -220,9 +232,6 @@
     "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
     "KW/KB/English/Causative (have smth done, get smth done).md",
     "KW/KB/English/Passive and active forms.md",
-    "KW/KB/English/Reported Speech.md",
-    "KW/KB/English/Questions.md",
-    "12 правил чтобы учить код.md",
     "KW/KW/attachments/Pasted image 20230916142717.png",
     "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments/Pasted image 20230916140735.png",
