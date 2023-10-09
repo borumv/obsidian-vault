@@ -32,14 +32,12 @@
             "id": "3f53dbf221745a96",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 5.canvas",
-                "viewState": {
-                  "x": 13.31607280262943,
-                  "y": -336.35717416022703,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "KB/Programming/Liskov Substitution Principle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -55,17 +53,19 @@
             "id": "68a0a937ab7066bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "KB/Programming/Виды связи между классами ООП.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "О.canvas",
+                "viewState": {
+                  "x": -600.9216564671551,
+                  "y": 342.21909323280505,
+                  "zoom": -0.9117205132127129
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,21 +78,6 @@
         "id": "de52ef608bde94c3",
         "type": "tabs",
         "children": [
-          {
-            "id": "590e07cecc88429f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "f.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 372,
-                  "zoom": 0
-                }
-              }
-            }
-          },
           {
             "id": "f248149c28d0afca",
             "type": "leaf",
@@ -137,12 +122,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -190,43 +174,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f53dbf221745a96",
+  "active": "68a0a937ab7066bf",
   "lastOpenFiles": [
-    "Инкапсуляция.md",
+    "агрегирование.md",
+    "О.canvas",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
     "KB/Programming/Виды связи между классами ООП.md",
-    "Untitled 5.canvas",
+    "Untitled 1.canvas",
+    "f.canvas",
+    "Untitled.canvas",
+    "Untitled 6.canvas",
+    "KB/Programming/java/java_LinkedList.md",
+    "KB/Programming/Liskov Substitution Principle.md",
+    "Инкапсуляция.md",
     "Абстракция.md",
     "java_TreeMap.md",
-    "наследование.md",
+    "Наследование.md",
     "Projects/LectionMultiThreading.md",
-    "Untitled 4.canvas",
     "KB/Programming/Java volatile.md",
     "KB/Programming/Бинарное Дерево - структура данных.md",
     "KB/Programming/algorithms/Tree Data Structure.md",
     "KB/Programming/Менеджер памяти с помощью Tree Data Structure.md",
     "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
     "Untitled 4.md",
-    "KB/Programming/java/java_LinkedList.md",
     "KB/Programming/java/java_TreeSet.md",
     "KB/Programming/java/java_Comparator.md",
     "BDK Trees.md",
-    "Untitled 3.canvas",
     "KW/KB/English/Gerunds and Infinitive.md",
     "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
-    "f.canvas",
     "fff.md",
     "media/Pasted image 20220408123511.png",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
     "KB/Programming/Чистка Docker.md",
-    "Untitled 1.canvas",
     "Excalidraw/Drawing 2023-10-05 11.24.40.excalidraw.md",
     "Untitled Diagram.svg",
     "KB/Programming/algorithms/Quick Sorting.md",
     "KB/English/Conditionals.md",
-    "KB/English/Условное наклонение 3-го типа (Conditional 3) - unreal in the past.md",
-    "KB/English/Условное наклонение 1-го типа (Conditional 1).md",
-    "KB/English/Условное наклонение 0-го типа (Conditional 1).md",
     "KW/KW/attachments/Pasted image 20230916142717.png",
     "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments/Pasted image 20230916140735.png",
