@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_LinkedList.md",
+                "file": "KB/Programming/Kafka broker settings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,19 +53,14 @@
             "id": "68a0a937ab7066bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "О.canvas",
-                "viewState": {
-                  "x": -600.9216564671551,
-                  "y": 342.21909323280505,
-                  "zoom": -0.9117205132127129
-                }
+                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,51 +168,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68a0a937ab7066bf",
+  "active": "083988f5d2034d87",
   "lastOpenFiles": [
-    "агрегирование.md",
+    "KB/Programming/java/Настройка Kafka в java.md",
+    "KB/Programming/📙MOC-Kafka.md",
+    "Projects/Горизонтальное масштабирование.md",
+    "Projects/Nutrients.md",
+    "Projects/Kafka-group-by.md",
+    "Projects/JAVA 17.md",
+    "Projects/BorderNews.md",
+    "Projects/ArrayBlocingQue.md",
+    "media/Pasted image 20220626104308.png",
+    "media/Pasted image 20220417104816.png",
+    "KB/Programming/ArrayDeque.md",
+    "KB/Programming/java/java_Deque.md",
+    "KB/Programming/java/java_LinkedList.md",
+    "KB/Programming/Liskov Substitution Principle.md",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-01 15.00.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-16 14.14.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 11.24.40.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
+    "9kxbknhl.bmp",
+    "Pasted image 20230712091438.png",
+    "Pasted image 20230712090258.png",
     "О.canvas",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "KB/Programming/Виды связи между классами ООП.md",
     "Untitled 1.canvas",
     "f.canvas",
     "Untitled.canvas",
     "Untitled 6.canvas",
-    "KB/Programming/java/java_LinkedList.md",
-    "KB/Programming/Liskov Substitution Principle.md",
-    "Инкапсуляция.md",
-    "Абстракция.md",
-    "java_TreeMap.md",
-    "Наследование.md",
-    "Projects/LectionMultiThreading.md",
-    "KB/Programming/Java volatile.md",
-    "KB/Programming/Бинарное Дерево - структура данных.md",
-    "KB/Programming/algorithms/Tree Data Structure.md",
-    "KB/Programming/Менеджер памяти с помощью Tree Data Structure.md",
-    "KB/Programming/algorithms/📙MOC-ALGORITHMS.md",
-    "Untitled 4.md",
-    "KB/Programming/java/java_TreeSet.md",
-    "KB/Programming/java/java_Comparator.md",
-    "BDK Trees.md",
-    "KW/KB/English/Gerunds and Infinitive.md",
-    "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
-    "fff.md",
     "media/Pasted image 20220408123511.png",
-    "KB/Programming/Чистка Docker.md",
-    "Excalidraw/Drawing 2023-10-05 11.24.40.excalidraw.md",
     "Untitled Diagram.svg",
-    "KB/Programming/algorithms/Quick Sorting.md",
-    "KB/English/Conditionals.md",
     "KW/KW/attachments/Pasted image 20230916142717.png",
     "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments/Pasted image 20230916140735.png",
-    "KW/KW/attachments/Pasted image 20230915120436.png",
-    "KW/KW/attachments/Pasted image 20230910143448.png",
-    "KW/KW/attachments/Pasted image 20230910133723.png",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "KW/KW/attachments/Pasted Image 20230827142441_714.png",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",

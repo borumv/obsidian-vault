@@ -3,5 +3,5 @@
 2. ЧереЗ [[Kafka Streams API|kafka-streams]] (?) мы делаем **парсинг** находим **индексы**, по которым будем читать  [[kafka_message|сообщения]] и отдаём сообщения в топик parsing-input
 3. Через kafka-streams мы уже читаем файл и делаем групп-бай
 
-![[Untitled Diagram.svg|1000]]
+
 

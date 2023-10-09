@@ -19,7 +19,7 @@ tags: java, javadoc
 **Реализации интерфейсов коллекции**
 1) List -> [ArrayList](java_ArrayList.md), [LinkedList](java_LinkedList.md), [Stack](java_Stack)(**deprecated**, на замену пришёл [Deque](java_Deque.md)) [Vector](java_Vector) (**deprecated**, потому что методы в нём были синхронизированы)
 2) Set -> **[HashSet](java_HashSet.md)**, [LinkedHashSet](java_LinkedHashSet.md), [TreeSet](java_TreeSet.md)(двоичное дерево) (он реализует **SortedSet**)
-3) Queue -> **LinkedList** (вместе с **List**), [PriorityQueue](java_PriorityQueue.md), [ArrayDeque](java_ArrayDeque), 
+3) Queue -> **LinkedList** (вместе с **List**), [PriorityQueue](java_PriorityQueue.md), [ArrayDeque](ArrayDeque.md), 
 4) Map -> **[HashMap](java_HashMap)**, **[HashLinkedMap](java_HashLinkedMap)**(и много других)
 
 
