@@ -1,7 +1,12 @@
 {
 	"nodes":[
-		{"id":"d151c2361b2c20b0","x":-500,"y":-640,"width":299,"height":160,"type":"file","file":"KB/Programming/java/📙Hibernate.md"},
-		{"id":"cf1eabe46f0770e7","x":-420,"y":-240,"width":250,"height":60,"type":"text","text":"## Attribute converter\n"}
+		{"id":"cf1eabe46f0770e7","x":-420,"y":-240,"width":250,"height":60,"type":"text","text":"## Attribute converter\n"},
+		{"id":"d151c2361b2c20b0","x":-600,"y":-780,"width":220,"height":260,"type":"file","file":"KB/Programming/java/📙Hibernate.md"},
+		{"id":"211ba6a7dbaa5c7c","x":-380,"y":-1020,"width":250,"height":60,"type":"text","text":"*Является аналогом ConnectionPool, когда мы работаем в Hibernate*\n"},
+		{"id":"b19feed155471222","x":-255,"y":-900,"width":455,"height":180,"type":"file","file":"KB/Programming/SessionFactory.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"76059a890439cc97","fromNode":"d151c2361b2c20b0","fromSide":"right","toNode":"b19feed155471222","toSide":"left"},
+		{"id":"15811173fee6773f","fromNode":"b19feed155471222","fromSide":"top","toNode":"211ba6a7dbaa5c7c","toSide":"right"}
+	]
 }

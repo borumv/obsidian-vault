@@ -12,6 +12,8 @@ Tags: hibernate moc
 [[Состояние объектов в Hibernate]]
 [[hibernate_Аннотации]] 
 
+[[SessionFactory]]
+
 
 
 

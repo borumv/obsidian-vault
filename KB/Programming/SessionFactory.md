@@ -13,6 +13,14 @@ Tags: programming
 Для каждой сущности маппится свой *`EntityPersister`*, который знает как выполнять **CRUD** запросы для наших сущностей. Т.е. именно **EntityPersister** занимается реализацией [[ORM]]. 
 
 
+### Создание объекта SessionFactory
+
+```java
+Configuration configuration = new Configuration();
+configuration.configure();
+SessionFacotry sessionFactory = configure.buildSessionFactory();
+```
+
 
 see: [[Cache Hibernate|Кэширование в Hibernate]]
 
