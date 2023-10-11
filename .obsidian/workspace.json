@@ -15,9 +15,9 @@
               "state": {
                 "file": "Hibernate canvas.canvas",
                 "viewState": {
-                  "x": -201.4337089273934,
-                  "y": -20.403950967640583,
-                  "zoom": -0.6666666666666665
+                  "x": 39.477557889905455,
+                  "y": -454.03957916337447,
+                  "zoom": -0.9999999999999998
                 }
               }
             }
@@ -181,11 +181,12 @@
   },
   "active": "9be701ebe3cabf6c",
   "lastOpenFiles": [
+    "Oracle OLAP.md",
+    "KB/Programming/Liskov Substitution Principle.md",
     "Hibernate canvas.canvas",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "Oracle OLAP.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Kafka broker settings.md",
     "KB/Programming/java/Настройка Kafka в java.md",
@@ -201,7 +202,6 @@
     "KB/Programming/ArrayDeque.md",
     "KB/Programming/java/java_Deque.md",
     "KB/Programming/java/java_LinkedList.md",
-    "KB/Programming/Liskov Substitution Principle.md",
     "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
