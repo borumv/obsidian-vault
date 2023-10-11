@@ -11,8 +11,15 @@
             "id": "9be701ebe3cabf6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Hibernate canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -440.6640625,
+                  "zoom": 0
+                }
+              }
             }
           },
           {
@@ -55,19 +62,16 @@
             "id": "f922efb643cf1f04",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 547,
-                  "y": -125.09375,
-                  "zoom": 0
-                }
+                "file": "KB/Programming/java/Состояние объектов в Hibernate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f922efb643cf1f04",
+  "active": "9be701ebe3cabf6c",
   "lastOpenFiles": [
+    "Hibernate canvas.canvas",
+    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Oracle OLAP.md",
@@ -204,7 +210,6 @@
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
     "9kxbknhl.bmp",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
@@ -212,7 +217,6 @@
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Untitled 1.canvas",
     "f.canvas",
     "Untitled 6.canvas",
     "media/Pasted image 20220408123511.png",

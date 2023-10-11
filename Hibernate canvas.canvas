@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d151c2361b2c20b0","x":-500,"y":-640,"width":299,"height":160,"type":"file","file":"KB/Programming/java/📙Hibernate.md"},
+		{"id":"cf1eabe46f0770e7","x":-420,"y":-240,"width":250,"height":60,"type":"text","text":"## Attribute converter\n"}
+	],
+	"edges":[]
+}
