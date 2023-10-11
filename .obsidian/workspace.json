@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Kafka broker settings.md",
+                "file": "Oracle OLAP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,14 +42,6 @@
             }
           },
           {
-            "id": "a74b76691789f8e8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "68a0a937ab7066bf",
             "type": "leaf",
             "state": {
@@ -58,9 +50,24 @@
                 "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f922efb643cf1f04",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,8 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "083988f5d2034d87",
+  "active": "f922efb643cf1f04",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "Oracle OLAP.md",
+    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
+    "KB/Programming/Kafka broker settings.md",
     "KB/Programming/java/Настройка Kafka в java.md",
     "KB/Programming/📙MOC-Kafka.md",
     "Projects/Горизонтальное масштабирование.md",
@@ -184,7 +196,6 @@
     "KB/Programming/java/java_Deque.md",
     "KB/Programming/java/java_LinkedList.md",
     "KB/Programming/Liskov Substitution Principle.md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
@@ -194,10 +205,6 @@
     "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-16 14.14.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-05 11.24.40.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
     "9kxbknhl.bmp",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
@@ -207,7 +214,6 @@
     "Untitled 3.canvas",
     "Untitled 1.canvas",
     "f.canvas",
-    "Untitled.canvas",
     "Untitled 6.canvas",
     "media/Pasted image 20220408123511.png",
     "Untitled Diagram.svg",
