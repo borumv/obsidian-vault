@@ -8,14 +8,16 @@
 		{"id":"d151c2361b2c20b0","type":"file","file":"KB/Programming/java/📙Hibernate.md","x":-940,"y":-1250,"width":320,"height":394},
 		{"id":"cf1eabe46f0770e7","type":"text","text":"## Attribute converter\n","x":-940,"y":-1540,"width":250,"height":140},
 		{"id":"eb96267261de6532","type":"file","file":"KB/Programming/Преобразование типов в Hibernate.md","x":-542,"y":-708,"width":522,"height":528},
-		{"id":"872911b33360ed62","x":73,"y":-708,"width":250,"height":60,"type":"text","text":"### `interface Type`"},
-		{"id":"b39968f720092c82","x":74,"y":-591,"width":250,"height":60,"type":"text","text":"### `interface BasicType`"}
+		{"id":"b39968f720092c82","type":"text","text":"**`interface BasicType`**","x":73,"y":-580,"width":207,"height":50},
+		{"id":"872911b33360ed62","type":"text","text":"**`nterface Type`**","x":90,"y":-708,"width":173,"height":60},
+		{"id":"2c3964172edf5b1a","x":26,"y":-444,"width":301,"height":80,"type":"text","text":"**реализации данного интерфейса, обеспечивающие преобразование типов**"}
 	],
 	"edges":[
 		{"id":"76059a890439cc97","fromNode":"d151c2361b2c20b0","fromSide":"right","toNode":"b19feed155471222","toSide":"left"},
 		{"id":"15811173fee6773f","fromNode":"b19feed155471222","fromSide":"top","toNode":"211ba6a7dbaa5c7c","toSide":"right","toEnd":"none"},
 		{"id":"3fed366e7de85165","fromNode":"b19feed155471222","fromSide":"bottom","toNode":"82121fab03698897","toSide":"top"},
 		{"id":"dcbc18c119d2f3ca","fromNode":"82121fab03698897","fromSide":"right","toNode":"0c51ecf5c3f4e897","toSide":"left","toEnd":"none"},
-		{"id":"3739feb886371d35","fromNode":"872911b33360ed62","fromSide":"bottom","toNode":"b39968f720092c82","toSide":"top"}
+		{"id":"6edfa68020c7f145","fromNode":"b39968f720092c82","fromSide":"top","toNode":"872911b33360ed62","toSide":"bottom"},
+		{"id":"10099d1564e3b8ba","fromNode":"2c3964172edf5b1a","fromSide":"top","toNode":"b39968f720092c82","toSide":"bottom"}
 	]
 }
