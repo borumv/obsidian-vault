@@ -28,9 +28,9 @@
               "state": {
                 "file": "Hibernate canvas.canvas",
                 "viewState": {
-                  "x": 551.4330714698301,
-                  "y": -784.0704990962292,
-                  "zoom": -0.42582808840776537
+                  "x": 486.05148205197963,
+                  "y": -1372.3754264399781,
+                  "zoom": -0.9999999999999998
                 }
               }
             }
@@ -169,8 +169,9 @@
   },
   "active": "f922efb643cf1f04",
   "lastOpenFiles": [
-    "KB/Programming/First level cache Hibernate.md",
     "Hibernate canvas.canvas",
+    "KB/Programming/Dirty Session.md",
+    "KB/Programming/First level cache Hibernate (Persistent context).md",
     "KB/Programming/Преобразование типов в Hibernate.md",
     "KB/Programming/SessionFactory.md",
     "KB/Programming/EntityPersister.md",
@@ -199,10 +200,8 @@
     "Oracle OLAP.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Road.md",
     "Pasted image 20230709105335.png",
     "olap.canvas",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
     "9kxbknhl.bmp",
