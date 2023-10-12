@@ -23,6 +23,6 @@ SessionFacotry sessionFactory = configure.buildSessionFactory();
 ```
 
 
-see: [[Cache Hibernate|Кэширование в Hibernate]]
+see: [[First level cache Hibernate|Кэширование в Hibernate]]
 
 

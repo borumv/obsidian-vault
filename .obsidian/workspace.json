@@ -28,8 +28,8 @@
               "state": {
                 "file": "Hibernate canvas.canvas",
                 "viewState": {
-                  "x": 707.5497351603669,
-                  "y": 1938.7753077268055,
+                  "x": 551.4330714698301,
+                  "y": -784.0704990962292,
                   "zoom": -0.42582808840776537
                 }
               }
@@ -169,10 +169,11 @@
   },
   "active": "f922efb643cf1f04",
   "lastOpenFiles": [
-    "KB/Programming/SessionFactory.md",
-    "KB/Programming/Преобразование типов в Hibernate.md",
-    "KB/Programming/EntityPersister.md",
+    "KB/Programming/First level cache Hibernate.md",
     "Hibernate canvas.canvas",
+    "KB/Programming/Преобразование типов в Hibernate.md",
+    "KB/Programming/SessionFactory.md",
+    "KB/Programming/EntityPersister.md",
     "KB/Programming/java/📙Hibernate.md",
     "Создание чанка (мыслительной идеи).md",
     "Начало.md",
@@ -202,7 +203,6 @@
     "Pasted image 20230709105335.png",
     "olap.canvas",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "Untitled.md",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
     "9kxbknhl.bmp",
