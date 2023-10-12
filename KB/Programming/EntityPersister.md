@@ -5,7 +5,13 @@ Aliases: hibernate
 Tags: programming
 ---
 
-# [[EntityPersister]]
+📌 Сущность, которая хранится в метамодели [[SessionFactory]], которая занимается маппингом [[ORM]] на [[ООП]] модель.
 
-📌
+Для каждой [[Hibernate entity]] мапится свой `EntityPersister`
+
+
+```java
+private EntityPersister locateEntityPersister(Class entityClass)
+```
+
 
