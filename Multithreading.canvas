@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"af2fd2da140cd6aa","type":"text","text":"# Multithreading\n","x":-137,"y":-340,"width":225,"height":60},
+		{"id":"ad7dd961b65bb3af","type":"text","text":"## Semafore\n\n- метод reliase\n- метод require\n- понятие permission\n\n","x":-162,"y":-100,"width":250,"height":160}
+	],
+	"edges":[
+		{"id":"117ce62551f94007","fromNode":"af2fd2da140cd6aa","fromSide":"bottom","toNode":"ad7dd961b65bb3af","toSide":"top"}
+	]
+}

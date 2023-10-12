@@ -1,18 +1,21 @@
 {
 	"nodes":[
-		{"id":"ebc28da6d207a821","x":-280,"y":-1480,"width":930,"height":640,"type":"group","label":"Session Factory и Session"},
-		{"id":"cf1eabe46f0770e7","x":-1120,"y":-1080,"width":250,"height":60,"type":"text","text":"## Attribute converter\n"},
-		{"id":"d151c2361b2c20b0","x":-920,"y":-1008,"width":320,"height":394,"type":"file","file":"KB/Programming/java/📙Hibernate.md"},
-		{"id":"211ba6a7dbaa5c7c","x":-280,"y":-1460,"width":250,"height":60,"type":"text","text":"*Является аналогом ConnectionPool, когда мы работаем в Hibernate*\n"},
-		{"id":"b19feed155471222","x":-155,"y":-1340,"width":455,"height":180,"type":"file","file":"KB/Programming/SessionFactory.md"},
-		{"id":"82121fab03698897","x":-108,"y":-1084,"width":362,"height":194,"type":"file","file":"KB/Programming/Session class Hibernate.md"},
-		{"id":"0c51ecf5c3f4e897","x":380,"y":-1114,"width":250,"height":60,"type":"text","text":"*Обёртка над Connection*"},
-		{"id":"eb96267261de6532","x":-272,"y":-708,"width":512,"height":388,"type":"file","file":"Преобразование типов в Hibernate.md"}
+		{"id":"ebc28da6d207a821","type":"group","x":-280,"y":-1480,"width":930,"height":640,"label":"Session Factory и Session"},
+		{"id":"211ba6a7dbaa5c7c","type":"text","text":"*Является аналогом ConnectionPool, когда мы работаем в Hibernate*\n","x":-280,"y":-1460,"width":250,"height":60},
+		{"id":"b19feed155471222","type":"file","file":"KB/Programming/SessionFactory.md","x":-155,"y":-1340,"width":455,"height":180},
+		{"id":"82121fab03698897","type":"file","file":"KB/Programming/Session class Hibernate.md","x":-108,"y":-1084,"width":362,"height":194},
+		{"id":"0c51ecf5c3f4e897","type":"text","text":"*Обёртка над Connection*","x":380,"y":-1114,"width":250,"height":60},
+		{"id":"d151c2361b2c20b0","type":"file","file":"KB/Programming/java/📙Hibernate.md","x":-940,"y":-1250,"width":320,"height":394},
+		{"id":"cf1eabe46f0770e7","type":"text","text":"## Attribute converter\n","x":-940,"y":-1540,"width":250,"height":140},
+		{"id":"eb96267261de6532","type":"file","file":"KB/Programming/Преобразование типов в Hibernate.md","x":-542,"y":-708,"width":522,"height":528},
+		{"id":"872911b33360ed62","x":73,"y":-708,"width":250,"height":60,"type":"text","text":"### `interface Type`"},
+		{"id":"b39968f720092c82","x":74,"y":-591,"width":250,"height":60,"type":"text","text":"### `interface BasicType`"}
 	],
 	"edges":[
 		{"id":"76059a890439cc97","fromNode":"d151c2361b2c20b0","fromSide":"right","toNode":"b19feed155471222","toSide":"left"},
 		{"id":"15811173fee6773f","fromNode":"b19feed155471222","fromSide":"top","toNode":"211ba6a7dbaa5c7c","toSide":"right","toEnd":"none"},
 		{"id":"3fed366e7de85165","fromNode":"b19feed155471222","fromSide":"bottom","toNode":"82121fab03698897","toSide":"top"},
-		{"id":"dcbc18c119d2f3ca","fromNode":"82121fab03698897","fromSide":"right","toNode":"0c51ecf5c3f4e897","toSide":"left","toEnd":"none"}
+		{"id":"dcbc18c119d2f3ca","fromNode":"82121fab03698897","fromSide":"right","toNode":"0c51ecf5c3f4e897","toSide":"left","toEnd":"none"},
+		{"id":"3739feb886371d35","fromNode":"872911b33360ed62","fromSide":"bottom","toNode":"b39968f720092c82","toSide":"top"}
 	]
 }

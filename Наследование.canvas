@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"e882d546206216b8","type":"file","file":"KB/Programming/Виды связи между классами ООП.md","x":-187,"y":-1808,"width":930,"height":893},
+		{"id":"e280982f872534a7","type":"file","file":"KB/Programming/Полиморфизм.md","x":954,"y":-433,"width":474,"height":112},
+		{"id":"e1bdc173ffdaacb8","type":"file","file":"Абстракция.md","x":1568,"y":-433,"width":393,"height":112},
+		{"id":"cd417654d2470d40","type":"file","file":"Инкапсуляция.md","x":2149,"y":-433,"width":442,"height":112},
+		{"id":"48373db687d03b9b","type":"text","text":"### Виды полиморфизма\n\nвыфв\n","x":545,"y":-54,"width":581,"height":134,"color":"4"},
+		{"id":"b1c0c1f42a26bc51","type":"text","text":"# ООП","x":1475,"y":-1437,"width":581,"height":134},
+		{"id":"db52d9d4de2e8f24","type":"file","file":"KB/Programming/java/SOLID.md","x":2590,"y":-1817,"width":930,"height":893},
+		{"id":"6b72c8eea6859ad4","type":"file","file":"Наследование.md","x":320,"y":-453,"width":451,"height":132},
+		{"id":"ca5226b688456faa","type":"text","text":"## Какие плюсы даёт композиция по сравнению с наследованием?\n\n","x":-1500,"y":-2080,"width":860,"height":777}
+	],
+	"edges":[
+		{"id":"2c4d7fdbd010e2f1","fromNode":"b1c0c1f42a26bc51","fromSide":"bottom","toNode":"e280982f872534a7","toSide":"top"},
+		{"id":"05d8e3cfcdb009ff","fromNode":"b1c0c1f42a26bc51","fromSide":"bottom","toNode":"e1bdc173ffdaacb8","toSide":"top"},
+		{"id":"49b2f7223f26af4f","fromNode":"b1c0c1f42a26bc51","fromSide":"bottom","toNode":"cd417654d2470d40","toSide":"top"},
+		{"id":"a98be1adfc353d21","fromNode":"e280982f872534a7","fromSide":"bottom","toNode":"48373db687d03b9b","toSide":"top"},
+		{"id":"ffd750c895e7034c","fromNode":"b1c0c1f42a26bc51","fromSide":"right","toNode":"db52d9d4de2e8f24","toSide":"left"},
+		{"id":"e7178c99ab4ff61d","fromNode":"b1c0c1f42a26bc51","fromSide":"bottom","toNode":"6b72c8eea6859ad4","toSide":"top"},
+		{"id":"d074e3bc3c358447","fromNode":"b1c0c1f42a26bc51","fromSide":"left","toNode":"e882d546206216b8","toSide":"right"},
+		{"id":"be6aab6e36dcee99","fromNode":"e882d546206216b8","fromSide":"left","toNode":"ca5226b688456faa","toSide":"right"}
+	]
+}
