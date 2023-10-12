@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hibernate canvas.canvas",
+                "file": "Untitled 1.canvas",
                 "viewState": {
-                  "x": 39.477557889905455,
-                  "y": -454.03957916337447,
-                  "zoom": -0.9999999999999998
+                  "x": 1476.2829783304253,
+                  "y": 2592.2829783304255,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,14 +180,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9be701ebe3cabf6c",
+  "active": "f922efb643cf1f04",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "KB/Programming/java/Состояние объектов в Hibernate.md",
+    "BDK Trees.md",
+    "Hibernate canvas.canvas",
+    "Преобразование типов в Hibernate.md",
     "Oracle OLAP.md",
     "KB/Programming/Liskov Substitution Principle.md",
-    "Hibernate canvas.canvas",
-    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "KB/Programming/Kafka broker settings.md",
     "KB/Programming/java/Настройка Kafka в java.md",
@@ -208,8 +212,6 @@
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-01 15.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "9kxbknhl.bmp",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
