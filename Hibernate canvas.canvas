@@ -9,9 +9,10 @@
 		{"id":"cf1eabe46f0770e7","type":"text","text":"## Attribute converter\n","x":-940,"y":-1540,"width":250,"height":140},
 		{"id":"b39968f720092c82","type":"text","text":"**`interface BasicType`**","x":73,"y":-580,"width":207,"height":50},
 		{"id":"872911b33360ed62","type":"text","text":"**`nterface Type`**","x":90,"y":-708,"width":173,"height":60},
-		{"id":"2c3964172edf5b1a","x":26,"y":-444,"width":301,"height":80,"type":"text","text":"**реализации данного интерфейса, обеспечивающие преобразование типов**"},
 		{"id":"eb96267261de6532","type":"file","file":"KB/Programming/Преобразование типов в Hibernate.md","x":-800,"y":-760,"width":762,"height":528},
-		{"id":"1cf921aa978e1e57","x":680,"y":-434,"width":250,"height":60,"type":"text","text":"`interface UserType`"}
+		{"id":"1cf921aa978e1e57","x":680,"y":-434,"width":250,"height":60,"type":"text","text":"`interface UserType`"},
+		{"id":"2c3964172edf5b1a","x":26,"y":-444,"width":301,"height":80,"type":"text","text":"**реализации данного интерфейса, обеспечивающие преобразование типов**"},
+		{"id":"475260924c87db03","x":51,"y":-262,"width":250,"height":60,"type":"text","text":"`class AttributeConverter`"}
 	],
 	"edges":[
 		{"id":"76059a890439cc97","fromNode":"d151c2361b2c20b0","fromSide":"right","toNode":"b19feed155471222","toSide":"left"},
@@ -20,6 +21,7 @@
 		{"id":"dcbc18c119d2f3ca","fromNode":"82121fab03698897","fromSide":"right","toNode":"0c51ecf5c3f4e897","toSide":"left","toEnd":"none"},
 		{"id":"6edfa68020c7f145","fromNode":"b39968f720092c82","fromSide":"top","toNode":"872911b33360ed62","toSide":"bottom"},
 		{"id":"10099d1564e3b8ba","fromNode":"2c3964172edf5b1a","fromSide":"top","toNode":"b39968f720092c82","toSide":"bottom"},
-		{"id":"598711b86d0c25dd","fromNode":"2c3964172edf5b1a","fromSide":"right","toNode":"1cf921aa978e1e57","toSide":"left","label":"для более лёгкой\nреализации"}
+		{"id":"598711b86d0c25dd","fromNode":"2c3964172edf5b1a","fromSide":"right","toNode":"1cf921aa978e1e57","toSide":"left","label":"для более лёгкой\nреализации"},
+		{"id":"579aaaa64b2cc6c7","fromNode":"475260924c87db03","fromSide":"top","toNode":"2c3964172edf5b1a","toSide":"bottom","label":"написать свой конвертер"}
 	]
 }
