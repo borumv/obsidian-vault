@@ -24,14 +24,12 @@
             "id": "f922efb643cf1f04",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hibernate canvas.canvas",
-                "viewState": {
-                  "x": 926.8808576007557,
-                  "y": 661.7096805945966,
-                  "zoom": -1.4258280884077652
-                }
+                "file": "KB/Programming/SessionFactory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -169,11 +167,13 @@
   },
   "active": "f922efb643cf1f04",
   "lastOpenFiles": [
+    "KB/Programming/EntityPersister.md",
+    "KB/Programming/SessionFactory.md",
+    "Hibernate canvas.canvas",
     "KB/Programming/java/📙Hibernate.md",
     "Создание чанка (мыслительной идеи).md",
     "Начало.md",
     "KB/Programming/java/JPA.md",
-    "Hibernate canvas.canvas",
     "KB/Programming/java/hibernate_Аннотации.md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
@@ -181,7 +181,6 @@
     "Инкапсуляция.md",
     "Excalidraw/Drawing 2023-10-12 09.39.07.excalidraw.md",
     "Multithreading.canvas",
-    "KB/Programming/SessionFactory.md",
     "KB/Programming/java/hibernate_Оптимистические локи.md",
     "KB/Programming/java/hibernate_Пессимистические локи.md",
     "Наследование.canvas",
@@ -202,7 +201,6 @@
     "olap.canvas",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Untitled.md",
-    "Untitled 1.md",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
     "9kxbknhl.bmp",
