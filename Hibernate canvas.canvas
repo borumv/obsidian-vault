@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ebc28da6d207a821","type":"group","x":-320,"y":-2280,"width":2600,"height":1560,"label":"Session Factory и Session"},
+		{"id":"ebc28da6d207a821","type":"group","x":-320,"y":-2280,"width":2600,"height":1640,"label":"Session Factory и Session"},
 		{"id":"511a1cf58d278d12","type":"group","x":-280,"y":-560,"width":1800,"height":760,"label":"Преобразование типов"},
 		{"id":"872911b33360ed62","type":"text","text":"**`nterface Type`**","x":630,"y":-488,"width":173,"height":60},
 		{"id":"eb96267261de6532","type":"file","file":"KB/Programming/Преобразование типов в Hibernate.md","x":-257,"y":-488,"width":762,"height":608},
@@ -17,7 +17,7 @@
 		{"id":"211ba6a7dbaa5c7c","type":"text","text":"*Является аналогом ConnectionPool, когда мы работаем в Hibernate*\n","x":-320,"y":-1940,"width":250,"height":60},
 		{"id":"82121fab03698897","type":"file","file":"KB/Programming/Session class Hibernate.md","x":-148,"y":-1564,"width":362,"height":324},
 		{"id":"b19feed155471222","type":"file","file":"KB/Programming/SessionFactory.md","x":84,"y":-1940,"width":455,"height":270},
-		{"id":"bc927cf6fdc21c6e","type":"file","file":"KB/Programming/Entities lifecycle Hibernate.md","x":-181,"y":-1160,"width":646,"height":420}
+		{"id":"bc927cf6fdc21c6e","type":"file","file":"KB/Programming/Entities lifecycle Hibernate.md","x":-181,"y":-1160,"width":646,"height":480}
 	],
 	"edges":[
 		{"id":"76059a890439cc97","fromNode":"d151c2361b2c20b0","fromSide":"right","toNode":"b19feed155471222","toSide":"left"},

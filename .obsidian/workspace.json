@@ -24,14 +24,12 @@
             "id": "f922efb643cf1f04",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hibernate canvas.canvas",
-                "viewState": {
-                  "x": 1038.301878158673,
-                  "y": -1558.3754264399781,
-                  "zoom": -0.9999999999999998
-                }
+                "file": "Projects/ArrayBlocingQue.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -69,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9403eec8ad08dfcd",
+  "active": "f922efb643cf1f04",
   "lastOpenFiles": [
-    "KB/Programming/algorithms/Алгоритмы - Бинарный поиск.md",
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Hibernate canvas.canvas",
+    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
+    "KB/Programming/algorithms/Алгоритмы - Бинарный поиск.md",
     "KB/Programming/Dirty Session.md",
     "KB/Programming/First level cache Hibernate (Persistent context).md",
     "KB/Programming/Преобразование типов в Hibernate.md",
@@ -208,7 +206,6 @@
     "Command line (команды командной строки).md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Untitled 6.canvas",
-    "Untitled 4.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230709105335.png",
