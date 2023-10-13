@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1af1fb79c90d74fa",
+  "active": "b2bfb8a5e1eeeeda",
   "lastOpenFiles": [
+    "olap.canvas",
     "KB/Programming/Преобразование типов в Hibernate.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Projects/ArrayBlocingQue.md",
@@ -206,12 +207,10 @@
     "fff.md",
     "constraints.md",
     "Command line (команды командной строки).md",
-    "KB/Programming/java/Состояние объектов в Hibernate.md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230709105335.png",
-    "olap.canvas",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
     "9kxbknhl.bmp",
