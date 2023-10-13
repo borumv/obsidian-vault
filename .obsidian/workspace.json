@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f922efb643cf1f04",
+  "active": "9403eec8ad08dfcd",
   "lastOpenFiles": [
+    "Projects/ArrayBlocingQue.md",
     "Hibernate canvas.canvas",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/algorithms/Алгоритмы - Бинарный поиск.md",
