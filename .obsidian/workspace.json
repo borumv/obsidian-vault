@@ -55,9 +55,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37f6e842a5a049ac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,11 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1af1fb79c90d74fa",
+  "active": "37f6e842a5a049ac",
   "lastOpenFiles": [
+    "KB/Programming/Побитовые операции.md",
+    "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
     "Projects/ArrayBlocingQue.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
-    "KB/Programming/Побитовые операции.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
     "olap.canvas",
     "KW/KB/English/Gerunds and Infinitive.md",
@@ -196,7 +207,6 @@
     "За гремучую доблесть грядущих веков….md",
     "Interview.md",
     "GeneratedValue.md",
-    "fff.md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
