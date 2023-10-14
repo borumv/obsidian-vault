@@ -60,9 +60,12 @@
             "id": "37f6e842a5a049ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md"
+                "file": "KB/Programming/Алгоритм Евклида.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -177,8 +180,9 @@
   },
   "active": "37f6e842a5a049ac",
   "lastOpenFiles": [
-    "KB/Programming/Побитовые операции.md",
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
+    "KB/Programming/Алгоритм Евклида.md",
+    "KB/Programming/Побитовые операции.md",
     "Projects/ArrayBlocingQue.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
@@ -206,7 +210,6 @@
     "Наследование.canvas",
     "За гремучую доблесть грядущих веков….md",
     "Interview.md",
-    "GeneratedValue.md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
