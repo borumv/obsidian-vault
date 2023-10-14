@@ -10,6 +10,8 @@ Tags: герундий ,  english
 
 ## Simple forms
 
+Parent: [[English_Grammar]]
+
 **GERUNDS**
 1. After Preposition  
 - I'm interested *in* learn<mark style="background: #FF5582A6;">ing</mark> *English*
@@ -19,10 +21,15 @@ Tags: герундий ,  english
 2. Verb used as a *subject* 
 - *Coding* is a fun
 3. After 
-Parent: [[English_Grammar]]
+
 
 **TO + INFINIVE**
-
+1. After *objectives*  (*difficult, easy, afraid*)
+- It's difficult *to pass* this exam
+- It's easy *to answer* this question
+- I'm afraid *to do that*
+2. To answer the question *why?*
+- 
 
 
 See also:[]
