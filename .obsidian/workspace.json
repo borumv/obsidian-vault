@@ -47,21 +47,6 @@
             "id": "1af1fb79c90d74fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "olap.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 278.89877000013746,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "b2bfb8a5e1eeeeda",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "KW/KB/English/Gerunds and Infinitive.md",
@@ -72,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,12 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2bfb8a5e1eeeeda",
+  "active": "1af1fb79c90d74fa",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
     "olap.canvas",
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Преобразование типов в Hibernate.md",
+    "KW/KB/English/Gerunds and Infinitive.md",
+    "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Projects/ArrayBlocingQue.md",
     "Hibernate canvas.canvas",
     "KB/Programming/algorithms/Алгоритмы - Бинарный поиск.md",
@@ -209,7 +195,6 @@
     "GeneratedValue.md",
     "fff.md",
     "constraints.md",
-    "Command line (команды командной строки).md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
