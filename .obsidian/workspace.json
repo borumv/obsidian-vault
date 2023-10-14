@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KW/KB/English/Gerunds and Infinitive.md",
+                "file": "KB/Programming/Побитовые операции.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -166,9 +167,11 @@
   },
   "active": "1af1fb79c90d74fa",
   "lastOpenFiles": [
+    "KB/Programming/Backtracking(поиск с возвратом).md",
+    "KB/Programming/Побитовые операции.md",
     "olap.canvas",
-    "KB/Programming/Преобразование типов в Hibernate.md",
     "KW/KB/English/Gerunds and Infinitive.md",
+    "KB/Programming/Преобразование типов в Hibernate.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Projects/ArrayBlocingQue.md",
@@ -194,7 +197,6 @@
     "Interview.md",
     "GeneratedValue.md",
     "fff.md",
-    "constraints.md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
