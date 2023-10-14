@@ -26,9 +26,6 @@ Parent: [[English_Grammar]]
 - I'll never forget *smoking* my first cigarette 
 - I *regret smoking* that first cigarette
 
-
-
-
 **TO + INFINIVE**
 1. After *objectives*  (*difficult, easy, afraid*)
 - It's difficult *to pass* this exam
