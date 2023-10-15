@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "45b7697b83b860f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "37f6e842a5a049ac",
             "type": "leaf",
             "state": {
@@ -70,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,10 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9403eec8ad08dfcd",
+  "active": "45b7697b83b860f1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KW/KB/English/Gerunds and Infinitive.md",
+    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Побитовые операции.md",
     "KB/Programming/Алгоритм Евклида.md",
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
@@ -209,7 +220,6 @@
     "KB/Programming/java/hibernate_Пессимистические локи.md",
     "Наследование.canvas",
     "За гремучую доблесть грядущих веков….md",
-    "Interview.md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
