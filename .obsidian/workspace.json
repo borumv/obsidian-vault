@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Побитовые операции.md",
+                "file": "KW/KB/English/Gerunds and Infinitive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfbcdaf712aab426",
+  "active": "1af1fb79c90d74fa",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
-    "KB/Programming/Алгоритм Евклида.md",
     "KB/Programming/Побитовые операции.md",
+    "KB/Programming/Алгоритм Евклида.md",
+    "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
     "Projects/ArrayBlocingQue.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",

@@ -40,7 +40,6 @@ Parent: [[English_Grammar]]
 - We *regret to inform* you 
 
 
-
 >After *like, hate, love, continue, prefer, start, begin* we can use both of gerunds and infinitive forms
 >But, we avoid using two verbs *together:*
 >- I was starting to feel ... ✅
@@ -57,6 +56,8 @@ Parent: [[English_Grammar]]
 - watch sb
 - notice sb
 - observe sb
+
+## Complex forms
 
 
 See also:[]
