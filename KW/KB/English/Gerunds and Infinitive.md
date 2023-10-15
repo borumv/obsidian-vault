@@ -99,5 +99,13 @@ There these forms of complex gerunds:
 
 **1. After prepositions**
 - I'm sorry *for having broken* your vase
+- He confessed *to having stolen* the money
+- The *thought of being buried* alive fills me with dread
+
+**2. After certain verbs**
+- He denied *having ever been married*
+- She doesn't *like being lied*
+
+**3. Gerund is subject**
 
 See also:[]
