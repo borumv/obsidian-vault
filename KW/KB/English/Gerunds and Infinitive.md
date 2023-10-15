@@ -57,7 +57,33 @@ Parent: [[English_Grammar]]
 - notice sb
 - observe sb
 
+---
 ## Complex forms
 
+##### **Complex infinitive**
+There these forms of complex infinitive:
+**to +**
+1. do - *Simple*
+2. be doing - *Continues*
+3. have done - *Perfect Simple*
+4. have been doing - *Perfect Continuous*
+5. be done - *Passive*
+6. have been done - *Passive perfect*
+
+
+**1. After certain passive forms**
+- He is *reported to have been found* by rescues
+- The suspect *is rumored to be hiding locally*
+**2. After adjectives**
+- I'm *delighted to have already met* him
+- Sorry, It was *childish to have ignored* you
+- I'm *happy to be teaching* you English
+**3. After certain verbs**
+- Would like
+- Would hate
+- Would love
+- Would prefer
+- be supposed to
+You weren't *supposed to have pushed that button*
 
 See also:[]
