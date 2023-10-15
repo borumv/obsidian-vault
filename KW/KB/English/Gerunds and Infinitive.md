@@ -86,4 +86,18 @@ There these forms of complex infinitive:
 - be supposed to
 You weren't *supposed to have pushed that button*
 
+
+##### **Complex Gerunds**
+
+There these forms of complex gerunds:
+**to +**
+1. doing - *Simple*
+2. having done - *Perfect Simple*
+4. having been doing - *Perfect Continuous*
+5. being done - *Passive*
+6. having been done - *Passive perfect*
+
+**1. After prepositions**
+- I'm sorry *for having broken* your vase
+
 See also:[]
