@@ -68,9 +68,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfbcdaf712aab426",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37f6e842a5a049ac",
+  "active": "bfbcdaf712aab426",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
     "KB/Programming/Алгоритм Евклида.md",
