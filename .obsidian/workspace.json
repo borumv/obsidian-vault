@@ -50,9 +50,12 @@
             "id": "45b7697b83b860f1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md"
+                "file": "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -190,8 +193,8 @@
   },
   "active": "45b7697b83b860f1",
   "lastOpenFiles": [
-    "KW/KB/English/Gerunds and Infinitive.md",
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
+    "KW/KB/English/Gerunds and Infinitive.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Побитовые операции.md",
     "KB/Programming/Алгоритм Евклида.md",
