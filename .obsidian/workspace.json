@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -191,15 +190,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45b7697b83b860f1",
+  "active": "9403eec8ad08dfcd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
+    "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
+    "Projects/ArrayBlocingQue.md",
     "KW/KB/English/Gerunds and Infinitive.md",
+    "KB/Programming/Алгоритм Евклида.md",
+    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Побитовые операции.md",
-    "KB/Programming/Алгоритм Евклида.md",
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
-    "Projects/ArrayBlocingQue.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
     "olap.canvas",
     "KB/Programming/Преобразование типов в Hibernate.md",
@@ -222,7 +222,6 @@
     "KB/Programming/java/hibernate_Оптимистические локи.md",
     "KB/Programming/java/hibernate_Пессимистические локи.md",
     "Наследование.canvas",
-    "За гремучую доблесть грядущих веков….md",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
