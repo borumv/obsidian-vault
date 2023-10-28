@@ -47,6 +47,21 @@
             }
           },
           {
+            "id": "d97cba3f27de6ca3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "olap.canvas",
+                "viewState": {
+                  "x": 178,
+                  "y": 202,
+                  "zoom": -1.5612207787211925
+                }
+              }
+            }
+          },
+          {
             "id": "45b7697b83b860f1",
             "type": "leaf",
             "state": {
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,17 +199,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9403eec8ad08dfcd",
+  "active": "d97cba3f27de6ca3",
   "lastOpenFiles": [
+    "Hello!!ew.md",
+    "KW/KB/English/Gerunds and Infinitive.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "Projects/ArrayBlocingQue.md",
-    "KW/KB/English/Gerunds and Infinitive.md",
     "KB/Programming/Алгоритм Евклида.md",
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
@@ -220,7 +236,6 @@
     "Excalidraw/Drawing 2023-10-12 09.39.07.excalidraw.md",
     "Multithreading.canvas",
     "KB/Programming/java/hibernate_Оптимистические локи.md",
-    "KB/Programming/java/hibernate_Пессимистические локи.md",
     "Наследование.canvas",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
