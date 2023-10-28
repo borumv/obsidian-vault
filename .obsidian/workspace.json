@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -205,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d97cba3f27de6ca3",
+  "active": "14ecc7640b45b49f",
   "lastOpenFiles": [
     "Hello!!ew.md",
     "KW/KB/English/Gerunds and Infinitive.md",
