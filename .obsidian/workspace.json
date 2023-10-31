@@ -50,14 +50,12 @@
             "id": "d97cba3f27de6ca3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "olap.canvas",
-                "viewState": {
-                  "x": 178,
-                  "y": 202,
-                  "zoom": -1.5612207787211925
-                }
+                "file": "Projects/ArrayBlocingQue.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -158,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -206,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14ecc7640b45b49f",
+  "active": "d97cba3f27de6ca3",
   "lastOpenFiles": [
+    "Создание чанка (мыслительной идеи).md",
     "hello.pub",
     "hello",
     "desktop.ini",
@@ -231,7 +229,6 @@
     "KB/Programming/SessionFactory.md",
     "KB/Programming/EntityPersister.md",
     "KB/Programming/java/📙Hibernate.md",
-    "Создание чанка (мыслительной идеи).md",
     "Начало.md",
     "KB/Programming/java/JPA.md",
     "KB/Programming/java/hibernate_Аннотации.md",
@@ -261,7 +258,6 @@
     "Excalidraw/Scripts",
     "KW/KB/English",
     "KW/KB",
-    "KW",
-    "I"
+    "KW"
   ]
 }
