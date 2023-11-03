@@ -19,27 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfbcdaf712aab426",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "54214772f3404af4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,8 +128,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54214772f3404af4",
+  "active": "083988f5d2034d87",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "INBOX/Dependency Injection.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "KB/Programming/Integration testing Spring.md",
+    "Hello!!ew.md",
+    "138. Copy List with Random Pointer.jpg",
     "Создание чанка (мыслительной идеи).md",
     "BDK Trees.md",
     "Осип Мандельштап.md",
@@ -163,7 +150,6 @@
     "hello.pub",
     "hello",
     "desktop.ini",
-    "Hello!!ew.md",
     "KW/KB/English/Gerunds and Infinitive.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
@@ -180,15 +166,10 @@
     "KB/Programming/SessionFactory.md",
     "KB/Programming/EntityPersister.md",
     "KB/Programming/java/📙Hibernate.md",
-    "Начало.md",
-    "KB/Programming/java/JPA.md",
-    "KB/Programming/java/hibernate_Аннотации.md",
-    "KB/Programming/hibernate_Начало работы с Hibernate.md",
     "Multithreading.canvas",
     "Наследование.canvas",
     "Untitled 6.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Pasted image 20230709105335.png",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
@@ -197,7 +178,6 @@
     "Pasted image 20230712090258.png",
     "Untitled 3.canvas",
     "f.canvas",
-    "Untitled Diagram.svg",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",
