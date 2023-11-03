@@ -21,71 +21,6 @@
             }
           },
           {
-            "id": "f922efb643cf1f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/ArrayBlocingQue.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9403eec8ad08dfcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KW/KB/English/Gerunds and Infinitive.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97cba3f27de6ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/ArrayBlocingQue.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b7697b83b860f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f6e842a5a049ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Алгоритм Евклида.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfbcdaf712aab426",
             "type": "leaf",
             "state": {
@@ -94,9 +29,17 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "54214772f3404af4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,23 +147,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d97cba3f27de6ca3",
+  "active": "54214772f3404af4",
   "lastOpenFiles": [
     "Создание чанка (мыслительной идеи).md",
+    "BDK Trees.md",
+    "Осип Мандельштап.md",
+    "Инкапсуляция.md",
+    "media/Pasted image 20220408123511.png",
+    "media/Pasted image 20220407200545.png",
+    "media/Pasted image 20220408122509.png",
+    "KB/Programming/Алгоритм Евклида.md",
+    "Untitled.canvas",
+    "olap.canvas",
+    "Projects/ArrayBlocingQue.md",
     "hello.pub",
     "hello",
     "desktop.ini",
     "Hello!!ew.md",
     "KW/KB/English/Gerunds and Infinitive.md",
     "INBOX/Алгоритмы - префиксные суммы и два указателя.md",
-    "Projects/ArrayBlocingQue.md",
-    "KB/Programming/Алгоритм Евклида.md",
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "KB/Programming/Побитовые операции.md",
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
     "KB/Programming/Backtracking(поиск с возвратом).md",
-    "olap.canvas",
     "KB/Programming/Преобразование типов в Hibernate.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
     "Hibernate canvas.canvas",
@@ -233,8 +184,6 @@
     "KB/Programming/java/JPA.md",
     "KB/Programming/java/hibernate_Аннотации.md",
     "KB/Programming/hibernate_Начало работы с Hibernate.md",
-    "Инкапсуляция.md",
-    "Excalidraw/Drawing 2023-10-12 09.39.07.excalidraw.md",
     "Multithreading.canvas",
     "Наследование.canvas",
     "Untitled 6.canvas",
@@ -248,10 +197,7 @@
     "Pasted image 20230712090258.png",
     "Untitled 3.canvas",
     "f.canvas",
-    "media/Pasted image 20220408123511.png",
     "Untitled Diagram.svg",
-    "KW/KW/attachments/Pasted image 20230916142717.png",
-    "KW/KW/attachments/Pasted image 20230916141102.png",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",
