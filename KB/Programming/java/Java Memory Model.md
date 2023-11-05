@@ -4,7 +4,7 @@ Last modified: Tuesday 17th January 2023 21:03
 Aliases: модель памяти в Java
 Tags: java
 ---
-
+d
 ![[Pasted image 20230429140153.png]]
 
 

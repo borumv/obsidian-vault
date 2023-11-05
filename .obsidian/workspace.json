@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_ArrayList.md",
+                "file": "KB/Programming/java/Java Memory Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,6 +130,9 @@
   },
   "active": "083988f5d2034d87",
   "lastOpenFiles": [
+    "KB/Programming/Java program counter register.md",
+    "KB/Programming/java/Java Memory Model.md",
+    "KB/Programming/java/java_ArrayList.md",
     "KB/Programming/java/java_Иерархия Java Collection Framework.md",
     "Создание чанка (мыслительной идеи).md",
     "Untitled 1.canvas",
@@ -164,9 +167,6 @@
     "KB/Programming/algorithms/Алгоритмы - Бинарный поиск.md",
     "KB/Programming/Dirty Session.md",
     "KB/Programming/First level cache Hibernate (Persistent context).md",
-    "KB/Programming/SessionFactory.md",
-    "KB/Programming/EntityPersister.md",
-    "KB/Programming/java/📙Hibernate.md",
     "Multithreading.canvas",
     "Наследование.canvas",
     "Untitled 6.canvas",
