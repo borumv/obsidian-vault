@@ -11,9 +11,12 @@
             "id": "083988f5d2034d87",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+                "file": "KB/Programming/Приведение типов в Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -125,10 +128,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a91bfa2826f815da",
+  "active": "083988f5d2034d87",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "KB/Programming/sql/psql_Приведение типов данных.md",
+    "KB/Programming/Приведение типов в Java.md",
     "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-01 15.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
@@ -152,8 +157,6 @@
     "Создание чанка (мыслительной идеи).md",
     "Untitled 1.canvas",
     "INBOX/Dependency Injection.md",
-    "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/Integration testing Spring.md",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
     "media/Pasted image 20220407200545.png",
