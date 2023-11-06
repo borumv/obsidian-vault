@@ -22,9 +22,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "090099fbf3d5b5bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +142,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4347f7ba6d23b81f",
+  "active": "090099fbf3d5b5bc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
     "KB/Programming/Приведение типов в Java.md",
     "KB/Programming/sql/psql_Приведение типов данных.md",
@@ -160,7 +171,6 @@
     "KB/Programming/java/java_Иерархия Java Collection Framework.md",
     "Создание чанка (мыслительной идеи).md",
     "Untitled 1.canvas",
-    "INBOX/Dependency Injection.md",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
     "media/Pasted image 20220407200545.png",
