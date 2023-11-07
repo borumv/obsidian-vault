@@ -27,9 +27,12 @@
             "id": "090099fbf3d5b5bc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md"
+                "file": "Interview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
