@@ -35,5 +35,3 @@ In terms of my personal qualities, I prefer not to self-evaluate, as I constantl
 - strive for improvement
 
 
-
-I  would describe my person as 
