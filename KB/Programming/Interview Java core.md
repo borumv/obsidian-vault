@@ -18,4 +18,4 @@ Tags: programming
 | Can’t have access modifiers; by default everything is assumed as public | Can contain access modifiers for the subs, functions, properties |
 | Its member can’t be Static                                              | Only Complete Member of abstract class can be Static             |
 
-
+В интерфейсе все поля `static final`
