@@ -29,20 +29,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "INBOX/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0dce01c760c10f2c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md"
               }
             }
           },
@@ -67,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +166,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfc221bedb5705ed",
+  "active": "264fd5d189729a32",
   "lastOpenFiles": [
+    "INBOX/git.md",
+    "KB/Programming/java/java_ClassLoader.md",
+    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
+    "Interview.md",
     "KB/Programming/Interview Java core.md",
     "Untitled.md",
-    "Interview.md",
-    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
     "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
     "KB/Programming/Приведение типов в Java.md",
@@ -203,8 +194,6 @@
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
     "JVM.md",
     "KB/Programming/Metaspace (метаданные).md",
-    "KB/Programming/java/Java Memory Model.md",
-    "KB/Programming/java/Java Virtual Machine.md",
     "Untitled 1.canvas",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
