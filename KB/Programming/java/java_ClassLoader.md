@@ -1,8 +1,11 @@
 ---
 created: Tuesday 24th January 2023 12:29
-Last modified: Tuesday 24th January 2023 12:29
-Aliases: загрузчик класса, classloader
-Tags: java
+Last modified: Wednesday 8th November 2023 12:39
+aliases:
+  - загрузчик класса
+  - classloader
+tags:
+  - java
 ---
 
 # [[java_ClassLoader]]

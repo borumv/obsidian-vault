@@ -19,3 +19,7 @@ Tags: programming
 | Its member can’t be Static                                              | Only Complete Member of abstract class can be Static             |
 
 В интерфейсе все поля `static final`
+
+
+### What problems might we face within multi-inheritance?
+
