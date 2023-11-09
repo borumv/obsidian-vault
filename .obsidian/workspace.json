@@ -61,9 +61,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7d12de2a4e8d5b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 3.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,13 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9eb5e14a256a5a3f",
+  "active": "f7d12de2a4e8d5b8",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "KB/Programming/AWS.md",
+    "templates/T-programming.md",
+    "Interview.md",
     "KW/KB/English/Interview preparing.md",
     "INBOX/git.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
-    "Interview.md",
     "KB/Programming/Interview Java core.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
@@ -197,9 +216,6 @@
     "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
-    "JVM.md",
     "Untitled 1.canvas",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
@@ -214,14 +230,12 @@
     "Multithreading.canvas",
     "Наследование.canvas",
     "Untitled 6.canvas",
-    "Untitled 2.canvas",
     "Pasted image 20230709105335.png",
     "media/Pasted image 20220626104308.png",
     "media/Pasted image 20220417104816.png",
     "9kxbknhl.bmp",
     "Pasted image 20230712091438.png",
     "Pasted image 20230712090258.png",
-    "Untitled 3.canvas",
     "f.canvas",
     "KW/KW/attachments",
     "KW/KW",
