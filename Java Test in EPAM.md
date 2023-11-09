@@ -10,7 +10,30 @@ Garbage collection
 Classes:
 
 Definition & Class & Constructors & This keywords & dynamic blocks [x]
-Access modifiers & Encapsulation & Packages [  ]
+## Access modifiers & Encapsulation & Packages [  ]
+### private
+
+- The element is only accessible within the class in which it is declared.
+- Provides the highest level of encapsulation.
+- It cannot be accessed from subclasses or outside classes.
+### default
+
+- When no access modifier is specified, the element has package-private or default access.
+- It is only accessible within classes in the same package.
+- Provides encapsulation at package level.
+### protected
+
+- Element is accessible within the same package and subclasses in other packages.
+- Allows subclasses to reuse parent class code while restricting access to others.
+### public
+
+- Element is accessible from any class.
+- Provides the lowest level of encapsulation.
+- Useful for APIs, interfaces, and methods intended for global access.
+
+
+
+
 Methods and var-arg methods & Overloading and static polymorphism
 Static keywords: methods & fields & static blocks
 Class Enum
