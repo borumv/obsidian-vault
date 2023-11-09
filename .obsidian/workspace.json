@@ -40,8 +40,13 @@
             "id": "9eb5e14a256a5a3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -57,7 +62,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "264fd5d189729a32",
+  "active": "9eb5e14a256a5a3f",
   "lastOpenFiles": [
+    "KW/KB/English/Interview preparing.md",
     "INBOX/git.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
@@ -193,7 +200,6 @@
     "Excalidraw/Drawing 2023-10-14 16.23.55.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
     "JVM.md",
-    "KB/Programming/Metaspace (метаданные).md",
     "Untitled 1.canvas",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
