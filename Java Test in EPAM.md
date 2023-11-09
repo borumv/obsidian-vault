@@ -10,7 +10,7 @@ Garbage collection
 Classes:
 
 Definition & Class & Constructors & This keywords & dynamic blocks [x]
-Access modifiers & Encapsulation & Packages
+Access modifiers & Encapsulation & Packages [  ]
 Methods and var-arg methods & Overloading and static polymorphism
 Static keywords: methods & fields & static blocks
 Class Enum
