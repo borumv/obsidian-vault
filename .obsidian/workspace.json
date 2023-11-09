@@ -76,9 +76,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "4359e8d835715814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Test in EPAM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,10 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7d12de2a4e8d5b8",
+  "active": "4359e8d835715814",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
     "Untitled 3.canvas",
+    "Java Test in EPAM.md",
+    "Untitled 2.canvas",
     "KB/Programming/AWS.md",
     "templates/T-programming.md",
     "Interview.md",
@@ -215,7 +229,6 @@
     "Excalidraw/Drawing 2023-10-05 11.24.40.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Untitled 1.canvas",
     "138. Copy List with Random Pointer.jpg",
     "media/Pasted image 20220408123511.png",
