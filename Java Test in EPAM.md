@@ -20,7 +20,7 @@ Definition & Class & Constructors & This keywords & dynamic blocks [x]
 
 - When no access modifier is specified, the element has package-private or default access.
 - It is only accessible within classes in the same package.
-- Provides encapsulation at package level.
+- Provides encapsulation at package level. 
 ### protected
 
 - Element is accessible within the same package and subclasses in other packages.
