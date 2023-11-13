@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Test in EPAM.md",
+                "file": "Interview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -195,20 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9eb5e14a256a5a3f",
+  "active": "4359e8d835715814",
   "lastOpenFiles": [
+    "KW/KB/English/Interview preparing.md",
+    "Java Test in EPAM.md",
     "INBOX/Dependency Injection.md",
     "KB/Programming/spring_Dependency Injection.md",
     "KB/Programming/📙Spring.md",
     "KB/Programming/java/📙MOC-JAVA.md",
     "Interview.md",
-    "Java Test in EPAM.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "KB/Programming/AWS.md",
     "templates/T-programming.md",
-    "KW/KB/English/Interview preparing.md",
     "INBOX/git.md",
     "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
     "KB/Programming/Interview Java core.md",

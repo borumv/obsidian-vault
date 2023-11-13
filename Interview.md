@@ -26,6 +26,14 @@ One of the most important lessons I learned from my mentor was the importance of
 
 In terms of my personal qualities, I prefer not to self-evaluate, as I constantly strive for improvement. However, those around me have often commented on my strong soft skills, including my ability to connect with people easily. Additionally, I'm known for my determination and intelligence
 
+
+
+I ask will ask them in interview tomorrow. 
+
+22.Tell me about a time you created a goal and achieved it.
+
+7. Tell me about a time you were successful on a team.- 17.Describe your leadership style. 4. Why should we hire you? 14.What do you like to do outside of work?
+
 - Was sparked by my fascination
 - I consider myself fortunate
 - seeking efficient solution
