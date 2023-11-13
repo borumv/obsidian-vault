@@ -37,15 +37,18 @@ As part of this project, my assistant and I created a concept from scratch, expl
 7. Tell me about a time you were successful on a team
 In fact, my main responsibility in my previous job was working with the team. My responsibilities included quality control, conflict resolution, and hiring and firing issues. And, like many companies, once every six months we had a review, which, including through anonymous employee reviews, allowed us to evaluate the quality of my work. And I had more than 90% positive feedback and not one negative one.
 
-9. 17.Describe your leadership style. 
+9. Describe your leadership style. 
 I would describe my leadership style as participative and transformational. I believe in fostering a collaborative environment where team members feel empowered to contribute their ideas and expertise. I'm a firm believer in the strength of diverse perspectives and encourage open communication within the team.
 
 Overall, my goal is to create a cohesive and high-performing team that not only achieves its objectives but also experiences professional growth and satisfaction in the process.
 
-
 10. Why should we hire you? 
 You should hire me because not only do my knowledge meet your requirements, but also because of my soft skills. I enjoy working in a team and my problem-solving, communication and skills align seamlessly with the requirements outlined in the job description. I am confident in my ability to bring a fresh perspective to the team and contribute to the continued success of your company.
-1. 14.What do you like to do outside of work?
+
+14. What do you like to do outside of work?
+Outside of work, I indulge in a couple of rewarding hobbies. I have a keen interest in shooting and editing videos. Additionally, I am passionate about playing percussion instruments, having undergone formal musical education in this domain. Occasionally, I enjoy collaborative musical sessions with friends at a rehearsal space. These activities not only serve as a source of personal enjoyment but also contribute to my overall sense of a work-ballance
+
+
 
 - Was sparked by my fascination
 - I consider myself fortunate
