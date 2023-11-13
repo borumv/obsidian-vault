@@ -30,7 +30,7 @@ In terms of my personal qualities, I prefer not to self-evaluate, as I constantl
 
 I ask will ask them in interview tomorrow. 
 
-22.Tell me about a time you created a goal and achieved it.
+22.  Tell me about a time you created a goal and achieved it.
 At my previous job, when I worked as a deputy technical support. My team and I came up with a gamification system that was designed to create a transparent way to evaluate their knowledge and motivate each employee to improve themselves.
 As part of this project, my assistant and I created a concept from scratch, explained it to senior management and received the go-ahead. Next, together with the development department, we made this service available on the company’s internal network. As a result, this service received a huge response, increased employee productivity by more than 20% without increasing their salaries, it has been operating for more than 5 years and, as far as I know, is still in operation today.
 
@@ -38,9 +38,14 @@ As part of this project, my assistant and I created a concept from scratch, expl
 In fact, my main responsibility in my previous job was working with the team. My responsibilities included quality control, conflict resolution, and hiring and firing issues. And, like many companies, once every six months we had a review, which, including through anonymous employee reviews, allowed us to evaluate the quality of my work. And I had more than 90% positive feedback and not one negative one.
 
 9. 17.Describe your leadership style. 
+I would describe my leadership style as participative and transformational. I believe in fostering a collaborative environment where team members feel empowered to contribute their ideas and expertise. I'm a firm believer in the strength of diverse perspectives and encourage open communication within the team.
+
+Overall, my goal is to create a cohesive and high-performing team that not only achieves its objectives but also experiences professional growth and satisfaction in the process.
 
 
-10. Why should we hire you? 14.What do you like to do outside of work?
+10. Why should we hire you? 
+You should hire me because not only do my knowledge meet your requirements, but also because of my soft skills. I enjoy working in a team and my problem-solving, communication and skills align seamlessly with the requirements outlined in the job description. I am confident in my ability to bring a fresh perspective to the team and contribute to the continued success of your company.
+1. 14.What do you like to do outside of work?
 
 - Was sparked by my fascination
 - I consider myself fortunate
