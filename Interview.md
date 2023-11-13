@@ -34,9 +34,13 @@ I ask will ask them in interview tomorrow.
 At my previous job, when I worked as a deputy technical support. My team and I came up with a gamification system that was designed to create a transparent way to evaluate their knowledge and motivate each employee to improve themselves.
 As part of this project, my assistant and I created a concept from scratch, explained it to senior management and received the go-ahead. Next, together with the development department, we made this service available on the company’s internal network. As a result, this service received a huge response, increased employee productivity by more than 20% without increasing their salaries, it has been operating for more than 5 years and, as far as I know, is still in operation today.
 
-7. Tell me about a time you were successful on a team.-
+7. Tell me about a time you were successful on a team
+In fact, my main responsibility in my previous job was working with the team. My responsibilities included quality control, conflict resolution, and hiring and firing issues. And, like many companies, once every six months we had a review, which, including through anonymous employee reviews, allowed us to evaluate the quality of my work. And I had more than 90% positive feedback and not one negative one.
 
-9. 17.Describe your leadership style. 4. Why should we hire you? 14.What do you like to do outside of work?
+9. 17.Describe your leadership style. 
+
+
+10. Why should we hire you? 14.What do you like to do outside of work?
 
 - Was sparked by my fascination
 - I consider myself fortunate
