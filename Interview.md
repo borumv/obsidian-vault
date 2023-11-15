@@ -59,3 +59,4 @@ Outside of work, I indulge in a couple of rewarding hobbies. I have a keen inter
 - strive for improvement
 
 
+I've noticed that often my conversation level changes depending on the day. It's like a sine wave, sometimes I'm on the crest and I'm somewhat confident in myself, and sometimes it's the opposite and I often stumble.
