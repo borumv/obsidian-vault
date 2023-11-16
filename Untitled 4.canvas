@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"29f5ddd5903ea177","x":-1420,"y":280,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a5aebba01627df0f","x":-420,"y":-261,"width":250,"height":60,"type":"text","text":"### Вегетация"},
+		{"id":"e3f8bc970c96a229","x":140,"y":-261,"width":420,"height":60,"type":"text","text":"### Позднее цветение, созревание"},
+		{"id":"04f0d71d25e9ad01","x":-140,"y":-261,"width":250,"height":60,"type":"text","text":"### Ранее цветение"},
+		{"id":"a16d9bb20dd4f748","x":-160,"y":-60,"width":300,"height":120,"type":"text","text":"## Циклы роста каннабиса"},
+		{"id":"3eaeade15892e4fd","x":-273,"y":200,"width":517,"height":86,"type":"text","text":"## Заболевания и отклонения"},
+		{"id":"abfd81edccafb2dc","x":-436,"y":440,"width":250,"height":60,"type":"text","text":"### Вредители"},
+		{"id":"65ab1a413d71bd46","x":-142,"y":435,"width":250,"height":60,"type":"text","text":"### Заболевания"},
+		{"id":"f4a5cc9c81fd1f53","x":180,"y":440,"width":260,"height":55,"type":"text","text":"### Антропогенные и другие явления"},
+		{"id":"6f31ccbd2f06ba31","x":-1040,"y":680,"width":250,"height":60,"type":"text","text":"#### Тля (Aphids)"},
+		{"id":"cc5583f9aaf23b6b","x":-716,"y":680,"width":231,"height":60,"type":"text","text":"#### Чёрная тля (Black Aphids)"}
+	],
+	"edges":[
+		{"id":"8729df675a59a9f9","fromNode":"a16d9bb20dd4f748","fromSide":"top","toNode":"a5aebba01627df0f","toSide":"bottom"},
+		{"id":"ce876769eaa520ea","fromNode":"a16d9bb20dd4f748","fromSide":"top","toNode":"04f0d71d25e9ad01","toSide":"bottom"},
+		{"id":"66a68e8dbc8164ce","fromNode":"a16d9bb20dd4f748","fromSide":"top","toNode":"e3f8bc970c96a229","toSide":"bottom"},
+		{"id":"88ff359547f7a17f","fromNode":"3eaeade15892e4fd","fromSide":"bottom","toNode":"abfd81edccafb2dc","toSide":"top"},
+		{"id":"6b76b49a828a3528","fromNode":"3eaeade15892e4fd","fromSide":"bottom","toNode":"65ab1a413d71bd46","toSide":"top"},
+		{"id":"27e389b4c6cfc4c8","fromNode":"3eaeade15892e4fd","fromSide":"bottom","toNode":"f4a5cc9c81fd1f53","toSide":"top"},
+		{"id":"db7382c5df1b4ddd","fromNode":"abfd81edccafb2dc","fromSide":"bottom","toNode":"6f31ccbd2f06ba31","toSide":"top"},
+		{"id":"7fafaf2c46f46911","fromNode":"abfd81edccafb2dc","fromSide":"bottom","toNode":"cc5583f9aaf23b6b","toSide":"top"}
+	]
+}
