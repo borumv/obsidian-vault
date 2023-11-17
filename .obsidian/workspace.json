@@ -44,14 +44,13 @@
                 "file": "Untitled 4.canvas",
                 "viewState": {
                   "x": 3760,
-                  "y": 1753,
+                  "y": 1695.5,
                   "zoom": -4
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +158,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3718a9baf4053dd8",
+  "active": "4359e8d835715814",
   "lastOpenFiles": [
+    "Untitled 4.canvas",
     "KW/KW/attachments/Pasted image 20231116175318.png",
     "KW/KW/attachments/Pasted image 20231116175311.png",
     "KW/KW/attachments/Pasted image 20231116175252.png",
@@ -171,9 +171,7 @@
     "KW/KW/attachments/Pasted image 20231116175209.png",
     "KW/KW/attachments/Pasted image 20231116174925.png",
     "KW/KW/attachments/Pasted image 20231116174918.png",
-    "KW/KW/attachments/Pasted image 20231116174903.png",
     "Interview.md",
-    "Untitled 4.canvas",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Java Test in EPAM.md",

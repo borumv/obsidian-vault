@@ -49,6 +49,9 @@ You should hire me because not only do my knowledge meet your requirements, but 
 Outside of work, I indulge in a couple of rewarding hobbies. I have a keen interest in shooting and editing videos. Additionally, I am passionate about playing percussion instruments, having undergone formal musical education in this domain. Occasionally, I enjoy collaborative musical sessions with friends at a rehearsal space. These activities not only serve as a source of personal enjoyment but also contribute to my overall sense of a work-ballance
 
 
+15. Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?
+
+While I’m grateful to my previous employer for giving me the opportunity to learn and grow in my career, I feel like, at that point, **I completely decided to go into the world of programming** and beause of this I had decided to make some career break. I **would love to** do something more **meaningful**and useful and get more involved into working on a diverse range of projects where I can **collaborate** with passionate people and learn new approaches and technologies. I would love to **work at** a **cutting-edge** company that tries to **make a positive impact** in the world.
 
 - Was sparked by my fascination
 - I consider myself fortunate
