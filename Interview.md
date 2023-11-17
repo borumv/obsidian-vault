@@ -63,3 +63,7 @@ While I’m grateful to my previous employer for giving me the opportunity to
 
 
 I've noticed that often my conversation level changes depending on the day. It's like a sine wave, sometimes I'm on the crest and I'm somewhat confident in myself, and sometimes it's the opposite and I often stumble.
+
+
+
+Yesterday I had an interview to check my English level, the results should be out today. I think everything was fine.0
