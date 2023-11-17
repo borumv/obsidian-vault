@@ -26,12 +26,22 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 4.canvas",
+                "file": "Only diseas and bugs.canvas",
                 "viewState": {
-                  "x": -2152.1622708575123,
-                  "y": 2249.842097231539,
-                  "zoom": -4
+                  "x": -1197.5,
+                  "y": -801.0000000000002,
+                  "zoom": -3.9654316592985044
                 }
+              }
+            }
+          },
+          {
+            "id": "e13b648a790852ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md"
               }
             }
           },
@@ -162,9 +172,11 @@
   },
   "active": "0ad648a44988a019",
   "lastOpenFiles": [
-    "Untitled 5.canvas",
-    "Untitled 5Untitled 5.canvas",
+    "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
+    "Only diseas and bugs.canvas",
+    "Oracle OLAP.md",
     "Untitled 4.canvas",
+    "Untitled 5.canvas",
     "Interview.md",
     "KW/KW/attachments/Pasted image 20231116175318.png",
     "KW/KW/attachments/Pasted image 20231116175311.png",
@@ -200,8 +212,6 @@
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-01 15.00.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-22 13.09.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "olap.canvas",
@@ -210,7 +220,6 @@
     "desktop.ini",
     "Hibernate canvas.canvas",
     "Multithreading.canvas",
-    "Наследование.canvas",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",
