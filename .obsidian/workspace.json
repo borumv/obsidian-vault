@@ -28,8 +28,8 @@
               "state": {
                 "file": "Untitled 4.canvas",
                 "viewState": {
-                  "x": 5621.7884546166115,
-                  "y": 120.98726200439546,
+                  "x": -2152.1622708575123,
+                  "y": 2249.842097231539,
                   "zoom": -4
                 }
               }
@@ -41,16 +41,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 4.canvas",
+                "file": "Untitled 5.canvas",
                 "viewState": {
-                  "x": 3760,
-                  "y": 1695.5,
-                  "zoom": -4
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4359e8d835715814",
+  "active": "0ad648a44988a019",
   "lastOpenFiles": [
+    "Untitled 5.canvas",
+    "Untitled 5Untitled 5.canvas",
     "Untitled 4.canvas",
+    "Interview.md",
     "KW/KW/attachments/Pasted image 20231116175318.png",
     "KW/KW/attachments/Pasted image 20231116175311.png",
     "KW/KW/attachments/Pasted image 20231116175252.png",
@@ -171,7 +176,6 @@
     "KW/KW/attachments/Pasted image 20231116175209.png",
     "KW/KW/attachments/Pasted image 20231116174925.png",
     "KW/KW/attachments/Pasted image 20231116174918.png",
-    "Interview.md",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Java Test in EPAM.md",
@@ -207,7 +211,6 @@
     "Hibernate canvas.canvas",
     "Multithreading.canvas",
     "Наследование.canvas",
-    "Untitled 6.canvas",
     "KW/KW/attachments",
     "KW/KW",
     "Excalidraw/Scripts/Downloaded",
