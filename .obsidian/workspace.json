@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "c428cb9c8b2ba560",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0ad648a44988a019",
             "type": "leaf",
             "state": {
@@ -28,9 +38,9 @@
               "state": {
                 "file": "Only diseas and bugs.canvas",
                 "viewState": {
-                  "x": -1197.5,
-                  "y": -801.0000000000002,
-                  "zoom": -3.9654316592985044
+                  "x": -7327.622368165505,
+                  "y": -4170.649190080163,
+                  "zoom": 0.16666666666666674
                 }
               }
             }
@@ -170,14 +180,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ad648a44988a019",
+  "active": "c428cb9c8b2ba560",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 09.39.07.excalidraw.md",
+    "Untitled 1.canvas",
+    "Interview.md",
     "Only diseas and bugs.canvas",
+    "KW/KW/attachments/Pasted image 20231116163924.png",
     "Oracle OLAP.md",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
-    "Interview.md",
     "KW/KW/attachments/Pasted image 20231116175318.png",
     "KW/KW/attachments/Pasted image 20231116175311.png",
     "KW/KW/attachments/Pasted image 20231116175252.png",
@@ -187,7 +212,6 @@
     "KW/KW/attachments/Pasted image 20231116175220.png",
     "KW/KW/attachments/Pasted image 20231116175209.png",
     "KW/KW/attachments/Pasted image 20231116174925.png",
-    "KW/KW/attachments/Pasted image 20231116174918.png",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Java Test in EPAM.md",
@@ -200,19 +224,6 @@
     "KB/Programming/AWS.md",
     "templates/T-programming.md",
     "INBOX/git.md",
-    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
-    "KB/Programming/Interview Java core.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "KB/Programming/Приведение типов в Java.md",
-    "KB/Programming/sql/psql_Приведение типов данных.md",
-    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-01 15.00.20.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-12 15.35.16.excalidraw.md",
-    "Untitled 1.canvas",
     "Untitled.canvas",
     "olap.canvas",
     "hello.pub",
