@@ -24,9 +24,12 @@
             "id": "c428cb9c8b2ba560",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md"
+                "file": "INBOX/git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -182,6 +185,10 @@
   },
   "active": "c428cb9c8b2ba560",
   "lastOpenFiles": [
+    "KB/Programming/Version control.md",
+    "KW/KW/attachments/Pasted image 20231127203849.png",
+    "KW/KW/attachments/Pasted image 20231127203751.png",
+    "Excalidraw/Drawing 2023-04-30 12.39.55.excalidraw.md",
     "Excalidraw/Drawing 2023-03-19 14.58.46.excalidraw.md",
     "Excalidraw/Drawing 2023-06-04 12.00.35.excalidraw.md",
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
@@ -210,8 +217,6 @@
     "KW/KW/attachments/Pasted image 20231116175235.png",
     "KW/KW/attachments/Pasted image 20231116175228.png",
     "KW/KW/attachments/Pasted image 20231116175220.png",
-    "KW/KW/attachments/Pasted image 20231116175209.png",
-    "KW/KW/attachments/Pasted image 20231116174925.png",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_ClassLoader.md",
     "Java Test in EPAM.md",
@@ -221,9 +226,6 @@
     "KB/Programming/java/📙MOC-JAVA.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "KB/Programming/AWS.md",
-    "templates/T-programming.md",
-    "INBOX/git.md",
     "Untitled.canvas",
     "olap.canvas",
     "hello.pub",
