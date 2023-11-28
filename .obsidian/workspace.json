@@ -75,6 +75,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4b6339b48dd734c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa49517eb1cac5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/git folder.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c428cb9c8b2ba560",
+  "active": "aa49517eb1cac5fb",
   "lastOpenFiles": [
+    "KW/KW/attachments/Pasted image 20231128151858.png",
+    "INBOX/git.md",
+    "KB/Programming/git folder.md",
     "KB/Programming/Version control.md",
     "KW/KW/attachments/Pasted image 20231127203849.png",
     "KW/KW/attachments/Pasted image 20231127203751.png",
@@ -222,8 +244,6 @@
     "Java Test in EPAM.md",
     "INBOX/Dependency Injection.md",
     "KB/Programming/spring_Dependency Injection.md",
-    "KB/Programming/📙Spring.md",
-    "KB/Programming/java/📙MOC-JAVA.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
