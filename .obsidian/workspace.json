@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/JDBC.md",
+                "file": "KB/Programming/sql/уровни изоляции транзакции.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,6 +185,9 @@
   },
   "active": "c428cb9c8b2ba560",
   "lastOpenFiles": [
+    "KB/Programming/sql/изолированность_транзакции.md",
+    "KB/Programming/sql/свойства транзакции (ACID).md",
+    "KB/Programming/JDBC.md",
     "KW/KW/attachments/Pasted image 20231129124328.png",
     "Interview.md",
     "INBOX/git.md",
@@ -220,11 +223,8 @@
     "KW/KW/attachments/Pasted image 20231116175252.png",
     "KW/KW/attachments/Pasted image 20231116175244.png",
     "KW/KW/attachments/Pasted image 20231116175235.png",
-    "KW/KW/attachments/Pasted image 20231116175228.png",
     "KW/KB/English/Interview preparing.md",
     "KB/Programming/java/java_ClassLoader.md",
-    "Java Test in EPAM.md",
-    "INBOX/Dependency Injection.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
