@@ -67,3 +67,7 @@ I've noticed that often my conversation level changes depending on the day. It's
 
 
 Yesterday I had an interview to check my English level, the results should be out today. I think everything was fine.0
+
+
+
+Well, you know, I haven't shaved in ages simply because I haven't been out and about much lately. It's kind of become my low-key way of signaling that I've been laying low and enjoying some quiet time.
