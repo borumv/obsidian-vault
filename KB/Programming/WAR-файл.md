@@ -12,7 +12,7 @@ WAR сейчас расшифровывается как Web Application Resourc
 
 Вот как выглядит типичное содержание war-файла:
 
-```
+```c
 /index.html
 /guestbook.jsp
 /images/logo.png

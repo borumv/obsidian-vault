@@ -6,6 +6,7 @@
       {
         "id": "1bad691374fdea99",
         "type": "tabs",
+        "dimension": 19.305019305019304,
         "children": [
           {
             "id": "4359e8d835715814",
@@ -27,6 +28,32 @@
               "type": "markdown",
               "state": {
                 "file": "KB/Programming/sql/уровни изоляции транзакции.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6700b0d78826365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fef7d7b9cf4e1a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +101,27 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "7457c7eeb475f142",
+        "type": "tabs",
+        "dimension": 80.6949806949807,
+        "children": [
+          {
+            "id": "ec8703ef1795262b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Programming/WAR-файл.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c428cb9c8b2ba560",
+  "active": "fef7d7b9cf4e1a76",
   "lastOpenFiles": [
+    "KB/Programming/WAR-файл.md",
+    "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/WebJars.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "KB/Programming/sql/уровни изоляции транзакции.md",
+    "Only diseas and bugs.canvas",
+    "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
     "KB/Programming/sql/изолированность_транзакции.md",
     "KB/Programming/sql/свойства транзакции (ACID).md",
     "KB/Programming/JDBC.md",
@@ -207,15 +263,8 @@
     "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 11.28.01.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 14.52.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 09.39.07.excalidraw.md",
     "Untitled 1.canvas",
-    "Only diseas and bugs.canvas",
     "KW/KW/attachments/Pasted image 20231116163924.png",
-    "Oracle OLAP.md",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "KW/KW/attachments/Pasted image 20231116175318.png",
@@ -223,8 +272,6 @@
     "KW/KW/attachments/Pasted image 20231116175252.png",
     "KW/KW/attachments/Pasted image 20231116175244.png",
     "KW/KW/attachments/Pasted image 20231116175235.png",
-    "KW/KB/English/Interview preparing.md",
-    "KB/Programming/java/java_ClassLoader.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
