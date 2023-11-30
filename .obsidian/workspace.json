@@ -4,109 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "1bad691374fdea99",
-        "type": "tabs",
-        "dimension": 19.305019305019304,
-        "children": [
-          {
-            "id": "4359e8d835715814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c428cb9c8b2ba560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/sql/уровни изоляции транзакции.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6700b0d78826365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fef7d7b9cf4e1a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ad648a44988a019",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Only diseas and bugs.canvas",
-                "viewState": {
-                  "x": -7327.622368165505,
-                  "y": -4170.649190080163,
-                  "zoom": 0.16666666666666674
-                }
-              }
-            }
-          },
-          {
-            "id": "e13b648a790852ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3718a9baf4053dd8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 5.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "7457c7eeb475f142",
         "type": "tabs",
-        "dimension": 80.6949806949807,
         "children": [
           {
             "id": "ec8703ef1795262b",
@@ -114,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Internationalization Spring MVC.md",
+                "file": "KB/Programming/паттерн Фабричный метод.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -232,6 +131,8 @@
   },
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
+    "KB/Programming/java/📙Паттерны проектирования.md",
+    "KB/Programming/Internationalization Spring MVC.md",
     "KB/Programming/pattern_MVC.md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
     "Untitled 2.md",
@@ -261,8 +162,6 @@
     "Excalidraw/Drawing 2023-06-13 16.17.13.excalidraw.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-14 09.32.05.excalidraw.md",
     "Untitled 1.canvas",
     "KW/KW/attachments/Pasted image 20231116163924.png",
     "Untitled 4.canvas",
