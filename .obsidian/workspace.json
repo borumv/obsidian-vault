@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/📙Паттерны проектирования.md",
+                "file": "KB/Programming/pattern prototype.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,9 +131,10 @@
   },
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
+    "KB/Programming/java/📙Паттерны проектирования.md",
+    "KB/Programming/pattern prototype.md",
     "KB/Programming/pattern State.md",
     "KW/KW/attachments/Pasted image 20231130215514.png",
-    "KB/Programming/java/📙Паттерны проектирования.md",
     "KB/Programming/pattern_Strategy.md",
     "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/Internationalization Spring MVC.md",
