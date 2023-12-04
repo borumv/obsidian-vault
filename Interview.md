@@ -21,12 +21,8 @@ People love a good tale, so weave in some personality. For example, maybe you fe
 
 - Tell me about yourself?
 For the past three and a half years, I've been dedicated to learning programming, starting with Java. My interest in programming was sparked by my fascination with tasks like scripting and building SQL queries. In 2020, I took the opportunity to dive into the programming world, and I consider myself fortunate to have had a mentor with over 20 years of Java programming experience by my side. This mentor not only provided valuable guidance but also helped shape my approach to programming.
-
 One of the most important lessons I learned from my mentor was the importance of seeking efficient solutions, embracing new technologies without bias, and delving into the core of any technology. Java, for instance, forms the foundation for many technologies.
-
 In terms of my personal qualities, I prefer not to self-evaluate, as I constantly strive for improvement. However, those around me have often commented on my strong soft skills, including my ability to connect with people easily. Additionally, I'm known for my determination and intelligence
-
-
 
 I ask will ask them in interview tomorrow. 
 
@@ -48,9 +44,7 @@ You should hire me because not only do my knowledge meet your requirements, but 
 14. What do you like to do outside of work?
 Outside of work, I indulge in a couple of rewarding hobbies. I have a keen interest in shooting and editing videos. Additionally, I am passionate about playing percussion instruments, having undergone formal musical education in this domain. Occasionally, I enjoy collaborative musical sessions with friends at a rehearsal space. These activities not only serve as a source of personal enjoyment but also contribute to my overall sense of a work-ballance
 
-
 15. Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?
-
 While I’m grateful to my previous employer for giving me the opportunity to learn and grow in my career, I feel like, at that point, **I completely decided to go into the world of programming** and beause of this I had decided to make some career break. I **would love to** do something more **meaningful**and useful and get more involved into working on a diverse range of projects where I can **collaborate** with passionate people and learn new approaches and technologies. I would love to **work at** a **cutting-edge** company that tries to **make a positive impact** in the world.
 
 - Was sparked by my fascination
