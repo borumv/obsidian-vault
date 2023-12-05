@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/pattern Adapter.md",
+                "file": "KB/Programming/pattern Bridge.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,6 +132,7 @@
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
     "KB/Programming/java/📙Паттерны проектирования.md",
+    "KB/Programming/pattern Bridge.md",
     "KB/Programming/pattern Adapter.md",
     "templates/T-programming.md",
     "KB/Programming/pattern prototype.md",
@@ -159,7 +160,6 @@
     "KW/KW/attachments/Pasted image 20231129124328.png",
     "INBOX/git.md",
     "KB/Programming/Как устроен git.md",
-    "KB/Programming/git folder.md",
     "KW/KW/attachments/Pasted image 20231128151858.png",
     "KW/KW/attachments/Pasted image 20231127203849.png",
     "KW/KW/attachments/Pasted image 20231127203751.png",
