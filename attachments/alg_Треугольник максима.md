@@ -1,7 +1,7 @@
 ---
 tags: algorithms, решение_задачи
 ---
-
+![[Pasted image 20231205192125.png]]
 
 >[!INFO]
 >**Condition**
