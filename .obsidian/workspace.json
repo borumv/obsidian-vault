@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/N+1 Problem.md",
-                "mode": "source",
+                "file": "Projects/LectionMultiThreading.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -131,6 +131,8 @@
   },
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
+    "KB/Programming/java/hibernate_Оптимистические локи.md",
+    "KB/Programming/N+1 Problem.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/java/Состояние объектов в Hibernate.md",
     "KB/Programming/java/📙Hibernate.md",
@@ -162,8 +164,6 @@
     "Untitled 1.md",
     "KB/Programming/sql/уровни изоляции транзакции.md",
     "Only diseas and bugs.canvas",
-    "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
-    "KB/Programming/sql/изолированность_транзакции.md",
     "KW/KW/attachments/Pasted image 20231129124328.png",
     "KW/KW/attachments/Pasted image 20231128151858.png",
     "KW/KW/attachments/Pasted image 20231127203849.png",
