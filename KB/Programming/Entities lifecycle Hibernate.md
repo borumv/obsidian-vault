@@ -10,4 +10,4 @@ Tags: programming
 3. Detached
 4. Removed
 
-![[Pasted image 20230516134733.png|400]]
+![[Pasted image 20230516134733.png|1000]]
