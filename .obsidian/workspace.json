@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Паттерн Декоратор.md",
+                "file": "KB/Programming/pattern_Facade.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,9 +145,11 @@
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
     "KB/Programming/java/📙Паттерны проектирования.md",
+    "KB/Programming/pattern_Facade.md",
+    "KB/Programming/pattern_Strategy.md",
+    "KB/Programming/Паттерн Декоратор.md",
     "pattern_Proxy.md",
     "KB/Programming/pattern State.md",
-    "KB/Programming/Паттерн Декоратор.md",
     "KB/Programming/pattern Bridge.md",
     "KB/Programming/SAGA.md",
     "Projects/LectionMultiThreading.md",
@@ -166,7 +168,6 @@
     "templates/T-programming.md",
     "KB/Programming/pattern prototype.md",
     "Interview.md",
-    "KB/Programming/pattern_Strategy.md",
     "KB/Programming/паттерн Фабричный метод.md",
     "KB/Programming/pattern_Abstract Fabric.md",
     "KW/KW/attachments/Pasted image 20231130215514.png",
@@ -175,7 +176,6 @@
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
     "Untitled 2.md",
     "KB/Programming/WAR-файл.md",
-    "KB/Programming/Apache Tomcat.md",
     "Only diseas and bugs.canvas",
     "KW/KW/attachments/Pasted image 20231129124328.png",
     "KW/KW/attachments/Pasted image 20231128151858.png",
