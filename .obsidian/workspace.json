@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/pattern_Chain of responsibility.md",
+                "file": "KB/Programming/pattern_Iterrator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,6 +145,7 @@
   "active": "ec8703ef1795262b",
   "lastOpenFiles": [
     "KB/Programming/java/📙Паттерны проектирования.md",
+    "KB/Programming/pattern_Iterrator.md",
     "KB/Programming/pattern_Chain of responsibility.md",
     "KB/Programming/pattern Bridge.md",
     "KB/Programming/pattern_Facade.md",
@@ -175,7 +176,6 @@
     "KB/Programming/Internationalization Spring MVC.md",
     "KB/Programming/pattern_MVC.md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
-    "Untitled 2.md",
     "Only diseas and bugs.canvas",
     "KW/KW/attachments/Pasted image 20231129124328.png",
     "KW/KW/attachments/Pasted image 20231128151858.png",
