@@ -41,8 +41,8 @@
               "state": {
                 "file": "Untitled 6.canvas",
                 "viewState": {
-                  "x": 1679.0356156500727,
-                  "y": -690.5904081632631,
+                  "x": 661.9296990906422,
+                  "y": -255.20282236476214,
                   "zoom": -1
                 }
               }
@@ -160,6 +160,7 @@
   },
   "active": "7c526630758b8949",
   "lastOpenFiles": [
+    "Процессинг.md",
     "PCI DSS (Payment Card Industry Data Security Standart).md",
     "Платёжная система.md",
     "Банк-эмитет.md",
@@ -197,7 +198,6 @@
     "Java Test in EPAM.md",
     "Interview.md",
     "KB/Programming/pattern_Iterrator.md",
-    "KB/Programming/java/📙Паттерны проектирования.md",
     "attachments/Pasted image 20231205192125.png",
     "KW/KW/attachments/Pasted image 20231205192125.png",
     "attachments/Pasted image 20221104112648.png",
