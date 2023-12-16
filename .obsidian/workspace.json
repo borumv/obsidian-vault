@@ -41,9 +41,9 @@
               "state": {
                 "file": "Untitled 6.canvas",
                 "viewState": {
-                  "x": -60.13300726525884,
-                  "y": -465.68849068274255,
-                  "zoom": 0.3333333333333332
+                  "x": -3.812150186966882,
+                  "y": -418.54192835533075,
+                  "zoom": -0.3333333333333334
                 }
               }
             }
@@ -160,6 +160,7 @@
   },
   "active": "7c526630758b8949",
   "lastOpenFiles": [
+    "Платёжная система.md",
     "Банк-эмитет.md",
     "Банк-эквайер.md",
     "Эквайринг.md",
@@ -197,7 +198,6 @@
     "KB/Programming/pattern_Iterrator.md",
     "KB/Programming/java/📙Паттерны проектирования.md",
     "KB/Programming/pattern_Chain of responsibility.md",
-    "KB/Programming/pattern Bridge.md",
     "attachments/Pasted image 20231205192125.png",
     "KW/KW/attachments/Pasted image 20231205192125.png",
     "attachments/Pasted image 20221104112648.png",
