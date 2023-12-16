@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"c99ae8713626d846","type":"text","text":"## Интернет эквайринг\n\nЭто общий термин, означающий *приём платежей* картами через интернет с использованием специально разработанного web-интерфейса.\n\n","x":-220,"y":-320,"width":485,"height":150},
-		{"id":"e55b73c10b943810","type":"file","file":"KW/KW/attachments/Pasted image 20231213115431.png","x":-460,"y":-120,"width":899,"height":606}
+		{"id":"e55b73c10b943810","type":"file","file":"KW/KW/attachments/Pasted image 20231213115431.png","x":-460,"y":-120,"width":899,"height":606},
+		{"id":"f245734fa00b1722","x":-420,"y":-920,"width":280,"height":240,"type":"file","file":"Эквайринг.md"},
+		{"id":"864af33226dd7994","x":-40,"y":-780,"width":460,"height":140,"type":"file","file":"Банк-эквайер.md"},
+		{"id":"29e3d9e8e1360e3d","x":-20,"y":-560,"width":360,"height":360,"type":"file","file":"Банк-эмитет.md"}
 	],
 	"edges":[]
 }
