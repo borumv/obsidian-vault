@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"f245734fa00b1722","x":-420,"y":-920,"width":280,"height":240,"type":"file","file":"Эквайринг.md"},
 		{"id":"864af33226dd7994","x":-21,"y":-900,"width":460,"height":140,"type":"file","file":"Банк-эквайер.md"},
-		{"id":"29e3d9e8e1360e3d","x":29,"y":-660,"width":451,"height":120,"type":"file","file":"Банк-эмитет.md"},
+		{"id":"29e3d9e8e1360e3d","x":29,"y":-660,"width":651,"height":300,"type":"file","file":"Банк-эмитет.md"},
 		{"id":"3f53e0616215239f","x":-134,"y":-445,"width":250,"height":60,"type":"file","file":"Платёжная система.md"},
 		{"id":"e55b73c10b943810","type":"file","file":"KW/KW/attachments/Pasted image 20231213115431.png","x":-360,"y":-20,"width":899,"height":606}
 	],
