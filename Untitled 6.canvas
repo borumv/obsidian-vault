@@ -6,7 +6,7 @@
 		{"id":"3f53e0616215239f","x":-760,"y":-600,"width":370,"height":180,"type":"file","file":"Платёжная система.md"},
 		{"id":"f245734fa00b1722","x":-460,"y":-1020,"width":280,"height":240,"type":"file","file":"Эквайринг.md"},
 		{"id":"a86f82633f4f36a2","x":920,"y":-721,"width":646,"height":171,"type":"file","file":"PCI DSS (Payment Card Industry Data Security Standart).md"},
-		{"id":"a5fa39271c66bbc5","x":537,"y":-285,"width":623,"height":245,"type":"file","file":"Процессинг.md"}
+		{"id":"a5fa39271c66bbc5","x":-62,"y":-280,"width":623,"height":165,"type":"file","file":"Процессинг.md"}
 	],
 	"edges":[]
 }
