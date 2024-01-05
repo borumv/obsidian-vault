@@ -47,8 +47,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af89206af6228552",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "63f42086d9b99ea0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,8 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec8703ef1795262b",
+  "active": "63f42086d9b99ea0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
+    "Untitled 6.canvas",
     "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -170,7 +191,6 @@
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "KB/Programming/java/IoC.md",
     "Hello!!ew.md",
-    "Untitled 6.canvas",
     "Процессинг.md",
     "PCI DSS (Payment Card Industry Data Security Standart).md",
     "Платёжная система.md",
