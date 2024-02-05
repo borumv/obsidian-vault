@@ -101,8 +101,10 @@
             "id": "fbc36cd59532db97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md"
+              }
             }
           }
         ],
@@ -219,6 +221,7 @@
   },
   "active": "fbc36cd59532db97",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
     "Untitled 4.md",
     "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
     "Untitled 6.canvas",
@@ -256,7 +259,6 @@
     "MIND MAP.md",
     "Multithreading.canvas",
     "olap.canvas",
-    "Untitled 2.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
