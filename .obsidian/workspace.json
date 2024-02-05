@@ -86,9 +86,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f93b22b0d50019ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "fbc36cd59532db97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -173,7 +191,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -197,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3a1abd6cfb17ba9",
+  "active": "fbc36cd59532db97",
   "lastOpenFiles": [
     "Untitled 4.md",
     "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
