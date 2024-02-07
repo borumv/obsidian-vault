@@ -11,14 +11,12 @@
             "id": "ec8703ef1795262b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 6.canvas",
-                "viewState": {
-                  "x": 696.8812541232485,
-                  "y": 1189.6482894793605,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "Interview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -107,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +216,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbc36cd59532db97",
+  "active": "ec8703ef1795262b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
-    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
-    "Untitled 4.md",
-    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
+    "INBOX/Вопросы на собес.md",
     "Untitled 6.canvas",
+    "pattern_Proxy.md",
+    "Hello!!ew.md",
+    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
+    "Untitled 4.md",
+    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -236,7 +236,6 @@
     "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
     "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
     "KB/Programming/java/IoC.md",
-    "Hello!!ew.md",
     "Процессинг.md",
     "PCI DSS (Payment Card Industry Data Security Standart).md",
     "Платёжная система.md",
@@ -253,7 +252,6 @@
     "JVM.md",
     "Only diseas and bugs.canvas",
     "Pasted image 20230712090258.png",
-    "pattern_Proxy.md",
     "Untitled 1.canvas",
     "Untitled Diagram.svg",
     "attachments/5.Map.png",
@@ -264,7 +262,6 @@
     "Untitled.canvas",
     "KW/KW/attachments/Pasted image 20231205192125.png",
     "attachments/Pasted image 20221104112648.png",
-    "KW/KW/attachments/Pasted image 20231205191748.png",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "hello.pub",
