@@ -105,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,13 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec8703ef1795262b",
+  "active": "fbc36cd59532db97",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
+    "Interview.md",
     "INBOX/Вопросы на собес.md",
     "Untitled 6.canvas",
     "pattern_Proxy.md",
     "Hello!!ew.md",
-    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
     "Untitled 4.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
@@ -249,7 +251,6 @@
     "KB/Programming/Полиморфизм.md",
     "KB/Programming/java/Java Memory Model.md",
     "java_TreeMap.md",
-    "JVM.md",
     "Only diseas and bugs.canvas",
     "Pasted image 20230712090258.png",
     "Untitled 1.canvas",
