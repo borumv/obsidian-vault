@@ -99,9 +99,12 @@
             "id": "fbc36cd59532db97",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md"
+                "file": "INBOX/git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -219,6 +222,7 @@
   },
   "active": "fbc36cd59532db97",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
     "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
     "Interview.md",
     "INBOX/Вопросы на собес.md",
@@ -226,7 +230,6 @@
     "pattern_Proxy.md",
     "Hello!!ew.md",
     "Untitled 4.md",
-    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "attachments/Pasted image 20231205192125.png",
