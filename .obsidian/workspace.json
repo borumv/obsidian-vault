@@ -129,8 +129,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94f24520af045740",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6afe2ebc7c17d226",
+  "active": "94f24520af045740",
   "lastOpenFiles": [
     "KB/Programming/Жизненный цикл Junit теста.md",
     "KB/Programming/📙JUnit.md",
