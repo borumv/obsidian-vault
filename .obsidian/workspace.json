@@ -139,9 +139,19 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "1f2d33c531ccb4c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -251,7 +262,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94f24520af045740",
+  "active": "1f2d33c531ccb4c3",
   "lastOpenFiles": [
     "KB/Programming/Жизненный цикл Junit теста.md",
     "KB/Programming/📙JUnit.md",
