@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -129,8 +130,9 @@
   },
   "active": "a62193ade60ec634",
   "lastOpenFiles": [
-    "Untitled 8.canvas",
     "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "Untitled 8.canvas",
     "KB/Programming/Extension Model Junit.md",
     "Untitled 7.canvas",
     "KB/Programming/Жизненный цикл Junit теста.md",
