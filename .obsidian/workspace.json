@@ -16,8 +16,19 @@
                 "file": "Excalidraw/Document generation flow.md"
               }
             }
+          },
+          {
+            "id": "258fa46d6656fe5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,14 +139,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a62193ade60ec634",
+  "active": "258fa46d6656fe5c",
   "lastOpenFiles": [
+    "Excalidraw/Document generation flow.md",
+    "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
     "Excalidraw/Java memory.md",
     "Excalidraw/Kagka - group By.md",
     "Excalidraw/Saga.md",
     "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "Excalidraw/Document generation flow.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
@@ -159,7 +171,6 @@
     "Untitled 6.canvas",
     "pattern_Proxy.md",
     "Hello!!ew.md",
-    "Untitled 4.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
