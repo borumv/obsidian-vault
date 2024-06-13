@@ -4,169 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7457c7eeb475f142",
+        "id": "9e8951c3b70cab2a",
         "type": "tabs",
-        "dimension": 44.33174224343676,
         "children": [
           {
-            "id": "ec8703ef1795262b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4569f94f086a7194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pattern_Proxy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c526630758b8949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello!!ew.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af89206af6228552",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "63f42086d9b99ea0",
+            "id": "a62193ade60ec634",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "700dcaeb3f44a922",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e3a1abd6cfb17ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93b22b0d50019ee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "fbc36cd59532db97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INBOX/git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "9e8951c3b70cab2a",
-        "type": "tabs",
-        "dimension": 55.66825775656324,
-        "children": [
-          {
-            "id": "6afe2ebc7c17d226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Extension Model Junit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f24520af045740",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "1f2d33c531ccb4c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "c4fedfb1b273364d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 7.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Juni",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,8 +127,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4fedfb1b273364d",
+  "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "Untitled 8.canvas",
+    "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md",
+    "KB/Programming/Extension Model Junit.md",
     "Untitled 7.canvas",
     "KB/Programming/Жизненный цикл Junit теста.md",
     "KB/Programming/📙JUnit.md",
@@ -307,9 +161,7 @@
     "Платёжная система.md",
     "Банк-эмитет.md",
     "Банк-эквайер.md",
-    "Эквайринг.md",
     "KW/KW/attachments/Pasted image 20231213115431.png",
-    "KB/Programming/spring_Dependency Injection.md",
     "Only diseas and bugs.canvas",
     "Pasted image 20230712090258.png",
     "Untitled 1.canvas",
@@ -322,8 +174,6 @@
     "Untitled.canvas",
     "KW/KW/attachments/Pasted image 20231205192125.png",
     "attachments/Pasted image 20221104112648.png",
-    "Untitled 4.canvas",
-    "Untitled 5.canvas",
     "hello.pub",
     "hello",
     "desktop.ini",
