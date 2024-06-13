@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md"
+                "file": "Excalidraw/Document generation flow.md"
               }
             }
           }
@@ -73,12 +73,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -130,6 +130,21 @@
   },
   "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "Excalidraw/Java memory.md",
+    "Excalidraw/Kagka - group By.md",
+    "Excalidraw/Saga.md",
+    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
+    "Excalidraw/Document generation flow.md",
+    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
+    "olap.canvas",
     "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md",
     "KB/Programming/spring_Dependency Injection.md",
     "Untitled 8.canvas",
@@ -139,8 +154,6 @@
     "KB/Programming/📙JUnit.md",
     "Untitled 5.md",
     "INBOX/git.md",
-    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
     "Interview.md",
     "INBOX/Вопросы на собес.md",
     "Untitled 6.canvas",
@@ -148,21 +161,9 @@
     "Hello!!ew.md",
     "Untitled 4.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
-    "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
-    "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-17 13.54.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-08 15.22.30.excalidraw.md",
-    "KB/Programming/java/IoC.md",
-    "Процессинг.md",
-    "PCI DSS (Payment Card Industry Data Security Standart).md",
-    "Платёжная система.md",
-    "Банк-эмитет.md",
-    "Банк-эквайер.md",
     "KW/KW/attachments/Pasted image 20231213115431.png",
     "Only diseas and bugs.canvas",
     "Pasted image 20230712090258.png",
@@ -170,7 +171,6 @@
     "Untitled Diagram.svg",
     "attachments/5.Map.png",
     "Multithreading.canvas",
-    "olap.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
