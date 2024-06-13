@@ -6,7 +6,7 @@
       {
         "id": "7457c7eeb475f142",
         "type": "tabs",
-        "dimension": 11.933174224343675,
+        "dimension": 44.33174224343676,
         "children": [
           {
             "id": "ec8703ef1795262b",
@@ -115,7 +115,7 @@
       {
         "id": "9e8951c3b70cab2a",
         "type": "tabs",
-        "dimension": 88.06682577565633,
+        "dimension": 55.66825775656324,
         "children": [
           {
             "id": "6afe2ebc7c17d226",
@@ -149,9 +149,24 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "c4fedfb1b273364d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 7.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d9f7470aa9ee338",
@@ -262,8 +276,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f2d33c531ccb4c3",
+  "active": "c4fedfb1b273364d",
   "lastOpenFiles": [
+    "Untitled 7.canvas",
     "KB/Programming/Жизненный цикл Junit теста.md",
     "KB/Programming/📙JUnit.md",
     "Untitled 5.md",
@@ -295,7 +310,6 @@
     "Эквайринг.md",
     "KW/KW/attachments/Pasted image 20231213115431.png",
     "KB/Programming/spring_Dependency Injection.md",
-    "INBOX/Dependency Injection.md",
     "Only diseas and bugs.canvas",
     "Pasted image 20230712090258.png",
     "Untitled 1.canvas",
