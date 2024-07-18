@@ -26,9 +26,38 @@
                 "file": "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4649d5f285dfada8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "098c39de2efe741d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8c63e65a95fdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompting Parameters.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "258fa46d6656fe5c",
+  "active": "5e8c63e65a95fdc4",
   "lastOpenFiles": [
+    "Prompting Parameters.md",
     "Excalidraw/Document generation flow.md",
     "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
     "Excalidraw/Java memory.md",
@@ -170,7 +200,6 @@
     "INBOX/Вопросы на собес.md",
     "Untitled 6.canvas",
     "pattern_Proxy.md",
-    "Hello!!ew.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
