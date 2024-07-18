@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompting Parameters.md",
+                "file": "KB/Programming/Prompting Parameters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +169,11 @@
   },
   "active": "5e8c63e65a95fdc4",
   "lastOpenFiles": [
-    "Prompting Parameters.md",
+    "KW/KW/attachments/Pasted image 20240718181820.png",
+    "KW/KW/attachments/Pasted image 20240718181315.png",
+    "KW/KW/attachments/Pasted image 20240718181248.png",
+    "KB/Programming/Prompting Parameters.md",
+    "Untitled 6.md",
     "Excalidraw/Document generation flow.md",
     "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
     "Excalidraw/Java memory.md",
@@ -197,9 +200,7 @@
     "Untitled 5.md",
     "INBOX/git.md",
     "Interview.md",
-    "INBOX/Вопросы на собес.md",
     "Untitled 6.canvas",
-    "pattern_Proxy.md",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "attachments/Pasted image 20231205192125.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -214,8 +215,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
-    "KW/KW/attachments/Pasted image 20231205192125.png",
-    "attachments/Pasted image 20221104112648.png",
     "hello.pub",
     "hello",
     "desktop.ini",
