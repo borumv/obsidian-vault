@@ -31,9 +31,12 @@
             "id": "4649d5f285dfada8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "KB/Programming/📙MOC-Kafka.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -87,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kafk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74248b38c44e5b1f",
+  "active": "4649d5f285dfada8",
   "lastOpenFiles": [
+    "KB/Programming/kafka_структура данных.md",
+    "KB/Programming/kafka_klaster.md",
+    "KB/Programming/📙MOC-Kafka.md",
+    "KB/Programming/kafka_brokers.md",
+    "KB/Programming/📙MOC-Programming.md",
+    "templates/T-Kafka.md",
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
@@ -206,11 +214,6 @@
     "Untitled 8.canvas",
     "KB/Programming/Extension Model Junit.md",
     "Untitled 7.canvas",
-    "KB/Programming/Жизненный цикл Junit теста.md",
-    "KB/Programming/📙JUnit.md",
-    "Untitled 5.md",
-    "INBOX/git.md",
-    "Interview.md",
     "Untitled 6.canvas",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
     "attachments/Pasted image 20231205192125.png",
@@ -221,7 +224,6 @@
     "Pasted image 20230712090258.png",
     "Untitled 1.canvas",
     "Untitled Diagram.svg",
-    "attachments/5.Map.png",
     "Multithreading.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
