@@ -6,6 +6,7 @@
       {
         "id": "9e8951c3b70cab2a",
         "type": "tabs",
+        "dimension": 86.44986449864498,
         "children": [
           {
             "id": "a62193ade60ec634",
@@ -14,7 +15,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Document generation flow.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Document generation flow"
             }
           },
           {
@@ -24,7 +27,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-06-14 01.06.02.excalidraw"
             }
           },
           {
@@ -33,45 +38,92 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/📙MOC-Kafka.md",
+                "file": "KB/Programming/Кликстрим.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Кликстрим"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "098c39de2efe741d",
-        "type": "tabs",
+        "id": "513ebed26eb350aa",
+        "type": "split",
+        "dimension": 13.550135501355012,
         "children": [
           {
-            "id": "5e8c63e65a95fdc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Prompting Parameters.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "098c39de2efe741d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e8c63e65a95fdc4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "KB/Programming/Prompting Parameters.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prompting Parameters"
+                }
+              },
+              {
+                "id": "74248b38c44e5b1f",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Release Notes 1.6.7"
+                }
+              },
+              {
+                "id": "95d705b0bcf2ba13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "KB/Programming/java/Сервлеты в Java.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Сервлеты в Java"
+                }
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "74248b38c44e5b1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
+            "id": "23a803b36f9ea232",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d68c403762e484d8",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Release Notes 1.6.7"
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -96,7 +148,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -106,7 +160,9 @@
               "type": "image",
               "state": {
                 "file": "media/Pasted image 20220408123511.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20220408123511"
             }
           },
           {
@@ -114,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -124,10 +182,13 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -158,7 +221,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -180,11 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4649d5f285dfada8",
+  "active": "95d705b0bcf2ba13",
   "lastOpenFiles": [
     "KB/Programming/kafka_структура данных.md",
-    "KB/Programming/kafka_klaster.md",
+    "KB/Programming/Кликстрим.md",
     "KB/Programming/📙MOC-Kafka.md",
+    "KB/Programming/kafka_klaster.md",
     "KB/Programming/kafka_brokers.md",
     "KB/Programming/📙MOC-Programming.md",
     "templates/T-Kafka.md",
@@ -212,7 +278,6 @@
     "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md",
     "KB/Programming/spring_Dependency Injection.md",
     "Untitled 8.canvas",
-    "KB/Programming/Extension Model Junit.md",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
     "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.png",
