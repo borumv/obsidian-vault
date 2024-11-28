@@ -6,18 +6,20 @@
       {
         "id": "9e8951c3b70cab2a",
         "type": "tabs",
-        "dimension": 86.44986449864498,
         "children": [
           {
             "id": "a62193ade60ec634",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Document generation flow.md"
+                "file": "KB/Programming/java/java_ClassLoader.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Document generation flow"
+              "icon": "lucide-file",
+              "title": "java_ClassLoader"
             }
           },
           {
@@ -31,99 +33,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-06-14 01.06.02.excalidraw"
             }
-          },
-          {
-            "id": "4649d5f285dfada8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Programming/Кликстрим.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кликстрим"
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "513ebed26eb350aa",
-        "type": "split",
-        "dimension": 13.550135501355012,
-        "children": [
-          {
-            "id": "098c39de2efe741d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5e8c63e65a95fdc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "KB/Programming/Prompting Parameters.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prompting Parameters"
-                }
-              },
-              {
-                "id": "74248b38c44e5b1f",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
-                  },
-                  "icon": "lucide-file",
-                  "title": "Release Notes 1.6.7"
-                }
-              },
-              {
-                "id": "95d705b0bcf2ba13",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "KB/Programming/java/Сервлеты в Java.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Сервлеты в Java"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "23a803b36f9ea232",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d68c403762e484d8",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
-                  },
-                  "icon": "lucide-file",
-                  "title": "Release Notes 1.6.7"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95d705b0bcf2ba13",
+  "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
+    "KB/Programming/java/Сервлеты в Java.md",
+    "Excalidraw/Document generation flow.md",
+    "ServletContext.md",
     "KB/Programming/kafka_структура данных.md",
     "KB/Programming/Кликстрим.md",
     "KB/Programming/📙MOC-Kafka.md",
@@ -259,7 +175,6 @@
     "KW/KW/attachments/Pasted image 20240718181248.png",
     "KB/Programming/Prompting Parameters.md",
     "Untitled 6.md",
-    "Excalidraw/Document generation flow.md",
     "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
     "Excalidraw/Java memory.md",
     "Excalidraw/Kagka - group By.md",
@@ -273,10 +188,7 @@
     "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
     "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 21.39.01.excalidraw.md",
     "olap.canvas",
-    "Excalidraw/Drawing 2024-06-13 23.51.16.excalidraw.md",
-    "KB/Programming/spring_Dependency Injection.md",
     "Untitled 8.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
