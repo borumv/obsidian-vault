@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Apache Tomcat.md",
+                "file": "KB/Programming/sql/уровни изоляции транзакции.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Tomcat"
+              "title": "уровни изоляции транзакции"
             }
           },
           {
@@ -159,8 +159,17 @@
   },
   "active": "a62193ade60ec634",
   "lastOpenFiles": [
-    "Untitled 7.md",
+    "KB/Programming/sql/фантомное чтение.md",
+    "KB/Programming/sql/уровни изоляции транзакции.md",
+    "KB/Programming/sql/неповторяемое чтение.md",
+    "KB/Programming/sql/грязное чтение.md",
+    "KB/Programming/sql/изолированность_транзакции.md",
+    "KB/Programming/sql/свойства транзакции (ACID).md",
+    "KB/Programming/sql/долговечность_транзакции.md",
+    "KB/Programming/sql/согласованность_транзакции.md",
+    "KB/Programming/sql/атомарность_транзакции.md",
     "KB/Programming/Apache Tomcat.md",
+    "Untitled 7.md",
     "KB/Programming/Catalina (servlet container).md",
     "KB/Programming/Сети в Java.md",
     "KB/Programming/java/java_Socket.md",
@@ -179,15 +188,6 @@
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
-    "KB/Programming/Prompting Parameters.md",
-    "Untitled 6.md",
-    "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
-    "Excalidraw/Java memory.md",
-    "Excalidraw/Kagka - group By.md",
-    "Excalidraw/Saga.md",
-    "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
     "olap.canvas",
     "Untitled 8.canvas",
     "Untitled 7.canvas",
