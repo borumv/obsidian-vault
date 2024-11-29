@@ -11,12 +11,15 @@
             "id": "a62193ade60ec634",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Java memory.md"
+                "file": "KB/Programming/OSI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Java memory"
+              "icon": "lucide-file",
+              "title": "OSI"
             }
           },
           {
@@ -156,6 +159,12 @@
   },
   "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "KB/Programming/Прикладной уровень OSI.md",
+    "KB/Programming/java/HTTP.md",
+    "INBOX/git.md",
+    "Наследование.md",
+    "Инкапсуляция.md",
+    "Excalidraw/Java memory.md",
     "KB/Programming/java/java_own Annotation.md",
     "KB/Programming/java/java_Annotation.md",
     "KB/Programming/java/java_integrated Annotation.md",
@@ -176,12 +185,6 @@
     "KB/Programming/sql/свойства транзакции (ACID).md",
     "KB/Programming/sql/долговечность_транзакции.md",
     "KB/Programming/sql/согласованность_транзакции.md",
-    "KB/Programming/sql/атомарность_транзакции.md",
-    "Untitled 7.md",
-    "KB/Programming/Catalina (servlet container).md",
-    "KB/Programming/java/java_Socket.md",
-    "KB/Programming/java/java_ClassLoader.md",
-    "Excalidraw/Document generation flow.md",
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
