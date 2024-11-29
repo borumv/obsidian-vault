@@ -11,7 +11,7 @@ Tags: programming, java
 
 Разбит на 3 модуля:
 - [[Catalina (servlet container)]]
-- Coyote (HTTP connector) - набор классов, который представляет из себя набор [[java_Server Socket|Server socket в java|сервер сокетов]]
+- Coyote (HTTP connector) - набор классов, который представляет *из* себя набор [[java_Server Socket|Server socket в java|сервер сокетов]]
 - Jasper (JSP engine)
 
 ![[Pasted image 20230318182441.png]]

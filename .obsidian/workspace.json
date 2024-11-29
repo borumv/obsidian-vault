@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/java/java_ClassLoader.md",
+                "file": "KB/Programming/Apache Tomcat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java_ClassLoader"
+              "title": "Apache Tomcat"
             }
           },
           {
@@ -159,6 +159,12 @@
   },
   "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "Untitled 7.md",
+    "KB/Programming/Apache Tomcat.md",
+    "KB/Programming/Catalina (servlet container).md",
+    "KB/Programming/Сети в Java.md",
+    "KB/Programming/java/java_Socket.md",
+    "KB/Programming/java/java_ClassLoader.md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
     "KB/Programming/java/Сервлеты в Java.md",
     "Excalidraw/Document generation flow.md",
@@ -182,12 +188,6 @@
     "Excalidraw/Drawing 2023-08-13 15.47.47.excalidraw.md",
     "Excalidraw/Drawing 2023-08-13 15.20.14.excalidraw.md",
     "Excalidraw/Drawing 2023-06-18 08.49.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 15.25.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 09.40.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-06 13.52.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-07 21.01.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-21 19.19.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-05 19.55.24.excalidraw.md",
     "olap.canvas",
     "Untitled 8.canvas",
     "Untitled 7.canvas",
