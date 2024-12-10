@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Session.md",
+                "file": "KB/Programming/Entities lifecycle Hibernate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session"
+              "title": "Entities lifecycle Hibernate"
             }
           },
           {
@@ -175,6 +175,8 @@
   },
   "active": "21215cc0fa57b989",
   "lastOpenFiles": [
+    "KB/Programming/Session class Hibernate.md",
+    "KB/Programming/Session.md",
     "KB/Programming/OSI.md",
     "KB/Programming/Прикладной уровень OSI.md",
     "KB/Programming/java/HTTP.md",
@@ -199,8 +201,6 @@
     "KB/Programming/sql/фантомное чтение.md",
     "KB/Programming/sql/грязное чтение.md",
     "KB/Programming/sql/изолированность_транзакции.md",
-    "KB/Programming/sql/свойства транзакции (ACID).md",
-    "KB/Programming/sql/долговечность_транзакции.md",
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
