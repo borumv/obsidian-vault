@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/LectionMultiThreading.md",
+                "file": "java_TreeMap.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LectionMultiThreading"
+              "title": "java_TreeMap"
+            }
+          },
+          {
+            "id": "31d872b3ace63613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           },
           {
@@ -48,8 +60,19 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-06-14 01.06.02.excalidraw"
             }
+          },
+          {
+            "id": "590fa4185955683f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +130,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,13 +196,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a62193ade60ec634",
+  "active": "258fa46d6656fe5c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-14 01.06.02.excalidraw.md",
+    "KB/Programming/pattern_Chain of responsibility.md",
+    "java_TreeMap.md",
+    "Projects/LectionMultiThreading.md",
     "KB/Programming/spring_IoC-контейнер.md",
     "KB/Programming/spring_Dependency Injection.md",
     "INBOX/Dependency Injection.md",
     "KB/Programming/spring_Context.md",
-    "Projects/LectionMultiThreading.md",
     "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/Session class Hibernate.md",
     "KB/Programming/Session.md",
@@ -197,9 +224,6 @@
     "KB/Programming/java/java_Разница между Java IO и Java NIO.md",
     "KB/Programming/java/java_Stream (IO, NIO).md",
     "KB/Programming/Жизненный цикл сервлета в Apache Tomcat.md",
-    "KB/Programming/java/Сервлеты в Java.md",
-    "KB/Programming/Сети в Java.md",
-    "KB/Programming/java/java_Server Socket.md",
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
