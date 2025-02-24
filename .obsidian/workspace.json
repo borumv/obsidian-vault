@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Programming/Entities lifecycle Hibernate.md",
-                "mode": "source",
+                "file": "KB/Programming/spring_IoC-контейнер.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entities lifecycle Hibernate"
+              "title": "spring_IoC-контейнер"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Drawing 2024-06-14 01.06.02.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21215cc0fa57b989",
+  "active": "a62193ade60ec634",
   "lastOpenFiles": [
+    "KB/Programming/spring_IoC-контейнер.md",
+    "KB/Programming/spring_Dependency Injection.md",
+    "INBOX/Dependency Injection.md",
+    "KB/Programming/spring_Context.md",
+    "Projects/LectionMultiThreading.md",
+    "KB/Programming/Entities lifecycle Hibernate.md",
     "KB/Programming/Session class Hibernate.md",
     "KB/Programming/Session.md",
     "KB/Programming/OSI.md",
@@ -195,12 +200,6 @@
     "KB/Programming/java/Сервлеты в Java.md",
     "KB/Programming/Сети в Java.md",
     "KB/Programming/java/java_Server Socket.md",
-    "KB/Programming/Apache Tomcat.md",
-    "KB/Programming/Функциональные интерфейсы в Java.md",
-    "KB/Programming/sql/неповторяемое чтение.md",
-    "KB/Programming/sql/фантомное чтение.md",
-    "KB/Programming/sql/грязное чтение.md",
-    "KB/Programming/sql/изолированность_транзакции.md",
     "KW/KW/attachments/Pasted image 20240718181820.png",
     "KW/KW/attachments/Pasted image 20240718181315.png",
     "KW/KW/attachments/Pasted image 20240718181248.png",
